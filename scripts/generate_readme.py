@@ -240,9 +240,6 @@ def build_readme(repos):
 
     lines.append("---")
     lines.append("")
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines.append(f"<sub>Auto-updated {now}</sub>")
-    lines.append("")
     return "\n".join(lines)
 
 

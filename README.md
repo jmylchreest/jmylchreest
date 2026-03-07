@@ -32,7 +32,7 @@
 
 ### Recently Active
 
-- **[jmylchreest](https://github.com/jmylchreest/jmylchreest)** 
+- **[jmylchreest](https://github.com/jmylchreest/jmylchreest)** ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white)
   GitHub profile README — auto-generated
   <sub>[issues: 0](https://github.com/jmylchreest/jmylchreest/issues) · [PRs: 0](https://github.com/jmylchreest/jmylchreest/pulls)</sub>
 - **[homebrew-keylightd](https://github.com/jmylchreest/homebrew-keylightd)** ![Ruby](https://img.shields.io/badge/-Ruby-701516?style=flat-square&logoColor=white)
@@ -44,5 +44,3 @@
   <sub>[issues: 0](https://github.com/jmylchreest/refyne-api/issues) · [PRs: 6](https://github.com/jmylchreest/refyne-api/pulls)</sub>
 
 ---
-
-<sub>Auto-updated 2026-03-07 12:44 UTC</sub>
