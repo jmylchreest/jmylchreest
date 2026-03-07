@@ -157,8 +157,8 @@ def render_repo(repo, meta):
     suffix = f" ({', '.join(title_parts)})" if title_parts else ""
 
     lines = []
-    lines.append(f"- **[{name}]({url})**{suffix}")
-    lines.append(f"  {format_meta_line(meta, url)}")
+    lines.append(f"- **[{name}]({url})**{suffix}<br>")
+    lines.append(f"  <sub>{format_meta_line(meta, url)}</sub>")
     if desc:
         lines.append("")
         lines.append(f"  {desc}")
