@@ -83,35 +83,18 @@ def is_notable(repo):
     return False
 
 
-def language_badge(lang):
-    """Return a small coloured dot for the primary language."""
-    colours = {
-        "Python": "3572A5",
-        "Go": "00ADD8",
-        "Rust": "DEA584",
-        "TypeScript": "3178C6",
-        "JavaScript": "F1E05A",
-        "Shell": "89E051",
-        "HCL": "844FBA",
-        "Nix": "7E7EFF",
-        "C": "555555",
-        "C++": "F34B7D",
-        "Java": "B07219",
-        "Ruby": "701516",
-        "Lua": "000080",
-        "Zig": "EC915C",
-    }
+def language_label(lang):
+    """Return the language name as plain text, or empty string."""
     if not lang:
         return ""
-    colour = colours.get(lang, "888888")
-    return f"![{lang}](https://img.shields.io/badge/-{lang}-{colour}?style=flat-square&logoColor=white)"
+    return lang
 
 
 def format_stars(count):
-    """Format star count as a small badge."""
+    """Format star count as unicode star + number."""
     if not count:
         return ""
-    return f"![stars](https://img.shields.io/badge/%E2%AD%90-{count}-yellow?style=flat-square)"
+    return f"\u2605{count}"
 
 
 def fetch_repo_meta(owner, name):
@@ -154,7 +137,7 @@ def format_meta_line(meta, url):
         parts.append(f"[release: `{meta['release']}`]({url}/releases/latest)")
     parts.append(f"[issues: {meta['issues']}]({url}/issues)")
     parts.append(f"[PRs: {meta['prs']}]({url}/pulls)")
-    return " · ".join(parts)
+    return " \u00b7 ".join(parts)
 
 
 def render_repo(repo, meta):
@@ -162,15 +145,24 @@ def render_repo(repo, meta):
     name = repo["name"]
     url = repo["html_url"]
     desc = repo.get("description") or ""
-    lang = language_badge(repo.get("language"))
+    lang = language_label(repo.get("language"))
     stars = format_stars(repo.get("stargazers_count"))
-    badges = " ".join(filter(None, [lang, stars]))
+
+    # Title line: repo name (★X, Language)
+    title_parts = []
+    if stars:
+        title_parts.append(stars)
+    if lang:
+        title_parts.append(lang)
+    suffix = f" ({', '.join(title_parts)})" if title_parts else ""
 
     lines = []
-    lines.append(f"- **[{name}]({url})** {badges}")
+    lines.append(f"- **[{name}]({url})**{suffix}")
+    lines.append(f"  {format_meta_line(meta, url)}")
     if desc:
+        lines.append("")
         lines.append(f"  {desc}")
-    lines.append(f"  <sub>{format_meta_line(meta, url)}</sub>")
+    lines.append("")
     return lines
 
 
