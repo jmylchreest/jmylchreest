@@ -48,6 +48,9 @@
 
 ### Recently Active
 
+- **[refyne-api](https://github.com/jmylchreest/refyne-api)** (Go)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/refyne-api/issues) · [PRs: 6](https://github.com/jmylchreest/refyne-api/pulls)</sub>
+
 - **[jmylchreest](https://github.com/jmylchreest/jmylchreest)** (Python)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/jmylchreest/issues) · [PRs: 0](https://github.com/jmylchreest/jmylchreest/pulls)</sub>
 
@@ -60,9 +63,6 @@
 
 - **[slog-logfilter](https://github.com/jmylchreest/slog-logfilter)** (Go)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/slog-logfilter/issues) · [PRs: 0](https://github.com/jmylchreest/slog-logfilter/pulls)</sub>
-
-- **[refyne-api](https://github.com/jmylchreest/refyne-api)** (Go)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/refyne-api/issues) · [PRs: 6](https://github.com/jmylchreest/refyne-api/pulls)</sub>
 
 
 ---
