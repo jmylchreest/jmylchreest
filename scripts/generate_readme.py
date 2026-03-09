@@ -23,7 +23,7 @@ if token:
 
 
 def fetch_repos():
-    """Fetch all public, non-fork repos for the user (handles pagination)."""
+    """Fetch all public, non-fork, non-profile repos for the user (handles pagination)."""
     repos = []
     page = 1
     while True:
@@ -42,7 +42,10 @@ def fetch_repos():
         batch = resp.json()
         if not batch:
             break
-        repos.extend(batch)
+        repos.extend(
+            r for r in batch
+            if not r.get("private", False) and r["name"] != USERNAME
+        )
         page += 1
     return repos
 
