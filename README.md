@@ -48,11 +48,6 @@
 
 ### Recently Active
 
-- **[jmylchreest](https://github.com/jmylchreest/jmylchreest)** (Python)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/jmylchreest/issues) · [PRs: 0](https://github.com/jmylchreest/jmylchreest/pulls)</sub>
-
-  GitHub profile README — auto-generated
-
 - **[refyne-api](https://github.com/jmylchreest/refyne-api)** (Go)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/refyne-api/issues) · [PRs: 6](https://github.com/jmylchreest/refyne-api/pulls)</sub>
 
