@@ -53,8 +53,5 @@
 
   brew tap for keylightd
 
-- **[slog-logfilter](https://github.com/jmylchreest/slog-logfilter)** (Go)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/slog-logfilter/issues) · [PRs: 0](https://github.com/jmylchreest/slog-logfilter/pulls)</sub>
-
 
 ---
