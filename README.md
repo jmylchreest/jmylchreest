@@ -40,6 +40,11 @@
 
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
+- **[kagimcp-zed](https://github.com/jmylchreest/kagimcp-zed)** (★4, Rust)<br>
+  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
+
+  Kagi Search MCP (and Zed extension)
+
 - **[igmp](https://github.com/jmylchreest/igmp)** (★4, Go)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/igmp/issues) · [PRs: 0](https://github.com/jmylchreest/igmp/pulls)</sub>
 
