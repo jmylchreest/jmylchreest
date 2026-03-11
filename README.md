@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★5, Go)<br>
-  <sub>[release: `v0.0.45`](https://github.com/jmylchreest/aide/releases/latest) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.0.46`](https://github.com/jmylchreest/aide/releases/latest) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
@@ -18,7 +18,7 @@
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★17, Go)<br>
   <sub>[release: `v0.0.9`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
-  Inspired by refind-btrfs, this version is a single static binary that supports (hopefully!) accurate auto-detection of boot options and extends some features that were missing from other similar tools.
+  Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★12, Go)<br>
   <sub>[release: `v0.1.26`](https://github.com/jmylchreest/tinct/releases/latest) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
