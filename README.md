@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★12, Go)<br>
-  <sub>[release: `v0.1.26`](https://github.com/jmylchreest/tinct/releases/latest) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.1.27`](https://github.com/jmylchreest/tinct/releases/latest) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Mutugen, with multiple input mechanisms.
 
@@ -52,6 +52,11 @@
 
 
 ### Recently Active
+
+- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
+
+  Main plugin repository for tinct
 
 - **[go-decluttarr](https://github.com/jmylchreest/go-decluttarr)** (Go)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/go-decluttarr/issues) · [PRs: 0](https://github.com/jmylchreest/go-decluttarr/pulls)</sub>
