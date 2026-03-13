@@ -35,7 +35,7 @@
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
-- **[tvarr](https://github.com/jmylchreest/tvarr)** (★6, Go)<br>
+- **[tvarr](https://github.com/jmylchreest/tvarr)** (★7, Go)<br>
   <sub>[release: `v0.0.25`](https://github.com/jmylchreest/tvarr/releases/latest) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 2](https://github.com/jmylchreest/tvarr/pulls)</sub>
 
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
