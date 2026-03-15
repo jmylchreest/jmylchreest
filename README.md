@@ -66,10 +66,5 @@
 - **[refyne](https://github.com/jmylchreest/refyne)** (Go)<br>
   <sub>[release: `v0.1.15`](https://github.com/jmylchreest/refyne/releases/latest) · [issues: 0](https://github.com/jmylchreest/refyne/issues) · [PRs: 0](https://github.com/jmylchreest/refyne/pulls)</sub>
 
-- **[homebrew-keylightd](https://github.com/jmylchreest/homebrew-keylightd)** (Ruby)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/homebrew-keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/homebrew-keylightd/pulls)</sub>
-
-  brew tap for keylightd
-
 
 ---
