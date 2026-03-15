@@ -53,6 +53,11 @@
 
 ### Recently Active
 
+- **[statsfactory](https://github.com/jmylchreest/statsfactory)** (TypeScript)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/statsfactory/issues) · [PRs: 0](https://github.com/jmylchreest/statsfactory/pulls)</sub>
+
+  Free, privacy-first telemetry for open-source projects. Deploys as a single Cloudflare Worker on the free tier.
+
 - **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
 
