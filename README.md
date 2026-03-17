@@ -63,13 +63,5 @@
 
   Main plugin repository for tinct
 
-- **[go-decluttarr](https://github.com/jmylchreest/go-decluttarr)** (Go)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/go-decluttarr/issues) · [PRs: 0](https://github.com/jmylchreest/go-decluttarr/pulls)</sub>
-
-  Inspired by decluttarr, but designed to support configurable timeouts/graceful failures
-
-- **[refyne](https://github.com/jmylchreest/refyne)** (Go)<br>
-  <sub>[release: `v0.1.15`](https://github.com/jmylchreest/refyne/releases/latest) · [issues: 0](https://github.com/jmylchreest/refyne/issues) · [PRs: 0](https://github.com/jmylchreest/refyne/pulls)</sub>
-
 
 ---
