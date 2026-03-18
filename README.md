@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★12, Go)<br>
-  <sub>[release: `v0.1.28`](https://github.com/jmylchreest/tinct/releases/latest) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/tinct/releases/latest) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Mutugen, with multiple input mechanisms.
 
@@ -53,15 +53,15 @@
 
 ### Recently Active
 
-- **[statsfactory](https://github.com/jmylchreest/statsfactory)** (TypeScript)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/statsfactory/issues) · [PRs: 0](https://github.com/jmylchreest/statsfactory/pulls)</sub>
-
-  Free, privacy-first telemetry for open-source projects. Deploys as a single Cloudflare Worker on the free tier.
-
 - **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
 
   Main plugin repository for tinct
+
+- **[statsfactory](https://github.com/jmylchreest/statsfactory)** (TypeScript)<br>
+  <sub>[release: `v0.0.2`](https://github.com/jmylchreest/statsfactory/releases/latest) · [issues: 0](https://github.com/jmylchreest/statsfactory/issues) · [PRs: 0](https://github.com/jmylchreest/statsfactory/pulls)</sub>
+
+  Free, privacy-first telemetry for open-source projects. Deploys as a single Cloudflare Worker on the free tier.
 
 
 ---
