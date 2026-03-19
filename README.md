@@ -31,7 +31,7 @@
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★10, Go)<br>
-  <sub>[release: `v0.0.9`](https://github.com/jmylchreest/histui/releases/latest) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 5](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.10`](https://github.com/jmylchreest/histui/releases/latest) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 5](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
