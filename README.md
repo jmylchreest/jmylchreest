@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★5, Go)<br>
-  <sub>[release: `v0.0.50`](https://github.com/jmylchreest/aide/releases/latest) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.0.51`](https://github.com/jmylchreest/aide/releases/latest) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
@@ -53,15 +53,15 @@
 
 ### Recently Active
 
-- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
-
-  Main plugin repository for tinct
-
 - **[statsfactory](https://github.com/jmylchreest/statsfactory)** (TypeScript)<br>
   <sub>[release: `v0.0.2`](https://github.com/jmylchreest/statsfactory/releases/latest) · [issues: 0](https://github.com/jmylchreest/statsfactory/issues) · [PRs: 0](https://github.com/jmylchreest/statsfactory/pulls)</sub>
 
   Free, privacy-first telemetry for open-source projects. Deploys as a single Cloudflare Worker on the free tier.
+
+- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
+
+  Main plugin repository for tinct
 
 
 ---
