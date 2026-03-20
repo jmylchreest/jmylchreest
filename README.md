@@ -25,15 +25,15 @@
 
   A plugin based theme/templating tool inspired by PyWal and Mutugen, with multiple input mechanisms.
 
+- **[histui](https://github.com/jmylchreest/histui)** (★11, Go)<br>
+  <sub>[release: `v0.0.10`](https://github.com/jmylchreest/histui/releases/latest) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 5](https://github.com/jmylchreest/histui/pulls)</sub>
+
+  A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
+
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★11, Go)<br>
   <sub>[release: `v0.0.49`](https://github.com/jmylchreest/keylightd/releases/latest) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
-
-- **[histui](https://github.com/jmylchreest/histui)** (★10, Go)<br>
-  <sub>[release: `v0.0.10`](https://github.com/jmylchreest/histui/releases/latest) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 5](https://github.com/jmylchreest/histui/pulls)</sub>
-
-  A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tvarr](https://github.com/jmylchreest/tvarr)** (★8, Go)<br>
   <sub>[release: `v0.0.25`](https://github.com/jmylchreest/tvarr/releases/latest) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 3](https://github.com/jmylchreest/tvarr/pulls)</sub>
