@@ -58,10 +58,5 @@
 
   Free, privacy-first telemetry for open-source projects. Deploys as a single Cloudflare Worker on the free tier.
 
-- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
-
-  Main plugin repository for tinct
-
 
 ---
