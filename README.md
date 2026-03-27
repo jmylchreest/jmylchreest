@@ -2,7 +2,7 @@
 
 ### Featured
 
-- **[aide](https://github.com/jmylchreest/aide)** (★5, Go)<br>
+- **[aide](https://github.com/jmylchreest/aide)** (★6, Go)<br>
   <sub>[release: `v0.0.52`](https://github.com/jmylchreest/aide/releases/latest) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
@@ -36,7 +36,7 @@
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
 - **[tvarr](https://github.com/jmylchreest/tvarr)** (★8, Go)<br>
-  <sub>[release: `v0.0.25`](https://github.com/jmylchreest/tvarr/releases/latest) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 3](https://github.com/jmylchreest/tvarr/pulls)</sub>
+  <sub>[release: `v0.0.25`](https://github.com/jmylchreest/tvarr/releases/latest) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 4](https://github.com/jmylchreest/tvarr/pulls)</sub>
 
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
