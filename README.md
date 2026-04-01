@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★13, Go)<br>
-  <sub>[release: `v0.1.3`](https://github.com/jmylchreest/keylightd/releases/latest) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.1.4`](https://github.com/jmylchreest/keylightd/releases/latest) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
@@ -53,15 +53,15 @@
 
 ### Recently Active
 
-- **[gha-extract-git-version](https://github.com/jmylchreest/gha-extract-git-version)**<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/gha-extract-git-version/issues) · [PRs: 0](https://github.com/jmylchreest/gha-extract-git-version/pulls)</sub>
-
-  GitHub Action for extracting semantic version info from git tags (gitversion style)
-
 - **[homebrew-keylightd](https://github.com/jmylchreest/homebrew-keylightd)** (Ruby)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/homebrew-keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/homebrew-keylightd/pulls)</sub>
 
   brew tap for keylightd
+
+- **[gha-extract-git-version](https://github.com/jmylchreest/gha-extract-git-version)**<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/gha-extract-git-version/issues) · [PRs: 0](https://github.com/jmylchreest/gha-extract-git-version/pulls)</sub>
+
+  GitHub Action for extracting semantic version info from git tags (gitversion style)
 
 
 ---
