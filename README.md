@@ -8,7 +8,7 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★7, Rust)<br>
-  <sub>[release: `v0.0.25`](https://github.com/jmylchreest/rosec/releases/latest) · [issues: 2](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.25`](https://github.com/jmylchreest/rosec/releases/latest) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -49,19 +49,6 @@
   <sub>[issues: 0](https://github.com/jmylchreest/igmp/issues) · [PRs: 0](https://github.com/jmylchreest/igmp/pulls)</sub>
 
   Lightweight/simple IGMPv2 Query daemon written in Golang.
-
-
-### Recently Active
-
-- **[homebrew-keylightd](https://github.com/jmylchreest/homebrew-keylightd)** (Ruby)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/homebrew-keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/homebrew-keylightd/pulls)</sub>
-
-  brew tap for keylightd
-
-- **[gha-extract-git-version](https://github.com/jmylchreest/gha-extract-git-version)**<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/gha-extract-git-version/issues) · [PRs: 0](https://github.com/jmylchreest/gha-extract-git-version/pulls)</sub>
-
-  GitHub Action for extracting semantic version info from git tags (gitversion style)
 
 
 ---
