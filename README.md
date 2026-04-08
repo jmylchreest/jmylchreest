@@ -7,7 +7,7 @@
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
-- **[rosec](https://github.com/jmylchreest/rosec)** (★8, Rust)<br>
+- **[rosec](https://github.com/jmylchreest/rosec)** (★9, Rust)<br>
   <sub>[release: `v0.0.25`](https://github.com/jmylchreest/rosec/releases/latest) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
