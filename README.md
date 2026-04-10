@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★6, Go)<br>
-  <sub>[release: `v0.0.57`](https://github.com/jmylchreest/aide/releases/latest) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.0.58`](https://github.com/jmylchreest/aide/releases/latest) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
@@ -49,6 +49,14 @@
   <sub>[issues: 0](https://github.com/jmylchreest/igmp/issues) · [PRs: 0](https://github.com/jmylchreest/igmp/pulls)</sub>
 
   Lightweight/simple IGMPv2 Query daemon written in Golang.
+
+
+### Recently Active
+
+- **[statsfactory](https://github.com/jmylchreest/statsfactory)** (TypeScript)<br>
+  <sub>[release: `v0.0.2`](https://github.com/jmylchreest/statsfactory/releases/latest) · [issues: 0](https://github.com/jmylchreest/statsfactory/issues) · [PRs: 0](https://github.com/jmylchreest/statsfactory/pulls)</sub>
+
+  Free, privacy-first telemetry for open-source projects. Deploys as a single Cloudflare Worker on the free tier.
 
 
 ---
