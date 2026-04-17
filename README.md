@@ -51,12 +51,4 @@
   Lightweight/simple IGMPv2 Query daemon written in Golang.
 
 
-### Recently Active
-
-- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
-
-  Main plugin repository for tinct
-
-
 ---
