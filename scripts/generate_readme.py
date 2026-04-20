@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate a GitHub profile README from live repo data."""
 
+import fnmatch
 import os
 import requests
 from datetime import datetime, timedelta, timezone
@@ -100,17 +101,108 @@ def format_stars(count):
     return f"\u2605{count}"
 
 
-def fetch_repo_meta(owner, name):
-    """Fetch latest release tag, open issue count, and open PR count for a repo."""
-    meta = {"release": None, "issues": 0, "prs": 0}
+SKIP_ASSET_EXTS = (
+    ".sig",
+    ".asc",
+    ".pem",
+    ".sha256",
+    ".sha512",
+    ".md5",
+    ".pub",
+    ".crt",
+    ".cert",
+    ".minisig",
+)
+SKIP_ASSET_KEYWORDS = (
+    "checksum",
+    "sbom",
+    ".spdx",
+    ".cdx",
+    "provenance",
+    ".intoto",
+    "-metadata",
+)
 
-    # Latest release
+# Per-repo asset-name globs to exclude from download counts (non-primary artifacts).
+REPO_SKIP_PATTERNS = {
+    "aide": ("aide-grammar-*",),
+}
+
+
+def is_countable_asset(name, repo_name=None):
+    """Exclude signatures, checksums, SBOMs — count only real user downloads."""
+    if not name:
+        return False
+    lower = name.lower()
+    if lower.endswith(SKIP_ASSET_EXTS):
+        return False
+    if any(k in lower for k in SKIP_ASSET_KEYWORDS):
+        return False
+    for pat in REPO_SKIP_PATTERNS.get(repo_name or "", ()):
+        if fnmatch.fnmatch(lower, pat.lower()):
+            return False
+    return True
+
+
+def sum_asset_downloads(assets, repo_name=None):
+    return sum(
+        a.get("download_count", 0)
+        for a in (assets or [])
+        if is_countable_asset(a.get("name", ""), repo_name)
+    )
+
+
+def format_count(n):
+    """Compact human count: 1234 -> 1.2k, 1234567 -> 1.2M."""
+    if n is None:
+        return "0"
+    if n >= 1_000_000:
+        return f"{n / 1_000_000:.1f}M".replace(".0M", "M")
+    if n >= 1_000:
+        return f"{n / 1_000:.1f}k".replace(".0k", "k")
+    return str(n)
+
+
+def fetch_repo_meta(owner, name):
+    """Fetch latest release tag, download counts, open issues and PRs."""
+    meta = {
+        "release": None,
+        "issues": 0,
+        "prs": 0,
+        "downloads_latest": 0,
+        "downloads_total": 0,
+        "has_releases": False,
+    }
+
+    # Latest release (tag + per-version downloads)
     resp = requests.get(
         f"{API}/repos/{owner}/{name}/releases/latest",
         headers=HEADERS,
     )
     if resp.status_code == 200:
-        meta["release"] = resp.json().get("tag_name")
+        data = resp.json()
+        meta["release"] = data.get("tag_name")
+        meta["downloads_latest"] = sum_asset_downloads(data.get("assets"), name)
+
+    # All releases (for lifetime download total). Paginated.
+    page = 1
+    while True:
+        resp = requests.get(
+            f"{API}/repos/{owner}/{name}/releases",
+            headers=HEADERS,
+            params={"per_page": 100, "page": page},
+        )
+        if resp.status_code != 200:
+            break
+        batch = resp.json()
+        if not batch:
+            break
+        meta["has_releases"] = True
+        for rel in batch:
+            meta["downloads_total"] += sum_asset_downloads(rel.get("assets"), name)
+        if len(batch) < 100:
+            break
+        page += 1
 
     # Open issues (GitHub counts PRs as issues, so we need to subtract PRs)
     resp = requests.get(
@@ -138,6 +230,10 @@ def format_meta_line(meta, url):
     parts = []
     if meta["release"]:
         parts.append(f"[release: `{meta['release']}`]({url}/releases/latest)")
+    if meta.get("has_releases") and meta.get("downloads_total"):
+        latest = format_count(meta.get("downloads_latest", 0))
+        total = format_count(meta.get("downloads_total", 0))
+        parts.append(f"[downloads: {latest} / {total}]({url}/releases)")
     parts.append(f"[issues: {meta['issues']}]({url}/issues)")
     parts.append(f"[PRs: {meta['prs']}]({url}/pulls)")
     return " \u00b7 ".join(parts)
