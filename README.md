@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★6, Go)<br>
-  <sub>[release: `v0.0.61`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 0 / 630](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.0.61`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 1 / 631](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
@@ -41,7 +41,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[kagimcp-zed](https://github.com/jmylchreest/kagimcp-zed)** (★6, Rust)<br>
-  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 853 / 2.3k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
+  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 854 / 2.3k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
 
   Kagi Search MCP (and Zed extension)
 
