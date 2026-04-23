@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★15, Go)<br>
-  <sub>[release: `v0.2.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 7.8k / 267k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.2.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 7.8k / 267.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Mutugen, with multiple input mechanisms.
 
@@ -41,7 +41,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[kagimcp-zed](https://github.com/jmylchreest/kagimcp-zed)** (★6, Rust)<br>
-  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 864 / 2.3k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
+  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 866 / 2.3k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
 
   Kagi Search MCP (and Zed extension)
 
@@ -53,7 +53,7 @@
 
 ### Recently Active
 
-- **[openluminance](https://github.com/jmylchreest/openluminance)**<br>
+- **[openluminance](https://github.com/jmylchreest/openluminance)** (OpenSCAD)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/openluminance/issues) · [PRs: 0](https://github.com/jmylchreest/openluminance/pulls)</sub>
 
   Modular magnetically-attached LED tiles with per-tile RISC-V MCUs on a shared bus. Firmware, hardware, and mechanical models.
