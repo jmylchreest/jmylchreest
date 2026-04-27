@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★6, Go)<br>
-  <sub>[release: `v0.0.63`](https://github.com/jmylchreest/aide/releases/latest) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.0.63`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 3 / 665](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★12, Rust)<br>
-  <sub>[release: `v0.0.25`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 12 / 134](https://github.com/jmylchreest/rosec/releases) · [issues: 0](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.25`](https://github.com/jmylchreest/rosec/releases/latest) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -16,7 +16,7 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★21, Go)<br>
-  <sub>[release: `v0.0.9`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.0.9`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 438 / 838](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
@@ -31,12 +31,12 @@
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★12, Go)<br>
-  <sub>[release: `v0.0.10`](https://github.com/jmylchreest/histui/releases/latest) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 2](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.10`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 44 / 301](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 2](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tvarr](https://github.com/jmylchreest/tvarr)** (★8, Go)<br>
-  <sub>[release: `v0.0.26`](https://github.com/jmylchreest/tvarr/releases/latest) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 4](https://github.com/jmylchreest/tvarr/pulls)</sub>
+  <sub>[release: `v0.0.26`](https://github.com/jmylchreest/tvarr/releases/latest) · [downloads: 0 / 27](https://github.com/jmylchreest/tvarr/releases) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 4](https://github.com/jmylchreest/tvarr/pulls)</sub>
 
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
@@ -46,7 +46,7 @@
   Kagi Search MCP (and Zed extension)
 
 - **[igmp](https://github.com/jmylchreest/igmp)** (★4, Go)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/igmp/issues) · [PRs: 0](https://github.com/jmylchreest/igmp/pulls)</sub>
+  <sub>[downloads: 0 / 88](https://github.com/jmylchreest/igmp/releases) · [issues: 0](https://github.com/jmylchreest/igmp/issues) · [PRs: 0](https://github.com/jmylchreest/igmp/pulls)</sub>
 
   Lightweight/simple IGMPv2 Query daemon written in Golang.
 
