@@ -7,7 +7,7 @@
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
-- **[rosec](https://github.com/jmylchreest/rosec)** (★12, Rust)<br>
+- **[rosec](https://github.com/jmylchreest/rosec)** (★13, Rust)<br>
   <sub>[release: `v0.0.25`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 12 / 134](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 2](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★15, Go)<br>
-  <sub>[release: `v0.2.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 10.3k / 286.6k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.2.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 10.4k / 287k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Mutugen, with multiple input mechanisms.
 
@@ -53,15 +53,15 @@
 
 ### Recently Active
 
-- **[openluminance](https://github.com/jmylchreest/openluminance)** (OpenSCAD)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/openluminance/issues) · [PRs: 0](https://github.com/jmylchreest/openluminance/pulls)</sub>
-
-  Modular magnetically-attached LED tiles with per-tile RISC-V MCUs on a shared bus. Firmware, hardware, and mechanical models.
-
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (Go)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 0](https://github.com/jmylchreest/lobslaw/pulls)</sub>
 
   an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
+
+- **[openluminance](https://github.com/jmylchreest/openluminance)** (OpenSCAD)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/openluminance/issues) · [PRs: 0](https://github.com/jmylchreest/openluminance/pulls)</sub>
+
+  Modular magnetically-attached LED tiles with per-tile RISC-V MCUs on a shared bus. Firmware, hardware, and mechanical models.
 
 
 ---
