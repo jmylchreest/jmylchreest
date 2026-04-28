@@ -26,7 +26,7 @@
   A plugin based theme/templating tool inspired by PyWal and Mutugen, with multiple input mechanisms.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★13, Go)<br>
-  <sub>[release: `v0.1.4`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 29 / 540](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.1.4`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 29 / 541](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
