@@ -27,6 +27,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Collect release download stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/collect_download_stats.py
+
       - name: Generate README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -36,4 +41,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "docs: update README with latest repo data" && git push)
+          mkdir -p data
+          git add README.md data/release_downloads.json
+          git diff --staged --quiet || (git commit -m "docs: update README with latest repo data" && git push)
