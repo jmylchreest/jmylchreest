@@ -16,12 +16,12 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★22, Go)<br>
-  <sub>[release: `v0.0.9`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 477 / 877](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.0.9`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 480 / 880](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.2.4`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 272 / 219.5k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 42 / 179.7k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -53,15 +53,15 @@
 
 ### Recently Active
 
-- **[awob](https://github.com/jmylchreest/awob)** (★1, Rust)<br>
-  <sub>[release: `v0.1.4`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 0 / 8](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 0](https://github.com/jmylchreest/awob/pulls)</sub>
-
-  Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
-
 - **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
 
   Main plugin repository for tinct
+
+- **[awob](https://github.com/jmylchreest/awob)** (★1, Rust)<br>
+  <sub>[release: `v0.1.4`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 5 / 13](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 0](https://github.com/jmylchreest/awob/pulls)</sub>
+
+  Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
 - **[refyne-sdk-go](https://github.com/jmylchreest/refyne-sdk-go)** (Go)<br>
   <sub>[release: `v0.1.12`](https://github.com/jmylchreest/refyne-sdk-go/releases/latest) · [issues: 0](https://github.com/jmylchreest/refyne-sdk-go/issues) · [PRs: 0](https://github.com/jmylchreest/refyne-sdk-go/pulls)</sub>
