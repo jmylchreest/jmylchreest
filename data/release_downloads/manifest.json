@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-05-06T18:14:18Z",
+    "last_updated": "2026-05-06T20:20:12Z",
     "total_repos": 18,
-    "total_releases": 230,
-    "total_assets": 5758,
-    "active_assets": 5638,
+    "total_releases": 231,
+    "total_assets": 5769,
+    "active_assets": 5649,
     "removed_assets": 120,
-    "total_downloads": 196501
+    "total_downloads": 196837
   },
   "repos": [
     {
@@ -16,18 +16,18 @@
       "releases": 61,
       "active_assets": 3327,
       "removed_assets": 0,
-      "total_downloads": 2977,
+      "total_downloads": 2987,
       "latest_release_tag": "v0.0.64",
       "latest_release_published_at": "2026-05-02T12:54:34Z"
     },
     {
       "name": "awob",
-      "releases": 6,
-      "active_assets": 55,
+      "releases": 7,
+      "active_assets": 66,
       "removed_assets": 0,
-      "total_downloads": 18,
-      "latest_release_tag": "v0.1.4",
-      "latest_release_published_at": "2026-05-04T11:42:44Z"
+      "total_downloads": 19,
+      "latest_release_tag": "v0.1.5",
+      "latest_release_published_at": "2026-05-06T19:37:21Z"
     },
     {
       "name": "histui",
@@ -79,7 +79,7 @@
       "releases": 10,
       "active_assets": 38,
       "removed_assets": 0,
-      "total_downloads": 900,
+      "total_downloads": 903,
       "latest_release_tag": "v0.0.10-dev.2",
       "latest_release_published_at": "2026-03-10T19:38:55Z"
     },
@@ -151,7 +151,7 @@
       "releases": 14,
       "active_assets": 1179,
       "removed_assets": 97,
-      "total_downloads": 188513,
+      "total_downloads": 188835,
       "latest_release_tag": "0.3.1-preview.1777914736+0ad8491",
       "latest_release_published_at": "2026-05-04T17:19:21Z"
     },

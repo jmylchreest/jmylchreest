@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★8, Go)<br>
-  <sub>[release: `v0.0.64`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 12 / 707](https://github.com/jmylchreest/aide/releases) · [issues: 2](https://github.com/jmylchreest/aide/issues) · [PRs: 1](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.0.64`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 14 / 709](https://github.com/jmylchreest/aide/releases) · [issues: 2](https://github.com/jmylchreest/aide/issues) · [PRs: 1](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
@@ -16,12 +16,12 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★22, Go)<br>
-  <sub>[release: `v0.0.9`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 486 / 886](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.0.9`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 489 / 889](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 1.3k / 188.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 1.4k / 188.6k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -54,7 +54,7 @@
 ### Recently Active
 
 - **[awob](https://github.com/jmylchreest/awob)** (★2, Rust)<br>
-  <sub>[release: `v0.1.4`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 10 / 18](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 0](https://github.com/jmylchreest/awob/pulls)</sub>
+  <sub>[release: `v0.1.5`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 1 / 19](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 0](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
