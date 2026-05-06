@@ -6,6 +6,8 @@ import os
 import requests
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 USERNAME = "jmylchreest"
 STARS_THRESHOLD = 4
@@ -17,10 +19,29 @@ HEADERS = {
     "Accept": "application/vnd.github+json",
     "X-GitHub-Api-Version": "2022-11-28",
 }
+REQUEST_TIMEOUT = (10, 30)  # (connect, read) seconds
 
 token = os.environ.get("GH_TOKEN")
 if token:
     HEADERS["Authorization"] = f"Bearer {token}"
+
+
+def _build_session():
+    s = requests.Session()
+    retry = Retry(
+        total=6,
+        backoff_factor=2,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=("GET",),
+        respect_retry_after_header=True,
+        raise_on_status=False,
+    )
+    s.mount("https://", HTTPAdapter(max_retries=retry))
+    s.headers.update(HEADERS)
+    return s
+
+
+SESSION = _build_session()
 
 
 def fetch_repos():
@@ -28,9 +49,8 @@ def fetch_repos():
     repos = []
     page = 1
     while True:
-        resp = requests.get(
+        resp = SESSION.get(
             f"{API}/users/{USERNAME}/repos",
-            headers=HEADERS,
             params={
                 "type": "owner",
                 "sort": "updated",
@@ -38,6 +58,7 @@ def fetch_repos():
                 "per_page": 100,
                 "page": page,
             },
+            timeout=REQUEST_TIMEOUT,
         )
         resp.raise_for_status()
         batch = resp.json()
@@ -175,9 +196,9 @@ def fetch_repo_meta(owner, name):
     }
 
     # Latest release (tag + per-version downloads)
-    resp = requests.get(
+    resp = SESSION.get(
         f"{API}/repos/{owner}/{name}/releases/latest",
-        headers=HEADERS,
+        timeout=REQUEST_TIMEOUT,
     )
     if resp.status_code == 200:
         data = resp.json()
@@ -187,10 +208,10 @@ def fetch_repo_meta(owner, name):
     # All releases (for lifetime download total). Paginated.
     page = 1
     while True:
-        resp = requests.get(
+        resp = SESSION.get(
             f"{API}/repos/{owner}/{name}/releases",
-            headers=HEADERS,
             params={"per_page": 100, "page": page},
+            timeout=REQUEST_TIMEOUT,
         )
         if resp.status_code != 200:
             break
@@ -205,19 +226,19 @@ def fetch_repo_meta(owner, name):
         page += 1
 
     # Open issues (GitHub counts PRs as issues, so we need to subtract PRs)
-    resp = requests.get(
+    resp = SESSION.get(
         f"{API}/search/issues",
-        headers=HEADERS,
         params={"q": f"repo:{owner}/{name} is:issue is:open", "per_page": 1},
+        timeout=REQUEST_TIMEOUT,
     )
     if resp.status_code == 200:
         meta["issues"] = resp.json().get("total_count", 0)
 
     # Open PRs
-    resp = requests.get(
+    resp = SESSION.get(
         f"{API}/search/issues",
-        headers=HEADERS,
         params={"q": f"repo:{owner}/{name} is:pr is:open", "per_page": 1},
+        timeout=REQUEST_TIMEOUT,
     )
     if resp.status_code == 200:
         meta["prs"] = resp.json().get("total_count", 0)

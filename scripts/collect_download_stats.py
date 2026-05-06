@@ -13,6 +13,8 @@ import sys
 import requests
 from datetime import datetime, timezone
 from pathlib import Path
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 USERNAME = "jmylchreest"
 DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "release_downloads.json"
@@ -23,20 +25,39 @@ HEADERS = {
     "Accept": "application/vnd.github+json",
     "X-GitHub-Api-Version": "2022-11-28",
 }
+REQUEST_TIMEOUT = (10, 30)  # (connect, read) seconds
 
 token = os.environ.get("GH_TOKEN")
 if token:
     HEADERS["Authorization"] = f"Bearer {token}"
 
 
+def _build_session():
+    s = requests.Session()
+    retry = Retry(
+        total=6,
+        backoff_factor=2,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=("GET",),
+        respect_retry_after_header=True,
+        raise_on_status=False,
+    )
+    s.mount("https://", HTTPAdapter(max_retries=retry))
+    s.headers.update(HEADERS)
+    return s
+
+
+SESSION = _build_session()
+
+
 def fetch_repos():
     repos = []
     page = 1
     while True:
-        resp = requests.get(
+        resp = SESSION.get(
             f"{API}/users/{USERNAME}/repos",
-            headers=HEADERS,
             params={"type": "owner", "per_page": 100, "page": page},
+            timeout=REQUEST_TIMEOUT,
         )
         resp.raise_for_status()
         batch = resp.json()
@@ -58,10 +79,10 @@ def fetch_releases(owner, name):
     releases = []
     page = 1
     while True:
-        resp = requests.get(
+        resp = SESSION.get(
             f"{API}/repos/{owner}/{name}/releases",
-            headers=HEADERS,
             params={"per_page": 100, "page": page},
+            timeout=REQUEST_TIMEOUT,
         )
         if resp.status_code == 404:
             return []
