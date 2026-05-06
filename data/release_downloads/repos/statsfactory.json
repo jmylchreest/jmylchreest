@@ -3,21 +3,21 @@
     "owner": "jmylchreest",
     "repo": "statsfactory",
     "schema_version": 2,
-    "last_updated": "2026-05-06T17:59:48Z",
+    "last_updated": "2026-05-06T18:02:17Z",
     "releases": 3,
-    "active_assets": 8,
-    "removed_assets": 0,
+    "active_assets": 6,
+    "removed_assets": 2,
     "total_downloads": 0
   },
   "releases": [
     {
       "id": 298636443,
-      "tag_name": "snapshot",
-      "name": "Snapshot (0.0.3-dev.1+18c3d22)",
-      "published_at": "2026-03-18T19:03:41Z",
-      "created_at": "2026-03-18T19:02:26Z",
-      "prerelease": true,
-      "draft": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
+      "draft": false,
       "assets": [
         {
           "id": 376635494,
@@ -28,7 +28,8 @@
           "updated_at": "2026-03-18T19:03:42Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-06T18:02:17Z"
         },
         {
           "id": 376635495,
@@ -39,7 +40,8 @@
           "updated_at": "2026-03-18T19:03:42Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-06T18:02:17Z"
         }
       ]
     },

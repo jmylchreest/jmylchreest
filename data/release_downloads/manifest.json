@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-05-06T17:59:48Z",
+    "last_updated": "2026-05-06T18:02:17Z",
     "total_repos": 18,
     "total_releases": 230,
     "total_assets": 5758,
-    "active_assets": 5652,
-    "removed_assets": 106,
-    "total_downloads": 196495
+    "active_assets": 5638,
+    "removed_assets": 120,
+    "total_downloads": 196496
   },
   "repos": [
     {
@@ -34,7 +34,7 @@
       "releases": 17,
       "active_assets": 147,
       "removed_assets": 0,
-      "total_downloads": 364,
+      "total_downloads": 365,
       "latest_release_tag": "v0.0.11",
       "latest_release_published_at": "2026-05-02T10:09:29Z"
     },
@@ -86,8 +86,8 @@
     {
       "name": "refyne",
       "releases": 14,
-      "active_assets": 84,
-      "removed_assets": 0,
+      "active_assets": 78,
+      "removed_assets": 6,
       "total_downloads": 125,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-03-10T19:28:40Z"
@@ -113,8 +113,8 @@
     {
       "name": "refyne-sdk-ts",
       "releases": 3,
-      "active_assets": 18,
-      "removed_assets": 0,
+      "active_assets": 12,
+      "removed_assets": 6,
       "total_downloads": 16,
       "latest_release_tag": "v0.1.13",
       "latest_release_published_at": "2026-01-31T20:10:42Z"
@@ -140,8 +140,8 @@
     {
       "name": "statsfactory",
       "releases": 3,
-      "active_assets": 8,
-      "removed_assets": 0,
+      "active_assets": 6,
+      "removed_assets": 2,
       "total_downloads": 0,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-03-18T20:01:23Z"
