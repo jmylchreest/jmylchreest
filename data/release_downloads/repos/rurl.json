@@ -1,0 +1,91 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "rurl",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T14:04:22Z",
+    "releases": 1,
+    "active_assets": 6,
+    "removed_assets": 0,
+    "total_downloads": 0
+  },
+  "releases": [
+    {
+      "id": 216567578,
+      "tag_name": "v0.0.1",
+      "name": "v0.0.1",
+      "published_at": "2025-05-05T18:06:47Z",
+      "created_at": "2025-05-05T17:43:17Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 252068281,
+          "name": "rurl_Linux_arm64.tar.gz",
+          "size": 3236041,
+          "content_type": "application/gzip",
+          "created_at": "2025-05-05T18:08:30Z",
+          "updated_at": "2025-05-05T18:08:30Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 252068282,
+          "name": "rurl_Windows_x86_64.zip",
+          "size": 3622804,
+          "content_type": "application/zip",
+          "created_at": "2025-05-05T18:08:30Z",
+          "updated_at": "2025-05-05T18:08:30Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 252068283,
+          "name": "rurl_Darwin_arm64.tar.gz",
+          "size": 3355538,
+          "content_type": "application/gzip",
+          "created_at": "2025-05-05T18:08:30Z",
+          "updated_at": "2025-05-05T18:08:30Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 252068284,
+          "name": "rurl_Linux_x86_64.tar.gz",
+          "size": 3510119,
+          "content_type": "application/gzip",
+          "created_at": "2025-05-05T18:08:30Z",
+          "updated_at": "2025-05-05T18:08:30Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 252068285,
+          "name": "checksums.txt",
+          "size": 454,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-05-05T18:08:30Z",
+          "updated_at": "2025-05-05T18:08:30Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 252068286,
+          "name": "rurl_Darwin_x86_64.tar.gz",
+          "size": 3567891,
+          "content_type": "application/gzip",
+          "created_at": "2025-05-05T18:08:30Z",
+          "updated_at": "2025-05-05T18:08:31Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

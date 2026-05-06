@@ -1,0 +1,806 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "kagimcp-zed",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T17:59:48Z",
+    "releases": 10,
+    "active_assets": 62,
+    "removed_assets": 0,
+    "total_downloads": 2341
+  },
+  "releases": [
+    {
+      "id": 222289460,
+      "tag_name": "v0.0.19",
+      "name": "v0.0.19",
+      "published_at": "2025-06-01T17:21:43Z",
+      "created_at": "2025-06-01T16:59:20Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 259965754,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-01T17:21:43Z",
+          "updated_at": "2025-06-01T17:21:43Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 259965755,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 2583764,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-01T17:21:43Z",
+          "updated_at": "2025-06-01T18:42:57Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 259965756,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 3686875,
+          "content_type": "application/zip",
+          "created_at": "2025-06-01T17:21:43Z",
+          "updated_at": "2025-06-01T18:42:57Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 259965757,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 2133126,
+          "content_type": "application/zip",
+          "created_at": "2025-06-01T17:21:43Z",
+          "updated_at": "2025-06-01T17:21:43Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 222355673,
+      "tag_name": "v0.0.21",
+      "name": "v0.0.21",
+      "published_at": "2025-06-02T08:06:48Z",
+      "created_at": "2025-06-02T07:57:37Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 260155600,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T08:06:48Z",
+          "updated_at": "2025-06-02T08:06:48Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260155601,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 2190787,
+          "content_type": "application/zip",
+          "created_at": "2025-06-02T08:06:48Z",
+          "updated_at": "2025-06-02T08:06:48Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 222369112,
+      "tag_name": "v0.0.23",
+      "name": "v0.0.23",
+      "published_at": "2025-06-02T09:10:55Z",
+      "created_at": "2025-06-02T09:00:54Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 260168054,
+          "name": "kagi-mcp-server_linux_arm64.tgz",
+          "size": 2606008,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T09:10:56Z",
+          "updated_at": "2025-06-02T09:10:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260168055,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 2189802,
+          "content_type": "application/zip",
+          "created_at": "2025-06-02T09:10:56Z",
+          "updated_at": "2025-06-02T09:10:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260168056,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 2648658,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T09:10:56Z",
+          "updated_at": "2025-06-02T09:10:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260168057,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T09:10:56Z",
+          "updated_at": "2025-06-02T09:10:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260168058,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 9799680,
+          "content_type": "application/zip",
+          "created_at": "2025-06-02T09:10:56Z",
+          "updated_at": "2025-06-02T09:10:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260168059,
+          "name": "kagi-mcp-server_darwin_arm64.tgz",
+          "size": 2461818,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T09:10:56Z",
+          "updated_at": "2025-06-02T09:10:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260168060,
+          "name": "kagi-mcp-server_darwin_x86_64.tgz",
+          "size": 2540253,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T09:10:56Z",
+          "updated_at": "2025-06-02T09:10:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 222487691,
+      "tag_name": "v0.0.25",
+      "name": "v0.0.25",
+      "published_at": "2025-06-02T16:22:56Z",
+      "created_at": "2025-06-02T16:14:11Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 260274316,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 2648937,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T16:22:56Z",
+          "updated_at": "2025-06-02T16:22:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260274317,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 2189621,
+          "content_type": "application/zip",
+          "created_at": "2025-06-02T16:22:56Z",
+          "updated_at": "2025-06-02T16:22:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260274318,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T16:22:56Z",
+          "updated_at": "2025-06-02T16:22:56Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260274319,
+          "name": "kagi-mcp-server_darwin_x86_64.tgz",
+          "size": 2541225,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T16:22:56Z",
+          "updated_at": "2025-06-02T16:22:57Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260274320,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 9799680,
+          "content_type": "application/zip",
+          "created_at": "2025-06-02T16:22:56Z",
+          "updated_at": "2025-06-02T16:22:57Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260274321,
+          "name": "kagi-mcp-server_darwin_arm64.tgz",
+          "size": 2462962,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T16:22:56Z",
+          "updated_at": "2025-06-02T16:22:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 260274322,
+          "name": "kagi-mcp-server_linux_arm64.tgz",
+          "size": 2605935,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-06-02T16:22:56Z",
+          "updated_at": "2025-06-02T16:22:57Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 230126591,
+      "tag_name": "v0.0.26",
+      "name": "v0.0.26",
+      "published_at": "2025-07-04T22:21:00Z",
+      "created_at": "2025-06-02T16:18:22Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 270056936,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 9891840,
+          "content_type": "application/zip",
+          "created_at": "2025-07-04T22:21:01Z",
+          "updated_at": "2025-07-04T22:21:01Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 270056937,
+          "name": "kagi-mcp-server_linux_arm64.tgz",
+          "size": 2600130,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-07-04T22:21:01Z",
+          "updated_at": "2025-07-04T22:21:01Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 270056938,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 2162682,
+          "content_type": "application/zip",
+          "created_at": "2025-07-04T22:21:01Z",
+          "updated_at": "2025-07-04T22:21:01Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 270056939,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 2646959,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-07-04T22:21:01Z",
+          "updated_at": "2025-07-04T22:21:01Z",
+          "download_count": 464,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 270056940,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-07-04T22:21:01Z",
+          "updated_at": "2025-07-04T22:21:01Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 270056941,
+          "name": "kagi-mcp-server_darwin_arm64.tgz",
+          "size": 2432443,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-07-04T22:21:01Z",
+          "updated_at": "2025-07-04T22:21:01Z",
+          "download_count": 703,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 270056942,
+          "name": "kagi-mcp-server_darwin_x86_64.tgz",
+          "size": 2520231,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-07-04T22:21:01Z",
+          "updated_at": "2025-07-04T22:21:01Z",
+          "download_count": 7,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 267251509,
+      "tag_name": "v0.0.27",
+      "name": "v0.0.27",
+      "published_at": "2025-12-03T22:36:21Z",
+      "created_at": "2025-12-03T22:23:13Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 324044317,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 2344624,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:36:20Z",
+          "updated_at": "2025-12-03T22:36:20Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324044318,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 8806400,
+          "content_type": "application/zip",
+          "created_at": "2025-12-03T22:36:20Z",
+          "updated_at": "2025-12-03T22:36:21Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324044319,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 1878144,
+          "content_type": "application/zip",
+          "created_at": "2025-12-03T22:36:20Z",
+          "updated_at": "2025-12-03T22:36:20Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324044320,
+          "name": "kagi-mcp-server_darwin_x86_64.tgz",
+          "size": 2241796,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:36:20Z",
+          "updated_at": "2025-12-03T22:36:21Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324044321,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:36:20Z",
+          "updated_at": "2025-12-03T22:36:20Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324044322,
+          "name": "kagi-mcp-server_darwin_arm64.tgz",
+          "size": 2143268,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:36:20Z",
+          "updated_at": "2025-12-03T22:36:21Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324044323,
+          "name": "kagi-mcp-server_linux_arm64.tgz",
+          "size": 2297336,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:36:20Z",
+          "updated_at": "2025-12-03T22:36:21Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 267255489,
+      "tag_name": "v0.0.28",
+      "name": "v0.0.28",
+      "published_at": "2025-12-03T22:56:35Z",
+      "created_at": "2025-12-03T22:48:01Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 324051469,
+          "name": "kagi-mcp-server_linux_arm64.tgz",
+          "size": 2297405,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:56:34Z",
+          "updated_at": "2025-12-03T22:56:34Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324051470,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 2345907,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:56:34Z",
+          "updated_at": "2025-12-03T22:56:34Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324051471,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 1878016,
+          "content_type": "application/zip",
+          "created_at": "2025-12-03T22:56:34Z",
+          "updated_at": "2025-12-03T22:56:35Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324051472,
+          "name": "kagi-mcp-server_darwin_arm64.tgz",
+          "size": 2143327,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:56:34Z",
+          "updated_at": "2025-12-03T22:56:35Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324051473,
+          "name": "kagi-mcp-server_darwin_x86_64.tgz",
+          "size": 2241664,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:56:34Z",
+          "updated_at": "2025-12-03T22:56:34Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324051474,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T22:56:34Z",
+          "updated_at": "2025-12-03T22:56:34Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324051476,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 8806400,
+          "content_type": "application/zip",
+          "created_at": "2025-12-03T22:56:34Z",
+          "updated_at": "2025-12-03T22:56:35Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 267260833,
+      "tag_name": "v0.0.29",
+      "name": "v0.0.29",
+      "published_at": "2025-12-03T23:29:52Z",
+      "created_at": "2025-12-03T23:10:43Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 324068336,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 1878281,
+          "content_type": "application/zip",
+          "created_at": "2025-12-03T23:29:52Z",
+          "updated_at": "2025-12-03T23:29:52Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324068337,
+          "name": "kagi-mcp-server_darwin_arm64.tgz",
+          "size": 2142481,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T23:29:52Z",
+          "updated_at": "2025-12-03T23:29:52Z",
+          "download_count": 11,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324068338,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 8806400,
+          "content_type": "application/zip",
+          "created_at": "2025-12-03T23:29:52Z",
+          "updated_at": "2025-12-03T23:29:52Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324068339,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 2345155,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T23:29:52Z",
+          "updated_at": "2025-12-03T23:29:52Z",
+          "download_count": 6,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324068340,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T23:29:52Z",
+          "updated_at": "2025-12-03T23:29:52Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324068341,
+          "name": "kagi-mcp-server_linux_arm64.tgz",
+          "size": 2297231,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T23:29:52Z",
+          "updated_at": "2025-12-03T23:29:52Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324068342,
+          "name": "kagi-mcp-server_darwin_x86_64.tgz",
+          "size": 2241691,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-03T23:29:52Z",
+          "updated_at": "2025-12-03T23:29:52Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 267453580,
+      "tag_name": "v0.0.30",
+      "name": "v0.0.30",
+      "published_at": "2025-12-04T14:27:34Z",
+      "created_at": "2025-12-04T14:19:04Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 324339064,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 1878252,
+          "content_type": "application/zip",
+          "created_at": "2025-12-04T14:27:33Z",
+          "updated_at": "2025-12-04T14:27:33Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324339065,
+          "name": "kagi-mcp-server_linux_arm64.tgz",
+          "size": 2297531,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-04T14:27:33Z",
+          "updated_at": "2025-12-04T14:27:33Z",
+          "download_count": 5,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324339066,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 2344907,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-04T14:27:33Z",
+          "updated_at": "2025-12-04T14:27:33Z",
+          "download_count": 80,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324339070,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 8806400,
+          "content_type": "application/zip",
+          "created_at": "2025-12-04T14:27:33Z",
+          "updated_at": "2025-12-04T14:27:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324339075,
+          "name": "kagi-mcp-server_darwin_arm64.tgz",
+          "size": 2142388,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-04T14:27:33Z",
+          "updated_at": "2025-12-04T14:27:33Z",
+          "download_count": 98,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324339076,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-04T14:27:33Z",
+          "updated_at": "2025-12-04T14:27:33Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 324339089,
+          "name": "kagi-mcp-server_darwin_x86_64.tgz",
+          "size": 2241706,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-04T14:27:33Z",
+          "updated_at": "2025-12-04T14:27:33Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 284606606,
+      "tag_name": "v0.0.31",
+      "name": "v0.0.31",
+      "published_at": "2026-02-09T23:08:18Z",
+      "created_at": "2026-02-09T22:59:02Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 353288621,
+          "name": "kagi-mcp-server_linux_x86_64.tgz",
+          "size": 3572247,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-09T23:08:17Z",
+          "updated_at": "2026-02-09T23:08:18Z",
+          "download_count": 720,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 353288622,
+          "name": "kagi-mcp-server_darwin_arm64.tgz",
+          "size": 3306372,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-09T23:08:17Z",
+          "updated_at": "2026-02-09T23:08:18Z",
+          "download_count": 113,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 353288623,
+          "name": "LICENSE",
+          "size": 1067,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-09T23:08:17Z",
+          "updated_at": "2026-02-09T23:08:18Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 353288624,
+          "name": "kagi-mcp-server_windows-gnu_x86_64.zip",
+          "size": 13619200,
+          "content_type": "application/zip",
+          "created_at": "2026-02-09T23:08:17Z",
+          "updated_at": "2026-02-09T23:08:18Z",
+          "download_count": 7,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 353288625,
+          "name": "kagi-mcp-server_linux_arm64.tgz",
+          "size": 3416049,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-09T23:08:17Z",
+          "updated_at": "2026-02-09T23:08:18Z",
+          "download_count": 17,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 353288626,
+          "name": "kagi-mcp-server_windows-msvc_x86_64.zip",
+          "size": 2766386,
+          "content_type": "application/zip",
+          "created_at": "2026-02-09T23:08:17Z",
+          "updated_at": "2026-02-09T23:08:18Z",
+          "download_count": 33,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 353288629,
+          "name": "kagi-mcp-server_darwin_x86_64.tgz",
+          "size": 3476810,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-09T23:08:17Z",
+          "updated_at": "2026-02-09T23:08:18Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "refyne-sdk-python",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T14:04:22Z",
+    "releases": 2,
+    "active_assets": 8,
+    "removed_assets": 0,
+    "total_downloads": 16
+  },
+  "releases": [
+    {
+      "id": 279767346,
+      "tag_name": "v0.1.5",
+      "name": "v0.1.5",
+      "published_at": "2026-01-25T19:47:05Z",
+      "created_at": "2026-01-25T19:44:28Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 345739221,
+          "name": "refyne-0.1.5.tar.gz.publish.attestation",
+          "size": 9406,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-25T19:47:04Z",
+          "updated_at": "2026-01-25T19:47:04Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345739222,
+          "name": "refyne-0.1.5-py3-none-any.whl.publish.attestation",
+          "size": 9512,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-25T19:47:04Z",
+          "updated_at": "2026-01-25T19:47:04Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345739223,
+          "name": "refyne-0.1.5.tar.gz",
+          "size": 102810,
+          "content_type": "application/gzip",
+          "created_at": "2026-01-25T19:47:04Z",
+          "updated_at": "2026-01-25T19:47:05Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345739224,
+          "name": "refyne-0.1.5-py3-none-any.whl",
+          "size": 28642,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-25T19:47:04Z",
+          "updated_at": "2026-01-25T19:47:05Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 281833113,
+      "tag_name": "v0.1.47",
+      "name": "v0.1.47",
+      "published_at": "2026-01-31T20:19:36Z",
+      "created_at": "2026-01-31T20:19:03Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 348773692,
+          "name": "refyne-0.1.46.tar.gz.publish.attestation",
+          "size": 9524,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T20:19:36Z",
+          "updated_at": "2026-01-31T20:19:36Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348773693,
+          "name": "refyne-0.1.46-py3-none-any.whl.publish.attestation",
+          "size": 9493,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T20:19:36Z",
+          "updated_at": "2026-01-31T20:19:36Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348773694,
+          "name": "refyne-0.1.46.tar.gz",
+          "size": 103749,
+          "content_type": "application/gzip",
+          "created_at": "2026-01-31T20:19:36Z",
+          "updated_at": "2026-01-31T20:19:36Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348773695,
+          "name": "refyne-0.1.46-py3-none-any.whl",
+          "size": 29528,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T20:19:36Z",
+          "updated_at": "2026-01-31T20:19:36Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

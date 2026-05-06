@@ -1,0 +1,190 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "wait-for",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T14:04:22Z",
+    "releases": 2,
+    "active_assets": 14,
+    "removed_assets": 0,
+    "total_downloads": 45
+  },
+  "releases": [
+    {
+      "id": 165257440,
+      "tag_name": "v0.0.1",
+      "name": "v0.0.1",
+      "published_at": "2024-07-12T21:29:20Z",
+      "created_at": "2024-07-12T21:27:00Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 179271224,
+          "name": "wait-for_Windows_x86_64.zip",
+          "size": 3179301,
+          "content_type": "application/zip",
+          "created_at": "2024-07-12T21:29:18Z",
+          "updated_at": "2024-07-12T21:29:19Z",
+          "download_count": 5,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179271225,
+          "name": "wait-for_Linux_arm64.tar.gz",
+          "size": 2832044,
+          "content_type": "application/gzip",
+          "created_at": "2024-07-12T21:29:18Z",
+          "updated_at": "2024-07-12T21:29:19Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179271226,
+          "name": "wait-for_Windows_arm64.zip",
+          "size": 2880509,
+          "content_type": "application/zip",
+          "created_at": "2024-07-12T21:29:18Z",
+          "updated_at": "2024-07-12T21:29:19Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179271227,
+          "name": "wait-for_Linux_x86_64.tar.gz",
+          "size": 3081309,
+          "content_type": "application/gzip",
+          "created_at": "2024-07-12T21:29:18Z",
+          "updated_at": "2024-07-12T21:29:19Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179271228,
+          "name": "wait-for_Darwin_x86_64.tar.gz",
+          "size": 3139934,
+          "content_type": "application/gzip",
+          "created_at": "2024-07-12T21:29:19Z",
+          "updated_at": "2024-07-12T21:29:19Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179271229,
+          "name": "wait-for_Darwin_arm64.tar.gz",
+          "size": 2950682,
+          "content_type": "application/gzip",
+          "created_at": "2024-07-12T21:29:19Z",
+          "updated_at": "2024-07-12T21:29:19Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179271230,
+          "name": "wait-for_0.0.1_checksums.txt",
+          "size": 567,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2024-07-12T21:29:19Z",
+          "updated_at": "2024-07-12T21:29:19Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 165261153,
+      "tag_name": "v0.0.2",
+      "name": "v0.0.2",
+      "published_at": "2024-07-12T22:08:57Z",
+      "created_at": "2024-07-12T21:56:56Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 179276673,
+          "name": "wait-for_Darwin_arm64.tar.gz",
+          "size": 2952412,
+          "content_type": "application/gzip",
+          "created_at": "2024-07-12T22:08:55Z",
+          "updated_at": "2024-07-12T22:08:56Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179276674,
+          "name": "wait-for_Linux_x86_64.tar.gz",
+          "size": 3081053,
+          "content_type": "application/gzip",
+          "created_at": "2024-07-12T22:08:55Z",
+          "updated_at": "2024-07-12T22:08:56Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179276675,
+          "name": "wait-for_Darwin_x86_64.tar.gz",
+          "size": 3140271,
+          "content_type": "application/gzip",
+          "created_at": "2024-07-12T22:08:55Z",
+          "updated_at": "2024-07-12T22:08:56Z",
+          "download_count": 6,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179276676,
+          "name": "wait-for_Linux_arm64.tar.gz",
+          "size": 2834384,
+          "content_type": "application/gzip",
+          "created_at": "2024-07-12T22:08:55Z",
+          "updated_at": "2024-07-12T22:08:56Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179276679,
+          "name": "wait-for_Windows_arm64.zip",
+          "size": 2881374,
+          "content_type": "application/zip",
+          "created_at": "2024-07-12T22:08:56Z",
+          "updated_at": "2024-07-12T22:08:56Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179276680,
+          "name": "wait-for_Windows_x86_64.zip",
+          "size": 3179286,
+          "content_type": "application/zip",
+          "created_at": "2024-07-12T22:08:56Z",
+          "updated_at": "2024-07-12T22:08:56Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 179276681,
+          "name": "wait-for_0.0.2_checksums.txt",
+          "size": 567,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2024-07-12T22:08:56Z",
+          "updated_at": "2024-07-12T22:08:56Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T17:59:48Z",
+    "total_repos": 18,
+    "total_releases": 230,
+    "total_assets": 5758,
+    "active_assets": 5652,
+    "removed_assets": 106,
+    "total_downloads": 196495
+  },
+  "repos": [
+    {
+      "name": "aide",
+      "releases": 61,
+      "active_assets": 3327,
+      "removed_assets": 0,
+      "total_downloads": 2972,
+      "latest_release_tag": "v0.0.64",
+      "latest_release_published_at": "2026-05-02T12:54:34Z"
+    },
+    {
+      "name": "awob",
+      "releases": 6,
+      "active_assets": 55,
+      "removed_assets": 0,
+      "total_downloads": 18,
+      "latest_release_tag": "v0.1.4",
+      "latest_release_published_at": "2026-05-04T11:42:44Z"
+    },
+    {
+      "name": "histui",
+      "releases": 17,
+      "active_assets": 147,
+      "removed_assets": 0,
+      "total_downloads": 364,
+      "latest_release_tag": "v0.0.11",
+      "latest_release_published_at": "2026-05-02T10:09:29Z"
+    },
+    {
+      "name": "igmp",
+      "releases": 2,
+      "active_assets": 7,
+      "removed_assets": 0,
+      "total_downloads": 88,
+      "latest_release_tag": "0.0.2",
+      "latest_release_published_at": "2017-03-06T16:18:51Z"
+    },
+    {
+      "name": "kagimcp-zed",
+      "releases": 10,
+      "active_assets": 62,
+      "removed_assets": 0,
+      "total_downloads": 2341,
+      "latest_release_tag": "v0.0.31",
+      "latest_release_published_at": "2026-02-09T23:08:18Z"
+    },
+    {
+      "name": "keylightd",
+      "releases": 45,
+      "active_assets": 472,
+      "removed_assets": 0,
+      "total_downloads": 893,
+      "latest_release_tag": "v0.1.6",
+      "latest_release_published_at": "2026-05-02T07:21:16Z"
+    },
+    {
+      "name": "n3l",
+      "releases": 2,
+      "active_assets": 0,
+      "removed_assets": 0,
+      "total_downloads": 0,
+      "latest_release_tag": "0.0.2",
+      "latest_release_published_at": "2016-08-18T15:40:34Z"
+    },
+    {
+      "name": "refind-btrfs-snapshots",
+      "releases": 10,
+      "active_assets": 38,
+      "removed_assets": 0,
+      "total_downloads": 900,
+      "latest_release_tag": "v0.0.10-dev.2",
+      "latest_release_published_at": "2026-03-10T19:38:55Z"
+    },
+    {
+      "name": "refyne",
+      "releases": 14,
+      "active_assets": 84,
+      "removed_assets": 0,
+      "total_downloads": 125,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-03-10T19:28:40Z"
+    },
+    {
+      "name": "refyne-sdk-go",
+      "releases": 2,
+      "active_assets": 0,
+      "removed_assets": 0,
+      "total_downloads": 0,
+      "latest_release_tag": "v0.1.12",
+      "latest_release_published_at": "2026-01-31T20:18:16Z"
+    },
+    {
+      "name": "refyne-sdk-python",
+      "releases": 2,
+      "active_assets": 8,
+      "removed_assets": 0,
+      "total_downloads": 16,
+      "latest_release_tag": "v0.1.47",
+      "latest_release_published_at": "2026-01-31T20:19:36Z"
+    },
+    {
+      "name": "refyne-sdk-ts",
+      "releases": 3,
+      "active_assets": 18,
+      "removed_assets": 0,
+      "total_downloads": 16,
+      "latest_release_tag": "v0.1.13",
+      "latest_release_published_at": "2026-01-31T20:10:42Z"
+    },
+    {
+      "name": "rosec",
+      "releases": 23,
+      "active_assets": 175,
+      "removed_assets": 9,
+      "total_downloads": 158,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-05-05T16:21:32Z"
+    },
+    {
+      "name": "rurl",
+      "releases": 1,
+      "active_assets": 6,
+      "removed_assets": 0,
+      "total_downloads": 0,
+      "latest_release_tag": "v0.0.1",
+      "latest_release_published_at": "2025-05-05T18:06:47Z"
+    },
+    {
+      "name": "statsfactory",
+      "releases": 3,
+      "active_assets": 8,
+      "removed_assets": 0,
+      "total_downloads": 0,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-03-18T20:01:23Z"
+    },
+    {
+      "name": "tinct",
+      "releases": 14,
+      "active_assets": 1179,
+      "removed_assets": 97,
+      "total_downloads": 188513,
+      "latest_release_tag": "0.3.1-preview.1777914736+0ad8491",
+      "latest_release_published_at": "2026-05-04T17:19:21Z"
+    },
+    {
+      "name": "tvarr",
+      "releases": 13,
+      "active_assets": 52,
+      "removed_assets": 0,
+      "total_downloads": 46,
+      "latest_release_tag": "v0.0.26",
+      "latest_release_published_at": "2026-03-31T10:01:45Z"
+    },
+    {
+      "name": "wait-for",
+      "releases": 2,
+      "active_assets": 14,
+      "removed_assets": 0,
+      "total_downloads": 45,
+      "latest_release_tag": "v0.0.2",
+      "latest_release_published_at": "2024-07-12T22:08:57Z"
+    }
+  ]
+}

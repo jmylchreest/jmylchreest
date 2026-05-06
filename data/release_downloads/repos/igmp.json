@@ -1,0 +1,112 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "igmp",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T17:59:48Z",
+    "releases": 2,
+    "active_assets": 7,
+    "removed_assets": 0,
+    "total_downloads": 88
+  },
+  "releases": [
+    {
+      "id": 2973300,
+      "tag_name": "0.0.1",
+      "name": "",
+      "published_at": "2016-04-07T15:23:57Z",
+      "created_at": "2016-04-07T14:57:42Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": []
+    },
+    {
+      "id": 5653165,
+      "tag_name": "0.0.2",
+      "name": "0.0.2 - support specified interfaces",
+      "published_at": "2017-03-06T16:18:51Z",
+      "created_at": "2017-03-06T16:13:30Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 3332496,
+          "name": "windows_amd64.zip",
+          "size": 3181908,
+          "content_type": "application/zip",
+          "created_at": "2017-03-06T16:18:26Z",
+          "updated_at": "2017-03-06T16:18:29Z",
+          "download_count": 12,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 3332497,
+          "name": "linux_arm.zip",
+          "size": 2887356,
+          "content_type": "application/zip",
+          "created_at": "2017-03-06T16:18:27Z",
+          "updated_at": "2017-03-06T16:18:32Z",
+          "download_count": 7,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 3332498,
+          "name": "windows_386.zip",
+          "size": 2970013,
+          "content_type": "application/zip",
+          "created_at": "2017-03-06T16:18:27Z",
+          "updated_at": "2017-03-06T16:18:30Z",
+          "download_count": 9,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 3332499,
+          "name": "darwin_amd64.zip",
+          "size": 3252183,
+          "content_type": "application/zip",
+          "created_at": "2017-03-06T16:18:27Z",
+          "updated_at": "2017-03-06T16:18:33Z",
+          "download_count": 6,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 3332500,
+          "name": "linux_386.zip",
+          "size": 3015286,
+          "content_type": "application/zip",
+          "created_at": "2017-03-06T16:18:27Z",
+          "updated_at": "2017-03-06T16:18:34Z",
+          "download_count": 6,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 3332501,
+          "name": "darwin_386.zip",
+          "size": 3044983,
+          "content_type": "application/zip",
+          "created_at": "2017-03-06T16:18:27Z",
+          "updated_at": "2017-03-06T16:18:44Z",
+          "download_count": 7,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 3332502,
+          "name": "linux_amd64.zip",
+          "size": 3224322,
+          "content_type": "application/zip",
+          "created_at": "2017-03-06T16:18:27Z",
+          "updated_at": "2017-03-06T16:18:36Z",
+          "download_count": 41,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

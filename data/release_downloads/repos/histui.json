@@ -1,0 +1,1818 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "histui",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T17:59:48Z",
+    "releases": 17,
+    "active_assets": 147,
+    "removed_assets": 0,
+    "total_downloads": 364
+  },
+  "releases": [
+    {
+      "id": 273107548,
+      "tag_name": "v0.0.1",
+      "name": "v0.0.1",
+      "published_at": "2025-12-29T00:13:36Z",
+      "created_at": "2025-12-28T23:47:07Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 333893415,
+          "name": "histui_0.0.1_linux_arm64.tar.gz",
+          "size": 17444472,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-29T00:13:32Z",
+          "updated_at": "2025-12-29T00:13:34Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 333893416,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-12-29T00:13:32Z",
+          "updated_at": "2025-12-29T00:13:32Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 333893418,
+          "name": "histui_0.0.1_linux_amd64.tar.gz",
+          "size": 18877534,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-29T00:13:32Z",
+          "updated_at": "2025-12-29T00:13:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 333893419,
+          "name": "histui-linux-amd64",
+          "size": 14966968,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-29T00:13:32Z",
+          "updated_at": "2025-12-29T00:13:34Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 333893420,
+          "name": "histui-linux-arm64",
+          "size": 14090424,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-29T00:13:32Z",
+          "updated_at": "2025-12-29T00:13:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 333893422,
+          "name": "histuid-linux-amd64",
+          "size": 50140632,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-29T00:13:32Z",
+          "updated_at": "2025-12-29T00:13:35Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 333893435,
+          "name": "histuid-linux-arm64",
+          "size": 47929792,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-29T00:13:34Z",
+          "updated_at": "2025-12-29T00:13:35Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 333893436,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2025-12-29T00:13:34Z",
+          "updated_at": "2025-12-29T00:13:34Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 333893438,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2025-12-29T00:13:34Z",
+          "updated_at": "2025-12-29T00:13:34Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 273500503,
+      "tag_name": "v0.0.2",
+      "name": "v0.0.2",
+      "published_at": "2025-12-31T00:08:14Z",
+      "created_at": "2025-12-30T23:23:08Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 334652252,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-12-31T00:08:11Z",
+          "updated_at": "2025-12-31T00:08:11Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334652253,
+          "name": "histui-linux-amd64",
+          "size": 19157176,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T00:08:11Z",
+          "updated_at": "2025-12-31T00:08:12Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334652254,
+          "name": "histui-linux-arm64",
+          "size": 18350264,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T00:08:11Z",
+          "updated_at": "2025-12-31T00:08:12Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334652255,
+          "name": "histui_0.0.2_linux_amd64.tar.gz",
+          "size": 20839982,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-31T00:08:11Z",
+          "updated_at": "2025-12-31T00:08:12Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334652257,
+          "name": "histui_0.0.2_linux_arm64.tar.gz",
+          "size": 19412969,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-31T00:08:11Z",
+          "updated_at": "2025-12-31T00:08:12Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334652259,
+          "name": "histuid-linux-amd64",
+          "size": 49830328,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T00:08:11Z",
+          "updated_at": "2025-12-31T00:08:13Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334652263,
+          "name": "histuid-linux-arm64",
+          "size": 47697312,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T00:08:12Z",
+          "updated_at": "2025-12-31T00:08:14Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334652264,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2025-12-31T00:08:12Z",
+          "updated_at": "2025-12-31T00:08:13Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334652265,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2025-12-31T00:08:12Z",
+          "updated_at": "2025-12-31T00:08:13Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 273505575,
+      "tag_name": "v0.0.3",
+      "name": "v0.0.3",
+      "published_at": "2025-12-31T01:13:27Z",
+      "created_at": "2025-12-31T00:30:28Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 334670659,
+          "name": "histui_0.0.3_linux_amd64.tar.gz",
+          "size": 20841778,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-31T01:13:24Z",
+          "updated_at": "2025-12-31T01:13:25Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334670660,
+          "name": "histui-linux-amd64",
+          "size": 19157176,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T01:13:24Z",
+          "updated_at": "2025-12-31T01:13:25Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334670661,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-12-31T01:13:24Z",
+          "updated_at": "2025-12-31T01:13:24Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334670663,
+          "name": "histui-linux-arm64",
+          "size": 18350264,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T01:13:24Z",
+          "updated_at": "2025-12-31T01:13:25Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334670664,
+          "name": "histui_0.0.3_linux_arm64.tar.gz",
+          "size": 19413121,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-31T01:13:24Z",
+          "updated_at": "2025-12-31T01:13:25Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334670672,
+          "name": "histuid-linux-amd64",
+          "size": 49826232,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T01:13:24Z",
+          "updated_at": "2025-12-31T01:13:26Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334670677,
+          "name": "histuid-linux-arm64",
+          "size": 47697312,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T01:13:25Z",
+          "updated_at": "2025-12-31T01:13:26Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334670678,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2025-12-31T01:13:25Z",
+          "updated_at": "2025-12-31T01:13:25Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334670680,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2025-12-31T01:13:25Z",
+          "updated_at": "2025-12-31T01:13:25Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 273509947,
+      "tag_name": "v0.0.1-dev.0-56450f6",
+      "name": "v0.0.1-dev.0-56450f6",
+      "published_at": "2025-12-31T02:11:00Z",
+      "created_at": "2025-12-27T00:35:21Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 334691724,
+          "name": "histui_0.0.1-dev.0-56450f6_linux_arm64.tar.gz",
+          "size": 2438844,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-31T02:11:00Z",
+          "updated_at": "2025-12-31T02:11:00Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334691725,
+          "name": "checksums.txt",
+          "size": 224,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-12-31T02:11:00Z",
+          "updated_at": "2025-12-31T02:11:00Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334691727,
+          "name": "histui_0.0.1-dev.0-56450f6_linux_amd64.tar.gz",
+          "size": 2683011,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-31T02:11:00Z",
+          "updated_at": "2025-12-31T02:11:00Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 273598158,
+      "tag_name": "v0.0.4",
+      "name": "v0.0.4",
+      "published_at": "2025-12-31T13:57:28Z",
+      "created_at": "2025-12-31T13:14:09Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 334866055,
+          "name": "histui-linux-amd64",
+          "size": 19157176,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T13:57:24Z",
+          "updated_at": "2025-12-31T13:57:25Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334866056,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-12-31T13:57:24Z",
+          "updated_at": "2025-12-31T13:57:24Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334866058,
+          "name": "histui_0.0.4_linux_arm64.tar.gz",
+          "size": 19423055,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-31T13:57:24Z",
+          "updated_at": "2025-12-31T13:57:25Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334866059,
+          "name": "histui-linux-arm64",
+          "size": 18350264,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T13:57:24Z",
+          "updated_at": "2025-12-31T13:57:25Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334866060,
+          "name": "histui_0.0.4_linux_amd64.tar.gz",
+          "size": 20849904,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-31T13:57:24Z",
+          "updated_at": "2025-12-31T13:57:25Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334866062,
+          "name": "histuid-linux-amd64",
+          "size": 49842616,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T13:57:25Z",
+          "updated_at": "2025-12-31T13:57:26Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334866063,
+          "name": "histuid-linux-arm64",
+          "size": 47697312,
+          "content_type": "application/octet-stream",
+          "created_at": "2025-12-31T13:57:26Z",
+          "updated_at": "2025-12-31T13:57:27Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334866064,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2025-12-31T13:57:26Z",
+          "updated_at": "2025-12-31T13:57:26Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 334866065,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2025-12-31T13:57:26Z",
+          "updated_at": "2025-12-31T13:57:26Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 273742842,
+      "tag_name": "v0.0.5",
+      "name": "v0.0.5",
+      "published_at": "2026-01-02T00:23:26Z",
+      "created_at": "2026-01-01T23:39:43Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 335333385,
+          "name": "histui_0.0.5_linux_amd64.tar.gz",
+          "size": 21849143,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-02T00:23:22Z",
+          "updated_at": "2026-01-02T00:23:23Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335333386,
+          "name": "histui_0.0.5_linux_arm64.tar.gz",
+          "size": 20312473,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-02T00:23:22Z",
+          "updated_at": "2026-01-02T00:23:23Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335333387,
+          "name": "histui-linux-amd64",
+          "size": 19165368,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-02T00:23:22Z",
+          "updated_at": "2026-01-02T00:23:23Z",
+          "download_count": 6,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335333388,
+          "name": "histui-linux-arm64",
+          "size": 18350264,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-02T00:23:22Z",
+          "updated_at": "2026-01-02T00:23:23Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335333389,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-01-02T00:23:22Z",
+          "updated_at": "2026-01-02T00:23:22Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335333390,
+          "name": "histuid-linux-amd64",
+          "size": 52319096,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-02T00:23:22Z",
+          "updated_at": "2026-01-02T00:23:25Z",
+          "download_count": 5,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335333393,
+          "name": "histuid-linux-arm64",
+          "size": 50009952,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-02T00:23:23Z",
+          "updated_at": "2026-01-02T00:23:26Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335333394,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-01-02T00:23:23Z",
+          "updated_at": "2026-01-02T00:23:23Z",
+          "download_count": 6,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335333396,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-01-02T00:23:23Z",
+          "updated_at": "2026-01-02T00:23:24Z",
+          "download_count": 5,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 273882797,
+      "tag_name": "v0.0.6",
+      "name": "v0.0.6",
+      "published_at": "2026-01-02T20:34:30Z",
+      "created_at": "2026-01-02T19:50:45Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 335615073,
+          "name": "histui_0.0.6_linux_amd64.tar.gz",
+          "size": 21849062,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-02T20:34:27Z",
+          "updated_at": "2026-01-02T20:34:28Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335615074,
+          "name": "histui_0.0.6_linux_arm64.tar.gz",
+          "size": 20309444,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-02T20:34:27Z",
+          "updated_at": "2026-01-02T20:34:28Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335615075,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-01-02T20:34:27Z",
+          "updated_at": "2026-01-02T20:34:27Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335615076,
+          "name": "histui-linux-amd64",
+          "size": 19165368,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-02T20:34:27Z",
+          "updated_at": "2026-01-02T20:34:28Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335615077,
+          "name": "histui-linux-arm64",
+          "size": 18350264,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-02T20:34:27Z",
+          "updated_at": "2026-01-02T20:34:28Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335615080,
+          "name": "histuid-linux-amd64",
+          "size": 52319096,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-02T20:34:27Z",
+          "updated_at": "2026-01-02T20:34:29Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335615082,
+          "name": "histuid-linux-arm64",
+          "size": 50009952,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-02T20:34:28Z",
+          "updated_at": "2026-01-02T20:34:29Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335615084,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-01-02T20:34:28Z",
+          "updated_at": "2026-01-02T20:34:28Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335615085,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-01-02T20:34:28Z",
+          "updated_at": "2026-01-02T20:34:28Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 273961084,
+      "tag_name": "v0.0.7",
+      "name": "v0.0.7",
+      "published_at": "2026-01-03T15:51:36Z",
+      "created_at": "2026-01-03T15:10:52Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 335868291,
+          "name": "histui_0.0.7_linux_amd64.tar.gz",
+          "size": 21839067,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-03T15:51:33Z",
+          "updated_at": "2026-01-03T15:51:34Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335868292,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-01-03T15:51:33Z",
+          "updated_at": "2026-01-03T15:51:33Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335868293,
+          "name": "histui-linux-amd64",
+          "size": 19153080,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-03T15:51:33Z",
+          "updated_at": "2026-01-03T15:51:34Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335868294,
+          "name": "histui-linux-arm64",
+          "size": 18284728,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-03T15:51:33Z",
+          "updated_at": "2026-01-03T15:51:34Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335868295,
+          "name": "histui_0.0.7_linux_arm64.tar.gz",
+          "size": 20304487,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-03T15:51:33Z",
+          "updated_at": "2026-01-03T15:51:34Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335868296,
+          "name": "histuid-linux-amd64",
+          "size": 52305688,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-03T15:51:33Z",
+          "updated_at": "2026-01-03T15:51:34Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335868299,
+          "name": "histuid-linux-arm64",
+          "size": 49996544,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-03T15:51:34Z",
+          "updated_at": "2026-01-03T15:51:35Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335868301,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-01-03T15:51:34Z",
+          "updated_at": "2026-01-03T15:51:34Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 335868302,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-01-03T15:51:34Z",
+          "updated_at": "2026-01-03T15:51:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 277650545,
+      "tag_name": "v0.0.8",
+      "name": "v0.0.8",
+      "published_at": "2026-01-17T20:48:42Z",
+      "created_at": "2026-01-16T22:22:55Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 342014810,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-01-17T20:48:38Z",
+          "updated_at": "2026-01-17T20:48:38Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 342014811,
+          "name": "histui-linux-arm64",
+          "size": 18284728,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-17T20:48:38Z",
+          "updated_at": "2026-01-17T20:48:40Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 342014812,
+          "name": "histui-linux-amd64",
+          "size": 19165368,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-17T20:48:38Z",
+          "updated_at": "2026-01-17T20:48:40Z",
+          "download_count": 14,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 342014813,
+          "name": "histui_0.0.8_linux_arm64.tar.gz",
+          "size": 20305757,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-17T20:48:38Z",
+          "updated_at": "2026-01-17T20:48:40Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 342014814,
+          "name": "histui_0.0.8_linux_amd64.tar.gz",
+          "size": 21844628,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-17T20:48:38Z",
+          "updated_at": "2026-01-17T20:48:40Z",
+          "download_count": 5,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 342014815,
+          "name": "histuid-linux-amd64",
+          "size": 52305736,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-17T20:48:39Z",
+          "updated_at": "2026-01-17T20:48:41Z",
+          "download_count": 14,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 342014818,
+          "name": "histuid-linux-arm64",
+          "size": 49996592,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-17T20:48:40Z",
+          "updated_at": "2026-01-17T20:48:42Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 342014819,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-01-17T20:48:40Z",
+          "updated_at": "2026-01-17T20:48:40Z",
+          "download_count": 14,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 342014821,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-01-17T20:48:40Z",
+          "updated_at": "2026-01-17T20:48:40Z",
+          "download_count": 13,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 287432632,
+      "tag_name": "v0.0.9",
+      "name": "v0.0.9",
+      "published_at": "2026-02-17T21:40:47Z",
+      "created_at": "2026-02-17T21:03:05Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 357550024,
+          "name": "histui_0.0.9_linux_arm64.tar.gz",
+          "size": 20223268,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-17T21:40:44Z",
+          "updated_at": "2026-02-17T21:40:45Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357550025,
+          "name": "histui-linux-arm64",
+          "size": 18284706,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-17T21:40:44Z",
+          "updated_at": "2026-02-17T21:40:45Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357550026,
+          "name": "checksums.txt",
+          "size": 710,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-02-17T21:40:44Z",
+          "updated_at": "2026-02-17T21:40:44Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357550027,
+          "name": "histui-linux-amd64",
+          "size": 19128482,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-17T21:40:44Z",
+          "updated_at": "2026-02-17T21:40:45Z",
+          "download_count": 11,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357550028,
+          "name": "histui_0.0.9_linux_amd64.tar.gz",
+          "size": 21775424,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-17T21:40:44Z",
+          "updated_at": "2026-02-17T21:40:45Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357550032,
+          "name": "histuid-linux-amd64",
+          "size": 51781344,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-17T21:40:44Z",
+          "updated_at": "2026-02-17T21:40:46Z",
+          "download_count": 13,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357550034,
+          "name": "histuid-linux-arm64",
+          "size": 49345312,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-17T21:40:45Z",
+          "updated_at": "2026-02-17T21:40:46Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357550036,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-02-17T21:40:45Z",
+          "updated_at": "2026-02-17T21:40:45Z",
+          "download_count": 9,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357550039,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-02-17T21:40:45Z",
+          "updated_at": "2026-02-17T21:40:45Z",
+          "download_count": 10,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 298965958,
+      "tag_name": "v0.0.10",
+      "name": "v0.0.10",
+      "published_at": "2026-03-19T13:43:18Z",
+      "created_at": "2026-03-19T13:06:16Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 377198761,
+          "name": "histui_0.0.10_linux_arm64.tar.gz",
+          "size": 20226998,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-19T13:43:14Z",
+          "updated_at": "2026-03-19T13:43:15Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377198762,
+          "name": "checksums.txt",
+          "size": 712,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-03-19T13:43:14Z",
+          "updated_at": "2026-03-19T13:43:14Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377198763,
+          "name": "histui_0.0.10_linux_amd64.tar.gz",
+          "size": 21783238,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-19T13:43:14Z",
+          "updated_at": "2026-03-19T13:43:15Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377198764,
+          "name": "histui-linux-arm64",
+          "size": 18284706,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-19T13:43:14Z",
+          "updated_at": "2026-03-19T13:43:15Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377198765,
+          "name": "histui-linux-amd64",
+          "size": 19136674,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-19T13:43:14Z",
+          "updated_at": "2026-03-19T13:43:15Z",
+          "download_count": 11,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377198773,
+          "name": "histuid-linux-amd64",
+          "size": 51785392,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-19T13:43:14Z",
+          "updated_at": "2026-03-19T13:43:16Z",
+          "download_count": 11,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377198786,
+          "name": "histuid-linux-arm64",
+          "size": 49345264,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-19T13:43:15Z",
+          "updated_at": "2026-03-19T13:43:17Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377198792,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-03-19T13:43:15Z",
+          "updated_at": "2026-03-19T13:43:16Z",
+          "download_count": 11,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377198795,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-03-19T13:43:15Z",
+          "updated_at": "2026-03-19T13:43:16Z",
+          "download_count": 11,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 300437231,
+      "tag_name": "v0.0.11-dev.11",
+      "name": "Snapshot 0.0.11-dev.11+8aa01b2",
+      "published_at": "2026-03-23T22:51:30Z",
+      "created_at": "2026-03-23T22:16:03Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 380041345,
+          "name": "histui_0.0.11-dev.11+8aa01b2_linux_amd64.tar.gz",
+          "size": 21783581,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-23T22:51:26Z",
+          "updated_at": "2026-03-23T22:51:28Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380041346,
+          "name": "histui-linux-amd64",
+          "size": 19136674,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-23T22:51:26Z",
+          "updated_at": "2026-03-23T22:51:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380041347,
+          "name": "histui-linux-arm64",
+          "size": 18284706,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-23T22:51:26Z",
+          "updated_at": "2026-03-23T22:51:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380041348,
+          "name": "histui_0.0.11-dev.11+8aa01b2_linux_arm64.tar.gz",
+          "size": 20226345,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-23T22:51:26Z",
+          "updated_at": "2026-03-23T22:51:28Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380041349,
+          "name": "checksums.txt",
+          "size": 742,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-03-23T22:51:26Z",
+          "updated_at": "2026-03-23T22:51:26Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380041352,
+          "name": "histuid-linux-amd64",
+          "size": 51785424,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-23T22:51:27Z",
+          "updated_at": "2026-03-23T22:51:29Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380041361,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-03-23T22:51:28Z",
+          "updated_at": "2026-03-23T22:51:28Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380041362,
+          "name": "histuid-linux-arm64",
+          "size": 49345296,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-23T22:51:28Z",
+          "updated_at": "2026-03-23T22:51:30Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380041364,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-03-23T22:51:28Z",
+          "updated_at": "2026-03-23T22:51:28Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 300449835,
+      "tag_name": "v0.0.11-dev.12",
+      "name": "Snapshot 0.0.11-dev.12+0a0ce56",
+      "published_at": "2026-03-23T23:56:05Z",
+      "created_at": "2026-03-23T23:19:28Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 380089181,
+          "name": "histui_0.0.11-dev.12+0a0ce56_linux_amd64.tar.gz",
+          "size": 21782909,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-23T23:56:00Z",
+          "updated_at": "2026-03-23T23:56:02Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380089182,
+          "name": "checksums.txt",
+          "size": 742,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-03-23T23:56:00Z",
+          "updated_at": "2026-03-23T23:56:00Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380089183,
+          "name": "histui-linux-amd64",
+          "size": 19136674,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-23T23:56:00Z",
+          "updated_at": "2026-03-23T23:56:02Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380089184,
+          "name": "histui_0.0.11-dev.12+0a0ce56_linux_arm64.tar.gz",
+          "size": 20226340,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-23T23:56:00Z",
+          "updated_at": "2026-03-23T23:56:02Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380089185,
+          "name": "histui-linux-arm64",
+          "size": 18284706,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-23T23:56:00Z",
+          "updated_at": "2026-03-23T23:56:01Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380089186,
+          "name": "histuid-linux-amd64",
+          "size": 51785424,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-23T23:56:01Z",
+          "updated_at": "2026-03-23T23:56:03Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380089189,
+          "name": "histuid-linux-arm64",
+          "size": 49345296,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-23T23:56:02Z",
+          "updated_at": "2026-03-23T23:56:04Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380089193,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-03-23T23:56:02Z",
+          "updated_at": "2026-03-23T23:56:02Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 380089195,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-03-23T23:56:02Z",
+          "updated_at": "2026-03-23T23:56:02Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 308005504,
+      "tag_name": "v0.0.11-dev.20",
+      "name": "Snapshot 0.0.11-dev.20+b9e20ca",
+      "published_at": "2026-04-12T11:54:30Z",
+      "created_at": "2026-04-12T11:18:44Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 394697212,
+          "name": "histui_0.0.11-dev.20+b9e20ca_linux_arm64.tar.gz",
+          "size": 20239746,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-04-12T11:54:26Z",
+          "updated_at": "2026-04-12T11:54:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394697213,
+          "name": "histui_0.0.11-dev.20+b9e20ca_linux_amd64.tar.gz",
+          "size": 21800700,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-04-12T11:54:26Z",
+          "updated_at": "2026-04-12T11:54:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394697214,
+          "name": "histui-linux-amd64",
+          "size": 19153058,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-04-12T11:54:26Z",
+          "updated_at": "2026-04-12T11:54:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394697215,
+          "name": "histui-linux-arm64",
+          "size": 18284706,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-04-12T11:54:26Z",
+          "updated_at": "2026-04-12T11:54:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394697216,
+          "name": "checksums.txt",
+          "size": 742,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-04-12T11:54:26Z",
+          "updated_at": "2026-04-12T11:54:26Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394697218,
+          "name": "histuid-linux-amd64",
+          "size": 51797920,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-04-12T11:54:26Z",
+          "updated_at": "2026-04-12T11:54:29Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394697220,
+          "name": "histuid-linux-arm64",
+          "size": 49345504,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-04-12T11:54:27Z",
+          "updated_at": "2026-04-12T11:54:30Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394697221,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-04-12T11:54:27Z",
+          "updated_at": "2026-04-12T11:54:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394697222,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-04-12T11:54:27Z",
+          "updated_at": "2026-04-12T11:54:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 308077888,
+      "tag_name": "v0.0.11-dev.21",
+      "name": "Snapshot 0.0.11-dev.21+b218a9c",
+      "published_at": "2026-04-12T20:18:20Z",
+      "created_at": "2026-04-12T19:41:38Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 394895895,
+          "name": "histui_0.0.11-dev.21+b218a9c_linux_arm64.tar.gz",
+          "size": 20244537,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-04-12T20:18:16Z",
+          "updated_at": "2026-04-12T20:18:18Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394895896,
+          "name": "checksums.txt",
+          "size": 742,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-04-12T20:18:16Z",
+          "updated_at": "2026-04-12T20:18:17Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394895897,
+          "name": "histui_0.0.11-dev.21+b218a9c_linux_amd64.tar.gz",
+          "size": 21800922,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-04-12T20:18:16Z",
+          "updated_at": "2026-04-12T20:18:17Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394895898,
+          "name": "histui-linux-amd64",
+          "size": 19157154,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-04-12T20:18:16Z",
+          "updated_at": "2026-04-12T20:18:17Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394895899,
+          "name": "histui-linux-arm64",
+          "size": 18284706,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-04-12T20:18:16Z",
+          "updated_at": "2026-04-12T20:18:17Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394895901,
+          "name": "histuid-linux-amd64",
+          "size": 51797920,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-04-12T20:18:17Z",
+          "updated_at": "2026-04-12T20:18:19Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394895905,
+          "name": "histuid-linux-arm64",
+          "size": 49345504,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-04-12T20:18:18Z",
+          "updated_at": "2026-04-12T20:18:19Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394895906,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-04-12T20:18:18Z",
+          "updated_at": "2026-04-12T20:18:18Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 394895907,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-04-12T20:18:18Z",
+          "updated_at": "2026-04-12T20:18:18Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 316662651,
+      "tag_name": "v0.0.11-dev.33",
+      "name": "Snapshot 0.0.11-dev.33+ff1c821",
+      "published_at": "2026-05-02T08:00:54Z",
+      "created_at": "2026-05-02T07:23:45Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 410419283,
+          "name": "histui_0.0.11-dev.33+ff1c821_linux_amd64.tar.gz",
+          "size": 21844902,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-05-02T08:00:50Z",
+          "updated_at": "2026-05-02T08:00:51Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410419284,
+          "name": "histui_0.0.11-dev.33+ff1c821_linux_arm64.tar.gz",
+          "size": 20287808,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-05-02T08:00:51Z",
+          "updated_at": "2026-05-02T08:00:51Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410419285,
+          "name": "checksums.txt",
+          "size": 742,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-05-02T08:00:51Z",
+          "updated_at": "2026-05-02T08:00:51Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410419286,
+          "name": "histui-linux-amd64",
+          "size": 19210402,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-02T08:00:51Z",
+          "updated_at": "2026-05-02T08:00:51Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410419288,
+          "name": "histui-linux-arm64",
+          "size": 18284706,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-02T08:00:51Z",
+          "updated_at": "2026-05-02T08:00:51Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410419291,
+          "name": "histuid-linux-amd64",
+          "size": 51853216,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-02T08:00:51Z",
+          "updated_at": "2026-05-02T08:00:52Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410419294,
+          "name": "histuid-linux-arm64",
+          "size": 49413056,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-02T08:00:52Z",
+          "updated_at": "2026-05-02T08:00:53Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410419295,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-05-02T08:00:52Z",
+          "updated_at": "2026-05-02T08:00:52Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410419296,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-05-02T08:00:52Z",
+          "updated_at": "2026-05-02T08:00:52Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 316676495,
+      "tag_name": "v0.0.11",
+      "name": "v0.0.11",
+      "published_at": "2026-05-02T10:09:29Z",
+      "created_at": "2026-05-02T09:32:33Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 410462370,
+          "name": "histui-linux-amd64",
+          "size": 19218594,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-02T10:09:26Z",
+          "updated_at": "2026-05-02T10:09:27Z",
+          "download_count": 9,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410462371,
+          "name": "checksums.txt",
+          "size": 712,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-05-02T10:09:26Z",
+          "updated_at": "2026-05-02T10:09:27Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410462372,
+          "name": "histui_0.0.11_linux_arm64.tar.gz",
+          "size": 20289899,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-05-02T10:09:26Z",
+          "updated_at": "2026-05-02T10:09:27Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410462373,
+          "name": "histui_0.0.11_linux_amd64.tar.gz",
+          "size": 21854191,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-05-02T10:09:26Z",
+          "updated_at": "2026-05-02T10:09:27Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410462374,
+          "name": "histui-linux-arm64",
+          "size": 18284706,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-02T10:09:26Z",
+          "updated_at": "2026-05-02T10:09:27Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410462375,
+          "name": "histuid-linux-amd64",
+          "size": 51857376,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-02T10:09:27Z",
+          "updated_at": "2026-05-02T10:09:28Z",
+          "download_count": 9,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410462379,
+          "name": "histuid-linux-arm64",
+          "size": 49413120,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-02T10:09:27Z",
+          "updated_at": "2026-05-02T10:09:29Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410462380,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-05-02T10:09:28Z",
+          "updated_at": "2026-05-02T10:09:28Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 410462381,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-05-02T10:09:28Z",
+          "updated_at": "2026-05-02T10:09:28Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

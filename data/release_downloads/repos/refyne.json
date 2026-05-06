@@ -1,0 +1,1092 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "refyne",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T17:59:48Z",
+    "releases": 14,
+    "active_assets": 84,
+    "removed_assets": 0,
+    "total_downloads": 125
+  },
+  "releases": [
+    {
+      "id": 278076451,
+      "tag_name": "v0.0.1",
+      "name": "refyne v0.0.1",
+      "published_at": "2026-01-19T23:38:18Z",
+      "created_at": "2026-01-19T23:35:31Z",
+      "prerelease": false,
+      "draft": true,
+      "assets": [
+        {
+          "id": 343005658,
+          "name": "refyne-linux-arm64",
+          "size": 34734264,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-19T23:38:16Z",
+          "updated_at": "2026-01-19T23:38:17Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343005659,
+          "name": "refyne-windows-amd64.exe",
+          "size": 37954560,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-19T23:38:16Z",
+          "updated_at": "2026-01-19T23:38:17Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343005660,
+          "name": "refyne-linux-amd64",
+          "size": 36855992,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-19T23:38:16Z",
+          "updated_at": "2026-01-19T23:38:17Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343005661,
+          "name": "refyne-darwin-arm64",
+          "size": 36312290,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-19T23:38:16Z",
+          "updated_at": "2026-01-19T23:38:18Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343005667,
+          "name": "refyne-darwin-amd64",
+          "size": 38242688,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-19T23:38:16Z",
+          "updated_at": "2026-01-19T23:38:18Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343005672,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-19T23:38:16Z",
+          "updated_at": "2026-01-19T23:38:16Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 278079845,
+      "tag_name": "v0.0.2",
+      "name": "refyne v0.0.2",
+      "published_at": "2026-01-20T00:12:29Z",
+      "created_at": "2026-01-19T23:35:31Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 343016780,
+          "name": "refyne-windows-amd64.exe",
+          "size": 37954560,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-20T00:12:27Z",
+          "updated_at": "2026-01-20T00:12:29Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343016781,
+          "name": "refyne-darwin-arm64",
+          "size": 36312290,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-20T00:12:27Z",
+          "updated_at": "2026-01-20T00:12:29Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343016782,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-20T00:12:27Z",
+          "updated_at": "2026-01-20T00:12:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343016783,
+          "name": "refyne-darwin-amd64",
+          "size": 38242688,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-20T00:12:27Z",
+          "updated_at": "2026-01-20T00:12:28Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343016785,
+          "name": "refyne-linux-amd64",
+          "size": 36855992,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-20T00:12:27Z",
+          "updated_at": "2026-01-20T00:12:29Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 343016786,
+          "name": "refyne-linux-arm64",
+          "size": 34734264,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-20T00:12:27Z",
+          "updated_at": "2026-01-20T00:12:29Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 279268165,
+      "tag_name": "v0.1.0",
+      "name": "refyne v0.1.0",
+      "published_at": "2026-01-23T07:47:31Z",
+      "created_at": "2026-01-23T07:45:36Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 344683074,
+          "name": "refyne-linux-amd64",
+          "size": 36855992,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-23T07:47:29Z",
+          "updated_at": "2026-01-23T07:47:31Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 344683075,
+          "name": "refyne-darwin-arm64",
+          "size": 36312290,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-23T07:47:29Z",
+          "updated_at": "2026-01-23T07:47:31Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 344683076,
+          "name": "refyne-darwin-amd64",
+          "size": 38242688,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-23T07:47:29Z",
+          "updated_at": "2026-01-23T07:47:31Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 344683077,
+          "name": "refyne-linux-arm64",
+          "size": 34734264,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-23T07:47:29Z",
+          "updated_at": "2026-01-23T07:47:31Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 344683078,
+          "name": "refyne-windows-amd64.exe",
+          "size": 37954560,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-23T07:47:29Z",
+          "updated_at": "2026-01-23T07:47:31Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 344683079,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-23T07:47:29Z",
+          "updated_at": "2026-01-23T07:47:29Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 279635553,
+      "tag_name": "v0.1.5",
+      "name": "refyne v0.1.5",
+      "published_at": "2026-01-24T15:05:43Z",
+      "created_at": "2026-01-24T15:03:41Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 345273987,
+          "name": "refyne-linux-amd64",
+          "size": 33743032,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-24T15:05:41Z",
+          "updated_at": "2026-01-24T15:05:43Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345273988,
+          "name": "refyne-windows-amd64.exe",
+          "size": 34700288,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-24T15:05:41Z",
+          "updated_at": "2026-01-24T15:05:43Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345273989,
+          "name": "refyne-darwin-arm64",
+          "size": 32909186,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-24T15:05:41Z",
+          "updated_at": "2026-01-24T15:05:43Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345273990,
+          "name": "refyne-darwin-amd64",
+          "size": 34747168,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-24T15:05:41Z",
+          "updated_at": "2026-01-24T15:05:43Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345273991,
+          "name": "refyne-linux-arm64",
+          "size": 31785144,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-24T15:05:41Z",
+          "updated_at": "2026-01-24T15:05:43Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345273992,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-24T15:05:41Z",
+          "updated_at": "2026-01-24T15:05:41Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 279761326,
+      "tag_name": "v0.1.6",
+      "name": "refyne v0.1.6",
+      "published_at": "2026-01-25T18:32:37Z",
+      "created_at": "2026-01-25T18:30:13Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 345720021,
+          "name": "refyne-darwin-arm64",
+          "size": 28294562,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-25T18:32:35Z",
+          "updated_at": "2026-01-25T18:32:36Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345720022,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-25T18:32:35Z",
+          "updated_at": "2026-01-25T18:32:35Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345720023,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29698048,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-25T18:32:35Z",
+          "updated_at": "2026-01-25T18:32:37Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345720024,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-25T18:32:35Z",
+          "updated_at": "2026-01-25T18:32:36Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345720025,
+          "name": "refyne-darwin-amd64",
+          "size": 29680880,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-25T18:32:35Z",
+          "updated_at": "2026-01-25T18:32:37Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 345720026,
+          "name": "refyne-linux-amd64",
+          "size": 28844216,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-25T18:32:35Z",
+          "updated_at": "2026-01-25T18:32:37Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 280474718,
+      "tag_name": "v0.1.7",
+      "name": "refyne v0.1.7",
+      "published_at": "2026-01-27T21:56:35Z",
+      "created_at": "2026-01-27T21:54:52Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 346818356,
+          "name": "refyne-darwin-arm64",
+          "size": 28294690,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-27T21:56:34Z",
+          "updated_at": "2026-01-27T21:56:35Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346818357,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-27T21:56:34Z",
+          "updated_at": "2026-01-27T21:56:35Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346818358,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29700608,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-27T21:56:34Z",
+          "updated_at": "2026-01-27T21:56:35Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346818360,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-27T21:56:34Z",
+          "updated_at": "2026-01-27T21:56:34Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346818361,
+          "name": "refyne-darwin-amd64",
+          "size": 29681008,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-27T21:56:34Z",
+          "updated_at": "2026-01-27T21:56:35Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346818362,
+          "name": "refyne-linux-amd64",
+          "size": 28848312,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-27T21:56:34Z",
+          "updated_at": "2026-01-27T21:56:35Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 280515345,
+      "tag_name": "v0.1.8",
+      "name": "refyne v0.1.8",
+      "published_at": "2026-01-28T01:31:06Z",
+      "created_at": "2026-01-28T01:22:47Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 346914966,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-28T01:31:04Z",
+          "updated_at": "2026-01-28T01:31:04Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346914967,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-28T01:31:04Z",
+          "updated_at": "2026-01-28T01:31:06Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346914968,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29701120,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-28T01:31:04Z",
+          "updated_at": "2026-01-28T01:31:06Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346914969,
+          "name": "refyne-darwin-amd64",
+          "size": 29681024,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-28T01:31:04Z",
+          "updated_at": "2026-01-28T01:31:06Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346914970,
+          "name": "refyne-linux-amd64",
+          "size": 28848312,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-28T01:31:04Z",
+          "updated_at": "2026-01-28T01:31:06Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346914971,
+          "name": "refyne-darwin-arm64",
+          "size": 28294722,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-28T01:31:04Z",
+          "updated_at": "2026-01-28T01:31:06Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 280516134,
+      "tag_name": "v0.1.9",
+      "name": "refyne v0.1.9",
+      "published_at": "2026-01-28T01:37:19Z",
+      "created_at": "2026-01-28T01:35:36Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 346917560,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29701632,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-28T01:37:17Z",
+          "updated_at": "2026-01-28T01:37:18Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346917561,
+          "name": "refyne-linux-amd64",
+          "size": 28848312,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-28T01:37:17Z",
+          "updated_at": "2026-01-28T01:37:18Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346917562,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-28T01:37:17Z",
+          "updated_at": "2026-01-28T01:37:19Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346917563,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-28T01:37:17Z",
+          "updated_at": "2026-01-28T01:37:17Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346917564,
+          "name": "refyne-darwin-arm64",
+          "size": 28294722,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-28T01:37:17Z",
+          "updated_at": "2026-01-28T01:37:19Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 346917565,
+          "name": "refyne-darwin-amd64",
+          "size": 29681024,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-28T01:37:17Z",
+          "updated_at": "2026-01-28T01:37:19Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 281726374,
+      "tag_name": "v0.1.10",
+      "name": "refyne v0.1.10",
+      "published_at": "2026-01-31T01:09:35Z",
+      "created_at": "2026-01-31T01:07:51Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 348458358,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T01:09:33Z",
+          "updated_at": "2026-01-31T01:09:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348458359,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-31T01:09:33Z",
+          "updated_at": "2026-01-31T01:09:33Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348458360,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29727232,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-31T01:09:33Z",
+          "updated_at": "2026-01-31T01:09:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348458361,
+          "name": "refyne-darwin-amd64",
+          "size": 29710384,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T01:09:33Z",
+          "updated_at": "2026-01-31T01:09:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348458362,
+          "name": "refyne-linux-amd64",
+          "size": 28876984,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T01:09:33Z",
+          "updated_at": "2026-01-31T01:09:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348458363,
+          "name": "refyne-darwin-arm64",
+          "size": 28311890,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T01:09:33Z",
+          "updated_at": "2026-01-31T01:09:34Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 281782124,
+      "tag_name": "v0.1.11",
+      "name": "refyne v0.1.11",
+      "published_at": "2026-01-31T12:23:32Z",
+      "created_at": "2026-01-31T12:21:32Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 348637575,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-31T12:23:29Z",
+          "updated_at": "2026-01-31T12:23:29Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348637578,
+          "name": "refyne-linux-amd64",
+          "size": 28889272,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T12:23:29Z",
+          "updated_at": "2026-01-31T12:23:30Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348637580,
+          "name": "refyne-darwin-arm64",
+          "size": 28328818,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T12:23:29Z",
+          "updated_at": "2026-01-31T12:23:30Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348637581,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29738496,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-31T12:23:29Z",
+          "updated_at": "2026-01-31T12:23:32Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348637582,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T12:23:29Z",
+          "updated_at": "2026-01-31T12:23:31Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348637583,
+          "name": "refyne-darwin-amd64",
+          "size": 29718976,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T12:23:29Z",
+          "updated_at": "2026-01-31T12:23:32Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 281791994,
+      "tag_name": "v0.1.12",
+      "name": "refyne v0.1.12",
+      "published_at": "2026-01-31T14:25:10Z",
+      "created_at": "2026-01-31T14:22:37Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 348665731,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T14:25:08Z",
+          "updated_at": "2026-01-31T14:25:09Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348665732,
+          "name": "refyne-linux-amd64",
+          "size": 28889272,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T14:25:08Z",
+          "updated_at": "2026-01-31T14:25:09Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348665733,
+          "name": "refyne-darwin-amd64",
+          "size": 29718976,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T14:25:08Z",
+          "updated_at": "2026-01-31T14:25:10Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348665734,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-01-31T14:25:08Z",
+          "updated_at": "2026-01-31T14:25:08Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348665735,
+          "name": "refyne-darwin-arm64",
+          "size": 28328818,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-01-31T14:25:08Z",
+          "updated_at": "2026-01-31T14:25:09Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 348665736,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29738496,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-01-31T14:25:08Z",
+          "updated_at": "2026-01-31T14:25:09Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 281887740,
+      "tag_name": "v0.1.13",
+      "name": "refyne v0.1.13",
+      "published_at": "2026-02-01T07:49:13Z",
+      "created_at": "2026-02-01T07:47:12Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 349005740,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-01T07:49:12Z",
+          "updated_at": "2026-02-01T07:49:13Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349005741,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29743104,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-02-01T07:49:12Z",
+          "updated_at": "2026-02-01T07:49:13Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349005742,
+          "name": "refyne-linux-amd64",
+          "size": 28889272,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-01T07:49:12Z",
+          "updated_at": "2026-02-01T07:49:13Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349005743,
+          "name": "refyne-darwin-arm64",
+          "size": 28329250,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-01T07:49:12Z",
+          "updated_at": "2026-02-01T07:49:13Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349005744,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-02-01T07:49:12Z",
+          "updated_at": "2026-02-01T07:49:12Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349005745,
+          "name": "refyne-darwin-amd64",
+          "size": 29727600,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-01T07:49:12Z",
+          "updated_at": "2026-02-01T07:49:13Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 281904880,
+      "tag_name": "v0.1.15",
+      "name": "refyne v0.1.15",
+      "published_at": "2026-02-01T11:38:22Z",
+      "created_at": "2026-02-01T11:36:35Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 349059297,
+          "name": "refyne-linux-amd64",
+          "size": 28889272,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-01T11:38:20Z",
+          "updated_at": "2026-02-01T11:38:21Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349059298,
+          "name": "refyne-linux-arm64",
+          "size": 27328696,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-01T11:38:20Z",
+          "updated_at": "2026-02-01T11:38:21Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349059299,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29743616,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-02-01T11:38:20Z",
+          "updated_at": "2026-02-01T11:38:21Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349059300,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-02-01T11:38:20Z",
+          "updated_at": "2026-02-01T11:38:20Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349059301,
+          "name": "refyne-darwin-arm64",
+          "size": 28329298,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-01T11:38:20Z",
+          "updated_at": "2026-02-01T11:38:21Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 349059302,
+          "name": "refyne-darwin-amd64",
+          "size": 29727648,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-01T11:38:20Z",
+          "updated_at": "2026-02-01T11:38:22Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 295335789,
+      "tag_name": "snapshot",
+      "name": "Development Snapshot",
+      "published_at": "2026-03-10T19:28:40Z",
+      "created_at": "2026-03-10T19:26:04Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 371018625,
+          "name": "checksums.txt",
+          "size": 433,
+          "content_type": "text/plain",
+          "created_at": "2026-03-10T19:28:37Z",
+          "updated_at": "2026-03-10T19:28:38Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371018626,
+          "name": "refyne-windows-amd64.exe",
+          "size": 29778944,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-03-10T19:28:37Z",
+          "updated_at": "2026-03-10T19:28:39Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371018627,
+          "name": "refyne-linux-arm64",
+          "size": 27394232,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-10T19:28:37Z",
+          "updated_at": "2026-03-10T19:28:39Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371018628,
+          "name": "refyne-darwin-amd64",
+          "size": 29760912,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-10T19:28:37Z",
+          "updated_at": "2026-03-10T19:28:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371018629,
+          "name": "refyne-darwin-arm64",
+          "size": 28362834,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-10T19:28:37Z",
+          "updated_at": "2026-03-10T19:28:39Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371018630,
+          "name": "refyne-linux-amd64",
+          "size": 28930232,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-10T19:28:38Z",
+          "updated_at": "2026-03-10T19:28:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

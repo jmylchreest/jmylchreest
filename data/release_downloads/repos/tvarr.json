@@ -1,0 +1,729 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "tvarr",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T14:04:22Z",
+    "releases": 13,
+    "active_assets": 52,
+    "removed_assets": 0,
+    "total_downloads": 46
+  },
+  "releases": [
+    {
+      "id": 271594069,
+      "tag_name": "v0.0.17",
+      "name": "v0.0.17",
+      "published_at": "2025-12-18T22:11:26Z",
+      "created_at": "2025-12-18T22:09:02Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 330374531,
+          "name": "tvarr_0.0.17_linux_arm64.tar.gz",
+          "size": 5596081,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-18T22:11:25Z",
+          "updated_at": "2025-12-18T22:11:25Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 330374532,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-12-18T22:11:25Z",
+          "updated_at": "2025-12-18T22:11:25Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 330374533,
+          "name": "tvarr_0.0.17_linux_amd64.tar.gz",
+          "size": 6798541,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-18T22:11:25Z",
+          "updated_at": "2025-12-18T22:11:25Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 330374534,
+          "name": "sbom-0.0.17.spdx.json",
+          "size": 1396337,
+          "content_type": "application/json",
+          "created_at": "2025-12-18T22:11:25Z",
+          "updated_at": "2025-12-18T22:11:25Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 271612045,
+      "tag_name": "v0.0.18",
+      "name": "v0.0.18",
+      "published_at": "2025-12-19T00:08:55Z",
+      "created_at": "2025-12-19T00:06:31Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 330408296,
+          "name": "sbom-0.0.18.spdx.json",
+          "size": 1396337,
+          "content_type": "application/json",
+          "created_at": "2025-12-19T00:08:54Z",
+          "updated_at": "2025-12-19T00:08:54Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 330408297,
+          "name": "tvarr_0.0.18_linux_amd64.tar.gz",
+          "size": 6796997,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-19T00:08:54Z",
+          "updated_at": "2025-12-19T00:08:54Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 330408298,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-12-19T00:08:54Z",
+          "updated_at": "2025-12-19T00:08:54Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 330408299,
+          "name": "tvarr_0.0.18_linux_arm64.tar.gz",
+          "size": 5599548,
+          "content_type": "application/x-gtar",
+          "created_at": "2025-12-19T00:08:54Z",
+          "updated_at": "2025-12-19T00:08:54Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 274250654,
+      "tag_name": "v0.0.19",
+      "name": "v0.0.19",
+      "published_at": "2026-01-05T14:46:40Z",
+      "created_at": "2026-01-05T14:43:44Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 336578262,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-01-05T14:46:38Z",
+          "updated_at": "2026-01-05T14:46:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 336578263,
+          "name": "sbom-0.0.19.spdx.json",
+          "size": 4627232,
+          "content_type": "application/json",
+          "created_at": "2026-01-05T14:46:38Z",
+          "updated_at": "2026-01-05T14:46:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 336578264,
+          "name": "tvarr_0.0.19_linux_arm64.tar.gz",
+          "size": 8257169,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-05T14:46:38Z",
+          "updated_at": "2026-01-05T14:46:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 336578265,
+          "name": "tvarr_0.0.19_linux_amd64.tar.gz",
+          "size": 9985819,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-01-05T14:46:38Z",
+          "updated_at": "2026-01-05T14:46:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 285919079,
+      "tag_name": "v0.0.20",
+      "name": "v0.0.20",
+      "published_at": "2026-02-13T00:36:24Z",
+      "created_at": "2026-02-13T00:33:23Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 355080144,
+          "name": "sbom-0.0.20.spdx.json",
+          "size": 4624003,
+          "content_type": "application/json",
+          "created_at": "2026-02-13T00:36:23Z",
+          "updated_at": "2026-02-13T00:36:23Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 355080145,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-02-13T00:36:23Z",
+          "updated_at": "2026-02-13T00:36:23Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 355080146,
+          "name": "tvarr_0.0.20_linux_amd64.tar.gz",
+          "size": 10031989,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-13T00:36:23Z",
+          "updated_at": "2026-02-13T00:36:23Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 355080147,
+          "name": "tvarr_0.0.20_linux_arm64.tar.gz",
+          "size": 8276835,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-13T00:36:23Z",
+          "updated_at": "2026-02-13T00:36:24Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 286613253,
+      "tag_name": "v0.0.21",
+      "name": "v0.0.21",
+      "published_at": "2026-02-15T22:44:48Z",
+      "created_at": "2026-02-15T22:41:57Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 356426435,
+          "name": "sbom-0.0.21.spdx.json",
+          "size": 4624003,
+          "content_type": "application/json",
+          "created_at": "2026-02-15T22:44:47Z",
+          "updated_at": "2026-02-15T22:44:47Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356426436,
+          "name": "tvarr_0.0.21_linux_arm64.tar.gz",
+          "size": 8278496,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-15T22:44:47Z",
+          "updated_at": "2026-02-15T22:44:47Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356426437,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-02-15T22:44:47Z",
+          "updated_at": "2026-02-15T22:44:47Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356426438,
+          "name": "tvarr_0.0.21_linux_amd64.tar.gz",
+          "size": 10038048,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-15T22:44:47Z",
+          "updated_at": "2026-02-15T22:44:47Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 286622899,
+      "tag_name": "v0.0.22",
+      "name": "v0.0.22",
+      "published_at": "2026-02-15T23:13:44Z",
+      "created_at": "2026-02-15T23:10:54Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 356437137,
+          "name": "tvarr_0.0.22_linux_amd64.tar.gz",
+          "size": 10039747,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-15T23:13:43Z",
+          "updated_at": "2026-02-15T23:13:44Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356437138,
+          "name": "tvarr_0.0.22_linux_arm64.tar.gz",
+          "size": 8282628,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-15T23:13:43Z",
+          "updated_at": "2026-02-15T23:13:44Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356437139,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-02-15T23:13:43Z",
+          "updated_at": "2026-02-15T23:13:43Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356437140,
+          "name": "sbom-0.0.22.spdx.json",
+          "size": 4624003,
+          "content_type": "application/json",
+          "created_at": "2026-02-15T23:13:43Z",
+          "updated_at": "2026-02-15T23:13:43Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 286985825,
+      "tag_name": "v0.0.23",
+      "name": "v0.0.23",
+      "published_at": "2026-02-16T20:18:14Z",
+      "created_at": "2026-02-16T20:15:21Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 356912443,
+          "name": "tvarr_0.0.23_linux_amd64.tar.gz",
+          "size": 10036695,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-16T20:18:13Z",
+          "updated_at": "2026-02-16T20:18:14Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356912444,
+          "name": "tvarr_0.0.23_linux_arm64.tar.gz",
+          "size": 8282885,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-16T20:18:13Z",
+          "updated_at": "2026-02-16T20:18:14Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356912445,
+          "name": "sbom-0.0.23.spdx.json",
+          "size": 4624003,
+          "content_type": "application/json",
+          "created_at": "2026-02-16T20:18:13Z",
+          "updated_at": "2026-02-16T20:18:14Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356912446,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-02-16T20:18:13Z",
+          "updated_at": "2026-02-16T20:18:14Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 287001927,
+      "tag_name": "v0.0.24",
+      "name": "v0.0.24",
+      "published_at": "2026-02-16T21:32:09Z",
+      "created_at": "2026-02-16T21:29:06Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 356939174,
+          "name": "sbom-0.0.24.spdx.json",
+          "size": 4624003,
+          "content_type": "application/json",
+          "created_at": "2026-02-16T21:32:08Z",
+          "updated_at": "2026-02-16T21:32:09Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356939175,
+          "name": "tvarr_0.0.24_linux_amd64.tar.gz",
+          "size": 10033160,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-16T21:32:08Z",
+          "updated_at": "2026-02-16T21:32:09Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356939176,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-02-16T21:32:08Z",
+          "updated_at": "2026-02-16T21:32:08Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356939177,
+          "name": "tvarr_0.0.24_linux_arm64.tar.gz",
+          "size": 8282580,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-16T21:32:08Z",
+          "updated_at": "2026-02-16T21:32:09Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 287452515,
+      "tag_name": "v0.0.25",
+      "name": "v0.0.25",
+      "published_at": "2026-02-17T22:49:06Z",
+      "created_at": "2026-02-17T22:39:18Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 357577178,
+          "name": "tvarr_0.0.25_linux_amd64.tar.gz",
+          "size": 10049645,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-17T22:49:05Z",
+          "updated_at": "2026-02-17T22:49:05Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357577179,
+          "name": "tvarr_0.0.25_linux_arm64.tar.gz",
+          "size": 8296539,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-17T22:49:05Z",
+          "updated_at": "2026-02-17T22:49:05Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357577180,
+          "name": "sbom-0.0.25.spdx.json",
+          "size": 4609291,
+          "content_type": "application/json",
+          "created_at": "2026-02-17T22:49:05Z",
+          "updated_at": "2026-02-17T22:49:05Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 357577181,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-02-17T22:49:05Z",
+          "updated_at": "2026-02-17T22:49:05Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 302767079,
+      "tag_name": "v0.0.26-dev.21-fa221c6",
+      "name": "Snapshot 0.0.26-dev.21-fa221c6",
+      "published_at": "2026-03-28T23:45:49Z",
+      "created_at": "2026-03-28T23:42:59Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 383761281,
+          "name": "tvarr_0.0.26-dev.21-fa221c6_linux_amd64.tar.gz",
+          "size": 10149990,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-28T23:45:48Z",
+          "updated_at": "2026-03-28T23:45:49Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 383761282,
+          "name": "tvarr_0.0.26-dev.21-fa221c6_linux_arm64.tar.gz",
+          "size": 8363601,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-28T23:45:48Z",
+          "updated_at": "2026-03-28T23:45:48Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 383761283,
+          "name": "checksums.txt",
+          "size": 329,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-03-28T23:45:48Z",
+          "updated_at": "2026-03-28T23:45:48Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 383761284,
+          "name": "sbom-0.0.26-dev.21-fa221c6.spdx.json",
+          "size": 4609728,
+          "content_type": "application/json",
+          "created_at": "2026-03-28T23:45:48Z",
+          "updated_at": "2026-03-28T23:45:48Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 302767368,
+      "tag_name": "v0.0.26-dev.22-2b2813f",
+      "name": "Snapshot 0.0.26-dev.22-2b2813f",
+      "published_at": "2026-03-28T23:49:14Z",
+      "created_at": "2026-03-28T23:42:59Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 383762456,
+          "name": "tvarr_0.0.26-dev.22-2b2813f_linux_amd64.tar.gz",
+          "size": 10148698,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-28T23:49:13Z",
+          "updated_at": "2026-03-28T23:49:13Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 383762457,
+          "name": "sbom-0.0.26-dev.22-2b2813f.spdx.json",
+          "size": 4609728,
+          "content_type": "application/json",
+          "created_at": "2026-03-28T23:49:13Z",
+          "updated_at": "2026-03-28T23:49:13Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 383762458,
+          "name": "tvarr_0.0.26-dev.22-2b2813f_linux_arm64.tar.gz",
+          "size": 8362855,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-28T23:49:13Z",
+          "updated_at": "2026-03-28T23:49:13Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 383762459,
+          "name": "checksums.txt",
+          "size": 329,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-03-28T23:49:13Z",
+          "updated_at": "2026-03-28T23:49:13Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 303251982,
+      "tag_name": "v0.0.26-dev.23-b898601",
+      "name": "Snapshot 0.0.26-dev.23-b898601",
+      "published_at": "2026-03-30T15:27:09Z",
+      "created_at": "2026-03-30T15:21:21Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 384835945,
+          "name": "tvarr_0.0.26-dev.23-b898601_linux_amd64.tar.gz",
+          "size": 10145802,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-30T15:27:07Z",
+          "updated_at": "2026-03-30T15:27:08Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 384835947,
+          "name": "tvarr_0.0.26-dev.23-b898601_linux_arm64.tar.gz",
+          "size": 8363141,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-30T15:27:07Z",
+          "updated_at": "2026-03-30T15:27:08Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 384835948,
+          "name": "sbom-0.0.26-dev.23-b898601.spdx.json",
+          "size": 4609728,
+          "content_type": "application/json",
+          "created_at": "2026-03-30T15:27:07Z",
+          "updated_at": "2026-03-30T15:27:07Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 384835950,
+          "name": "checksums.txt",
+          "size": 329,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-03-30T15:27:07Z",
+          "updated_at": "2026-03-30T15:27:07Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 303618433,
+      "tag_name": "v0.0.26",
+      "name": "v0.0.26",
+      "published_at": "2026-03-31T10:01:45Z",
+      "created_at": "2026-03-31T09:58:44Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 385442344,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-03-31T10:01:44Z",
+          "updated_at": "2026-03-31T10:01:44Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 385442345,
+          "name": "sbom-0.0.26.spdx.json",
+          "size": 4609728,
+          "content_type": "application/json",
+          "created_at": "2026-03-31T10:01:44Z",
+          "updated_at": "2026-03-31T10:01:44Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 385442347,
+          "name": "tvarr_0.0.26_linux_amd64.tar.gz",
+          "size": 10143603,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-31T10:01:44Z",
+          "updated_at": "2026-03-31T10:01:45Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 385442348,
+          "name": "tvarr_0.0.26_linux_arm64.tar.gz",
+          "size": 8362446,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-31T10:01:44Z",
+          "updated_at": "2026-03-31T10:01:45Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

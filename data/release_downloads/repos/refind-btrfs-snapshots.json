@@ -1,0 +1,542 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "refind-btrfs-snapshots",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T14:04:22Z",
+    "releases": 10,
+    "active_assets": 38,
+    "removed_assets": 0,
+    "total_downloads": 900
+  },
+  "releases": [
+    {
+      "id": 225022266,
+      "tag_name": "v0.0.1",
+      "name": "v0.0.1",
+      "published_at": "2025-06-12T22:14:54Z",
+      "created_at": "2025-06-12T22:12:34Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 263408001,
+          "name": "refind-btrfs-snapshots_0.0.1_checksums.txt",
+          "size": 228,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-06-12T22:14:53Z",
+          "updated_at": "2025-06-12T22:14:53Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263408002,
+          "name": "refind-btrfs-snapshots_0.0.1_linux_arm64.tar.gz",
+          "size": 2287054,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-12T22:14:53Z",
+          "updated_at": "2025-06-12T22:14:53Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263408003,
+          "name": "refind-btrfs-snapshots_0.0.1_linux_amd64.tar.gz",
+          "size": 2480739,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-12T22:14:53Z",
+          "updated_at": "2025-06-12T22:14:53Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 225023296,
+      "tag_name": "v0.0.2",
+      "name": "v0.0.2",
+      "published_at": "2025-06-12T22:24:09Z",
+      "created_at": "2025-06-12T22:23:18Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 263410148,
+          "name": "refind-btrfs-snapshots_0.0.2_linux_arm64.tar.gz",
+          "size": 2281563,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-12T22:24:08Z",
+          "updated_at": "2025-06-12T22:24:09Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263410149,
+          "name": "refind-btrfs-snapshots_0.0.2_checksums.txt",
+          "size": 228,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-06-12T22:24:08Z",
+          "updated_at": "2025-06-12T22:24:08Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263410151,
+          "name": "refind-btrfs-snapshots_0.0.2_linux_amd64.tar.gz",
+          "size": 2476613,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-12T22:24:08Z",
+          "updated_at": "2025-06-12T22:24:09Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 225025600,
+      "tag_name": "v0.0.3",
+      "name": "v0.0.3",
+      "published_at": "2025-06-12T22:41:31Z",
+      "created_at": "2025-06-12T22:40:56Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 263413630,
+          "name": "refind-btrfs-snapshots_0.0.3_linux_arm64.tar.gz",
+          "size": 2281557,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-12T22:41:30Z",
+          "updated_at": "2025-06-12T22:41:31Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263413631,
+          "name": "refind-btrfs-snapshots_0.0.3_linux_amd64.tar.gz",
+          "size": 2476617,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-12T22:41:30Z",
+          "updated_at": "2025-06-12T22:41:31Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263413632,
+          "name": "refind-btrfs-snapshots_0.0.3_checksums.txt",
+          "size": 228,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-06-12T22:41:30Z",
+          "updated_at": "2025-06-12T22:41:30Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 225274833,
+      "tag_name": "v0.0.4",
+      "name": "v0.0.4",
+      "published_at": "2025-06-13T21:25:33Z",
+      "created_at": "2025-06-13T21:24:53Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 263748556,
+          "name": "refind-btrfs-snapshots_0.0.4_linux_amd64.tar.gz",
+          "size": 2477361,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-13T21:25:32Z",
+          "updated_at": "2025-06-13T21:25:33Z",
+          "download_count": 5,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263748557,
+          "name": "refind-btrfs-snapshots_0.0.4_checksums.txt",
+          "size": 228,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-06-13T21:25:32Z",
+          "updated_at": "2025-06-13T21:25:32Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263748558,
+          "name": "refind-btrfs-snapshots_0.0.4_linux_arm64.tar.gz",
+          "size": 2283066,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-13T21:25:32Z",
+          "updated_at": "2025-06-13T21:25:33Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 225326860,
+      "tag_name": "v0.0.5",
+      "name": "v0.0.5",
+      "published_at": "2025-06-14T10:38:23Z",
+      "created_at": "2025-06-14T10:36:55Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 263887270,
+          "name": "refind-btrfs-snapshots_0.0.5_checksums.txt",
+          "size": 228,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-06-14T10:38:22Z",
+          "updated_at": "2025-06-14T10:38:22Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263887271,
+          "name": "refind-btrfs-snapshots_0.0.5_linux_arm64.tar.gz",
+          "size": 2287522,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-14T10:38:22Z",
+          "updated_at": "2025-06-14T10:38:23Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 263887272,
+          "name": "refind-btrfs-snapshots_0.0.5_linux_amd64.tar.gz",
+          "size": 2481312,
+          "content_type": "application/gzip",
+          "created_at": "2025-06-14T10:38:22Z",
+          "updated_at": "2025-06-14T10:38:23Z",
+          "download_count": 119,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 259691357,
+      "tag_name": "v0.0.6",
+      "name": "v0.0.6",
+      "published_at": "2025-11-04T20:36:15Z",
+      "created_at": "2025-11-04T19:15:11Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 312543407,
+          "name": "refind-btrfs-snapshots_0.0.6_checksums.txt",
+          "size": 228,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-11-04T20:36:14Z",
+          "updated_at": "2025-11-04T20:36:15Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 312543408,
+          "name": "refind-btrfs-snapshots_0.0.6_linux_amd64.tar.gz",
+          "size": 2482143,
+          "content_type": "application/gzip",
+          "created_at": "2025-11-04T20:36:14Z",
+          "updated_at": "2025-11-04T20:36:15Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 312543409,
+          "name": "refind-btrfs-snapshots_0.0.6_linux_arm64.tar.gz",
+          "size": 2289430,
+          "content_type": "application/gzip",
+          "created_at": "2025-11-04T20:36:14Z",
+          "updated_at": "2025-11-04T20:36:15Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 259695911,
+      "tag_name": "v0.0.7",
+      "name": "v0.0.7",
+      "published_at": "2025-11-04T20:56:48Z",
+      "created_at": "2025-11-04T20:55:42Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 312549480,
+          "name": "refind-btrfs-snapshots_0.0.7_linux_amd64.tar.gz",
+          "size": 2482859,
+          "content_type": "application/gzip",
+          "created_at": "2025-11-04T20:56:47Z",
+          "updated_at": "2025-11-04T20:56:48Z",
+          "download_count": 144,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 312549481,
+          "name": "refind-btrfs-snapshots_0.0.7_linux_arm64.tar.gz",
+          "size": 2289837,
+          "content_type": "application/gzip",
+          "created_at": "2025-11-04T20:56:47Z",
+          "updated_at": "2025-11-04T20:56:48Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 312549482,
+          "name": "refind-btrfs-snapshots_0.0.7_checksums.txt",
+          "size": 228,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-11-04T20:56:47Z",
+          "updated_at": "2025-11-04T20:56:47Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 271903878,
+      "tag_name": "v0.0.8",
+      "name": "v0.0.8",
+      "published_at": "2025-12-20T00:57:12Z",
+      "created_at": "2025-12-20T00:55:27Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 330865556,
+          "name": "refind-btrfs-snapshots_0.0.8_linux_amd64.tar.gz",
+          "size": 2486375,
+          "content_type": "application/gzip",
+          "created_at": "2025-12-20T00:57:11Z",
+          "updated_at": "2025-12-20T00:57:11Z",
+          "download_count": 102,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 330865557,
+          "name": "refind-btrfs-snapshots_0.0.8_checksums.txt",
+          "size": 228,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2025-12-20T00:57:11Z",
+          "updated_at": "2025-12-20T00:57:11Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 330865558,
+          "name": "refind-btrfs-snapshots_0.0.8_linux_arm64.tar.gz",
+          "size": 2293120,
+          "content_type": "application/gzip",
+          "created_at": "2025-12-20T00:57:11Z",
+          "updated_at": "2025-12-20T00:57:11Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 286459993,
+      "tag_name": "v0.0.9",
+      "name": "v0.0.9",
+      "published_at": "2026-02-15T00:57:05Z",
+      "created_at": "2026-02-15T00:55:19Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 356055698,
+          "name": "refind-btrfs-snapshots-linux-amd64",
+          "size": 6357154,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-15T00:57:04Z",
+          "updated_at": "2026-02-15T00:57:05Z",
+          "download_count": 161,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356055699,
+          "name": "refind-btrfs-snapshots.path",
+          "size": 590,
+          "content_type": "text/x-systemd-unit; charset=utf-8",
+          "created_at": "2026-02-15T00:57:04Z",
+          "updated_at": "2026-02-15T00:57:04Z",
+          "download_count": 158,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356055700,
+          "name": "checksums.txt",
+          "size": 621,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-02-15T00:57:04Z",
+          "updated_at": "2026-02-15T00:57:04Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356055701,
+          "name": "refind-btrfs-snapshots.service",
+          "size": 562,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-02-15T00:57:04Z",
+          "updated_at": "2026-02-15T00:57:04Z",
+          "download_count": 158,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356055702,
+          "name": "refind-btrfs-snapshots-linux-arm64",
+          "size": 5898402,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-02-15T00:57:04Z",
+          "updated_at": "2026-02-15T00:57:05Z",
+          "download_count": 4,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356055703,
+          "name": "refind-btrfs-snapshots_0.0.9_linux_arm64.tar.gz",
+          "size": 2397669,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-15T00:57:04Z",
+          "updated_at": "2026-02-15T00:57:05Z",
+          "download_count": 2,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 356055704,
+          "name": "refind-btrfs-snapshots_0.0.9_linux_amd64.tar.gz",
+          "size": 2661814,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-02-15T00:57:04Z",
+          "updated_at": "2026-02-15T00:57:05Z",
+          "download_count": 3,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 295340030,
+      "tag_name": "v0.0.10-dev.2",
+      "name": "Snapshot 0.0.10-dev.2+097edda",
+      "published_at": "2026-03-10T19:38:55Z",
+      "created_at": "2026-03-10T19:36:22Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 371024586,
+          "name": "refind-btrfs-snapshots-linux-amd64",
+          "size": 6357154,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-10T19:38:53Z",
+          "updated_at": "2026-03-10T19:38:54Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371024587,
+          "name": "refind-btrfs-snapshots.path",
+          "size": 590,
+          "content_type": "text/x-systemd-unit; charset=utf-8",
+          "created_at": "2026-03-10T19:38:53Z",
+          "updated_at": "2026-03-10T19:38:53Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371024588,
+          "name": "refind-btrfs-snapshots.service",
+          "size": 562,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-03-10T19:38:53Z",
+          "updated_at": "2026-03-10T19:38:53Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371024591,
+          "name": "checksums.txt",
+          "size": 651,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-03-10T19:38:53Z",
+          "updated_at": "2026-03-10T19:38:53Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371024592,
+          "name": "refind-btrfs-snapshots-linux-arm64",
+          "size": 5963938,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-03-10T19:38:53Z",
+          "updated_at": "2026-03-10T19:38:54Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371024594,
+          "name": "refind-btrfs-snapshots_0.0.10-dev.2+097edda_linux_amd64.tar.gz",
+          "size": 2662215,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-10T19:38:53Z",
+          "updated_at": "2026-03-10T19:38:53Z",
+          "download_count": 1,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 371024596,
+          "name": "refind-btrfs-snapshots_0.0.10-dev.2+097edda_linux_arm64.tar.gz",
+          "size": 2398842,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-03-10T19:38:53Z",
+          "updated_at": "2026-03-10T19:38:53Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

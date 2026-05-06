@@ -1,0 +1,135 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "statsfactory",
+    "schema_version": 2,
+    "last_updated": "2026-05-06T17:59:48Z",
+    "releases": 3,
+    "active_assets": 8,
+    "removed_assets": 0,
+    "total_downloads": 0
+  },
+  "releases": [
+    {
+      "id": 298636443,
+      "tag_name": "snapshot",
+      "name": "Snapshot (0.0.3-dev.1+18c3d22)",
+      "published_at": "2026-03-18T19:03:41Z",
+      "created_at": "2026-03-18T19:02:26Z",
+      "prerelease": true,
+      "draft": true,
+      "assets": [
+        {
+          "id": 376635494,
+          "name": "statsfactory-0.0.3-dev.1+18c3d22.tar.gz",
+          "size": 728120,
+          "content_type": "application/gzip",
+          "created_at": "2026-03-18T19:03:42Z",
+          "updated_at": "2026-03-18T19:03:42Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 376635495,
+          "name": "statsfactory-0.0.3-dev.1+18c3d22.zip",
+          "size": 746644,
+          "content_type": "application/zip",
+          "created_at": "2026-03-18T19:03:42Z",
+          "updated_at": "2026-03-18T19:03:42Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 298636561,
+      "tag_name": "v0.0.2",
+      "name": "v0.0.2",
+      "published_at": "2026-03-18T19:12:55Z",
+      "created_at": "2026-04-10T20:54:38Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 376639959,
+          "name": "statsfactory-v0.0.2.zip",
+          "size": 746624,
+          "content_type": "application/zip",
+          "created_at": "2026-03-18T19:12:54Z",
+          "updated_at": "2026-03-18T19:12:54Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 376639961,
+          "name": "statsfactory-v0.0.2.tar.gz",
+          "size": 728325,
+          "content_type": "application/gzip",
+          "created_at": "2026-03-18T19:12:54Z",
+          "updated_at": "2026-03-18T19:12:54Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 298656703,
+      "tag_name": "snapshot",
+      "name": "Snapshot (0.0.0-dev.0+05e87c1)",
+      "published_at": "2026-03-18T20:01:23Z",
+      "created_at": "2026-03-19T23:22:44Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 376662003,
+          "name": "statsfactory-0.0.3-dev.1+5347acc.tar.gz",
+          "size": 728388,
+          "content_type": "application/gzip",
+          "created_at": "2026-03-18T20:01:25Z",
+          "updated_at": "2026-03-18T20:01:25Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 376662004,
+          "name": "statsfactory-0.0.3-dev.1+5347acc.zip",
+          "size": 746590,
+          "content_type": "application/zip",
+          "created_at": "2026-03-18T20:01:25Z",
+          "updated_at": "2026-03-18T20:01:25Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377546733,
+          "name": "statsfactory-0.0.0-dev.0+05e87c1.tar.gz",
+          "size": 536674,
+          "content_type": "application/gzip",
+          "created_at": "2026-03-19T23:23:41Z",
+          "updated_at": "2026-03-19T23:23:41Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 377546734,
+          "name": "statsfactory-0.0.0-dev.0+05e87c1.zip",
+          "size": 553446,
+          "content_type": "application/zip",
+          "created_at": "2026-03-19T23:23:41Z",
+          "updated_at": "2026-03-19T23:23:41Z",
+          "download_count": 0,
+          "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}
