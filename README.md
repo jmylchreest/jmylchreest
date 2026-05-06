@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 901 / 185.8k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 975 / 186.2k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -54,7 +54,7 @@
 ### Recently Active
 
 - **[awob](https://github.com/jmylchreest/awob)** (★2, Rust)<br>
-  <sub>[release: `v0.1.4`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 7 / 15](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 0](https://github.com/jmylchreest/awob/pulls)</sub>
+  <sub>[release: `v0.1.4`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 10 / 18](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 0](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
