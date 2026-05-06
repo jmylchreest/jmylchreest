@@ -2,8 +2,8 @@
 
 ### Featured
 
-- **[aide](https://github.com/jmylchreest/aide)** (★7, Go)<br>
-  <sub>[release: `v0.0.64`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 9 / 704](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+- **[aide](https://github.com/jmylchreest/aide)** (★8, Go)<br>
+  <sub>[release: `v0.0.64`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 10 / 705](https://github.com/jmylchreest/aide/releases) · [issues: 2](https://github.com/jmylchreest/aide/issues) · [PRs: 1](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
@@ -21,12 +21,12 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 1.2k / 187.4k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 1.3k / 188.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★14, Go)<br>
-  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 30 / 347](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 0](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 32 / 349](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 0](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
@@ -41,7 +41,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[kagimcp-zed](https://github.com/jmylchreest/kagimcp-zed)** (★6, Rust)<br>
-  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 897 / 2.3k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
+  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 898 / 2.3k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
 
   Kagi Search MCP (and Zed extension)
 
@@ -70,11 +70,6 @@
   <sub>[issues: 0](https://github.com/jmylchreest/homebrew-keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/homebrew-keylightd/pulls)</sub>
 
   brew tap for keylightd
-
-- **[lobslaw](https://github.com/jmylchreest/lobslaw)** (Go)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 0](https://github.com/jmylchreest/lobslaw/pulls)</sub>
-
-  an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
 
 ---
