@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-05-06T22:51:16Z",
+    "last_updated": "2026-05-06T23:49:38Z",
     "total_repos": 18,
-    "total_releases": 235,
-    "total_assets": 6307,
+    "total_releases": 236,
+    "total_assets": 6316,
     "active_assets": 5719,
-    "removed_assets": 588,
-    "total_downloads": 197454
+    "removed_assets": 597,
+    "total_downloads": 198207
   },
   "repos": [
     {
@@ -16,7 +16,7 @@
       "releases": 63,
       "active_assets": 3357,
       "removed_assets": 286,
-      "total_downloads": 2989,
+      "total_downloads": 2990,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-05-06T21:54:55Z"
     },
@@ -121,12 +121,12 @@
     },
     {
       "name": "rosec",
-      "releases": 23,
+      "releases": 24,
       "active_assets": 175,
-      "removed_assets": 9,
+      "removed_assets": 18,
       "total_downloads": 158,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-05-05T16:21:32Z"
+      "latest_release_published_at": "2026-05-06T23:15:51Z"
     },
     {
       "name": "rurl",
@@ -151,7 +151,7 @@
       "releases": 16,
       "active_assets": 1219,
       "removed_assets": 279,
-      "total_downloads": 189450,
+      "total_downloads": 190202,
       "latest_release_tag": "v0.3.1",
       "latest_release_published_at": "2026-05-06T22:42:52Z"
     },
