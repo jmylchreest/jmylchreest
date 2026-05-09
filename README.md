@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★8, Go)<br>
-  <sub>[release: `v0.0.65`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 7 / 735](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.0.65`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 8 / 736](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★19, Rust)<br>
-  <sub>[release: `v0.0.27`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 23 / 159](https://github.com/jmylchreest/rosec/releases) · [issues: 6](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.27`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 23 / 160](https://github.com/jmylchreest/rosec/releases) · [issues: 6](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 1.8k / 128.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 1.9k / 128.8k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -62,14 +62,6 @@
   <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
 
   Main plugin repository for tinct
-
-- **[refyne-sdk-go](https://github.com/jmylchreest/refyne-sdk-go)** (Go)<br>
-  <sub>[release: `v0.1.12`](https://github.com/jmylchreest/refyne-sdk-go/releases/latest) · [issues: 0](https://github.com/jmylchreest/refyne-sdk-go/issues) · [PRs: 0](https://github.com/jmylchreest/refyne-sdk-go/pulls)</sub>
-
-- **[homebrew-keylightd](https://github.com/jmylchreest/homebrew-keylightd)** (Ruby)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/homebrew-keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/homebrew-keylightd/pulls)</sub>
-
-  brew tap for keylightd
 
 
 ---
