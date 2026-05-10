@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★8, Go)<br>
-  <sub>[release: `v0.0.65`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 9 / 743](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.0.65`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 9 / 744](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
@@ -52,6 +52,11 @@
 
 
 ### Recently Active
+
+- **[fileflows-dv](https://github.com/jmylchreest/fileflows-dv)** (JavaScript)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/fileflows-dv/issues) · [PRs: 0](https://github.com/jmylchreest/fileflows-dv/pulls)</sub>
+
+  Drop-in FileFlows image with libplacebo+libdovi ffmpeg for Dolby Vision Profile 5 -> HDR10 Main10 conversion
 
 - **[awob](https://github.com/jmylchreest/awob)** (★2, Rust)<br>
   <sub>[release: `v0.1.6`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 2 / 28](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 1](https://github.com/jmylchreest/awob/pulls)</sub>
