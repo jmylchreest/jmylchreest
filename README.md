@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 5.4k / 150.6k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 5.5k / 151k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -59,7 +59,7 @@
   Drop-in FileFlows image with libplacebo+libdovi ffmpeg for Dolby Vision Profile 5 -> HDR10 Main10 conversion
 
 - **[awob](https://github.com/jmylchreest/awob)** (★2, Rust)<br>
-  <sub>[release: `v0.1.6`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 2 / 31](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 1](https://github.com/jmylchreest/awob/pulls)</sub>
+  <sub>[release: `v0.1.6`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 3 / 32](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 1](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
