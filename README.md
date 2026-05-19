@@ -8,7 +8,7 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★23, Rust)<br>
-  <sub>[release: `v0.0.28`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 0 / 175](https://github.com/jmylchreest/rosec/releases) · [issues: 6](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.28`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 1 / 176](https://github.com/jmylchreest/rosec/releases) · [issues: 6](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 8.7k / 171.8k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 8.8k / 172.2k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -49,14 +49,6 @@
   <sub>[downloads: 0 / 88](https://github.com/jmylchreest/igmp/releases) · [issues: 0](https://github.com/jmylchreest/igmp/issues) · [PRs: 0](https://github.com/jmylchreest/igmp/pulls)</sub>
 
   Lightweight/simple IGMPv2 Query daemon written in Golang.
-
-
-### Recently Active
-
-- **[fileflows-dv](https://github.com/jmylchreest/fileflows-dv)** (JavaScript)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/fileflows-dv/issues) · [PRs: 0](https://github.com/jmylchreest/fileflows-dv/pulls)</sub>
-
-  Drop-in FileFlows image with libplacebo+libdovi ffmpeg for Dolby Vision Profile 5 -> HDR10 Main10 conversion
 
 
 ---
