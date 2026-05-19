@@ -3,9 +3,9 @@
     "owner": "jmylchreest",
     "repo": "rosec",
     "schema_version": 2,
-    "last_updated": "2026-05-19T06:51:06Z",
-    "releases": 28,
-    "active_assets": 175,
+    "last_updated": "2026-05-19T20:47:05Z",
+    "releases": 29,
+    "active_assets": 184,
     "removed_assets": 54,
     "total_downloads": 180
   },
@@ -2887,6 +2887,116 @@
           "updated_at": "2026-05-16T17:38:22Z",
           "download_count": 0,
           "first_seen": "2026-05-16T17:59:58Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 325342753,
+      "tag_name": "v0.0.28",
+      "name": "rosec v0.0.28",
+      "published_at": "2026-05-19T20:32:41Z",
+      "created_at": "2026-05-19T20:27:17Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 424506479,
+          "name": "checksums.txt",
+          "size": 903,
+          "content_type": "text/plain",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
+          "status": "active"
+        },
+        {
+          "id": 424506480,
+          "name": "rosec-provider-keepassxc-file-0.0.28.wasm.tar.gz",
+          "size": 561720,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
+          "status": "active"
+        },
+        {
+          "id": 424506482,
+          "name": "rosec-0.0.28-x86_64-unknown-linux-musl.tar.gz",
+          "size": 33518381,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:41Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
+          "status": "active"
+        },
+        {
+          "id": 424506483,
+          "name": "rosec-provider-gnome-keyring-0.0.28.wasm.tar.gz",
+          "size": 152535,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
+          "status": "active"
+        },
+        {
+          "id": 424506484,
+          "name": "rosec-provider-bitwarden-sm-0.0.28.wasm.tar.gz",
+          "size": 154683,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
+          "status": "active"
+        },
+        {
+          "id": 424506485,
+          "name": "rosec-provider-bitwarden-pm-0.0.28.wasm.tar.gz",
+          "size": 329004,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:39Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
+          "status": "active"
+        },
+        {
+          "id": 424506486,
+          "name": "rosec-0.0.28-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 33090081,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:41Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
+          "status": "active"
+        },
+        {
+          "id": 424506487,
+          "name": "rosec-0.0.28-aarch64-unknown-linux-gnu.tar.gz",
+          "size": 31373592,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:41Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
+          "status": "active"
+        },
+        {
+          "id": 424506488,
+          "name": "rosec-0.0.28-aarch64-unknown-linux-musl.tar.gz",
+          "size": 31588455,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T20:32:39Z",
+          "updated_at": "2026-05-19T20:32:41Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T20:47:05Z",
           "status": "active"
         }
       ]
