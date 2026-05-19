@@ -3,11 +3,11 @@
     "owner": "jmylchreest",
     "repo": "aide",
     "schema_version": 2,
-    "last_updated": "2026-05-19T13:54:20Z",
-    "releases": 65,
-    "active_assets": 3515,
-    "removed_assets": 444,
-    "total_downloads": 3445
+    "last_updated": "2026-05-19T16:48:55Z",
+    "releases": 67,
+    "active_assets": 3673,
+    "removed_assets": 602,
+    "total_downloads": 3447
   },
   "releases": [
     {
@@ -16141,7 +16141,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-03-18T22:19:41Z",
           "updated_at": "2026-03-18T22:19:42Z",
-          "download_count": 1,
+          "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -24809,7 +24809,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-04-05T20:41:23Z",
           "updated_at": "2026-04-05T20:41:23Z",
-          "download_count": 3,
+          "download_count": 4,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -42971,11 +42971,11 @@
     },
     {
       "id": 318706414,
-      "tag_name": "snapshot",
-      "name": "Development Snapshot",
-      "published_at": "2026-05-07T01:04:06Z",
-      "created_at": "2026-05-07T00:58:10Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -42987,7 +42987,8 @@
           "updated_at": "2026-05-07T01:04:12Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974315,
@@ -42998,7 +42999,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974316,
@@ -43009,7 +43011,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974317,
@@ -43020,7 +43023,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974318,
@@ -43031,7 +43035,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974319,
@@ -43042,7 +43047,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974320,
@@ -43053,7 +43059,8 @@
           "updated_at": "2026-05-07T01:04:12Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974321,
@@ -43064,7 +43071,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974322,
@@ -43075,7 +43083,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974323,
@@ -43086,7 +43095,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974324,
@@ -43097,7 +43107,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974325,
@@ -43108,7 +43119,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974326,
@@ -43119,7 +43131,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974327,
@@ -43130,7 +43143,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974328,
@@ -43141,7 +43155,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974329,
@@ -43152,7 +43167,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974330,
@@ -43163,7 +43179,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974331,
@@ -43174,7 +43191,8 @@
           "updated_at": "2026-05-07T01:04:12Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974332,
@@ -43185,7 +43203,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974333,
@@ -43196,7 +43215,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974334,
@@ -43207,7 +43227,8 @@
           "updated_at": "2026-05-07T01:04:11Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974335,
@@ -43218,7 +43239,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974336,
@@ -43229,7 +43251,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974337,
@@ -43240,7 +43263,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974338,
@@ -43251,7 +43275,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974339,
@@ -43262,7 +43287,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974340,
@@ -43273,7 +43299,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974341,
@@ -43284,7 +43311,8 @@
           "updated_at": "2026-05-07T01:04:11Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974342,
@@ -43295,7 +43323,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974343,
@@ -43306,7 +43335,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974344,
@@ -43317,7 +43347,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974345,
@@ -43328,7 +43359,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974346,
@@ -43339,7 +43371,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974347,
@@ -43350,7 +43383,8 @@
           "updated_at": "2026-05-07T01:04:12Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974348,
@@ -43361,7 +43395,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974349,
@@ -43372,7 +43407,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974350,
@@ -43383,7 +43419,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974351,
@@ -43394,7 +43431,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974352,
@@ -43405,7 +43443,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974353,
@@ -43416,7 +43455,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974354,
@@ -43427,7 +43467,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974355,
@@ -43438,7 +43479,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974356,
@@ -43449,7 +43491,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974357,
@@ -43460,7 +43503,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974358,
@@ -43471,7 +43515,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974359,
@@ -43482,7 +43527,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974360,
@@ -43493,7 +43539,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974361,
@@ -43504,7 +43551,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974363,
@@ -43515,7 +43563,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974364,
@@ -43526,7 +43575,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974365,
@@ -43537,7 +43587,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974366,
@@ -43548,7 +43599,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974367,
@@ -43559,7 +43611,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974368,
@@ -43570,7 +43623,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974369,
@@ -43581,7 +43635,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974370,
@@ -43592,7 +43647,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974371,
@@ -43603,7 +43659,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974372,
@@ -43614,7 +43671,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974373,
@@ -43625,7 +43683,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974374,
@@ -43636,7 +43695,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974375,
@@ -43647,7 +43707,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974376,
@@ -43658,7 +43719,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974377,
@@ -43669,7 +43731,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974378,
@@ -43680,7 +43743,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974379,
@@ -43691,7 +43755,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974380,
@@ -43702,7 +43767,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974381,
@@ -43713,7 +43779,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974382,
@@ -43724,7 +43791,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974383,
@@ -43735,7 +43803,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974384,
@@ -43746,7 +43815,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974385,
@@ -43757,7 +43827,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974388,
@@ -43768,7 +43839,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974389,
@@ -43779,7 +43851,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974390,
@@ -43790,7 +43863,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974391,
@@ -43801,7 +43875,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974392,
@@ -43812,7 +43887,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974393,
@@ -43823,7 +43899,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974394,
@@ -43834,7 +43911,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974395,
@@ -43845,7 +43923,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974396,
@@ -43856,7 +43935,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974397,
@@ -43867,7 +43947,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974398,
@@ -43878,7 +43959,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974399,
@@ -43889,7 +43971,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974400,
@@ -43900,7 +43983,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974401,
@@ -43911,7 +43995,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974403,
@@ -43922,7 +44007,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974404,
@@ -43933,7 +44019,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974405,
@@ -43944,7 +44031,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974406,
@@ -43955,7 +44043,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974407,
@@ -43966,7 +44055,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974408,
@@ -43977,7 +44067,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974409,
@@ -43988,7 +44079,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974410,
@@ -43999,7 +44091,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974411,
@@ -44010,7 +44103,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974412,
@@ -44021,7 +44115,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974413,
@@ -44032,7 +44127,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974414,
@@ -44043,7 +44139,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974416,
@@ -44054,7 +44151,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974421,
@@ -44065,7 +44163,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974422,
@@ -44076,7 +44175,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974423,
@@ -44087,7 +44187,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974424,
@@ -44098,7 +44199,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974425,
@@ -44109,7 +44211,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974426,
@@ -44120,7 +44223,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974427,
@@ -44131,7 +44235,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974428,
@@ -44142,7 +44247,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974429,
@@ -44153,7 +44259,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974430,
@@ -44164,7 +44271,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974431,
@@ -44175,7 +44283,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974432,
@@ -44186,7 +44295,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974433,
@@ -44197,7 +44307,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974434,
@@ -44208,7 +44319,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974435,
@@ -44219,7 +44331,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974436,
@@ -44230,7 +44343,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974437,
@@ -44241,7 +44355,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974438,
@@ -44252,7 +44367,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974439,
@@ -44263,7 +44379,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974440,
@@ -44274,7 +44391,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974441,
@@ -44285,7 +44403,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974442,
@@ -44296,7 +44415,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974443,
@@ -44307,7 +44427,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974444,
@@ -44318,7 +44439,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974445,
@@ -44329,7 +44451,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974446,
@@ -44340,7 +44463,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974447,
@@ -44351,7 +44475,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974448,
@@ -44362,7 +44487,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974449,
@@ -44373,7 +44499,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974450,
@@ -44384,7 +44511,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974451,
@@ -44395,7 +44523,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974452,
@@ -44406,7 +44535,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974453,
@@ -44417,7 +44547,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974454,
@@ -44428,7 +44559,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974455,
@@ -44439,7 +44571,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974456,
@@ -44450,7 +44583,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974457,
@@ -44461,7 +44595,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974458,
@@ -44472,7 +44607,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974459,
@@ -44483,7 +44619,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974460,
@@ -44494,7 +44631,8 @@
           "updated_at": "2026-05-07T01:04:12Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974461,
@@ -44505,7 +44643,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974462,
@@ -44516,7 +44655,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974463,
@@ -44527,7 +44667,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974464,
@@ -44538,7 +44679,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974465,
@@ -44549,7 +44691,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974466,
@@ -44560,7 +44703,8 @@
           "updated_at": "2026-05-07T01:04:12Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974467,
@@ -44571,7 +44715,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974468,
@@ -44582,7 +44727,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974469,
@@ -44593,7 +44739,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974470,
@@ -44604,7 +44751,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974471,
@@ -44615,7 +44763,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974472,
@@ -44626,7 +44775,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974473,
@@ -44637,7 +44787,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974474,
@@ -44648,7 +44799,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974475,
@@ -44659,7 +44811,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974476,
@@ -44670,7 +44823,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974477,
@@ -44681,7 +44835,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974478,
@@ -44692,7 +44847,8 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974479,
@@ -44703,7 +44859,8 @@
           "updated_at": "2026-05-07T01:04:09Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
         },
         {
           "id": 413974480,
@@ -44714,6 +44871,3505 @@
           "updated_at": "2026-05-07T01:04:10Z",
           "download_count": 0,
           "first_seen": "2026-05-07T02:39:57Z",
+          "status": "removed",
+          "removed_at": "2026-05-19T16:48:55Z"
+        }
+      ]
+    },
+    {
+      "id": 325110169,
+      "tag_name": "snapshot",
+      "name": "Development Snapshot",
+      "published_at": "2026-05-19T15:22:19Z",
+      "created_at": "2026-05-19T15:14:34Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 424295106,
+          "name": "aide-grammar-toml-snapshot-darwin-arm64.tar.gz",
+          "size": 9732,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295107,
+          "name": "aide-grammar-protobuf-snapshot-darwin-amd64.tar.gz",
+          "size": 15133,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295108,
+          "name": "aide-grammar-toml-snapshot-windows-arm64.tar.gz",
+          "size": 333886,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295109,
+          "name": "aide-grammar-sql-snapshot-darwin-arm64.tar.gz",
+          "size": 331256,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295110,
+          "name": "aide-grammar-yaml-snapshot-windows-arm64.tar.gz",
+          "size": 373590,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295111,
+          "name": "aide-grammar-yaml-snapshot-darwin-arm64.tar.gz",
+          "size": 38623,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295113,
+          "name": "aide-grammar-toml-snapshot-darwin-amd64.tar.gz",
+          "size": 9438,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295114,
+          "name": "aide-grammar-yaml-snapshot-windows-amd64.tar.gz",
+          "size": 363595,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295115,
+          "name": "aide-grammar-r-snapshot-windows-arm64.tar.gz",
+          "size": 377584,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295116,
+          "name": "aide-web-darwin-amd64",
+          "size": 37698160,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:26Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295117,
+          "name": "aide-grammar-ruby-snapshot-linux-amd64.tar.gz",
+          "size": 196948,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295118,
+          "name": "aide-grammar-ruby-snapshot-windows-amd64.tar.gz",
+          "size": 506888,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295119,
+          "name": "aide-grammar-ruby-snapshot-darwin-arm64.tar.gz",
+          "size": 190023,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295120,
+          "name": "aide-grammar-scala-snapshot-darwin-amd64.tar.gz",
+          "size": 612943,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295121,
+          "name": "aide-grammar-scala-snapshot-linux-amd64.tar.gz",
+          "size": 701161,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295122,
+          "name": "aide-web-darwin-arm64",
+          "size": 36047250,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:26Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295123,
+          "name": "aide-web-linux-arm64",
+          "size": 7265200,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:24Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295124,
+          "name": "aide-grammar-scala-snapshot-linux-arm64.tar.gz",
+          "size": 708227,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295125,
+          "name": "aide-web-linux-amd64",
+          "size": 8633224,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:24Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295126,
+          "name": "aide-windows-amd64.exe",
+          "size": 10148864,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:24Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295127,
+          "name": "aide-grammar-solidity-snapshot-windows-arm64.tar.gz",
+          "size": 386606,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295128,
+          "name": "aide-grammar-protobuf-snapshot-windows-amd64.tar.gz",
+          "size": 335877,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295129,
+          "name": "aide-grammar-php-snapshot-linux-arm64.tar.gz",
+          "size": 146558,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295130,
+          "name": "aide-linux-amd64",
+          "size": 10724164,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:24Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295131,
+          "name": "aide-grammar-php-snapshot-windows-arm64.tar.gz",
+          "size": 451198,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295132,
+          "name": "aide-grammar-scala-snapshot-windows-amd64.tar.gz",
+          "size": 963197,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295133,
+          "name": "aide-grammar-toml-snapshot-windows-amd64.tar.gz",
+          "size": 325710,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295134,
+          "name": "aide-grammar-toml-snapshot-linux-arm64.tar.gz",
+          "size": 19405,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295135,
+          "name": "aide-grammar-yaml-snapshot-darwin-amd64.tar.gz",
+          "size": 37197,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295136,
+          "name": "aide-grammar-r-snapshot-linux-amd64.tar.gz",
+          "size": 65327,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295137,
+          "name": "aide-grammar-sql-snapshot-linux-arm64.tar.gz",
+          "size": 357632,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295138,
+          "name": "aide-grammar-solidity-snapshot-linux-arm64.tar.gz",
+          "size": 81361,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295139,
+          "name": "aide-grammar-solidity-snapshot-darwin-arm64.tar.gz",
+          "size": 53791,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295140,
+          "name": "aide-grammar-sql-snapshot-windows-amd64.tar.gz",
+          "size": 651636,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295141,
+          "name": "aide-grammar-yaml-snapshot-linux-amd64.tar.gz",
+          "size": 61153,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295142,
+          "name": "aide-grammar-protobuf-snapshot-linux-amd64.tar.gz",
+          "size": 21747,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295143,
+          "name": "aide-windows-arm64.exe",
+          "size": 44078592,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:26Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295144,
+          "name": "aide-grammar-scala-snapshot-darwin-arm64.tar.gz",
+          "size": 648868,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295145,
+          "name": "aide-grammar-r-snapshot-linux-arm64.tar.gz",
+          "size": 65511,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295146,
+          "name": "aide-grammar-sql-snapshot-darwin-amd64.tar.gz",
+          "size": 314251,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295147,
+          "name": "aide-grammar-sql-snapshot-linux-amd64.tar.gz",
+          "size": 350453,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295148,
+          "name": "aide-grammar-protobuf-snapshot-linux-arm64.tar.gz",
+          "size": 21917,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295149,
+          "name": "aide-grammar-solidity-snapshot-windows-amd64.tar.gz",
+          "size": 380114,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295151,
+          "name": "aide-web-windows-amd64.exe",
+          "size": 8114176,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:24Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295152,
+          "name": "aide-grammar-toml-snapshot-linux-amd64.tar.gz",
+          "size": 18584,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295153,
+          "name": "aide-grammar-sql-snapshot-windows-arm64.tar.gz",
+          "size": 655975,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295154,
+          "name": "aide-grammar-protobuf-snapshot-windows-arm64.tar.gz",
+          "size": 345279,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295155,
+          "name": "aide-grammar-lua-snapshot-linux-amd64.tar.gz",
+          "size": 27806,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295156,
+          "name": "aide-grammar-lua-snapshot-linux-arm64.tar.gz",
+          "size": 29377,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295157,
+          "name": "aide-grammar-protobuf-snapshot-darwin-arm64.tar.gz",
+          "size": 16167,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295158,
+          "name": "aide-grammar-r-snapshot-windows-amd64.tar.gz",
+          "size": 370260,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295159,
+          "name": "aide-web-windows-arm64.exe",
+          "size": 36291072,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:26Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295160,
+          "name": "aide-grammar-ocaml-snapshot-darwin-amd64.tar.gz",
+          "size": 243585,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295161,
+          "name": "aide-grammar-kotlin-snapshot-linux-amd64.tar.gz",
+          "size": 327534,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295162,
+          "name": "aide-grammar-php-snapshot-darwin-amd64.tar.gz",
+          "size": 112559,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295163,
+          "name": "aide-grammar-html-snapshot-windows-arm64.tar.gz",
+          "size": 336689,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295165,
+          "name": "aide-grammar-kotlin-snapshot-darwin-amd64.tar.gz",
+          "size": 308599,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295166,
+          "name": "aide-grammar-kotlin-snapshot-darwin-arm64.tar.gz",
+          "size": 332316,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295167,
+          "name": "aide-grammar-r-snapshot-darwin-amd64.tar.gz",
+          "size": 50609,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295168,
+          "name": "aide-grammar-lua-snapshot-windows-amd64.tar.gz",
+          "size": 334364,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295169,
+          "name": "aide-grammar-solidity-snapshot-darwin-amd64.tar.gz",
+          "size": 50656,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295170,
+          "name": "aide-grammar-scala-snapshot-windows-arm64.tar.gz",
+          "size": 971519,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295171,
+          "name": "aide-grammar-ocaml-snapshot-darwin-arm64.tar.gz",
+          "size": 262086,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295172,
+          "name": "aide-grammar-ruby-snapshot-windows-arm64.tar.gz",
+          "size": 516701,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295173,
+          "name": "aide-grammar-ocaml-snapshot-windows-arm64.tar.gz",
+          "size": 584374,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295174,
+          "name": "aide-linux-arm64",
+          "size": 8961304,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:24Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295175,
+          "name": "aide-grammar-lua-snapshot-windows-arm64.tar.gz",
+          "size": 342217,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295176,
+          "name": "aide-grammar-php-snapshot-linux-amd64.tar.gz",
+          "size": 144726,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295177,
+          "name": "aide-grammar-php-snapshot-darwin-arm64.tar.gz",
+          "size": 120262,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295178,
+          "name": "aide-grammar-kotlin-snapshot-windows-arm64.tar.gz",
+          "size": 656257,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295179,
+          "name": "aide-grammar-html-snapshot-darwin-arm64.tar.gz",
+          "size": 9332,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295180,
+          "name": "aide-grammar-lua-snapshot-darwin-arm64.tar.gz",
+          "size": 16294,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295181,
+          "name": "aide-grammar-solidity-snapshot-linux-amd64.tar.gz",
+          "size": 75016,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295182,
+          "name": "aide-grammar-yaml-snapshot-linux-arm64.tar.gz",
+          "size": 61697,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295183,
+          "name": "aide-grammar-php-snapshot-windows-amd64.tar.gz",
+          "size": 445871,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295184,
+          "name": "aide-grammar-hcl-snapshot-windows-arm64.tar.gz",
+          "size": 351354,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295186,
+          "name": "aide-grammar-haskell-snapshot-linux-amd64.tar.gz",
+          "size": 374872,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295187,
+          "name": "aide-grammar-hcl-snapshot-windows-amd64.tar.gz",
+          "size": 342904,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295188,
+          "name": "aide-grammar-ocaml-snapshot-linux-amd64.tar.gz",
+          "size": 268795,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295189,
+          "name": "aide-grammar-ocaml-snapshot-linux-arm64.tar.gz",
+          "size": 267794,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295190,
+          "name": "aide-grammar-groovy-snapshot-windows-arm64.tar.gz",
+          "size": 436466,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295191,
+          "name": "aide-grammar-groovy-snapshot-windows-amd64.tar.gz",
+          "size": 425730,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295192,
+          "name": "aide-grammar-r-snapshot-darwin-arm64.tar.gz",
+          "size": 56265,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295193,
+          "name": "aide-grammar-ruby-snapshot-darwin-amd64.tar.gz",
+          "size": 172984,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295194,
+          "name": "aide-grammar-hcl-snapshot-linux-arm64.tar.gz",
+          "size": 44178,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295195,
+          "name": "aide-grammar-groovy-snapshot-linux-arm64.tar.gz",
+          "size": 132557,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295196,
+          "name": "aide-grammar-html-snapshot-linux-amd64.tar.gz",
+          "size": 23494,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295197,
+          "name": "aide-grammar-hcl-snapshot-linux-amd64.tar.gz",
+          "size": 44278,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295198,
+          "name": "aide-grammar-kotlin-snapshot-linux-arm64.tar.gz",
+          "size": 325198,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295199,
+          "name": "aide-grammar-html-snapshot-darwin-amd64.tar.gz",
+          "size": 9276,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295200,
+          "name": "aide-grammar-html-snapshot-linux-arm64.tar.gz",
+          "size": 23054,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295201,
+          "name": "aide-grammar-html-snapshot-windows-amd64.tar.gz",
+          "size": 329119,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295203,
+          "name": "aide-grammar-hcl-snapshot-darwin-arm64.tar.gz",
+          "size": 23197,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295204,
+          "name": "aide-grammar-hcl-snapshot-darwin-amd64.tar.gz",
+          "size": 22871,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295205,
+          "name": "aide-grammar-haskell-snapshot-darwin-amd64.tar.gz",
+          "size": 304932,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295206,
+          "name": "aide-grammar-haskell-snapshot-linux-arm64.tar.gz",
+          "size": 382246,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295207,
+          "name": "aide-grammar-kotlin-snapshot-windows-amd64.tar.gz",
+          "size": 650046,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295208,
+          "name": "aide-grammar-groovy-snapshot-linux-amd64.tar.gz",
+          "size": 122134,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295209,
+          "name": "aide-grammar-lua-snapshot-darwin-amd64.tar.gz",
+          "size": 15863,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295210,
+          "name": "aide-grammar-ocaml-snapshot-windows-amd64.tar.gz",
+          "size": 577275,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295211,
+          "name": "aide-grammar-haskell-snapshot-darwin-arm64.tar.gz",
+          "size": 333478,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295212,
+          "name": "aide-grammar-ruby-snapshot-linux-arm64.tar.gz",
+          "size": 196672,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295214,
+          "name": "aide-grammar-haskell-snapshot-windows-amd64.tar.gz",
+          "size": 662871,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295215,
+          "name": "aide-grammar-elm-snapshot-windows-arm64.tar.gz",
+          "size": 372045,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295216,
+          "name": "aide-grammar-clojure-snapshot-darwin-arm64.tar.gz",
+          "size": 26281,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295217,
+          "name": "aide-grammar-csharp-snapshot-darwin-arm64.tar.gz",
+          "size": 370268,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295218,
+          "name": "aide-grammar-haskell-snapshot-windows-arm64.tar.gz",
+          "size": 670125,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295219,
+          "name": "aide-grammar-erlang-snapshot-darwin-amd64.tar.gz",
+          "size": 49881,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295220,
+          "name": "aide-grammar-css-snapshot-linux-arm64.tar.gz",
+          "size": 34643,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295221,
+          "name": "aide-grammar-erlang-snapshot-linux-amd64.tar.gz",
+          "size": 62506,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295222,
+          "name": "aide-grammar-elm-snapshot-darwin-amd64.tar.gz",
+          "size": 42108,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295223,
+          "name": "aide-grammar-groovy-snapshot-darwin-arm64.tar.gz",
+          "size": 110575,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295224,
+          "name": "aide-grammar-clojure-snapshot-windows-arm64.tar.gz",
+          "size": 351145,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295225,
+          "name": "aide-grammar-clojure-snapshot-linux-arm64.tar.gz",
+          "size": 38443,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295226,
+          "name": "aide-grammar-elixir-snapshot-windows-arm64.tar.gz",
+          "size": 498293,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295227,
+          "name": "aide-grammar-elm-snapshot-linux-arm64.tar.gz",
+          "size": 66402,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295228,
+          "name": "aide-darwin-amd64",
+          "size": 46014800,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:26Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295229,
+          "name": "aide-grammar-csharp-snapshot-darwin-amd64.tar.gz",
+          "size": 327881,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295230,
+          "name": "aide-grammar-elixir-snapshot-linux-amd64.tar.gz",
+          "size": 170985,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295231,
+          "name": "aide-grammar-dart-snapshot-linux-amd64.tar.gz",
+          "size": 148747,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295232,
+          "name": "aide-grammar-elm-snapshot-windows-amd64.tar.gz",
+          "size": 365351,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295233,
+          "name": "aide-grammar-erlang-snapshot-windows-arm64.tar.gz",
+          "size": 388994,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295234,
+          "name": "checksums.txt",
+          "size": 17537,
+          "content_type": "text/plain",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295235,
+          "name": "aide-grammar-clojure-snapshot-windows-amd64.tar.gz",
+          "size": 342758,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295236,
+          "name": "aide-grammar-csharp-snapshot-windows-arm64.tar.gz",
+          "size": 675691,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295237,
+          "name": "aide-grammar-dart-snapshot-windows-amd64.tar.gz",
+          "size": 450433,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295238,
+          "name": "aide-grammar-dart-snapshot-windows-arm64.tar.gz",
+          "size": 457372,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295239,
+          "name": "aide-grammar-csharp-snapshot-linux-amd64.tar.gz",
+          "size": 353075,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295240,
+          "name": "aide-grammar-elm-snapshot-darwin-arm64.tar.gz",
+          "size": 43517,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295241,
+          "name": "aide-grammar-csharp-snapshot-linux-arm64.tar.gz",
+          "size": 352784,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295242,
+          "name": "aide-grammar-bash-snapshot-windows-arm64.tar.gz",
+          "size": 546742,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295243,
+          "name": "aide-grammar-bash-snapshot-linux-arm64.tar.gz",
+          "size": 218145,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295244,
+          "name": "jmylchreest-aide-plugin-0.0.67-dev.1+b7504c9.tgz",
+          "size": 158047,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295245,
+          "name": "aide-grammar-dart-snapshot-linux-arm64.tar.gz",
+          "size": 152023,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295246,
+          "name": "aide-darwin-arm64",
+          "size": 43805154,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:27Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295247,
+          "name": "aide-grammar-elixir-snapshot-windows-amd64.tar.gz",
+          "size": 489858,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295248,
+          "name": "aide-grammar-css-snapshot-darwin-arm64.tar.gz",
+          "size": 24847,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295249,
+          "name": "aide-grammar-css-snapshot-darwin-amd64.tar.gz",
+          "size": 23808,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295250,
+          "name": "aide-grammar-csharp-snapshot-windows-amd64.tar.gz",
+          "size": 666770,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295251,
+          "name": "aide-grammar-erlang-snapshot-darwin-arm64.tar.gz",
+          "size": 53455,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295252,
+          "name": "aide-grammar-elixir-snapshot-darwin-arm64.tar.gz",
+          "size": 163545,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295253,
+          "name": "aide-grammar-bash-snapshot-windows-amd64.tar.gz",
+          "size": 539003,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295254,
+          "name": "aide-grammar-bash-snapshot-darwin-amd64.tar.gz",
+          "size": 187911,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295255,
+          "name": "aide-grammar-css-snapshot-windows-arm64.tar.gz",
+          "size": 359095,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295256,
+          "name": "aide-grammar-elixir-snapshot-darwin-amd64.tar.gz",
+          "size": 152280,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295257,
+          "name": "aide-grammar-dart-snapshot-darwin-arm64.tar.gz",
+          "size": 131331,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295258,
+          "name": "aide-grammar-groovy-snapshot-darwin-amd64.tar.gz",
+          "size": 101622,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295259,
+          "name": "aide-grammar-erlang-snapshot-linux-arm64.tar.gz",
+          "size": 63464,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295260,
+          "name": "aide-grammar-elm-snapshot-linux-amd64.tar.gz",
+          "size": 66329,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295261,
+          "name": "aide-grammar-clojure-snapshot-darwin-amd64.tar.gz",
+          "size": 24891,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295262,
+          "name": "aide-grammar-clojure-snapshot-linux-amd64.tar.gz",
+          "size": 38505,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295263,
+          "name": "aide-grammar-dart-snapshot-darwin-amd64.tar.gz",
+          "size": 123085,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295264,
+          "name": "aide-grammar-css-snapshot-linux-amd64.tar.gz",
+          "size": 34694,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295265,
+          "name": "aide-grammar-bash-snapshot-linux-amd64.tar.gz",
+          "size": 220553,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295266,
+          "name": "aide-grammar-erlang-snapshot-windows-amd64.tar.gz",
+          "size": 379061,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295267,
+          "name": "aide-grammar-bash-snapshot-darwin-arm64.tar.gz",
+          "size": 196228,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295268,
+          "name": "aide-grammar-css-snapshot-windows-amd64.tar.gz",
+          "size": 349771,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424295270,
+          "name": "aide-grammar-elixir-snapshot-linux-arm64.tar.gz",
+          "size": 171220,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T15:22:23Z",
+          "updated_at": "2026-05-19T15:22:23Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 325164888,
+      "tag_name": "v0.0.66",
+      "name": "aide v0.0.66",
+      "published_at": "2026-05-19T16:35:38Z",
+      "created_at": "2026-05-19T16:29:14Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 424348251,
+          "name": "aide-web-windows-arm64.exe",
+          "size": 36291072,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:37Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348253,
+          "name": "aide-grammar-yaml-v0.0.66-darwin-arm64.tar.gz",
+          "size": 38623,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348254,
+          "name": "aide-grammar-scala-v0.0.66-linux-amd64.tar.gz",
+          "size": 701159,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348255,
+          "name": "aide-web-linux-arm64",
+          "size": 7259612,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:35Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348256,
+          "name": "aide-grammar-toml-v0.0.66-darwin-amd64.tar.gz",
+          "size": 9437,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348257,
+          "name": "aide-grammar-toml-v0.0.66-darwin-arm64.tar.gz",
+          "size": 9736,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348258,
+          "name": "aide-grammar-solidity-v0.0.66-darwin-arm64.tar.gz",
+          "size": 53790,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348259,
+          "name": "aide-grammar-protobuf-v0.0.66-darwin-amd64.tar.gz",
+          "size": 15132,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348260,
+          "name": "aide-grammar-protobuf-v0.0.66-windows-amd64.tar.gz",
+          "size": 335872,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348261,
+          "name": "aide-linux-amd64",
+          "size": 10724752,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:35Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348262,
+          "name": "aide-grammar-toml-v0.0.66-linux-amd64.tar.gz",
+          "size": 18581,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348263,
+          "name": "aide-grammar-yaml-v0.0.66-darwin-amd64.tar.gz",
+          "size": 37197,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348264,
+          "name": "aide-web-windows-amd64.exe",
+          "size": 8119296,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:35Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348265,
+          "name": "aide-grammar-solidity-v0.0.66-linux-amd64.tar.gz",
+          "size": 75020,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348266,
+          "name": "aide-grammar-yaml-v0.0.66-linux-arm64.tar.gz",
+          "size": 61698,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348267,
+          "name": "aide-grammar-ruby-v0.0.66-darwin-amd64.tar.gz",
+          "size": 172984,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348268,
+          "name": "aide-grammar-toml-v0.0.66-linux-arm64.tar.gz",
+          "size": 19404,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348269,
+          "name": "aide-grammar-sql-v0.0.66-darwin-amd64.tar.gz",
+          "size": 314249,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348270,
+          "name": "aide-web-linux-amd64",
+          "size": 8635068,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:35Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348271,
+          "name": "aide-grammar-solidity-v0.0.66-windows-amd64.tar.gz",
+          "size": 380106,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348272,
+          "name": "aide-grammar-sql-v0.0.66-linux-amd64.tar.gz",
+          "size": 350456,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348273,
+          "name": "aide-grammar-protobuf-v0.0.66-windows-arm64.tar.gz",
+          "size": 345284,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348274,
+          "name": "aide-windows-arm64.exe",
+          "size": 44078080,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:37Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348275,
+          "name": "aide-grammar-ruby-v0.0.66-linux-amd64.tar.gz",
+          "size": 196946,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348276,
+          "name": "aide-grammar-yaml-v0.0.66-linux-amd64.tar.gz",
+          "size": 61152,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348277,
+          "name": "aide-grammar-sql-v0.0.66-windows-amd64.tar.gz",
+          "size": 651635,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348278,
+          "name": "aide-grammar-yaml-v0.0.66-windows-amd64.tar.gz",
+          "size": 363579,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348279,
+          "name": "aide-grammar-solidity-v0.0.66-linux-arm64.tar.gz",
+          "size": 81358,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348280,
+          "name": "aide-grammar-protobuf-v0.0.66-linux-arm64.tar.gz",
+          "size": 21917,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348281,
+          "name": "aide-web-darwin-amd64",
+          "size": 37698160,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:37Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348282,
+          "name": "aide-grammar-yaml-v0.0.66-windows-arm64.tar.gz",
+          "size": 373607,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348283,
+          "name": "aide-grammar-ruby-v0.0.66-windows-arm64.tar.gz",
+          "size": 517197,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348284,
+          "name": "aide-grammar-ruby-v0.0.66-linux-arm64.tar.gz",
+          "size": 196674,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348285,
+          "name": "aide-grammar-ruby-v0.0.66-windows-amd64.tar.gz",
+          "size": 506871,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348286,
+          "name": "aide-grammar-solidity-v0.0.66-windows-arm64.tar.gz",
+          "size": 386612,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348287,
+          "name": "aide-grammar-r-v0.0.66-darwin-amd64.tar.gz",
+          "size": 50609,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348288,
+          "name": "aide-grammar-toml-v0.0.66-windows-arm64.tar.gz",
+          "size": 333890,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348289,
+          "name": "aide-grammar-r-v0.0.66-darwin-arm64.tar.gz",
+          "size": 56265,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348290,
+          "name": "aide-grammar-scala-v0.0.66-darwin-amd64.tar.gz",
+          "size": 612941,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348291,
+          "name": "aide-grammar-ruby-v0.0.66-darwin-arm64.tar.gz",
+          "size": 190024,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348292,
+          "name": "aide-grammar-scala-v0.0.66-darwin-arm64.tar.gz",
+          "size": 648868,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348293,
+          "name": "aide-grammar-protobuf-v0.0.66-linux-amd64.tar.gz",
+          "size": 21745,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348294,
+          "name": "aide-grammar-r-v0.0.66-windows-amd64.tar.gz",
+          "size": 370266,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348295,
+          "name": "aide-grammar-ocaml-v0.0.66-darwin-amd64.tar.gz",
+          "size": 243585,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348296,
+          "name": "aide-web-darwin-arm64",
+          "size": 36047250,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:37Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348297,
+          "name": "aide-grammar-scala-v0.0.66-linux-arm64.tar.gz",
+          "size": 708225,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348298,
+          "name": "aide-grammar-hcl-v0.0.66-darwin-arm64.tar.gz",
+          "size": 23196,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348299,
+          "name": "aide-grammar-r-v0.0.66-linux-amd64.tar.gz",
+          "size": 65327,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348300,
+          "name": "aide-linux-arm64",
+          "size": 8966276,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:35Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348301,
+          "name": "aide-grammar-haskell-v0.0.66-windows-arm64.tar.gz",
+          "size": 670185,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348302,
+          "name": "aide-grammar-lua-v0.0.66-darwin-amd64.tar.gz",
+          "size": 15863,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348303,
+          "name": "aide-grammar-scala-v0.0.66-windows-arm64.tar.gz",
+          "size": 971525,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:33Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348304,
+          "name": "aide-grammar-ocaml-v0.0.66-linux-arm64.tar.gz",
+          "size": 267791,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348305,
+          "name": "aide-grammar-ocaml-v0.0.66-linux-amd64.tar.gz",
+          "size": 268796,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348306,
+          "name": "aide-grammar-kotlin-v0.0.66-windows-arm64.tar.gz",
+          "size": 656272,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348307,
+          "name": "aide-grammar-hcl-v0.0.66-windows-amd64.tar.gz",
+          "size": 342901,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348308,
+          "name": "aide-grammar-php-v0.0.66-linux-arm64.tar.gz",
+          "size": 146563,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348309,
+          "name": "aide-grammar-scala-v0.0.66-windows-amd64.tar.gz",
+          "size": 963189,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348310,
+          "name": "aide-grammar-hcl-v0.0.66-windows-arm64.tar.gz",
+          "size": 351369,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348311,
+          "name": "aide-grammar-html-v0.0.66-darwin-amd64.tar.gz",
+          "size": 9275,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348312,
+          "name": "aide-grammar-r-v0.0.66-linux-arm64.tar.gz",
+          "size": 65511,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348313,
+          "name": "aide-grammar-hcl-v0.0.66-linux-arm64.tar.gz",
+          "size": 44175,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348314,
+          "name": "aide-grammar-php-v0.0.66-darwin-arm64.tar.gz",
+          "size": 120262,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348315,
+          "name": "aide-grammar-php-v0.0.66-linux-amd64.tar.gz",
+          "size": 144724,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348316,
+          "name": "aide-grammar-haskell-v0.0.66-windows-amd64.tar.gz",
+          "size": 662868,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348317,
+          "name": "aide-grammar-hcl-v0.0.66-darwin-amd64.tar.gz",
+          "size": 22872,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348318,
+          "name": "aide-grammar-kotlin-v0.0.66-linux-amd64.tar.gz",
+          "size": 327529,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348319,
+          "name": "aide-grammar-kotlin-v0.0.66-darwin-arm64.tar.gz",
+          "size": 332316,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348320,
+          "name": "aide-grammar-html-v0.0.66-windows-amd64.tar.gz",
+          "size": 329119,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348321,
+          "name": "aide-grammar-kotlin-v0.0.66-darwin-amd64.tar.gz",
+          "size": 308602,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348322,
+          "name": "aide-grammar-html-v0.0.66-darwin-arm64.tar.gz",
+          "size": 9328,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348323,
+          "name": "aide-grammar-ocaml-v0.0.66-darwin-arm64.tar.gz",
+          "size": 262087,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348324,
+          "name": "aide-grammar-php-v0.0.66-windows-arm64.tar.gz",
+          "size": 451213,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348325,
+          "name": "aide-grammar-sql-v0.0.66-windows-arm64.tar.gz",
+          "size": 655975,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348326,
+          "name": "aide-windows-amd64.exe",
+          "size": 10146816,
+          "content_type": "application/x-msdos-program",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:35Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348327,
+          "name": "aide-grammar-php-v0.0.66-darwin-amd64.tar.gz",
+          "size": 112557,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348328,
+          "name": "aide-grammar-html-v0.0.66-linux-amd64.tar.gz",
+          "size": 23494,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348329,
+          "name": "aide-grammar-protobuf-v0.0.66-darwin-arm64.tar.gz",
+          "size": 16166,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348330,
+          "name": "aide-grammar-lua-v0.0.66-linux-arm64.tar.gz",
+          "size": 29376,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348331,
+          "name": "aide-grammar-ocaml-v0.0.66-windows-amd64.tar.gz",
+          "size": 577266,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348332,
+          "name": "aide-grammar-haskell-v0.0.66-darwin-amd64.tar.gz",
+          "size": 304924,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348333,
+          "name": "aide-grammar-toml-v0.0.66-windows-amd64.tar.gz",
+          "size": 325695,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348335,
+          "name": "aide-grammar-groovy-v0.0.66-darwin-arm64.tar.gz",
+          "size": 110572,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348336,
+          "name": "aide-grammar-groovy-v0.0.66-linux-amd64.tar.gz",
+          "size": 122131,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348337,
+          "name": "aide-grammar-haskell-v0.0.66-linux-arm64.tar.gz",
+          "size": 382240,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348338,
+          "name": "aide-grammar-lua-v0.0.66-darwin-arm64.tar.gz",
+          "size": 16293,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348339,
+          "name": "aide-grammar-groovy-v0.0.66-windows-arm64.tar.gz",
+          "size": 436471,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348340,
+          "name": "aide-grammar-kotlin-v0.0.66-windows-amd64.tar.gz",
+          "size": 650035,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348341,
+          "name": "aide-grammar-lua-v0.0.66-windows-arm64.tar.gz",
+          "size": 342228,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348342,
+          "name": "aide-grammar-hcl-v0.0.66-linux-amd64.tar.gz",
+          "size": 44273,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348343,
+          "name": "aide-grammar-kotlin-v0.0.66-linux-arm64.tar.gz",
+          "size": 325199,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348345,
+          "name": "aide-grammar-groovy-v0.0.66-darwin-amd64.tar.gz",
+          "size": 101620,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348346,
+          "name": "aide-grammar-groovy-v0.0.66-linux-arm64.tar.gz",
+          "size": 132564,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348347,
+          "name": "aide-grammar-erlang-v0.0.66-windows-arm64.tar.gz",
+          "size": 388997,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348348,
+          "name": "aide-grammar-sql-v0.0.66-linux-arm64.tar.gz",
+          "size": 357622,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348349,
+          "name": "aide-grammar-haskell-v0.0.66-linux-amd64.tar.gz",
+          "size": 374871,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348350,
+          "name": "aide-grammar-solidity-v0.0.66-darwin-amd64.tar.gz",
+          "size": 50654,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348352,
+          "name": "aide-grammar-php-v0.0.66-windows-amd64.tar.gz",
+          "size": 445874,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348353,
+          "name": "aide-grammar-r-v0.0.66-windows-arm64.tar.gz",
+          "size": 377585,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348354,
+          "name": "aide-grammar-lua-v0.0.66-linux-amd64.tar.gz",
+          "size": 27807,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348355,
+          "name": "aide-grammar-erlang-v0.0.66-linux-arm64.tar.gz",
+          "size": 63463,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348357,
+          "name": "aide-grammar-html-v0.0.66-linux-arm64.tar.gz",
+          "size": 23056,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348358,
+          "name": "aide-grammar-ocaml-v0.0.66-windows-arm64.tar.gz",
+          "size": 584388,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348359,
+          "name": "aide-grammar-bash-v0.0.66-linux-arm64.tar.gz",
+          "size": 218141,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348360,
+          "name": "aide-grammar-lua-v0.0.66-windows-amd64.tar.gz",
+          "size": 334361,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348361,
+          "name": "aide-grammar-html-v0.0.66-windows-arm64.tar.gz",
+          "size": 336699,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348362,
+          "name": "aide-grammar-erlang-v0.0.66-windows-amd64.tar.gz",
+          "size": 379055,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348363,
+          "name": "aide-grammar-clojure-v0.0.66-windows-arm64.tar.gz",
+          "size": 351155,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348364,
+          "name": "aide-grammar-elm-v0.0.66-linux-amd64.tar.gz",
+          "size": 66331,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348365,
+          "name": "aide-grammar-sql-v0.0.66-darwin-arm64.tar.gz",
+          "size": 331266,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348366,
+          "name": "aide-grammar-groovy-v0.0.66-windows-amd64.tar.gz",
+          "size": 425725,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348367,
+          "name": "aide-grammar-haskell-v0.0.66-darwin-arm64.tar.gz",
+          "size": 333474,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348368,
+          "name": "aide-grammar-clojure-v0.0.66-linux-amd64.tar.gz",
+          "size": 38508,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348369,
+          "name": "aide-grammar-elixir-v0.0.66-darwin-arm64.tar.gz",
+          "size": 163545,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348370,
+          "name": "aide-grammar-elixir-v0.0.66-linux-arm64.tar.gz",
+          "size": 171217,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348371,
+          "name": "jmylchreest-aide-plugin-0.0.66.tgz",
+          "size": 158037,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348372,
+          "name": "aide-grammar-erlang-v0.0.66-linux-amd64.tar.gz",
+          "size": 62509,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348373,
+          "name": "aide-grammar-css-v0.0.66-darwin-amd64.tar.gz",
+          "size": 23811,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348374,
+          "name": "aide-grammar-csharp-v0.0.66-darwin-arm64.tar.gz",
+          "size": 370268,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348375,
+          "name": "aide-grammar-css-v0.0.66-windows-arm64.tar.gz",
+          "size": 359102,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348376,
+          "name": "aide-grammar-elm-v0.0.66-windows-amd64.tar.gz",
+          "size": 364692,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348377,
+          "name": "aide-grammar-dart-v0.0.66-darwin-amd64.tar.gz",
+          "size": 123084,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348378,
+          "name": "aide-grammar-elm-v0.0.66-darwin-amd64.tar.gz",
+          "size": 42105,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348379,
+          "name": "aide-grammar-csharp-v0.0.66-linux-arm64.tar.gz",
+          "size": 352784,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348380,
+          "name": "aide-grammar-bash-v0.0.66-linux-amd64.tar.gz",
+          "size": 220557,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348381,
+          "name": "aide-grammar-bash-v0.0.66-darwin-arm64.tar.gz",
+          "size": 196228,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348382,
+          "name": "aide-grammar-css-v0.0.66-darwin-arm64.tar.gz",
+          "size": 24846,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348383,
+          "name": "aide-grammar-csharp-v0.0.66-windows-amd64.tar.gz",
+          "size": 666762,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348384,
+          "name": "aide-grammar-csharp-v0.0.66-windows-arm64.tar.gz",
+          "size": 675709,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348385,
+          "name": "aide-grammar-elixir-v0.0.66-windows-amd64.tar.gz",
+          "size": 489853,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348386,
+          "name": "aide-grammar-csharp-v0.0.66-darwin-amd64.tar.gz",
+          "size": 327889,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348387,
+          "name": "aide-grammar-bash-v0.0.66-windows-amd64.tar.gz",
+          "size": 538999,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348388,
+          "name": "aide-grammar-bash-v0.0.66-darwin-amd64.tar.gz",
+          "size": 187911,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348389,
+          "name": "aide-grammar-clojure-v0.0.66-linux-arm64.tar.gz",
+          "size": 38438,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348390,
+          "name": "aide-grammar-elm-v0.0.66-windows-arm64.tar.gz",
+          "size": 372048,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348391,
+          "name": "aide-grammar-dart-v0.0.66-linux-arm64.tar.gz",
+          "size": 152024,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348392,
+          "name": "aide-grammar-erlang-v0.0.66-darwin-arm64.tar.gz",
+          "size": 53455,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348393,
+          "name": "aide-grammar-erlang-v0.0.66-darwin-amd64.tar.gz",
+          "size": 49880,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348394,
+          "name": "aide-grammar-dart-v0.0.66-linux-amd64.tar.gz",
+          "size": 148751,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348395,
+          "name": "aide-grammar-clojure-v0.0.66-windows-amd64.tar.gz",
+          "size": 342759,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348396,
+          "name": "aide-grammar-elm-v0.0.66-linux-arm64.tar.gz",
+          "size": 66402,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348397,
+          "name": "checksums.txt",
+          "size": 17379,
+          "content_type": "text/plain",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348398,
+          "name": "aide-grammar-bash-v0.0.66-windows-arm64.tar.gz",
+          "size": 546748,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348399,
+          "name": "aide-darwin-amd64",
+          "size": 46014800,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:38Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348400,
+          "name": "aide-darwin-arm64",
+          "size": 43805154,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:38Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348401,
+          "name": "aide-grammar-dart-v0.0.66-windows-amd64.tar.gz",
+          "size": 450430,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348402,
+          "name": "aide-grammar-elixir-v0.0.66-darwin-amd64.tar.gz",
+          "size": 152277,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348403,
+          "name": "aide-grammar-dart-v0.0.66-windows-arm64.tar.gz",
+          "size": 457369,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348404,
+          "name": "aide-grammar-css-v0.0.66-windows-amd64.tar.gz",
+          "size": 349764,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348405,
+          "name": "aide-grammar-elm-v0.0.66-darwin-arm64.tar.gz",
+          "size": 43517,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348406,
+          "name": "aide-grammar-clojure-v0.0.66-darwin-arm64.tar.gz",
+          "size": 26281,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348407,
+          "name": "aide-grammar-elixir-v0.0.66-linux-amd64.tar.gz",
+          "size": 170987,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348408,
+          "name": "aide-grammar-clojure-v0.0.66-darwin-amd64.tar.gz",
+          "size": 24892,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348409,
+          "name": "aide-grammar-css-v0.0.66-linux-arm64.tar.gz",
+          "size": 34640,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348410,
+          "name": "aide-grammar-css-v0.0.66-linux-amd64.tar.gz",
+          "size": 34689,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348411,
+          "name": "aide-grammar-elixir-v0.0.66-windows-arm64.tar.gz",
+          "size": 498301,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348413,
+          "name": "aide-grammar-csharp-v0.0.66-linux-amd64.tar.gz",
+          "size": 353079,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
+          "status": "active"
+        },
+        {
+          "id": 424348415,
+          "name": "aide-grammar-dart-v0.0.66-darwin-arm64.tar.gz",
+          "size": 131331,
+          "content_type": "application/gzip",
+          "created_at": "2026-05-19T16:35:34Z",
+          "updated_at": "2026-05-19T16:35:34Z",
+          "download_count": 0,
+          "first_seen": "2026-05-19T16:48:55Z",
           "status": "active"
         }
       ]
