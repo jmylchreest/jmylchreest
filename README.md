@@ -31,7 +31,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★13, Go)<br>
-  <sub>[release: `v0.1.6`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 32 / 608](https://github.com/jmylchreest/keylightd/releases) · [issues: 2](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.1.6`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 33 / 609](https://github.com/jmylchreest/keylightd/releases) · [issues: 2](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
@@ -49,6 +49,14 @@
   <sub>[downloads: 0 / 88](https://github.com/jmylchreest/igmp/releases) · [issues: 0](https://github.com/jmylchreest/igmp/issues) · [PRs: 0](https://github.com/jmylchreest/igmp/pulls)</sub>
 
   Lightweight/simple IGMPv2 Query daemon written in Golang.
+
+
+### Recently Active
+
+- **[openscad-models](https://github.com/jmylchreest/openscad-models)** (OpenSCAD)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/openscad-models/issues) · [PRs: 0](https://github.com/jmylchreest/openscad-models/pulls)</sub>
+
+  Parametric OpenSCAD models and the libraries I wrote to support them
 
 
 ---
