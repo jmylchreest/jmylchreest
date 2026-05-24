@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-05-24T20:02:45Z",
+    "last_updated": "2026-05-24T21:54:16Z",
     "total_repos": 18,
-    "total_releases": 253,
-    "total_assets": 7267,
+    "total_releases": 254,
+    "total_assets": 7274,
     "active_assets": 6102,
-    "removed_assets": 1165,
-    "total_downloads": 271165
+    "removed_assets": 1172,
+    "total_downloads": 271565
   },
   "repos": [
     {
@@ -34,7 +34,7 @@
       "releases": 17,
       "active_assets": 147,
       "removed_assets": 0,
-      "total_downloads": 436,
+      "total_downloads": 437,
       "latest_release_tag": "v0.0.11",
       "latest_release_published_at": "2026-05-02T10:09:29Z"
     },
@@ -76,12 +76,12 @@
     },
     {
       "name": "refind-btrfs-snapshots",
-      "releases": 12,
+      "releases": 13,
       "active_assets": 45,
-      "removed_assets": 7,
-      "total_downloads": 985,
-      "latest_release_tag": "v0.0.11-dev.1",
-      "latest_release_published_at": "2026-05-24T11:19:25Z"
+      "removed_assets": 14,
+      "total_downloads": 991,
+      "latest_release_tag": "v0.0.11-dev.13",
+      "latest_release_published_at": "2026-05-24T21:29:19Z"
     },
     {
       "name": "refyne",
@@ -151,7 +151,7 @@
       "releases": 18,
       "active_assets": 1259,
       "removed_assets": 461,
-      "total_downloads": 262217,
+      "total_downloads": 262610,
       "latest_release_tag": "v0.3.2",
       "latest_release_published_at": "2026-05-06T23:57:23Z"
     },
