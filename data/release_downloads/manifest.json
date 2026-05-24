@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-05-24T11:14:25Z",
+    "last_updated": "2026-05-24T13:21:06Z",
     "total_repos": 18,
-    "total_releases": 251,
-    "total_assets": 7251,
+    "total_releases": 253,
+    "total_assets": 7267,
     "active_assets": 6102,
-    "removed_assets": 1149,
-    "total_downloads": 269551
+    "removed_assets": 1165,
+    "total_downloads": 269948
   },
   "repos": [
     {
@@ -76,12 +76,12 @@
     },
     {
       "name": "refind-btrfs-snapshots",
-      "releases": 11,
+      "releases": 12,
       "active_assets": 45,
-      "removed_assets": 0,
-      "total_downloads": 975,
-      "latest_release_tag": "v0.0.10",
-      "latest_release_published_at": "2026-05-24T00:13:43Z"
+      "removed_assets": 7,
+      "total_downloads": 979,
+      "latest_release_tag": "v0.0.11-dev.1",
+      "latest_release_published_at": "2026-05-24T11:19:25Z"
     },
     {
       "name": "refyne",
@@ -121,12 +121,12 @@
     },
     {
       "name": "rosec",
-      "releases": 31,
+      "releases": 32,
       "active_assets": 184,
-      "removed_assets": 72,
+      "removed_assets": 81,
       "total_downloads": 206,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-05-24T11:01:29Z"
+      "latest_release_published_at": "2026-05-24T12:09:15Z"
     },
     {
       "name": "rurl",
@@ -151,7 +151,7 @@
       "releases": 18,
       "active_assets": 1259,
       "removed_assets": 461,
-      "total_downloads": 260623,
+      "total_downloads": 261016,
       "latest_release_tag": "v0.3.2",
       "latest_release_published_at": "2026-05-06T23:57:23Z"
     },
