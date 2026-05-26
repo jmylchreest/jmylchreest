@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★9, Go)<br>
-  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 2 / 786](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 3 / 788](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★25, Rust)<br>
-  <sub>[release: `v0.0.29`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 1 / 202](https://github.com/jmylchreest/rosec/releases) · [issues: 6](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.29`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 4 / 205](https://github.com/jmylchreest/rosec/releases) · [issues: 6](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -16,17 +16,17 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★23, Go)<br>
-  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 26 / 1k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 27 / 1k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.3`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 266 / 165.6k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.3`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 326 / 166k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★14, Go)<br>
-  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 80 / 422](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 4](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 84 / 426](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 4](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
