@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★9, Go)<br>
-  <sub>[release: `v0.0.66`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 8 / 784](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 0 / 784](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★25, Rust)<br>
-  <sub>[release: `v0.0.28`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 24 / 201](https://github.com/jmylchreest/rosec/releases) · [issues: 6](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.29`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 0 / 201](https://github.com/jmylchreest/rosec/releases) · [issues: 6](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -16,12 +16,12 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★23, Go)<br>
-  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 24 / 999](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 25 / 1k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 12.4k / 194.1k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.3`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 195 / 165.1k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -52,6 +52,11 @@
 
 
 ### Recently Active
+
+- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
+
+  Main plugin repository for tinct
 
 - **[openscad-models](https://github.com/jmylchreest/openscad-models)** (OpenSCAD)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/openscad-models/issues) · [PRs: 0](https://github.com/jmylchreest/openscad-models/pulls)</sub>

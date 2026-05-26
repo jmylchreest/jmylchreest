@@ -2,23 +2,23 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-05-25T22:59:16Z",
+    "last_updated": "2026-05-26T00:12:44Z",
     "total_repos": 18,
-    "total_releases": 259,
-    "total_assets": 7670,
-    "active_assets": 6109,
-    "removed_assets": 1561,
-    "total_downloads": 276135
+    "total_releases": 268,
+    "total_assets": 8606,
+    "active_assets": 6460,
+    "removed_assets": 2146,
+    "total_downloads": 277772
   },
   "repos": [
     {
       "name": "aide",
-      "releases": 68,
-      "active_assets": 3673,
-      "removed_assets": 760,
-      "total_downloads": 3577,
-      "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-05-25T14:32:02Z"
+      "releases": 71,
+      "active_assets": 3989,
+      "removed_assets": 918,
+      "total_downloads": 3578,
+      "latest_release_tag": "v0.1.1",
+      "latest_release_published_at": "2026-05-25T23:56:15Z"
     },
     {
       "name": "awob",
@@ -79,7 +79,7 @@
       "releases": 14,
       "active_assets": 52,
       "removed_assets": 14,
-      "total_downloads": 1015,
+      "total_downloads": 1016,
       "latest_release_tag": "v0.0.11",
       "latest_release_published_at": "2026-05-24T22:11:28Z"
     },
@@ -121,12 +121,12 @@
     },
     {
       "name": "rosec",
-      "releases": 33,
-      "active_assets": 184,
-      "removed_assets": 90,
+      "releases": 35,
+      "active_assets": 193,
+      "removed_assets": 99,
       "total_downloads": 206,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-05-24T22:13:50Z"
+      "latest_release_published_at": "2026-05-25T23:50:05Z"
     },
     {
       "name": "rurl",
@@ -148,12 +148,12 @@
     },
     {
       "name": "tinct",
-      "releases": 20,
-      "active_assets": 1259,
-      "removed_assets": 683,
-      "total_downloads": 267148,
-      "latest_release_tag": "0.3.3-preview.1779739990+3b1622e",
-      "latest_release_published_at": "2026-05-25T20:18:49Z"
+      "releases": 24,
+      "active_assets": 1285,
+      "removed_assets": 1101,
+      "total_downloads": 268783,
+      "latest_release_tag": "0.3.4-preview.1779752657+5f8b1d0",
+      "latest_release_published_at": "2026-05-25T23:50:37Z"
     },
     {
       "name": "tvarr",
