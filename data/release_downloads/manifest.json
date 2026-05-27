@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-05-27T08:01:06Z",
+    "last_updated": "2026-05-27T16:35:03Z",
     "total_repos": 18,
-    "total_releases": 271,
-    "total_assets": 8939,
-    "active_assets": 6682,
-    "removed_assets": 2257,
-    "total_downloads": 283566
+    "total_releases": 273,
+    "total_assets": 8957,
+    "active_assets": 6691,
+    "removed_assets": 2266,
+    "total_downloads": 284357
   },
   "repos": [
     {
@@ -34,7 +34,7 @@
       "releases": 17,
       "active_assets": 147,
       "removed_assets": 0,
-      "total_downloads": 446,
+      "total_downloads": 450,
       "latest_release_tag": "v0.0.11",
       "latest_release_published_at": "2026-05-02T10:09:29Z"
     },
@@ -52,7 +52,7 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2438,
+      "total_downloads": 2443,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
@@ -79,7 +79,7 @@
       "releases": 14,
       "active_assets": 52,
       "removed_assets": 14,
-      "total_downloads": 1039,
+      "total_downloads": 1045,
       "latest_release_tag": "v0.0.11",
       "latest_release_published_at": "2026-05-24T22:11:28Z"
     },
@@ -121,12 +121,12 @@
     },
     {
       "name": "rosec",
-      "releases": 35,
-      "active_assets": 193,
-      "removed_assets": 99,
-      "total_downloads": 214,
-      "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-05-25T23:50:05Z"
+      "releases": 37,
+      "active_assets": 202,
+      "removed_assets": 108,
+      "total_downloads": 222,
+      "latest_release_tag": "v0.0.30",
+      "latest_release_published_at": "2026-05-27T10:39:55Z"
     },
     {
       "name": "rurl",
@@ -151,7 +151,7 @@
       "releases": 27,
       "active_assets": 1507,
       "removed_assets": 1212,
-      "total_downloads": 274509,
+      "total_downloads": 275277,
       "latest_release_tag": "0.3.4-preview.1779789707+38ab78c",
       "latest_release_published_at": "2026-05-26T10:08:01Z"
     },
