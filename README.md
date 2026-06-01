@@ -8,7 +8,7 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★25, Rust)<br>
-  <sub>[release: `v0.0.30`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 22 / 236](https://github.com/jmylchreest/rosec/releases) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.30`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 25 / 239](https://github.com/jmylchreest/rosec/releases) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★16, Go)<br>
-  <sub>[release: `v0.3.3`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 3.6k / 188.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.3.3`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 3.7k / 188.7k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -35,13 +35,13 @@
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
-- **[tvarr](https://github.com/jmylchreest/tvarr)** (★9, Go)<br>
+- **[tvarr](https://github.com/jmylchreest/tvarr)** (★11, Go)<br>
   <sub>[release: `v0.0.26`](https://github.com/jmylchreest/tvarr/releases/latest) · [downloads: 0 / 33](https://github.com/jmylchreest/tvarr/releases) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 4](https://github.com/jmylchreest/tvarr/pulls)</sub>
 
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[kagimcp-zed](https://github.com/jmylchreest/kagimcp-zed)** (★6, Rust)<br>
-  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 988 / 2.5k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
+  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 989 / 2.5k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
 
   Kagi Search MCP (and Zed extension)
 
