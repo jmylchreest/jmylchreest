@@ -3,9 +3,9 @@
     "owner": "jmylchreest",
     "repo": "statsfactory",
     "schema_version": 2,
-    "last_updated": "2026-06-08T15:52:43Z",
+    "last_updated": "2026-06-08T17:50:08Z",
     "releases": 3,
-    "active_assets": 8,
+    "active_assets": 12,
     "removed_assets": 2,
     "total_downloads": 0
   },
@@ -81,9 +81,9 @@
     {
       "id": 298656703,
       "tag_name": "snapshot",
-      "name": "Snapshot (0.0.5-dev.2+ecf5288)",
+      "name": "Snapshot (0.0.0-dev.0+2f38b20)",
       "published_at": "2026-03-18T20:01:23Z",
-      "created_at": "2026-06-08T15:50:39Z",
+      "created_at": "2026-06-08T16:48:19Z",
       "prerelease": true,
       "draft": false,
       "assets": [
@@ -151,6 +151,50 @@
           "updated_at": "2026-06-08T15:51:38Z",
           "download_count": 0,
           "first_seen": "2026-06-08T15:52:43Z",
+          "status": "active"
+        },
+        {
+          "id": 441921394,
+          "name": "statsfactory-0.0.0-dev.0+03d316d.zip",
+          "size": 555034,
+          "content_type": "application/zip",
+          "created_at": "2026-06-08T16:43:58Z",
+          "updated_at": "2026-06-08T16:43:59Z",
+          "download_count": 0,
+          "first_seen": "2026-06-08T17:50:08Z",
+          "status": "active"
+        },
+        {
+          "id": 441921395,
+          "name": "statsfactory-0.0.0-dev.0+03d316d.tar.gz",
+          "size": 536175,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-08T16:43:58Z",
+          "updated_at": "2026-06-08T16:43:59Z",
+          "download_count": 0,
+          "first_seen": "2026-06-08T17:50:08Z",
+          "status": "active"
+        },
+        {
+          "id": 441925127,
+          "name": "statsfactory-0.0.0-dev.0+2f38b20.tar.gz",
+          "size": 535928,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-08T16:49:13Z",
+          "updated_at": "2026-06-08T16:49:13Z",
+          "download_count": 0,
+          "first_seen": "2026-06-08T17:50:08Z",
+          "status": "active"
+        },
+        {
+          "id": 441925129,
+          "name": "statsfactory-0.0.0-dev.0+2f38b20.zip",
+          "size": 555060,
+          "content_type": "application/zip",
+          "created_at": "2026-06-08T16:49:13Z",
+          "updated_at": "2026-06-08T16:49:13Z",
+          "download_count": 0,
+          "first_seen": "2026-06-08T17:50:08Z",
           "status": "active"
         }
       ]
