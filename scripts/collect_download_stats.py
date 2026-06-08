@@ -21,6 +21,11 @@ from pathlib import Path
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
+try:
+    from statsfactory import StatsFactory as _StatsFactory
+except ImportError:
+    _StatsFactory = None
+
 USERNAME = "jmylchreest"
 DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "release_downloads"
 REPOS_DIR = DATA_DIR / "repos"
@@ -38,18 +43,16 @@ token = os.environ.get("GH_TOKEN")
 if token:
     HEADERS["Authorization"] = f"Bearer {token}"
 
-SF_SERVER_URL = os.environ.get("SF_SERVER_URL", "").rstrip("/")
+_SF_SERVER_URL = os.environ.get("SF_SERVER_URL", "").rstrip("/")
 
 
 def _sf_app_key(repo_name: str) -> str:
-    """Return the statsfactory app key for a repo, or empty string if not configured."""
     env_var = f"SF_APP_API_KEY_{repo_name.upper().replace('-', '_')}"
     return os.environ.get(env_var, "")
 
 
 def _sf_server_url() -> str:
-    """Return the statsfactory server URL, adding https:// if no scheme provided."""
-    url = SF_SERVER_URL
+    url = _SF_SERVER_URL
     if url and "://" not in url:
         url = "https://" + url
     return url
@@ -269,28 +272,22 @@ def compute_version_deltas(releases_api, prior_assets):
 
 
 def push_download_events(server_url, app_key, repo_name, version_deltas, ts):
-    """POST one event per new download so statsfactory's COUNT(*) equals download count."""
-    if not server_url or not app_key or not version_deltas:
-        return
-    # One event per download — statsfactory has no SUM aggregation, only COUNT(*).
-    events = [
-        {"event": "release_downloads", "timestamp": ts, "dimensions": {"repo": repo_name, "version": version}}
-        for version, count in version_deltas.items()
-        for _ in range(count)
-    ]
-    if not events:
+    """Emit one release_downloads event per version (value=delta) via the statsfactory SDK.
+
+    Query with aggregation=sum to get cumulative download totals in the UI.
+    """
+    if not server_url or not app_key or not version_deltas or not _StatsFactory:
         return
     try:
-        for i in range(0, len(events), 25):
-            resp = SESSION.post(
-                f"{server_url}/v1/events",
-                json={"events": events[i:i + 25]},
-                headers={"Authorization": f"Bearer {app_key}"},
-                timeout=REQUEST_TIMEOUT,
-            )
-            if not resp.ok:
-                print(f"  statsfactory: {repo_name}: HTTP {resp.status_code}", file=sys.stderr)
-                break
+        sf = _StatsFactory(
+            server_url=server_url,
+            app_key=app_key,
+            client_name="collect_download_stats",
+            flush_interval=0,  # manual flush only — script exits immediately after
+        )
+        for version, count in version_deltas.items():
+            sf.track("release_downloads", {"repo": repo_name, "version": version}, value=float(count))
+        sf.flush()
     except Exception as exc:
         print(f"  statsfactory: {repo_name}: {exc}", file=sys.stderr)
 
