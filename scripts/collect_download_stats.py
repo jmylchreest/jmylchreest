@@ -38,6 +38,22 @@ token = os.environ.get("GH_TOKEN")
 if token:
     HEADERS["Authorization"] = f"Bearer {token}"
 
+SF_SERVER_URL = os.environ.get("SF_SERVER_URL", "").rstrip("/")
+
+
+def _sf_app_key(repo_name: str) -> str:
+    """Return the statsfactory app key for a repo, or empty string if not configured."""
+    env_var = f"SF_APP_API_KEY_{repo_name.upper().replace('-', '_')}"
+    return os.environ.get(env_var, "")
+
+
+def _sf_server_url() -> str:
+    """Return the statsfactory server URL, adding https:// if no scheme provided."""
+    url = SF_SERVER_URL
+    if url and "://" not in url:
+        url = "https://" + url
+    return url
+
 
 def _build_session():
     s = requests.Session()
@@ -235,6 +251,48 @@ def write_if_changed(path, payload):
     return True
 
 
+def compute_version_deltas(releases_api, prior_assets):
+    """Return {tag_name: new_download_count} for versions that gained downloads since last run."""
+    deltas = {}
+    for rel in releases_api:
+        rid = rel["id"]
+        tag = rel.get("tag_name") or f"release-{rid}"
+        version_delta = 0
+        for asset in (rel.get("assets") or []):
+            aid = asset["id"]
+            new_count = asset.get("download_count", 0)
+            prior_count = (prior_assets.get((rid, aid)) or {}).get("download_count", 0)
+            version_delta += max(0, new_count - prior_count)
+        if version_delta > 0:
+            deltas[tag] = version_delta
+    return deltas
+
+
+def push_download_events(server_url, app_key, repo_name, version_deltas, ts):
+    """POST per-version download delta events to statsfactory. Errors are non-fatal."""
+    if not server_url or not app_key or not version_deltas:
+        return
+    events = [
+        {
+            "event": "release_downloads",
+            "timestamp": ts,
+            "dimensions": {"repo": repo_name, "version": version, "count": count},
+        }
+        for version, count in version_deltas.items()
+    ]
+    try:
+        resp = SESSION.post(
+            f"{server_url}/v1/events",
+            json={"events": events},
+            headers={"Authorization": f"Bearer {app_key}"},
+            timeout=REQUEST_TIMEOUT,
+        )
+        if not resp.ok:
+            print(f"  statsfactory: {repo_name}: HTTP {resp.status_code}", file=sys.stderr)
+    except Exception as exc:
+        print(f"  statsfactory: {repo_name}: {exc}", file=sys.stderr)
+
+
 def main():
     REPOS_DIR.mkdir(parents=True, exist_ok=True)
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -261,6 +319,14 @@ def main():
         path = REPOS_DIR / f"{name}.json"
         if write_if_changed(path, payload):
             changed += 1
+
+        app_key = _sf_app_key(name)
+        if app_key:
+            version_deltas = compute_version_deltas(releases_api, prior_assets)
+            push_download_events(_sf_server_url(), app_key, name, version_deltas, ts)
+            if version_deltas:
+                total = sum(version_deltas.values())
+                print(f"  statsfactory: {name}: pushed {total} new downloads across {len(version_deltas)} version(s)")
 
         latest = latest_release(payload)
         repo_summaries.append({
