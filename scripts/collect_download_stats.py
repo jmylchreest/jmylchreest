@@ -269,26 +269,28 @@ def compute_version_deltas(releases_api, prior_assets):
 
 
 def push_download_events(server_url, app_key, repo_name, version_deltas, ts):
-    """POST per-version download delta events to statsfactory. Errors are non-fatal."""
+    """POST one event per new download so statsfactory's COUNT(*) equals download count."""
     if not server_url or not app_key or not version_deltas:
         return
+    # One event per download — statsfactory has no SUM aggregation, only COUNT(*).
     events = [
-        {
-            "event": "release_downloads",
-            "timestamp": ts,
-            "dimensions": {"repo": repo_name, "version": version, "count": count},
-        }
+        {"event": "release_downloads", "timestamp": ts, "dimensions": {"repo": repo_name, "version": version}}
         for version, count in version_deltas.items()
+        for _ in range(count)
     ]
+    if not events:
+        return
     try:
-        resp = SESSION.post(
-            f"{server_url}/v1/events",
-            json={"events": events},
-            headers={"Authorization": f"Bearer {app_key}"},
-            timeout=REQUEST_TIMEOUT,
-        )
-        if not resp.ok:
-            print(f"  statsfactory: {repo_name}: HTTP {resp.status_code}", file=sys.stderr)
+        for i in range(0, len(events), 25):
+            resp = SESSION.post(
+                f"{server_url}/v1/events",
+                json={"events": events[i:i + 25]},
+                headers={"Authorization": f"Bearer {app_key}"},
+                timeout=REQUEST_TIMEOUT,
+            )
+            if not resp.ok:
+                print(f"  statsfactory: {repo_name}: HTTP {resp.status_code}", file=sys.stderr)
+                break
     except Exception as exc:
         print(f"  statsfactory: {repo_name}: {exc}", file=sys.stderr)
 
