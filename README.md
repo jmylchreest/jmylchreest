@@ -53,6 +53,11 @@
 
 ### Recently Active
 
+- **[statsfactory](https://github.com/jmylchreest/statsfactory)** (TypeScript)<br>
+  <sub>[release: `v0.0.2`](https://github.com/jmylchreest/statsfactory/releases/latest) · [issues: 0](https://github.com/jmylchreest/statsfactory/issues) · [PRs: 0](https://github.com/jmylchreest/statsfactory/pulls)</sub>
+
+  Free, privacy-first telemetry for open-source projects. Deploys as a single Cloudflare Worker on the free tier.
+
 - **[refyne-sdk-go](https://github.com/jmylchreest/refyne-sdk-go)** (Go)<br>
   <sub>[release: `v0.1.12`](https://github.com/jmylchreest/refyne-sdk-go/releases/latest) · [issues: 0](https://github.com/jmylchreest/refyne-sdk-go/issues) · [PRs: 0](https://github.com/jmylchreest/refyne-sdk-go/pulls)</sub>
 

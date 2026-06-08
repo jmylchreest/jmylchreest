@@ -3,9 +3,9 @@
     "owner": "jmylchreest",
     "repo": "statsfactory",
     "schema_version": 2,
-    "last_updated": "2026-05-06T18:02:17Z",
+    "last_updated": "2026-06-08T15:52:43Z",
     "releases": 3,
-    "active_assets": 6,
+    "active_assets": 8,
     "removed_assets": 2,
     "total_downloads": 0
   },
@@ -81,9 +81,9 @@
     {
       "id": 298656703,
       "tag_name": "snapshot",
-      "name": "Snapshot (0.0.0-dev.0+05e87c1)",
+      "name": "Snapshot (0.0.5-dev.2+ecf5288)",
       "published_at": "2026-03-18T20:01:23Z",
-      "created_at": "2026-03-19T23:22:44Z",
+      "created_at": "2026-06-08T15:50:39Z",
       "prerelease": true,
       "draft": false,
       "assets": [
@@ -129,6 +129,28 @@
           "updated_at": "2026-03-19T23:23:41Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
+          "status": "active"
+        },
+        {
+          "id": 441878605,
+          "name": "statsfactory-0.0.5-dev.2+ecf5288.zip",
+          "size": 555539,
+          "content_type": "application/zip",
+          "created_at": "2026-06-08T15:51:37Z",
+          "updated_at": "2026-06-08T15:51:38Z",
+          "download_count": 0,
+          "first_seen": "2026-06-08T15:52:43Z",
+          "status": "active"
+        },
+        {
+          "id": 441878606,
+          "name": "statsfactory-0.0.5-dev.2+ecf5288.tar.gz",
+          "size": 538142,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-08T15:51:37Z",
+          "updated_at": "2026-06-08T15:51:38Z",
+          "download_count": 0,
+          "first_seen": "2026-06-08T15:52:43Z",
           "status": "active"
         }
       ]
