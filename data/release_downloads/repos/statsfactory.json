@@ -3,9 +3,9 @@
     "owner": "jmylchreest",
     "repo": "statsfactory",
     "schema_version": 2,
-    "last_updated": "2026-06-08T17:50:08Z",
-    "releases": 3,
-    "active_assets": 12,
+    "last_updated": "2026-06-10T00:10:16Z",
+    "releases": 4,
+    "active_assets": 14,
     "removed_assets": 2,
     "total_downloads": 0
   },
@@ -195,6 +195,39 @@
           "updated_at": "2026-06-08T16:49:13Z",
           "download_count": 0,
           "first_seen": "2026-06-08T17:50:08Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 336924032,
+      "tag_name": "v0.0.5",
+      "name": "v0.0.5",
+      "published_at": "2026-06-09T23:02:43Z",
+      "created_at": "2026-06-09T23:01:32Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 443133577,
+          "name": "statsfactory-v0.0.5.tar.gz",
+          "size": 536182,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-09T23:02:42Z",
+          "updated_at": "2026-06-09T23:02:42Z",
+          "download_count": 0,
+          "first_seen": "2026-06-10T00:10:16Z",
+          "status": "active"
+        },
+        {
+          "id": 443133578,
+          "name": "statsfactory-v0.0.5.zip",
+          "size": 555258,
+          "content_type": "application/zip",
+          "created_at": "2026-06-09T23:02:42Z",
+          "updated_at": "2026-06-09T23:02:42Z",
+          "download_count": 0,
+          "first_seen": "2026-06-10T00:10:16Z",
           "status": "active"
         }
       ]
