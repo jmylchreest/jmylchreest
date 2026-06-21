@@ -16,17 +16,17 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★23, Go)<br>
-  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 151 / 1.1k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 1](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.1.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 5 / 1.2k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★18, Go)<br>
-  <sub>[release: `v0.4.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 443 / 251.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 504 / 251.8k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★16, Go)<br>
-  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 138 / 484](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 7](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.11`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 138 / 483](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 5](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
@@ -52,6 +52,11 @@
 
 
 ### Recently Active
+
+- **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
+  <sub>[release: `v0.0.1`](https://github.com/jmylchreest/colophon/releases/latest) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
+
+  A themed Markdown static-site generator with pluggable publishers (Cloudflare/S3/git), a fully static search index, feeds, and author/persona tooling.
 
 - **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
