@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-06-21T00:54:04Z",
+    "last_updated": "2026-06-21T01:52:09Z",
     "total_repos": 19,
-    "total_releases": 299,
-    "total_assets": 9770,
-    "active_assets": 6894,
-    "removed_assets": 2876,
-    "total_downloads": 404370
+    "total_releases": 302,
+    "total_assets": 9825,
+    "active_assets": 6926,
+    "removed_assets": 2899,
+    "total_downloads": 404844
   },
   "repos": [
     {
@@ -40,12 +40,12 @@
     },
     {
       "name": "histui",
-      "releases": 19,
-      "active_assets": 147,
+      "releases": 20,
+      "active_assets": 156,
       "removed_assets": 18,
-      "total_downloads": 500,
-      "latest_release_tag": "v0.0.12-dev.8",
-      "latest_release_published_at": "2026-06-21T00:21:55Z"
+      "total_downloads": 510,
+      "latest_release_tag": "v0.0.12",
+      "latest_release_published_at": "2026-06-21T01:15:53Z"
     },
     {
       "name": "igmp",
@@ -85,12 +85,12 @@
     },
     {
       "name": "refind-btrfs-snapshots",
-      "releases": 26,
-      "active_assets": 91,
-      "removed_assets": 179,
-      "total_downloads": 1188,
-      "latest_release_tag": "v0.1.0",
-      "latest_release_published_at": "2026-06-21T00:02:46Z"
+      "releases": 28,
+      "active_assets": 114,
+      "removed_assets": 202,
+      "total_downloads": 1197,
+      "latest_release_tag": "v0.1.1",
+      "latest_release_published_at": "2026-06-21T01:00:26Z"
     },
     {
       "name": "refyne",
@@ -160,7 +160,7 @@
       "releases": 29,
       "active_assets": 1311,
       "removed_assets": 1630,
-      "total_downloads": 394068,
+      "total_downloads": 394523,
       "latest_release_tag": "v0.4.0",
       "latest_release_published_at": "2026-06-20T17:17:00Z"
     },
