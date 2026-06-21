@@ -3,10 +3,10 @@
     "owner": "jmylchreest",
     "repo": "tvarr",
     "schema_version": 2,
-    "last_updated": "2026-06-21T19:32:50Z",
-    "releases": 15,
+    "last_updated": "2026-06-21T20:33:57Z",
+    "releases": 16,
     "active_assets": 52,
-    "removed_assets": 8,
+    "removed_assets": 12,
     "total_downloads": 79
   },
   "releases": [
@@ -625,11 +625,11 @@
     },
     {
       "id": 303251982,
-      "tag_name": "v0.0.26-dev.23-b898601",
-      "name": "Snapshot 0.0.26-dev.23-b898601",
-      "published_at": "2026-03-30T15:27:09Z",
-      "created_at": "2026-03-30T15:21:21Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -641,7 +641,8 @@
           "updated_at": "2026-03-30T15:27:08Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         },
         {
           "id": 384835947,
@@ -652,7 +653,8 @@
           "updated_at": "2026-03-30T15:27:08Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         },
         {
           "id": 384835948,
@@ -663,7 +665,8 @@
           "updated_at": "2026-03-30T15:27:07Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         },
         {
           "id": 384835950,
@@ -674,7 +677,8 @@
           "updated_at": "2026-03-30T15:27:07Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         }
       ]
     },
@@ -839,6 +843,61 @@
           "updated_at": "2026-06-21T19:31:55Z",
           "download_count": 0,
           "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 342589612,
+      "tag_name": "v0.0.27-dev.13-55736fa",
+      "name": "Snapshot 0.0.27-dev.13-55736fa",
+      "published_at": "2026-06-21T19:43:20Z",
+      "created_at": "2026-06-21T19:37:47Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 453915385,
+          "name": "sbom-0.0.27-dev.13-55736fa.spdx.json",
+          "size": 4643511,
+          "content_type": "application/json",
+          "created_at": "2026-06-21T19:43:18Z",
+          "updated_at": "2026-06-21T19:43:19Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
+          "status": "active"
+        },
+        {
+          "id": 453915386,
+          "name": "tvarr_0.0.27-dev.13-55736fa_linux_amd64.tar.gz",
+          "size": 10259426,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-21T19:43:18Z",
+          "updated_at": "2026-06-21T19:43:19Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
+          "status": "active"
+        },
+        {
+          "id": 453915387,
+          "name": "tvarr_0.0.27-dev.13-55736fa_linux_arm64.tar.gz",
+          "size": 8525411,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-21T19:43:18Z",
+          "updated_at": "2026-06-21T19:43:19Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
+          "status": "active"
+        },
+        {
+          "id": 453915388,
+          "name": "checksums.txt",
+          "size": 329,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-06-21T19:43:18Z",
+          "updated_at": "2026-06-21T19:43:19Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
           "status": "active"
         }
       ]

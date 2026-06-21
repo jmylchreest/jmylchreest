@@ -3,10 +3,10 @@
     "owner": "jmylchreest",
     "repo": "colophon",
     "schema_version": 2,
-    "last_updated": "2026-06-21T12:42:41Z",
-    "releases": 13,
+    "last_updated": "2026-06-21T20:33:57Z",
+    "releases": 14,
     "active_assets": 48,
-    "removed_assets": 30,
+    "removed_assets": 36,
     "total_downloads": 0
   },
   "releases": [
@@ -504,11 +504,11 @@
     },
     {
       "id": 342506638,
-      "tag_name": "v0.0.2-dev.2",
-      "name": "Snapshot 0.0.2-dev.2+d73402e",
-      "published_at": "2026-06-21T11:03:41Z",
-      "created_at": "2026-06-21T11:01:43Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -520,7 +520,8 @@
           "updated_at": "2026-06-21T11:03:40Z",
           "download_count": 0,
           "first_seen": "2026-06-21T11:05:02Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         },
         {
           "id": 453649780,
@@ -531,7 +532,8 @@
           "updated_at": "2026-06-21T11:03:40Z",
           "download_count": 0,
           "first_seen": "2026-06-21T11:05:02Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         },
         {
           "id": 453649781,
@@ -542,7 +544,8 @@
           "updated_at": "2026-06-21T11:03:40Z",
           "download_count": 0,
           "first_seen": "2026-06-21T11:05:02Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         },
         {
           "id": 453649782,
@@ -553,7 +556,8 @@
           "updated_at": "2026-06-21T11:03:40Z",
           "download_count": 0,
           "first_seen": "2026-06-21T11:05:02Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         },
         {
           "id": 453649783,
@@ -564,7 +568,8 @@
           "updated_at": "2026-06-21T11:03:40Z",
           "download_count": 0,
           "first_seen": "2026-06-21T11:05:02Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         },
         {
           "id": 453649785,
@@ -575,7 +580,8 @@
           "updated_at": "2026-06-21T11:03:41Z",
           "download_count": 0,
           "first_seen": "2026-06-21T11:05:02Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T20:33:57Z"
         }
       ]
     },
@@ -1037,6 +1043,83 @@
           "updated_at": "2026-06-21T12:02:54Z",
           "download_count": 0,
           "first_seen": "2026-06-21T12:42:41Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 342588790,
+      "tag_name": "v0.0.4-dev.2",
+      "name": "Snapshot 0.0.4-dev.2+25e97c7",
+      "published_at": "2026-06-21T19:37:32Z",
+      "created_at": "2026-06-21T19:35:43Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 453911772,
+          "name": "colophon_0.0.4-dev.2+25e97c7_linux_arm64.tar.gz",
+          "size": 8344055,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-21T19:37:31Z",
+          "updated_at": "2026-06-21T19:37:31Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
+          "status": "active"
+        },
+        {
+          "id": 453911773,
+          "name": "checksums.txt",
+          "size": 571,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-06-21T19:37:31Z",
+          "updated_at": "2026-06-21T19:37:31Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
+          "status": "active"
+        },
+        {
+          "id": 453911774,
+          "name": "colophon_0.0.4-dev.2+25e97c7_darwin_arm64.tar.gz",
+          "size": 8616338,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-21T19:37:31Z",
+          "updated_at": "2026-06-21T19:37:32Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
+          "status": "active"
+        },
+        {
+          "id": 453911775,
+          "name": "colophon_0.0.4-dev.2+25e97c7_darwin_amd64.tar.gz",
+          "size": 9185181,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-21T19:37:31Z",
+          "updated_at": "2026-06-21T19:37:31Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
+          "status": "active"
+        },
+        {
+          "id": 453911776,
+          "name": "colophon_0.0.4-dev.2+25e97c7_linux_amd64.tar.gz",
+          "size": 9076842,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-21T19:37:31Z",
+          "updated_at": "2026-06-21T19:37:31Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
+          "status": "active"
+        },
+        {
+          "id": 453911782,
+          "name": "colophon_0.0.4-dev.2+25e97c7_windows_amd64.zip",
+          "size": 9274250,
+          "content_type": "application/zip",
+          "created_at": "2026-06-21T19:37:31Z",
+          "updated_at": "2026-06-21T19:37:32Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T20:33:57Z",
           "status": "active"
         }
       ]
