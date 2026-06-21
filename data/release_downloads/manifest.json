@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-06-21T17:32:57Z",
+    "last_updated": "2026-06-21T18:34:00Z",
     "total_repos": 19,
-    "total_releases": 309,
-    "total_assets": 9867,
+    "total_releases": 311,
+    "total_assets": 9894,
     "active_assets": 6938,
-    "removed_assets": 2929,
-    "total_downloads": 409330
+    "removed_assets": 2956,
+    "total_downloads": 409737
   },
   "repos": [
     {
@@ -61,18 +61,18 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2569,
+      "total_downloads": 2570,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
     {
       "name": "keylightd",
-      "releases": 45,
+      "releases": 46,
       "active_assets": 472,
-      "removed_assets": 0,
+      "removed_assets": 18,
       "total_downloads": 953,
-      "latest_release_tag": "v0.1.6",
-      "latest_release_published_at": "2026-05-02T07:21:16Z"
+      "latest_release_tag": "v0.1.7-dev.1",
+      "latest_release_published_at": "2026-06-21T18:28:31Z"
     },
     {
       "name": "n3l",
@@ -88,7 +88,7 @@
       "releases": 28,
       "active_assets": 114,
       "removed_assets": 202,
-      "total_downloads": 1215,
+      "total_downloads": 1218,
       "latest_release_tag": "v0.1.1",
       "latest_release_published_at": "2026-06-21T01:00:26Z"
     },
@@ -130,12 +130,12 @@
     },
     {
       "name": "rosec",
-      "releases": 38,
+      "releases": 39,
       "active_assets": 202,
-      "removed_assets": 117,
+      "removed_assets": 126,
       "total_downloads": 312,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-06-20T19:10:20Z"
+      "latest_release_published_at": "2026-06-21T18:28:18Z"
     },
     {
       "name": "rurl",
@@ -160,7 +160,7 @@
       "releases": 29,
       "active_assets": 1311,
       "removed_assets": 1630,
-      "total_downloads": 398976,
+      "total_downloads": 399379,
       "latest_release_tag": "v0.4.0",
       "latest_release_published_at": "2026-06-20T17:17:00Z"
     },
