@@ -3,11 +3,11 @@
     "owner": "jmylchreest",
     "repo": "rosec",
     "schema_version": 2,
-    "last_updated": "2026-06-21T18:34:00Z",
-    "releases": 39,
-    "active_assets": 202,
+    "last_updated": "2026-06-21T19:32:50Z",
+    "releases": 40,
+    "active_assets": 211,
     "removed_assets": 126,
-    "total_downloads": 312
+    "total_downloads": 318
   },
   "releases": [
     {
@@ -4169,6 +4169,116 @@
           "updated_at": "2026-06-21T18:28:20Z",
           "download_count": 0,
           "first_seen": "2026-06-21T18:34:00Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 342580078,
+      "tag_name": "v0.0.31",
+      "name": "rosec v0.0.31",
+      "published_at": "2026-06-21T18:41:19Z",
+      "created_at": "2026-06-21T18:36:00Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 453883126,
+          "name": "rosec-provider-bitwarden-sm-0.0.31.wasm.tar.gz",
+          "size": 155039,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:16Z",
+          "download_count": 1,
+          "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        },
+        {
+          "id": 453883127,
+          "name": "rosec-provider-bitwarden-pm-0.0.31.wasm.tar.gz",
+          "size": 323469,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:17Z",
+          "download_count": 1,
+          "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        },
+        {
+          "id": 453883128,
+          "name": "rosec-provider-gnome-keyring-0.0.31.wasm.tar.gz",
+          "size": 152708,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:16Z",
+          "download_count": 1,
+          "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        },
+        {
+          "id": 453883129,
+          "name": "rosec-provider-keepassxc-file-0.0.31.wasm.tar.gz",
+          "size": 558845,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:17Z",
+          "download_count": 1,
+          "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        },
+        {
+          "id": 453883130,
+          "name": "checksums.txt",
+          "size": 903,
+          "content_type": "text/plain",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:17Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        },
+        {
+          "id": 453883131,
+          "name": "rosec-0.0.31-aarch64-unknown-linux-musl.tar.gz",
+          "size": 31584088,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:18Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        },
+        {
+          "id": 453883132,
+          "name": "rosec-0.0.31-aarch64-unknown-linux-gnu.tar.gz",
+          "size": 31366227,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:18Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        },
+        {
+          "id": 453883134,
+          "name": "rosec-0.0.31-x86_64-unknown-linux-musl.tar.gz",
+          "size": 33608583,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:18Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T19:32:50Z",
+          "status": "active"
+        },
+        {
+          "id": 453883136,
+          "name": "rosec-0.0.31-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 33162510,
+          "content_type": "application/gzip",
+          "created_at": "2026-06-21T18:41:16Z",
+          "updated_at": "2026-06-21T18:41:18Z",
+          "download_count": 2,
+          "first_seen": "2026-06-21T19:32:50Z",
           "status": "active"
         }
       ]
