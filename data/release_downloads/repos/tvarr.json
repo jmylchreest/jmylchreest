@@ -3,19 +3,19 @@
     "owner": "jmylchreest",
     "repo": "tvarr",
     "schema_version": 2,
-    "last_updated": "2026-06-21T22:27:34Z",
-    "releases": 17,
+    "last_updated": "2026-06-21T23:30:51Z",
+    "releases": 18,
     "active_assets": 52,
-    "removed_assets": 16,
+    "removed_assets": 20,
     "total_downloads": 79
   },
   "releases": [
     {
       "id": 271594069,
-      "tag_name": "v0.0.17",
-      "name": "v0.0.17",
-      "published_at": "2025-12-18T22:11:26Z",
-      "created_at": "2025-12-18T22:09:02Z",
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
       "prerelease": false,
       "draft": false,
       "assets": [
@@ -28,7 +28,8 @@
           "updated_at": "2025-12-18T22:11:25Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T23:30:51Z"
         },
         {
           "id": 330374532,
@@ -39,7 +40,8 @@
           "updated_at": "2025-12-18T22:11:25Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T23:30:51Z"
         },
         {
           "id": 330374533,
@@ -50,7 +52,8 @@
           "updated_at": "2025-12-18T22:11:25Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T23:30:51Z"
         },
         {
           "id": 330374534,
@@ -61,7 +64,8 @@
           "updated_at": "2025-12-18T22:11:25Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-06-21T23:30:51Z"
         }
       ]
     },
@@ -957,6 +961,61 @@
           "updated_at": "2026-06-21T21:53:51Z",
           "download_count": 0,
           "first_seen": "2026-06-21T22:27:34Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 342617525,
+      "tag_name": "v0.0.27",
+      "name": "v0.0.27",
+      "published_at": "2026-06-21T23:02:52Z",
+      "created_at": "2026-06-21T22:59:47Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 454012117,
+          "name": "checksums.txt",
+          "size": 284,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-06-21T23:02:51Z",
+          "updated_at": "2026-06-21T23:02:51Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T23:30:51Z",
+          "status": "active"
+        },
+        {
+          "id": 454012121,
+          "name": "sbom-0.0.27.spdx.json",
+          "size": 4643511,
+          "content_type": "application/json",
+          "created_at": "2026-06-21T23:02:51Z",
+          "updated_at": "2026-06-21T23:02:52Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T23:30:51Z",
+          "status": "active"
+        },
+        {
+          "id": 454012125,
+          "name": "tvarr_0.0.27_linux_amd64.tar.gz",
+          "size": 10261129,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-21T23:02:51Z",
+          "updated_at": "2026-06-21T23:02:52Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T23:30:51Z",
+          "status": "active"
+        },
+        {
+          "id": 454012127,
+          "name": "tvarr_0.0.27_linux_arm64.tar.gz",
+          "size": 8524807,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-21T23:02:51Z",
+          "updated_at": "2026-06-21T23:02:52Z",
+          "download_count": 0,
+          "first_seen": "2026-06-21T23:30:51Z",
           "status": "active"
         }
       ]
