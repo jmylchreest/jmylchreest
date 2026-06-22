@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★18, Go)<br>
-  <sub>[release: `v0.4.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 2.1k / 261.5k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 2.1k / 261.9k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -56,7 +56,7 @@
 - **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
   <sub>[release: `v0.0.4`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 1 / 1](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
 
-  A themed Markdown static-site generator with pluggable publishers (Cloudflare/S3/git), a fully static search index, feeds, and author/persona tooling.
+  A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
 - **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
