@@ -16,7 +16,7 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★23, Go)<br>
-  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 74 / 1.2k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 77 / 1.2k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
@@ -25,7 +25,7 @@
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
-- **[histui](https://github.com/jmylchreest/histui)** (★17, Go)<br>
+- **[histui](https://github.com/jmylchreest/histui)** (★18, Go)<br>
   <sub>[release: `v0.0.12`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 18 / 501](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 0](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
@@ -54,7 +54,7 @@
 ### Recently Active
 
 - **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
-  <sub>[release: `v0.0.15`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 1](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
+  <sub>[release: `v0.0.16`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 1](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
 
   A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 

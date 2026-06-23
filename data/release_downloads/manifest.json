@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-06-23T13:56:57Z",
+    "last_updated": "2026-06-23T15:09:01Z",
     "total_repos": 19,
-    "total_releases": 346,
-    "total_assets": 10097,
-    "active_assets": 7019,
+    "total_releases": 347,
+    "total_assets": 10103,
+    "active_assets": 7025,
     "removed_assets": 3078,
-    "total_downloads": 421840
+    "total_downloads": 421844
   },
   "repos": [
     {
@@ -31,12 +31,12 @@
     },
     {
       "name": "colophon",
-      "releases": 42,
-      "active_assets": 120,
+      "releases": 43,
+      "active_assets": 126,
       "removed_assets": 132,
       "total_downloads": 2,
-      "latest_release_tag": "v0.0.15",
-      "latest_release_published_at": "2026-06-23T12:54:26Z"
+      "latest_release_tag": "v0.0.16",
+      "latest_release_published_at": "2026-06-23T13:59:18Z"
     },
     {
       "name": "histui",
@@ -61,7 +61,7 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2580,
+      "total_downloads": 2581,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
@@ -88,7 +88,7 @@
       "releases": 28,
       "active_assets": 114,
       "removed_assets": 202,
-      "total_downloads": 1266,
+      "total_downloads": 1269,
       "latest_release_tag": "v0.1.1",
       "latest_release_published_at": "2026-06-21T01:00:26Z"
     },
