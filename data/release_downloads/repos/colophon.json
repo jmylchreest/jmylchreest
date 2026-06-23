@@ -3,9 +3,9 @@
     "owner": "jmylchreest",
     "repo": "colophon",
     "schema_version": 2,
-    "last_updated": "2026-06-23T19:37:53Z",
-    "releases": 48,
-    "active_assets": 156,
+    "last_updated": "2026-06-23T20:45:19Z",
+    "releases": 50,
+    "active_assets": 168,
     "removed_assets": 132,
     "total_downloads": 2
   },
@@ -3834,6 +3834,160 @@
           "updated_at": "2026-06-23T19:08:59Z",
           "download_count": 0,
           "first_seen": "2026-06-23T19:37:53Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 343725561,
+      "tag_name": "v0.0.22",
+      "name": "v0.0.22",
+      "published_at": "2026-06-23T19:40:08Z",
+      "created_at": "2026-06-23T19:38:11Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 455910940,
+          "name": "colophon_0.0.22_darwin_arm64.tar.gz",
+          "size": 8782805,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-23T19:40:06Z",
+          "updated_at": "2026-06-23T19:40:07Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455910941,
+          "name": "colophon_0.0.22_darwin_amd64.tar.gz",
+          "size": 9366757,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-23T19:40:06Z",
+          "updated_at": "2026-06-23T19:40:07Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455910942,
+          "name": "colophon_0.0.22_linux_amd64.tar.gz",
+          "size": 9257725,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-23T19:40:06Z",
+          "updated_at": "2026-06-23T19:40:07Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455910943,
+          "name": "colophon_0.0.22_linux_arm64.tar.gz",
+          "size": 8508920,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-23T19:40:06Z",
+          "updated_at": "2026-06-23T19:40:07Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455910944,
+          "name": "checksums.txt",
+          "size": 506,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-06-23T19:40:06Z",
+          "updated_at": "2026-06-23T19:40:06Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455910947,
+          "name": "colophon_0.0.22_windows_amd64.zip",
+          "size": 9456134,
+          "content_type": "application/zip",
+          "created_at": "2026-06-23T19:40:06Z",
+          "updated_at": "2026-06-23T19:40:07Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 343732217,
+      "tag_name": "v0.0.23",
+      "name": "v0.0.23",
+      "published_at": "2026-06-23T19:54:22Z",
+      "created_at": "2026-06-23T19:52:21Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 455919509,
+          "name": "colophon_0.0.23_darwin_arm64.tar.gz",
+          "size": 8783362,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-23T19:54:20Z",
+          "updated_at": "2026-06-23T19:54:21Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455919512,
+          "name": "checksums.txt",
+          "size": 506,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-06-23T19:54:20Z",
+          "updated_at": "2026-06-23T19:54:21Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455919513,
+          "name": "colophon_0.0.23_darwin_amd64.tar.gz",
+          "size": 9366709,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-23T19:54:20Z",
+          "updated_at": "2026-06-23T19:54:21Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455919514,
+          "name": "colophon_0.0.23_linux_amd64.tar.gz",
+          "size": 9256995,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-23T19:54:20Z",
+          "updated_at": "2026-06-23T19:54:21Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455919515,
+          "name": "colophon_0.0.23_linux_arm64.tar.gz",
+          "size": 8508930,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-06-23T19:54:20Z",
+          "updated_at": "2026-06-23T19:54:21Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
+          "status": "active"
+        },
+        {
+          "id": 455919543,
+          "name": "colophon_0.0.23_windows_amd64.zip",
+          "size": 9455732,
+          "content_type": "application/zip",
+          "created_at": "2026-06-23T19:54:21Z",
+          "updated_at": "2026-06-23T19:54:21Z",
+          "download_count": 0,
+          "first_seen": "2026-06-23T20:45:19Z",
           "status": "active"
         }
       ]
