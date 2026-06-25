@@ -16,7 +16,7 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★23, Go)<br>
-  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 86 / 1.2k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 89 / 1.2k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
@@ -26,7 +26,7 @@
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★18, Go)<br>
-  <sub>[release: `v0.0.12`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 20 / 503](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 0](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.12`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 26 / 509](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 0](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
