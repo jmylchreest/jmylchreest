@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-06-29T23:23:31Z",
+    "last_updated": "2026-06-30T00:47:40Z",
     "total_repos": 19,
-    "total_releases": 374,
-    "total_assets": 10265,
-    "active_assets": 7121,
-    "removed_assets": 3144,
-    "total_downloads": 476709
+    "total_releases": 377,
+    "total_assets": 10496,
+    "active_assets": 7147,
+    "removed_assets": 3349,
+    "total_downloads": 478188
   },
   "repos": [
     {
@@ -16,7 +16,7 @@
       "releases": 73,
       "active_assets": 4305,
       "removed_assets": 918,
-      "total_downloads": 4407,
+      "total_downloads": 4408,
       "latest_release_tag": "v0.1.3",
       "latest_release_published_at": "2026-06-14T07:39:10Z"
     },
@@ -130,12 +130,12 @@
     },
     {
       "name": "rosec",
-      "releases": 40,
+      "releases": 41,
       "active_assets": 211,
-      "removed_assets": 126,
-      "total_downloads": 353,
-      "latest_release_tag": "v0.0.31",
-      "latest_release_published_at": "2026-06-21T18:41:19Z"
+      "removed_assets": 135,
+      "total_downloads": 362,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-06-29T23:56:21Z"
     },
     {
       "name": "rurl",
@@ -157,12 +157,12 @@
     },
     {
       "name": "tinct",
-      "releases": 29,
-      "active_assets": 1311,
-      "removed_assets": 1630,
-      "total_downloads": 466098,
-      "latest_release_tag": "v0.4.0",
-      "latest_release_published_at": "2026-06-20T17:17:00Z"
+      "releases": 31,
+      "active_assets": 1337,
+      "removed_assets": 1826,
+      "total_downloads": 467567,
+      "latest_release_tag": "v0.4.1",
+      "latest_release_published_at": "2026-06-30T00:17:39Z"
     },
     {
       "name": "tvarr",
