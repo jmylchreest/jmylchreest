@@ -3,20 +3,20 @@
     "owner": "jmylchreest",
     "repo": "clipferry",
     "schema_version": 2,
-    "last_updated": "2026-07-04T14:27:16Z",
-    "releases": 1,
+    "last_updated": "2026-07-04T15:59:35Z",
+    "releases": 2,
     "active_assets": 2,
-    "removed_assets": 0,
+    "removed_assets": 2,
     "total_downloads": 0
   },
   "releases": [
     {
       "id": 348967052,
-      "tag_name": "snapshot",
-      "name": "snapshot 0.0.1-dev.3+g7eba1859",
-      "published_at": "2026-07-04T14:24:05Z",
-      "created_at": "2026-07-04T14:23:22Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -28,7 +28,8 @@
           "updated_at": "2026-07-04T14:24:04Z",
           "download_count": 0,
           "first_seen": "2026-07-04T14:27:16Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T15:59:35Z"
         },
         {
           "id": 466377457,
@@ -39,6 +40,40 @@
           "updated_at": "2026-07-04T14:24:04Z",
           "download_count": 0,
           "first_seen": "2026-07-04T14:27:16Z",
+          "status": "removed",
+          "removed_at": "2026-07-04T15:59:35Z"
+        }
+      ]
+    },
+    {
+      "id": 348977471,
+      "tag_name": "snapshot",
+      "name": "snapshot 0.0.1-dev.7+gd929b1b8",
+      "published_at": "2026-07-04T15:20:41Z",
+      "created_at": "2026-07-04T15:20:07Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 466408496,
+          "name": "clipferry-0.0.1-dev.7+gd929b1b8-x86_64-linux.tar.gz.sha256",
+          "size": 118,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-07-04T15:20:40Z",
+          "updated_at": "2026-07-04T15:20:41Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T15:59:35Z",
+          "status": "active"
+        },
+        {
+          "id": 466408497,
+          "name": "clipferry-0.0.1-dev.7+gd929b1b8-x86_64-linux.tar.gz",
+          "size": 461043,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-07-04T15:20:40Z",
+          "updated_at": "2026-07-04T15:20:41Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T15:59:35Z",
           "status": "active"
         }
       ]
