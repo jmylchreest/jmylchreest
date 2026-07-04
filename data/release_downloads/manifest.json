@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-07-04T12:05:08Z",
-    "total_repos": 19,
-    "total_releases": 385,
-    "total_assets": 10568,
-    "active_assets": 7165,
+    "last_updated": "2026-07-04T14:27:16Z",
+    "total_repos": 20,
+    "total_releases": 388,
+    "total_assets": 10606,
+    "active_assets": 7203,
     "removed_assets": 3403,
-    "total_downloads": 507539
+    "total_downloads": 507950
   },
   "repos": [
     {
@@ -16,7 +16,7 @@
       "releases": 73,
       "active_assets": 4305,
       "removed_assets": 918,
-      "total_downloads": 4724,
+      "total_downloads": 4735,
       "latest_release_tag": "v0.1.3",
       "latest_release_published_at": "2026-06-14T07:39:10Z"
     },
@@ -28,6 +28,15 @@
       "total_downloads": 38,
       "latest_release_tag": "v0.1.6",
       "latest_release_published_at": "2026-05-07T00:03:09Z"
+    },
+    {
+      "name": "clipferry",
+      "releases": 1,
+      "active_assets": 2,
+      "removed_assets": 0,
+      "total_downloads": 0,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-07-04T14:24:05Z"
     },
     {
       "name": "colophon",
@@ -67,12 +76,12 @@
     },
     {
       "name": "keylightd",
-      "releases": 46,
-      "active_assets": 472,
+      "releases": 48,
+      "active_assets": 508,
       "removed_assets": 18,
-      "total_downloads": 961,
-      "latest_release_tag": "v0.1.7-dev.1",
-      "latest_release_published_at": "2026-06-21T18:28:31Z"
+      "total_downloads": 970,
+      "latest_release_tag": "v0.1.8",
+      "latest_release_published_at": "2026-07-04T14:21:20Z"
     },
     {
       "name": "n3l",
@@ -133,7 +142,7 @@
       "releases": 45,
       "active_assets": 220,
       "removed_assets": 162,
-      "total_downloads": 401,
+      "total_downloads": 403,
       "latest_release_tag": "v0.0.32",
       "latest_release_published_at": "2026-07-03T23:38:37Z"
     },
@@ -160,7 +169,7 @@
       "releases": 31,
       "active_assets": 1337,
       "removed_assets": 1826,
-      "total_downloads": 496455,
+      "total_downloads": 496844,
       "latest_release_tag": "v0.4.1",
       "latest_release_published_at": "2026-06-30T00:17:39Z"
     },
