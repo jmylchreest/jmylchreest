@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-07-04T10:07:01Z",
+    "last_updated": "2026-07-04T12:05:08Z",
     "total_repos": 19,
-    "total_releases": 384,
-    "total_assets": 10559,
+    "total_releases": 385,
+    "total_assets": 10568,
     "active_assets": 7165,
-    "removed_assets": 3394,
-    "total_downloads": 506994
+    "removed_assets": 3403,
+    "total_downloads": 507539
   },
   "repos": [
     {
@@ -16,7 +16,7 @@
       "releases": 73,
       "active_assets": 4305,
       "removed_assets": 918,
-      "total_downloads": 4716,
+      "total_downloads": 4724,
       "latest_release_tag": "v0.1.3",
       "latest_release_published_at": "2026-06-14T07:39:10Z"
     },
@@ -40,12 +40,12 @@
     },
     {
       "name": "histui",
-      "releases": 23,
+      "releases": 24,
       "active_assets": 165,
-      "removed_assets": 36,
-      "total_downloads": 586,
-      "latest_release_tag": "v0.0.13",
-      "latest_release_published_at": "2026-07-03T23:47:46Z"
+      "removed_assets": 45,
+      "total_downloads": 588,
+      "latest_release_tag": "v0.0.14-dev.2",
+      "latest_release_published_at": "2026-07-04T10:36:54Z"
     },
     {
       "name": "igmp",
@@ -133,7 +133,7 @@
       "releases": 45,
       "active_assets": 220,
       "removed_assets": 162,
-      "total_downloads": 398,
+      "total_downloads": 401,
       "latest_release_tag": "v0.0.32",
       "latest_release_published_at": "2026-07-03T23:38:37Z"
     },
@@ -160,7 +160,7 @@
       "releases": 31,
       "active_assets": 1337,
       "removed_assets": 1826,
-      "total_downloads": 495923,
+      "total_downloads": 496455,
       "latest_release_tag": "v0.4.1",
       "latest_release_published_at": "2026-06-30T00:17:39Z"
     },

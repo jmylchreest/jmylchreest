@@ -3,11 +3,11 @@
     "owner": "jmylchreest",
     "repo": "histui",
     "schema_version": 2,
-    "last_updated": "2026-07-04T04:33:08Z",
-    "releases": 23,
+    "last_updated": "2026-07-04T12:05:08Z",
+    "releases": 24,
     "active_assets": 165,
-    "removed_assets": 36,
-    "total_downloads": 586
+    "removed_assets": 45,
+    "total_downloads": 588
   },
   "releases": [
     {
@@ -1632,11 +1632,11 @@
     },
     {
       "id": 316662651,
-      "tag_name": "v0.0.11-dev.33",
-      "name": "Snapshot 0.0.11-dev.33+ff1c821",
-      "published_at": "2026-05-02T08:00:54Z",
-      "created_at": "2026-05-02T07:23:45Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -1648,7 +1648,8 @@
           "updated_at": "2026-05-02T08:00:51Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         },
         {
           "id": 410419284,
@@ -1659,7 +1660,8 @@
           "updated_at": "2026-05-02T08:00:51Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         },
         {
           "id": 410419285,
@@ -1670,7 +1672,8 @@
           "updated_at": "2026-05-02T08:00:51Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         },
         {
           "id": 410419286,
@@ -1681,7 +1684,8 @@
           "updated_at": "2026-05-02T08:00:51Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         },
         {
           "id": 410419288,
@@ -1692,7 +1696,8 @@
           "updated_at": "2026-05-02T08:00:51Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         },
         {
           "id": 410419291,
@@ -1703,7 +1708,8 @@
           "updated_at": "2026-05-02T08:00:52Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         },
         {
           "id": 410419294,
@@ -1714,7 +1720,8 @@
           "updated_at": "2026-05-02T08:00:53Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         },
         {
           "id": 410419295,
@@ -1725,7 +1732,8 @@
           "updated_at": "2026-05-02T08:00:52Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         },
         {
           "id": 410419296,
@@ -1736,7 +1744,8 @@
           "updated_at": "2026-05-02T08:00:52Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T12:05:08Z"
         }
       ]
     },
@@ -2438,7 +2447,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-07-03T23:47:44Z",
           "updated_at": "2026-07-03T23:47:44Z",
-          "download_count": 4,
+          "download_count": 5,
           "first_seen": "2026-07-04T00:13:49Z",
           "status": "active"
         },
@@ -2471,7 +2480,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-07-03T23:47:44Z",
           "updated_at": "2026-07-03T23:47:46Z",
-          "download_count": 4,
+          "download_count": 5,
           "first_seen": "2026-07-04T00:13:49Z",
           "status": "active"
         },
@@ -2506,6 +2515,116 @@
           "updated_at": "2026-07-03T23:47:45Z",
           "download_count": 3,
           "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 348916970,
+      "tag_name": "v0.0.14-dev.2",
+      "name": "Snapshot 0.0.14-dev.2+10a0bd9",
+      "published_at": "2026-07-04T10:36:54Z",
+      "created_at": "2026-07-04T09:59:53Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 466253669,
+          "name": "histui_0.0.14-dev.2+10a0bd9_linux_amd64.tar.gz",
+          "size": 22239312,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-07-04T10:36:51Z",
+          "updated_at": "2026-07-04T10:36:52Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
+          "status": "active"
+        },
+        {
+          "id": 466253670,
+          "name": "histui-linux-amd64",
+          "size": 19837090,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-07-04T10:36:51Z",
+          "updated_at": "2026-07-04T10:36:52Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
+          "status": "active"
+        },
+        {
+          "id": 466253672,
+          "name": "histui-linux-arm64",
+          "size": 19005602,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-07-04T10:36:51Z",
+          "updated_at": "2026-07-04T10:36:52Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
+          "status": "active"
+        },
+        {
+          "id": 466253673,
+          "name": "histui_0.0.14-dev.2+10a0bd9_linux_arm64.tar.gz",
+          "size": 20764843,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-07-04T10:36:51Z",
+          "updated_at": "2026-07-04T10:36:52Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
+          "status": "active"
+        },
+        {
+          "id": 466253674,
+          "name": "checksums.txt",
+          "size": 740,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-07-04T10:36:51Z",
+          "updated_at": "2026-07-04T10:36:51Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
+          "status": "active"
+        },
+        {
+          "id": 466253678,
+          "name": "histuid-linux-amd64",
+          "size": 52086560,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-07-04T10:36:52Z",
+          "updated_at": "2026-07-04T10:36:53Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
+          "status": "active"
+        },
+        {
+          "id": 466253686,
+          "name": "histuid-linux-arm64",
+          "size": 49675136,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-07-04T10:36:52Z",
+          "updated_at": "2026-07-04T10:36:54Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
+          "status": "active"
+        },
+        {
+          "id": 466253687,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-07-04T10:36:52Z",
+          "updated_at": "2026-07-04T10:36:52Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
+          "status": "active"
+        },
+        {
+          "id": 466253688,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-07-04T10:36:52Z",
+          "updated_at": "2026-07-04T10:36:53Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T12:05:08Z",
           "status": "active"
         }
       ]
