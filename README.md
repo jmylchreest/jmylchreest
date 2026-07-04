@@ -8,7 +8,7 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★30, Rust)<br>
-  <sub>[release: `v0.0.31`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 47 / 374](https://github.com/jmylchreest/rosec/releases) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.32`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 3 / 378](https://github.com/jmylchreest/rosec/releases) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -26,7 +26,7 @@
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★18, Go)<br>
-  <sub>[release: `v0.0.12`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 62 / 547](https://github.com/jmylchreest/histui/releases) · [issues: 1](https://github.com/jmylchreest/histui/issues) · [PRs: 3](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.13`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 8 / 534](https://github.com/jmylchreest/histui/releases) · [issues: 1](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 

@@ -3,11 +3,11 @@
     "owner": "jmylchreest",
     "repo": "rosec",
     "schema_version": 2,
-    "last_updated": "2026-07-03T22:59:53Z",
-    "releases": 43,
-    "active_assets": 211,
-    "removed_assets": 153,
-    "total_downloads": 388
+    "last_updated": "2026-07-04T00:13:49Z",
+    "releases": 45,
+    "active_assets": 220,
+    "removed_assets": 162,
+    "total_downloads": 392
   },
   "releases": [
     {
@@ -1896,7 +1896,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-04-05T20:45:07Z",
           "updated_at": "2026-04-05T20:45:07Z",
-          "download_count": 1,
+          "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -4532,11 +4532,11 @@
     },
     {
       "id": 348738368,
-      "tag_name": "snapshot",
-      "name": "Development Snapshot",
-      "published_at": "2026-07-03T17:44:49Z",
-      "created_at": "2026-07-03T17:27:16Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -4548,7 +4548,8 @@
           "updated_at": "2026-07-03T17:44:50Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
         },
         {
           "id": 465640608,
@@ -4559,7 +4560,8 @@
           "updated_at": "2026-07-03T17:44:50Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
         },
         {
           "id": 465640610,
@@ -4570,7 +4572,8 @@
           "updated_at": "2026-07-03T17:44:51Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
         },
         {
           "id": 465640611,
@@ -4581,7 +4584,8 @@
           "updated_at": "2026-07-03T17:44:50Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
         },
         {
           "id": 465640612,
@@ -4592,7 +4596,8 @@
           "updated_at": "2026-07-03T17:44:51Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
         },
         {
           "id": 465640613,
@@ -4603,7 +4608,8 @@
           "updated_at": "2026-07-03T17:44:51Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
         },
         {
           "id": 465640614,
@@ -4614,7 +4620,8 @@
           "updated_at": "2026-07-03T17:44:50Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
         },
         {
           "id": 465640615,
@@ -4625,7 +4632,8 @@
           "updated_at": "2026-07-03T17:44:50Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
         },
         {
           "id": 465640616,
@@ -4636,6 +4644,227 @@
           "updated_at": "2026-07-03T17:44:52Z",
           "download_count": 0,
           "first_seen": "2026-07-03T19:17:20Z",
+          "status": "removed",
+          "removed_at": "2026-07-04T00:13:49Z"
+        }
+      ]
+    },
+    {
+      "id": 348823628,
+      "tag_name": "snapshot",
+      "name": "Development Snapshot",
+      "published_at": "2026-07-03T23:35:28Z",
+      "created_at": "2026-07-03T23:30:40Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 465865203,
+          "name": "rosec-provider-bitwarden-pm-0.0.0-dev.0+3f3f860.wasm.tar.gz",
+          "size": 323765,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:29Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465865204,
+          "name": "checksums.txt",
+          "size": 1007,
+          "content_type": "text/plain",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:29Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465865205,
+          "name": "rosec-0.0.0-dev.0+3f3f860-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 33785645,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:31Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465865206,
+          "name": "rosec-0.0.0-dev.0+3f3f860-x86_64-unknown-linux-musl.tar.gz",
+          "size": 34251829,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:31Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465865207,
+          "name": "rosec-0.0.0-dev.0+3f3f860-aarch64-unknown-linux-gnu.tar.gz",
+          "size": 32099895,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:31Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465865208,
+          "name": "rosec-0.0.0-dev.0+3f3f860-aarch64-unknown-linux-musl.tar.gz",
+          "size": 32291340,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:31Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465865209,
+          "name": "rosec-provider-keepassxc-file-0.0.0-dev.0+3f3f860.wasm.tar.gz",
+          "size": 568376,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:29Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465865210,
+          "name": "rosec-provider-gnome-keyring-0.0.0-dev.0+3f3f860.wasm.tar.gz",
+          "size": 152690,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:29Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465865211,
+          "name": "rosec-provider-bitwarden-sm-0.0.0-dev.0+3f3f860.wasm.tar.gz",
+          "size": 155088,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:35:29Z",
+          "updated_at": "2026-07-03T23:35:29Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 348824156,
+      "tag_name": "v0.0.32",
+      "name": "rosec v0.0.32",
+      "published_at": "2026-07-03T23:38:37Z",
+      "created_at": "2026-07-03T23:30:46Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 465868211,
+          "name": "rosec-provider-keepassxc-file-0.0.32.wasm.tar.gz",
+          "size": 568366,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:34Z",
+          "download_count": 1,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465868213,
+          "name": "rosec-provider-bitwarden-pm-0.0.32.wasm.tar.gz",
+          "size": 323687,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:35Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465868214,
+          "name": "rosec-provider-bitwarden-sm-0.0.32.wasm.tar.gz",
+          "size": 155182,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:34Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465868216,
+          "name": "rosec-provider-gnome-keyring-0.0.32.wasm.tar.gz",
+          "size": 152728,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:34Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465868218,
+          "name": "rosec-0.0.32-x86_64-unknown-linux-musl.tar.gz",
+          "size": 34254447,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:36Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465868219,
+          "name": "rosec-0.0.32-aarch64-unknown-linux-musl.tar.gz",
+          "size": 32287262,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:36Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465868220,
+          "name": "rosec-0.0.32-aarch64-unknown-linux-gnu.tar.gz",
+          "size": 32106245,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:36Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465868221,
+          "name": "checksums.txt",
+          "size": 903,
+          "content_type": "text/plain",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:34Z",
+          "download_count": 0,
+          "first_seen": "2026-07-04T00:13:49Z",
+          "status": "active"
+        },
+        {
+          "id": 465868222,
+          "name": "rosec-0.0.32-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 33784335,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-03T23:38:34Z",
+          "updated_at": "2026-07-03T23:38:36Z",
+          "download_count": 2,
+          "first_seen": "2026-07-04T00:13:49Z",
           "status": "active"
         }
       ]
