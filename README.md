@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★10, Go)<br>
-  <sub>[release: `v0.1.3`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 24 / 933](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.3`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 24 / 934](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★30, Rust)<br>
-  <sub>[release: `v0.0.32`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 15 / 401](https://github.com/jmylchreest/rosec/releases) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 1](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.32`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 15 / 402](https://github.com/jmylchreest/rosec/releases) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 1](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -26,7 +26,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★19, Go)<br>
-  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 5k / 316.4k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 5k / 316.8k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -72,11 +72,6 @@
   <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
 
   Main plugin repository for tinct
-
-- **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
-  <sub>[release: `v0.0.32`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 2](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
-
-  A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
 
 ---
