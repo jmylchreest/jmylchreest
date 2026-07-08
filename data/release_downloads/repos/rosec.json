@@ -3,11 +3,11 @@
     "owner": "jmylchreest",
     "repo": "rosec",
     "schema_version": 2,
-    "last_updated": "2026-07-08T17:26:08Z",
-    "releases": 52,
+    "last_updated": "2026-07-08T19:20:50Z",
+    "releases": 53,
     "active_assets": 220,
-    "removed_assets": 225,
-    "total_downloads": 455
+    "removed_assets": 234,
+    "total_downloads": 458
   },
   "releases": [
     {
@@ -4795,7 +4795,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-07-03T23:38:34Z",
           "updated_at": "2026-07-03T23:38:35Z",
-          "download_count": 7,
+          "download_count": 8,
           "first_seen": "2026-07-04T00:13:49Z",
           "status": "active"
         },
@@ -4817,7 +4817,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-07-03T23:38:34Z",
           "updated_at": "2026-07-03T23:38:34Z",
-          "download_count": 4,
+          "download_count": 5,
           "first_seen": "2026-07-04T00:13:49Z",
           "status": "active"
         },
@@ -4872,7 +4872,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-07-03T23:38:34Z",
           "updated_at": "2026-07-03T23:38:36Z",
-          "download_count": 11,
+          "download_count": 12,
           "first_seen": "2026-07-04T00:13:49Z",
           "status": "active"
         }
@@ -5594,11 +5594,11 @@
     },
     {
       "id": 351051738,
-      "tag_name": "snapshot",
-      "name": "Development Snapshot",
-      "published_at": "2026-07-08T16:23:56Z",
-      "created_at": "2026-07-08T16:13:17Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -5610,7 +5610,8 @@
           "updated_at": "2026-07-08T16:23:57Z",
           "download_count": 0,
           "first_seen": "2026-07-08T17:26:08Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
         },
         {
           "id": 470445845,
@@ -5621,7 +5622,8 @@
           "updated_at": "2026-07-08T16:23:57Z",
           "download_count": 0,
           "first_seen": "2026-07-08T17:26:08Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
         },
         {
           "id": 470445846,
@@ -5632,7 +5634,8 @@
           "updated_at": "2026-07-08T16:23:57Z",
           "download_count": 0,
           "first_seen": "2026-07-08T17:26:08Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
         },
         {
           "id": 470445847,
@@ -5643,7 +5646,8 @@
           "updated_at": "2026-07-08T16:23:59Z",
           "download_count": 0,
           "first_seen": "2026-07-08T17:26:08Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
         },
         {
           "id": 470445849,
@@ -5654,7 +5658,8 @@
           "updated_at": "2026-07-08T16:23:59Z",
           "download_count": 1,
           "first_seen": "2026-07-08T17:26:08Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
         },
         {
           "id": 470445850,
@@ -5665,7 +5670,8 @@
           "updated_at": "2026-07-08T16:23:57Z",
           "download_count": 0,
           "first_seen": "2026-07-08T17:26:08Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
         },
         {
           "id": 470445851,
@@ -5676,7 +5682,8 @@
           "updated_at": "2026-07-08T16:23:59Z",
           "download_count": 0,
           "first_seen": "2026-07-08T17:26:08Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
         },
         {
           "id": 470445852,
@@ -5687,7 +5694,8 @@
           "updated_at": "2026-07-08T16:24:00Z",
           "download_count": 0,
           "first_seen": "2026-07-08T17:26:08Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
         },
         {
           "id": 470445853,
@@ -5698,6 +5706,117 @@
           "updated_at": "2026-07-08T16:23:57Z",
           "download_count": 0,
           "first_seen": "2026-07-08T17:26:08Z",
+          "status": "removed",
+          "removed_at": "2026-07-08T19:20:50Z"
+        }
+      ]
+    },
+    {
+      "id": 351103740,
+      "tag_name": "snapshot",
+      "name": "Development Snapshot",
+      "published_at": "2026-07-08T18:12:09Z",
+      "created_at": "2026-07-08T18:05:31Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 470529997,
+          "name": "rosec-provider-bitwarden-pm-0.0.0-dev.0+c6ec647.wasm.tar.gz",
+          "size": 335976,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:11Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
+          "status": "active"
+        },
+        {
+          "id": 470529998,
+          "name": "checksums.txt",
+          "size": 1007,
+          "content_type": "text/plain",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:11Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
+          "status": "active"
+        },
+        {
+          "id": 470529999,
+          "name": "rosec-provider-bitwarden-sm-0.0.0-dev.0+c6ec647.wasm.tar.gz",
+          "size": 154949,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:11Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
+          "status": "active"
+        },
+        {
+          "id": 470530001,
+          "name": "rosec-0.0.0-dev.0+c6ec647-aarch64-unknown-linux-gnu.tar.gz",
+          "size": 33371017,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:13Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
+          "status": "active"
+        },
+        {
+          "id": 470530002,
+          "name": "rosec-provider-keepassxc-file-0.0.0-dev.0+c6ec647.wasm.tar.gz",
+          "size": 572735,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:11Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
+          "status": "active"
+        },
+        {
+          "id": 470530003,
+          "name": "rosec-provider-gnome-keyring-0.0.0-dev.0+c6ec647.wasm.tar.gz",
+          "size": 152690,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:11Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
+          "status": "active"
+        },
+        {
+          "id": 470530004,
+          "name": "rosec-0.0.0-dev.0+c6ec647-x86_64-unknown-linux-musl.tar.gz",
+          "size": 35613385,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:13Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
+          "status": "active"
+        },
+        {
+          "id": 470530006,
+          "name": "rosec-0.0.0-dev.0+c6ec647-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 35066919,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:13Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
+          "status": "active"
+        },
+        {
+          "id": 470530007,
+          "name": "rosec-0.0.0-dev.0+c6ec647-aarch64-unknown-linux-musl.tar.gz",
+          "size": 33595096,
+          "content_type": "application/gzip",
+          "created_at": "2026-07-08T18:12:11Z",
+          "updated_at": "2026-07-08T18:12:13Z",
+          "download_count": 0,
+          "first_seen": "2026-07-08T19:20:50Z",
           "status": "active"
         }
       ]

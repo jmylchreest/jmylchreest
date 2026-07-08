@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★10, Go)<br>
-  <sub>[release: `v0.1.3`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 26 / 971](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.3`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 28 / 974](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★30, Rust)<br>
-  <sub>[release: `v0.0.32`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 27 / 441](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 1](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.32`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 30 / 443](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -21,7 +21,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★20, Go)<br>
-  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 6.8k / 329.6k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 6.9k / 330.2k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -31,7 +31,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★13, Go)<br>
-  <sub>[release: `v0.1.8`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 8 / 645](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 2](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.1.8`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 8 / 646](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 2](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
