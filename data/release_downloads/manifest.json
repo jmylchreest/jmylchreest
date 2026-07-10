@@ -2,23 +2,23 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-07-10T21:59:10Z",
+    "last_updated": "2026-07-10T23:05:54Z",
     "total_repos": 20,
-    "total_releases": 413,
-    "total_assets": 11204,
+    "total_releases": 415,
+    "total_assets": 11473,
     "active_assets": 7218,
-    "removed_assets": 3986,
-    "total_downloads": 538155
+    "removed_assets": 4255,
+    "total_downloads": 538648
   },
   "repos": [
     {
       "name": "aide",
-      "releases": 76,
+      "releases": 77,
       "active_assets": 4305,
-      "removed_assets": 1392,
-      "total_downloads": 5528,
+      "removed_assets": 1550,
+      "total_downloads": 5534,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-07-10T20:35:12Z"
+      "latest_release_published_at": "2026-07-10T22:52:02Z"
     },
     {
       "name": "awob",
@@ -142,7 +142,7 @@
       "releases": 55,
       "active_assets": 229,
       "removed_assets": 243,
-      "total_downloads": 507,
+      "total_downloads": 510,
       "latest_release_tag": "v0.0.33",
       "latest_release_published_at": "2026-07-09T19:25:02Z"
     },
@@ -166,12 +166,12 @@
     },
     {
       "name": "tinct",
-      "releases": 31,
+      "releases": 32,
       "active_assets": 1337,
-      "removed_assets": 1826,
-      "total_downloads": 525996,
-      "latest_release_tag": "v0.4.1",
-      "latest_release_published_at": "2026-06-30T00:17:39Z"
+      "removed_assets": 1937,
+      "total_downloads": 526480,
+      "latest_release_tag": "0.4.2-preview.1783723468+7588abd",
+      "latest_release_published_at": "2026-07-10T22:51:59Z"
     },
     {
       "name": "tvarr",
