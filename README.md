@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★10, Go)<br>
-  <sub>[release: `v0.1.3`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 31 / 991](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.3`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 31 / 993](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★30, Rust)<br>
-  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 13 / 469](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 15 / 471](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -16,12 +16,12 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★23, Go)<br>
-  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 189 / 1.3k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 193 / 1.3k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★20, Go)<br>
-  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 7.6k / 335.4k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 7.7k / 335.9k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -54,7 +54,7 @@
 ### Recently Active
 
 - **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
-  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 5](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
+  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 6](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
 
   A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
