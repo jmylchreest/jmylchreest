@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-07-11T11:02:17Z",
+    "last_updated": "2026-07-11T13:12:44Z",
     "total_repos": 20,
-    "total_releases": 420,
-    "total_assets": 11800,
-    "active_assets": 7376,
-    "removed_assets": 4424,
-    "total_downloads": 541025
+    "total_releases": 422,
+    "total_assets": 11823,
+    "active_assets": 7390,
+    "removed_assets": 4433,
+    "total_downloads": 541572
   },
   "repos": [
     {
@@ -16,18 +16,18 @@
       "releases": 79,
       "active_assets": 4463,
       "removed_assets": 1708,
-      "total_downloads": 5621,
+      "total_downloads": 5632,
       "latest_release_tag": "v0.1.4",
       "latest_release_published_at": "2026-07-10T23:30:11Z"
     },
     {
       "name": "awob",
-      "releases": 8,
-      "active_assets": 77,
+      "releases": 9,
+      "active_assets": 88,
       "removed_assets": 0,
-      "total_downloads": 45,
-      "latest_release_tag": "v0.1.6",
-      "latest_release_published_at": "2026-05-07T00:03:09Z"
+      "total_downloads": 47,
+      "latest_release_tag": "v0.1.7",
+      "latest_release_published_at": "2026-07-11T11:07:47Z"
     },
     {
       "name": "clipferry",
@@ -49,12 +49,12 @@
     },
     {
       "name": "histui",
-      "releases": 25,
-      "active_assets": 165,
-      "removed_assets": 54,
-      "total_downloads": 650,
-      "latest_release_tag": "v0.0.14-dev.3",
-      "latest_release_published_at": "2026-07-11T09:42:24Z"
+      "releases": 26,
+      "active_assets": 168,
+      "removed_assets": 63,
+      "total_downloads": 655,
+      "latest_release_tag": "v0.0.14-dev.4",
+      "latest_release_published_at": "2026-07-11T11:15:02Z"
     },
     {
       "name": "igmp",
@@ -142,7 +142,7 @@
       "releases": 55,
       "active_assets": 229,
       "removed_assets": 243,
-      "total_downloads": 525,
+      "total_downloads": 529,
       "latest_release_tag": "v0.0.33",
       "latest_release_published_at": "2026-07-09T19:25:02Z"
     },
@@ -169,7 +169,7 @@
       "releases": 32,
       "active_assets": 1337,
       "removed_assets": 1937,
-      "total_downloads": 528743,
+      "total_downloads": 529268,
       "latest_release_tag": "0.4.2-preview.1783723468+7588abd",
       "latest_release_published_at": "2026-07-10T22:51:59Z"
     },
