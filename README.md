@@ -8,9 +8,19 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★30, Rust)<br>
-  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 32 / 508](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 32 / 510](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
+
+- **[awob](https://github.com/jmylchreest/awob)** (★3, Rust)<br>
+  <sub>[release: `v0.1.6`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 11 / 45](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 1](https://github.com/jmylchreest/awob/pulls)</sub>
+
+  Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
+
+- **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
+  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 8](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
+
+  A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
 
 ### Notable Projects
@@ -54,14 +64,9 @@
 ### Recently Active
 
 - **[clipferry](https://github.com/jmylchreest/clipferry)** (Rust)<br>
-  <sub>[release: `v0.0.1`](https://github.com/jmylchreest/clipferry/releases/latest) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 2](https://github.com/jmylchreest/clipferry/pulls)</sub>
+  <sub>[release: `v0.0.2`](https://github.com/jmylchreest/clipferry/releases/latest) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 1](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
-
-- **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
-  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 8](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
-
-  A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
 - **[refyne-sdk-go](https://github.com/jmylchreest/refyne-sdk-go)** (Go)<br>
   <sub>[release: `v0.1.12`](https://github.com/jmylchreest/refyne-sdk-go/releases/latest) · [issues: 0](https://github.com/jmylchreest/refyne-sdk-go/issues) · [PRs: 0](https://github.com/jmylchreest/refyne-sdk-go/pulls)</sub>

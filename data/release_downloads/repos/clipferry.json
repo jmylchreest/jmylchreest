@@ -3,10 +3,10 @@
     "owner": "jmylchreest",
     "repo": "clipferry",
     "schema_version": 2,
-    "last_updated": "2026-07-06T16:17:58Z",
-    "releases": 10,
+    "last_updated": "2026-07-11T08:56:17Z",
+    "releases": 12,
     "active_assets": 2,
-    "removed_assets": 16,
+    "removed_assets": 18,
     "total_downloads": 2
   },
   "releases": [
@@ -302,11 +302,11 @@
     },
     {
       "id": 349526624,
-      "tag_name": "snapshot",
-      "name": "snapshot 0.0.2-dev.21+g15ae95fd",
-      "published_at": "2026-07-06T12:03:39Z",
-      "created_at": "2026-07-06T12:03:05Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -318,7 +318,8 @@
           "updated_at": "2026-07-06T12:03:39Z",
           "download_count": 0,
           "first_seen": "2026-07-06T16:17:58Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-11T08:56:17Z"
         },
         {
           "id": 468036906,
@@ -329,6 +330,50 @@
           "updated_at": "2026-07-06T12:03:39Z",
           "download_count": 0,
           "first_seen": "2026-07-06T16:17:58Z",
+          "status": "removed",
+          "removed_at": "2026-07-11T08:56:17Z"
+        }
+      ]
+    },
+    {
+      "id": 352472055,
+      "tag_name": "v0.0.2",
+      "name": "v0.0.2",
+      "published_at": "2026-07-11T08:53:23Z",
+      "created_at": "2026-07-11T08:53:16Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": []
+    },
+    {
+      "id": 352472135,
+      "tag_name": "snapshot",
+      "name": "snapshot 0.0.2-dev.22+gc4fb2d43",
+      "published_at": "2026-07-11T08:53:46Z",
+      "created_at": "2026-07-11T08:52:56Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 473367134,
+          "name": "clipferry-0.0.2-dev.22+gc4fb2d43-x86_64-linux.tar.gz",
+          "size": 466408,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-07-11T08:53:45Z",
+          "updated_at": "2026-07-11T08:53:45Z",
+          "download_count": 0,
+          "first_seen": "2026-07-11T08:56:17Z",
+          "status": "active"
+        },
+        {
+          "id": 473367135,
+          "name": "clipferry-0.0.2-dev.22+gc4fb2d43-x86_64-linux.tar.gz.sha256",
+          "size": 119,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-07-11T08:53:45Z",
+          "updated_at": "2026-07-11T08:53:45Z",
+          "download_count": 0,
+          "first_seen": "2026-07-11T08:56:17Z",
           "status": "active"
         }
       ]
