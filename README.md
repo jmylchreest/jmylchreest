@@ -8,7 +8,7 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code and OpenCode.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★30, Rust)<br>
-  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 29 / 501](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 32 / 508](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -21,12 +21,12 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★20, Go)<br>
-  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 8.4k / 341k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 8.5k / 341.4k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★19, Go)<br>
-  <sub>[release: `v0.0.13`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 78 / 606](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 0](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.13`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 82 / 610](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 0](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
@@ -53,18 +53,18 @@
 
 ### Recently Active
 
+- **[clipferry](https://github.com/jmylchreest/clipferry)** (Rust)<br>
+  <sub>[release: `v0.0.1`](https://github.com/jmylchreest/clipferry/releases/latest) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 2](https://github.com/jmylchreest/clipferry/pulls)</sub>
+
+  Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
+
 - **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
-  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 7](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
+  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 8](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
 
   A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
 - **[refyne-sdk-go](https://github.com/jmylchreest/refyne-sdk-go)** (Go)<br>
   <sub>[release: `v0.1.12`](https://github.com/jmylchreest/refyne-sdk-go/releases/latest) · [issues: 0](https://github.com/jmylchreest/refyne-sdk-go/issues) · [PRs: 0](https://github.com/jmylchreest/refyne-sdk-go/pulls)</sub>
-
-- **[clipferry](https://github.com/jmylchreest/clipferry)** (Rust)<br>
-  <sub>[release: `v0.0.1`](https://github.com/jmylchreest/clipferry/releases/latest) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 1](https://github.com/jmylchreest/clipferry/pulls)</sub>
-
-  Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
 
 - **[homebrew-keylightd](https://github.com/jmylchreest/homebrew-keylightd)** (Ruby)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/homebrew-keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/homebrew-keylightd/pulls)</sub>
