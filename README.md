@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★11, Go)<br>
-  <sub>[release: `v0.1.7`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 2 / 1k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.7`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 3 / 1.1k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
@@ -67,9 +67,6 @@
   <sub>[release: `v0.0.2`](https://github.com/jmylchreest/clipferry/releases/latest) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 1](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
-
-- **[refyne-sdk-go](https://github.com/jmylchreest/refyne-sdk-go)** (Go)<br>
-  <sub>[release: `v0.1.12`](https://github.com/jmylchreest/refyne-sdk-go/releases/latest) · [issues: 0](https://github.com/jmylchreest/refyne-sdk-go/issues) · [PRs: 0](https://github.com/jmylchreest/refyne-sdk-go/pulls)</sub>
 
 
 ---
