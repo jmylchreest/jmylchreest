@@ -26,12 +26,12 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★23, Go)<br>
-  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 261 / 1.4k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 1](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 264 / 1.4k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 1](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★20, Go)<br>
-  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 13.9k / 380.6k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 14k / 381k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -64,7 +64,7 @@
 ### Recently Active
 
 - **[clipferry](https://github.com/jmylchreest/clipferry)** (Rust)<br>
-  <sub>[release: `v0.0.2`](https://github.com/jmylchreest/clipferry/releases/latest) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 1](https://github.com/jmylchreest/clipferry/pulls)</sub>
+  <sub>[release: `v0.0.2`](https://github.com/jmylchreest/clipferry/releases/latest) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 5](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
 
