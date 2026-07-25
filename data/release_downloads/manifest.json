@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-07-25T14:59:35Z",
+    "last_updated": "2026-07-25T16:09:25Z",
     "total_repos": 20,
-    "total_releases": 438,
-    "total_assets": 13905,
+    "total_releases": 439,
+    "total_assets": 13911,
     "active_assets": 8034,
-    "removed_assets": 5871,
-    "total_downloads": 620196
+    "removed_assets": 5877,
+    "total_downloads": 620764
   },
   "repos": [
     {
@@ -16,7 +16,7 @@
       "releases": 91,
       "active_assets": 5095,
       "removed_assets": 3122,
-      "total_downloads": 6890,
+      "total_downloads": 6902,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-07-25T14:07:25Z"
     },
@@ -40,12 +40,12 @@
     },
     {
       "name": "colophon",
-      "releases": 73,
+      "releases": 74,
       "active_assets": 228,
-      "removed_assets": 210,
+      "removed_assets": 216,
       "total_downloads": 12,
-      "latest_release_tag": "v0.0.34-dev.3",
-      "latest_release_published_at": "2026-07-09T19:20:30Z"
+      "latest_release_tag": "v0.0.34-dev.4",
+      "latest_release_published_at": "2026-07-25T15:37:31Z"
     },
     {
       "name": "histui",
@@ -79,7 +79,7 @@
       "releases": 48,
       "active_assets": 508,
       "removed_assets": 18,
-      "total_downloads": 1007,
+      "total_downloads": 1011,
       "latest_release_tag": "v0.1.8",
       "latest_release_published_at": "2026-07-04T14:21:20Z"
     },
@@ -97,7 +97,7 @@
       "releases": 28,
       "active_assets": 114,
       "removed_assets": 202,
-      "total_downloads": 1506,
+      "total_downloads": 1509,
       "latest_release_tag": "v0.1.1",
       "latest_release_published_at": "2026-06-21T01:00:26Z"
     },
@@ -169,7 +169,7 @@
       "releases": 32,
       "active_assets": 1337,
       "removed_assets": 1937,
-      "total_downloads": 606188,
+      "total_downloads": 606737,
       "latest_release_tag": "0.4.2-preview.1783723468+7588abd",
       "latest_release_published_at": "2026-07-10T22:51:59Z"
     },
