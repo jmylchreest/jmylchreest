@@ -3,11 +3,11 @@
     "owner": "jmylchreest",
     "repo": "refind-btrfs-snapshots",
     "schema_version": 2,
-    "last_updated": "2026-07-25T16:09:25Z",
+    "last_updated": "2026-07-26T09:09:42Z",
     "releases": 28,
     "active_assets": 114,
     "removed_assets": 202,
-    "total_downloads": 1509
+    "total_downloads": 1557
   },
   "releases": [
     {
@@ -378,7 +378,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:05Z",
-          "download_count": 182,
+          "download_count": 183,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -389,7 +389,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:04Z",
-          "download_count": 176,
+          "download_count": 177,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -411,7 +411,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:04Z",
-          "download_count": 177,
+          "download_count": 178,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -422,7 +422,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:05Z",
-          "download_count": 11,
+          "download_count": 12,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -561,7 +561,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-05-24T00:13:42Z",
           "updated_at": "2026-05-24T00:13:43Z",
-          "download_count": 10,
+          "download_count": 11,
           "first_seen": "2026-05-24T03:23:59Z",
           "status": "active"
         },
@@ -572,7 +572,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-05-24T00:13:42Z",
           "updated_at": "2026-05-24T00:13:43Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-05-24T03:23:59Z",
           "status": "active"
         },
@@ -594,7 +594,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-05-24T00:13:42Z",
           "updated_at": "2026-05-24T00:13:43Z",
-          "download_count": 10,
+          "download_count": 11,
           "first_seen": "2026-05-24T03:23:59Z",
           "status": "active"
         },
@@ -605,7 +605,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-05-24T00:13:42Z",
           "updated_at": "2026-05-24T00:13:43Z",
-          "download_count": 17,
+          "download_count": 18,
           "first_seen": "2026-05-24T03:23:59Z",
           "status": "active"
         },
@@ -839,7 +839,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-05-24T22:11:27Z",
           "updated_at": "2026-05-24T22:11:27Z",
-          "download_count": 3,
+          "download_count": 4,
           "first_seen": "2026-05-24T22:55:58Z",
           "status": "active"
         },
@@ -861,7 +861,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-05-24T22:11:27Z",
           "updated_at": "2026-05-24T22:11:27Z",
-          "download_count": 36,
+          "download_count": 37,
           "first_seen": "2026-05-24T22:55:58Z",
           "status": "active"
         },
@@ -872,7 +872,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-05-24T22:11:27Z",
           "updated_at": "2026-05-24T22:11:27Z",
-          "download_count": 37,
+          "download_count": 38,
           "first_seen": "2026-05-24T22:55:58Z",
           "status": "active"
         },
@@ -883,7 +883,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-05-24T22:11:27Z",
           "updated_at": "2026-05-24T22:11:27Z",
-          "download_count": 74,
+          "download_count": 75,
           "first_seen": "2026-05-24T22:55:58Z",
           "status": "active"
         },
@@ -3242,7 +3242,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:43Z",
           "updated_at": "2026-06-21T00:02:43Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3264,7 +3264,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:43Z",
           "updated_at": "2026-06-21T00:02:43Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3275,7 +3275,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:43Z",
           "updated_at": "2026-06-21T00:02:43Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3286,7 +3286,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:43Z",
           "updated_at": "2026-06-21T00:02:43Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3319,7 +3319,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:43Z",
           "updated_at": "2026-06-21T00:02:44Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3330,7 +3330,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:44Z",
           "updated_at": "2026-06-21T00:02:44Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3363,7 +3363,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:44Z",
           "updated_at": "2026-06-21T00:02:45Z",
-          "download_count": 3,
+          "download_count": 4,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3374,7 +3374,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:44Z",
           "updated_at": "2026-06-21T00:02:45Z",
-          "download_count": 1,
+          "download_count": 2,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3385,7 +3385,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-06-21T00:02:44Z",
           "updated_at": "2026-06-21T00:02:44Z",
-          "download_count": 2,
+          "download_count": 3,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3396,7 +3396,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-06-21T00:02:44Z",
           "updated_at": "2026-06-21T00:02:45Z",
-          "download_count": 2,
+          "download_count": 3,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3429,7 +3429,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:45Z",
           "updated_at": "2026-06-21T00:02:45Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3440,7 +3440,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:02:45Z",
           "updated_at": "2026-06-21T00:02:45Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T00:54:04Z",
           "status": "active"
         },
@@ -3495,7 +3495,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:54Z",
           "updated_at": "2026-06-21T00:59:54Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3528,7 +3528,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:54Z",
           "updated_at": "2026-06-21T00:59:54Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3539,7 +3539,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:54Z",
           "updated_at": "2026-06-21T00:59:55Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3550,7 +3550,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:54Z",
           "updated_at": "2026-06-21T00:59:55Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3583,7 +3583,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:55Z",
           "updated_at": "2026-06-21T00:59:55Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3594,7 +3594,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:55Z",
           "updated_at": "2026-06-21T00:59:55Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3627,7 +3627,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:55Z",
           "updated_at": "2026-06-21T00:59:55Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3638,7 +3638,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:55Z",
           "updated_at": "2026-06-21T00:59:56Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3649,7 +3649,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-06-21T00:59:55Z",
           "updated_at": "2026-06-21T00:59:55Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3660,7 +3660,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-06-21T00:59:55Z",
           "updated_at": "2026-06-21T00:59:56Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3693,7 +3693,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:56Z",
           "updated_at": "2026-06-21T00:59:56Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3704,7 +3704,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T00:59:56Z",
           "updated_at": "2026-06-21T00:59:56Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3748,7 +3748,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:21Z",
           "updated_at": "2026-06-21T01:00:22Z",
-          "download_count": 1,
+          "download_count": 2,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3781,7 +3781,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:21Z",
           "updated_at": "2026-06-21T01:00:22Z",
-          "download_count": 1,
+          "download_count": 2,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3803,7 +3803,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:22Z",
           "updated_at": "2026-06-21T01:00:22Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3814,7 +3814,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:22Z",
           "updated_at": "2026-06-21T01:00:22Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3847,7 +3847,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:22Z",
           "updated_at": "2026-06-21T01:00:23Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3858,7 +3858,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:22Z",
           "updated_at": "2026-06-21T01:00:23Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3891,7 +3891,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:23Z",
           "updated_at": "2026-06-21T01:00:23Z",
-          "download_count": 105,
+          "download_count": 106,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3902,7 +3902,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:23Z",
           "updated_at": "2026-06-21T01:00:24Z",
-          "download_count": 6,
+          "download_count": 7,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3913,7 +3913,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-06-21T01:00:23Z",
           "updated_at": "2026-06-21T01:00:23Z",
-          "download_count": 100,
+          "download_count": 101,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3924,7 +3924,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-06-21T01:00:23Z",
           "updated_at": "2026-06-21T01:00:24Z",
-          "download_count": 103,
+          "download_count": 104,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3957,7 +3957,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:24Z",
           "updated_at": "2026-06-21T01:00:24Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
@@ -3968,7 +3968,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-06-21T01:00:24Z",
           "updated_at": "2026-06-21T01:00:24Z",
-          "download_count": 0,
+          "download_count": 1,
           "first_seen": "2026-06-21T01:52:09Z",
           "status": "active"
         },
