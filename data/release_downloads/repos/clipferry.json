@@ -3,10 +3,10 @@
     "owner": "jmylchreest",
     "repo": "clipferry",
     "schema_version": 2,
-    "last_updated": "2026-07-11T08:56:17Z",
-    "releases": 12,
+    "last_updated": "2026-07-31T22:02:07Z",
+    "releases": 13,
     "active_assets": 2,
-    "removed_assets": 18,
+    "removed_assets": 20,
     "total_downloads": 2
   },
   "releases": [
@@ -347,11 +347,11 @@
     },
     {
       "id": 352472135,
-      "tag_name": "snapshot",
-      "name": "snapshot 0.0.2-dev.22+gc4fb2d43",
-      "published_at": "2026-07-11T08:53:46Z",
-      "created_at": "2026-07-11T08:52:56Z",
-      "prerelease": true,
+      "tag_name": null,
+      "name": null,
+      "published_at": null,
+      "created_at": null,
+      "prerelease": false,
       "draft": false,
       "assets": [
         {
@@ -363,7 +363,8 @@
           "updated_at": "2026-07-11T08:53:45Z",
           "download_count": 0,
           "first_seen": "2026-07-11T08:56:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-07-31T22:02:07Z"
         },
         {
           "id": 473367135,
@@ -374,6 +375,40 @@
           "updated_at": "2026-07-11T08:53:45Z",
           "download_count": 0,
           "first_seen": "2026-07-11T08:56:17Z",
+          "status": "removed",
+          "removed_at": "2026-07-31T22:02:07Z"
+        }
+      ]
+    },
+    {
+      "id": 363324507,
+      "tag_name": "snapshot",
+      "name": "snapshot 0.0.2-dev.23+gac2d2fda",
+      "published_at": "2026-07-31T21:04:21Z",
+      "created_at": "2026-07-31T21:03:34Z",
+      "prerelease": true,
+      "draft": false,
+      "assets": [
+        {
+          "id": 497173069,
+          "name": "clipferry-0.0.2-dev.23+gac2d2fda-x86_64-linux.tar.gz",
+          "size": 468320,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-07-31T21:04:20Z",
+          "updated_at": "2026-07-31T21:04:20Z",
+          "download_count": 0,
+          "first_seen": "2026-07-31T22:02:07Z",
+          "status": "active"
+        },
+        {
+          "id": 497173070,
+          "name": "clipferry-0.0.2-dev.23+gac2d2fda-x86_64-linux.tar.gz.sha256",
+          "size": 119,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-07-31T21:04:20Z",
+          "updated_at": "2026-07-31T21:04:20Z",
+          "download_count": 0,
+          "first_seen": "2026-07-31T22:02:07Z",
           "status": "active"
         }
       ]
