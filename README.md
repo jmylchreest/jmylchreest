@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★15, Go)<br>
-  <sub>[release: `v0.1.11`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 1 / 1.2k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.13`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 0 / 1.2k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
@@ -31,12 +31,12 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
-  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 23.3k / 446.5k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 23.3k / 447.1k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★20, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 171 / 900](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 6](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 173 / 902](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 6](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
