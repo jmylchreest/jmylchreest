@@ -3,9 +3,9 @@
     "owner": "jmylchreest",
     "repo": "colophon",
     "schema_version": 2,
-    "last_updated": "2026-07-25T16:09:25Z",
-    "releases": 74,
-    "active_assets": 228,
+    "last_updated": "2026-08-01T11:14:15Z",
+    "releases": 75,
+    "active_assets": 234,
     "removed_assets": 216,
     "total_downloads": 12
   },
@@ -5920,6 +5920,83 @@
           "updated_at": "2026-07-25T15:37:31Z",
           "download_count": 0,
           "first_seen": "2026-07-25T16:09:25Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 363501394,
+      "tag_name": "v0.0.34",
+      "name": "v0.0.34",
+      "published_at": "2026-08-01T10:45:15Z",
+      "created_at": "2026-08-01T10:42:25Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 497819653,
+          "name": "colophon_0.0.34_linux_amd64.tar.gz",
+          "size": 9676462,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-01T10:45:14Z",
+          "updated_at": "2026-08-01T10:45:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-01T11:14:15Z",
+          "status": "active"
+        },
+        {
+          "id": 497819654,
+          "name": "colophon_0.0.34_darwin_amd64.tar.gz",
+          "size": 9785881,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-01T10:45:14Z",
+          "updated_at": "2026-08-01T10:45:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-01T11:14:15Z",
+          "status": "active"
+        },
+        {
+          "id": 497819655,
+          "name": "colophon_0.0.34_darwin_arm64.tar.gz",
+          "size": 9196898,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-01T10:45:14Z",
+          "updated_at": "2026-08-01T10:45:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-01T11:14:15Z",
+          "status": "active"
+        },
+        {
+          "id": 497819656,
+          "name": "checksums.txt",
+          "size": 506,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-08-01T10:45:14Z",
+          "updated_at": "2026-08-01T10:45:14Z",
+          "download_count": 0,
+          "first_seen": "2026-08-01T11:14:15Z",
+          "status": "active"
+        },
+        {
+          "id": 497819657,
+          "name": "colophon_0.0.34_linux_arm64.tar.gz",
+          "size": 8917190,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-01T10:45:14Z",
+          "updated_at": "2026-08-01T10:45:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-01T11:14:15Z",
+          "status": "active"
+        },
+        {
+          "id": 497819667,
+          "name": "colophon_0.0.34_windows_amd64.zip",
+          "size": 9871948,
+          "content_type": "application/zip",
+          "created_at": "2026-08-01T10:45:14Z",
+          "updated_at": "2026-08-01T10:45:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-01T11:14:15Z",
           "status": "active"
         }
       ]

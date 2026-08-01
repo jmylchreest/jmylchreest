@@ -18,7 +18,7 @@
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
 - **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
-  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 1](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 3](https://github.com/jmylchreest/colophon/pulls)</sub>
+  <sub>[release: `v0.0.34`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 0 / 1](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 3](https://github.com/jmylchreest/colophon/pulls)</sub>
 
   A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
@@ -31,7 +31,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
-  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 23.9k / 451.8k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 24k / 452.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
