@@ -36,7 +36,7 @@
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★20, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 203 / 950](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 12](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 210 / 957](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 12](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
