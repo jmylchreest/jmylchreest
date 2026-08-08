@@ -8,7 +8,7 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★34, Rust)<br>
-  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 122 / 693](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 2](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.33`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 122 / 694](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 2](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -59,14 +59,6 @@
   <sub>[downloads: 0 / 88](https://github.com/jmylchreest/igmp/releases) · [issues: 0](https://github.com/jmylchreest/igmp/issues) · [PRs: 0](https://github.com/jmylchreest/igmp/pulls)</sub>
 
   Lightweight/simple IGMPv2 Query daemon written in Golang.
-
-
-### Recently Active
-
-- **[clipferry](https://github.com/jmylchreest/clipferry)** (Rust)<br>
-  <sub>[release: `v0.0.2`](https://github.com/jmylchreest/clipferry/releases/latest) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 7](https://github.com/jmylchreest/clipferry/pulls)</sub>
-
-  Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
 
 
 ---
