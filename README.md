@@ -2,7 +2,7 @@
 
 ### Featured
 
-- **[aide](https://github.com/jmylchreest/aide)** (★15, Go)<br>
+- **[aide](https://github.com/jmylchreest/aide)** (★16, Go)<br>
   <sub>[release: `v0.1.14`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 11 / 1.3k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 4](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
