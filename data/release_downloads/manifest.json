@@ -2,23 +2,23 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-08-13T22:38:07Z",
+    "last_updated": "2026-08-13T23:37:38Z",
     "total_repos": 20,
-    "total_releases": 462,
-    "total_assets": 16147,
+    "total_releases": 463,
+    "total_assets": 16305,
     "active_assets": 9006,
-    "removed_assets": 7141,
-    "total_downloads": 741340
+    "removed_assets": 7299,
+    "total_downloads": 741738
   },
   "repos": [
     {
       "name": "aide",
-      "releases": 104,
+      "releases": 105,
       "active_assets": 6043,
-      "removed_assets": 4228,
-      "total_downloads": 8104,
-      "latest_release_tag": "v0.1.14",
-      "latest_release_published_at": "2026-08-01T11:46:58Z"
+      "removed_assets": 4386,
+      "total_downloads": 8108,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-08-13T23:19:21Z"
     },
     {
       "name": "awob",
@@ -169,7 +169,7 @@
       "releases": 33,
       "active_assets": 1337,
       "removed_assets": 2048,
-      "total_downloads": 725549,
+      "total_downloads": 725943,
       "latest_release_tag": "0.4.2-preview.1786483617+a64dc06",
       "latest_release_published_at": "2026-08-11T21:34:04Z"
     },
