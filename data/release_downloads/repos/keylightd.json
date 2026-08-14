@@ -3,11 +3,11 @@
     "owner": "jmylchreest",
     "repo": "keylightd",
     "schema_version": 2,
-    "last_updated": "2026-08-14T21:21:41Z",
-    "releases": 49,
-    "active_assets": 508,
+    "last_updated": "2026-08-14T22:18:59Z",
+    "releases": 50,
+    "active_assets": 526,
     "removed_assets": 36,
-    "total_downloads": 1036
+    "total_downloads": 1049
   },
   "releases": [
     {
@@ -6565,6 +6565,215 @@
           "updated_at": "2026-08-14T21:06:33Z",
           "download_count": 0,
           "first_seen": "2026-08-14T21:21:41Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 370829673,
+      "tag_name": "v0.1.9",
+      "name": "v0.1.9",
+      "published_at": "2026-08-14T21:22:16Z",
+      "created_at": "2026-08-14T21:18:31Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "id": 514936205,
+          "name": "keylightd-control@jmylchreest.github.io.shell-extension.zip",
+          "size": 63797,
+          "content_type": "application/zip",
+          "created_at": "2026-08-14T21:22:13Z",
+          "updated_at": "2026-08-14T21:22:13Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936206,
+          "name": "keylightd-tray_0.1.9_linux_amd64.tar.gz",
+          "size": 5697594,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-14T21:22:13Z",
+          "updated_at": "2026-08-14T21:22:14Z",
+          "download_count": 2,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936207,
+          "name": "keylightd-tray_0.1.9_darwin_universal_sbom.spdx.json",
+          "size": 98606,
+          "content_type": "application/json",
+          "created_at": "2026-08-14T21:22:13Z",
+          "updated_at": "2026-08-14T21:22:13Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936208,
+          "name": "keylightd-tray_0.1.9_darwin_universal.tar.gz",
+          "size": 10999308,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-14T21:22:13Z",
+          "updated_at": "2026-08-14T21:22:14Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936209,
+          "name": "keylightd-tray_0.1.9_linux_amd64_sbom.spdx.json",
+          "size": 51154,
+          "content_type": "application/json",
+          "created_at": "2026-08-14T21:22:13Z",
+          "updated_at": "2026-08-14T21:22:13Z",
+          "download_count": 2,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936211,
+          "name": "keylightd-tray_0.1.9_linux_arm64.tar.gz",
+          "size": 5127714,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-14T21:22:13Z",
+          "updated_at": "2026-08-14T21:22:14Z",
+          "download_count": 1,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936212,
+          "name": "keylightd-tray_0.1.9_linux_arm64_sbom.spdx.json",
+          "size": 51154,
+          "content_type": "application/json",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:14Z",
+          "download_count": 1,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936213,
+          "name": "keylightd-tray_0.1.9_windows_amd64.zip",
+          "size": 6237655,
+          "content_type": "application/zip",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:14Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936214,
+          "name": "keylightd-tray_0.1.9_windows_arm64.zip",
+          "size": 5575842,
+          "content_type": "application/zip",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936215,
+          "name": "keylightd_0.1.9_checksums.txt",
+          "size": 1850,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:14Z",
+          "download_count": 1,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936219,
+          "name": "keylightd_0.1.9_darwin_amd64.tar.gz",
+          "size": 7630172,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936226,
+          "name": "keylightd_0.1.9_darwin_amd64_sbom.spdx.json",
+          "size": 92789,
+          "content_type": "application/json",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:14Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936227,
+          "name": "keylightd_0.1.9_darwin_arm64.tar.gz",
+          "size": 6975724,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936239,
+          "name": "keylightd_0.1.9_darwin_arm64_sbom.spdx.json",
+          "size": 91283,
+          "content_type": "application/json",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:15Z",
+          "download_count": 0,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936240,
+          "name": "keylightd_0.1.9_linux_amd64.tar.gz",
+          "size": 7537713,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-14T21:22:14Z",
+          "updated_at": "2026-08-14T21:22:15Z",
+          "download_count": 2,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936258,
+          "name": "keylightd_0.1.9_linux_amd64_sbom.spdx.json",
+          "size": 92723,
+          "content_type": "application/json",
+          "created_at": "2026-08-14T21:22:15Z",
+          "updated_at": "2026-08-14T21:22:15Z",
+          "download_count": 2,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936259,
+          "name": "keylightd_0.1.9_linux_arm64_sbom.spdx.json",
+          "size": 91218,
+          "content_type": "application/json",
+          "created_at": "2026-08-14T21:22:15Z",
+          "updated_at": "2026-08-14T21:22:15Z",
+          "download_count": 1,
+          "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        },
+        {
+          "id": 514936260,
+          "name": "keylightd_0.1.9_linux_arm64.tar.gz",
+          "size": 6743729,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-08-14T21:22:15Z",
+          "updated_at": "2026-08-14T21:22:15Z",
+          "download_count": 1,
+          "first_seen": "2026-08-14T22:18:59Z",
           "status": "active"
         }
       ]
