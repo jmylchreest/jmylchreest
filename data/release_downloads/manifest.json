@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 2,
-    "last_updated": "2026-08-14T20:27:27Z",
+    "last_updated": "2026-08-14T21:21:41Z",
     "total_repos": 20,
-    "total_releases": 469,
-    "total_assets": 17253,
+    "total_releases": 470,
+    "total_assets": 17271,
     "active_assets": 9164,
-    "removed_assets": 8089,
-    "total_downloads": 748397
+    "removed_assets": 8107,
+    "total_downloads": 748958
   },
   "repos": [
     {
@@ -16,7 +16,7 @@
       "releases": 111,
       "active_assets": 6201,
       "removed_assets": 5176,
-      "total_downloads": 8133,
+      "total_downloads": 8136,
       "latest_release_tag": "v0.1.15",
       "latest_release_published_at": "2026-08-14T16:12:34Z"
     },
@@ -25,7 +25,7 @@
       "releases": 9,
       "active_assets": 88,
       "removed_assets": 0,
-      "total_downloads": 187,
+      "total_downloads": 190,
       "latest_release_tag": "v0.1.7",
       "latest_release_published_at": "2026-07-11T11:07:47Z"
     },
@@ -52,7 +52,7 @@
       "releases": 28,
       "active_assets": 183,
       "removed_assets": 72,
-      "total_downloads": 1027,
+      "total_downloads": 1030,
       "latest_release_tag": "v0.0.15-dev.14",
       "latest_release_published_at": "2026-08-12T22:27:42Z"
     },
@@ -76,12 +76,12 @@
     },
     {
       "name": "keylightd",
-      "releases": 48,
+      "releases": 49,
       "active_assets": 508,
-      "removed_assets": 18,
+      "removed_assets": 36,
       "total_downloads": 1036,
-      "latest_release_tag": "v0.1.8",
-      "latest_release_published_at": "2026-07-04T14:21:20Z"
+      "latest_release_tag": "v0.1.9-dev.5",
+      "latest_release_published_at": "2026-08-14T21:06:33Z"
     },
     {
       "name": "n3l",
@@ -97,7 +97,7 @@
       "releases": 28,
       "active_assets": 114,
       "removed_assets": 202,
-      "total_downloads": 1619,
+      "total_downloads": 1622,
       "latest_release_tag": "v0.1.1",
       "latest_release_published_at": "2026-06-21T01:00:26Z"
     },
@@ -169,7 +169,7 @@
       "releases": 33,
       "active_assets": 1337,
       "removed_assets": 2048,
-      "total_downloads": 732510,
+      "total_downloads": 733059,
       "latest_release_tag": "0.4.2-preview.1786483617+a64dc06",
       "latest_release_published_at": "2026-08-11T21:34:04Z"
     },
