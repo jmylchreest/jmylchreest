@@ -1,18 +1,20 @@
 {
   "_meta": {
     "owner": "jmylchreest",
-    "schema_version": 2,
-    "last_updated": "2026-08-16T07:27:56Z",
+    "schema_version": 3,
+    "last_updated": "2026-08-16T08:23:57Z",
     "total_repos": 20,
+    "absent_repos": 0,
     "total_releases": 475,
     "total_assets": 17780,
     "active_assets": 9208,
     "removed_assets": 8572,
-    "total_downloads": 768417
+    "total_downloads": 768872
   },
   "repos": [
     {
       "name": "aide",
+      "status": "active",
       "releases": 112,
       "active_assets": 6201,
       "removed_assets": 5334,
@@ -22,6 +24,7 @@
     },
     {
       "name": "awob",
+      "status": "active",
       "releases": 9,
       "active_assets": 88,
       "removed_assets": 0,
@@ -31,6 +34,7 @@
     },
     {
       "name": "clipferry",
+      "status": "active",
       "releases": 13,
       "active_assets": 2,
       "removed_assets": 20,
@@ -40,6 +44,7 @@
     },
     {
       "name": "colophon",
+      "status": "active",
       "releases": 76,
       "active_assets": 240,
       "removed_assets": 216,
@@ -49,6 +54,7 @@
     },
     {
       "name": "histui",
+      "status": "active",
       "releases": 28,
       "active_assets": 183,
       "removed_assets": 72,
@@ -58,6 +64,7 @@
     },
     {
       "name": "igmp",
+      "status": "active",
       "releases": 2,
       "active_assets": 7,
       "removed_assets": 0,
@@ -67,6 +74,7 @@
     },
     {
       "name": "kagimcp-zed",
+      "status": "active",
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
@@ -76,6 +84,7 @@
     },
     {
       "name": "keylightd",
+      "status": "active",
       "releases": 50,
       "active_assets": 526,
       "removed_assets": 36,
@@ -85,6 +94,7 @@
     },
     {
       "name": "n3l",
+      "status": "active",
       "releases": 2,
       "active_assets": 0,
       "removed_assets": 0,
@@ -94,6 +104,7 @@
     },
     {
       "name": "refind-btrfs-snapshots",
+      "status": "active",
       "releases": 28,
       "active_assets": 114,
       "removed_assets": 202,
@@ -103,6 +114,7 @@
     },
     {
       "name": "refyne",
+      "status": "active",
       "releases": 14,
       "active_assets": 78,
       "removed_assets": 6,
@@ -112,6 +124,7 @@
     },
     {
       "name": "refyne-sdk-go",
+      "status": "active",
       "releases": 2,
       "active_assets": 0,
       "removed_assets": 0,
@@ -121,6 +134,7 @@
     },
     {
       "name": "refyne-sdk-python",
+      "status": "active",
       "releases": 2,
       "active_assets": 8,
       "removed_assets": 0,
@@ -130,6 +144,7 @@
     },
     {
       "name": "refyne-sdk-ts",
+      "status": "active",
       "releases": 3,
       "active_assets": 12,
       "removed_assets": 6,
@@ -139,6 +154,7 @@
     },
     {
       "name": "rosec",
+      "status": "active",
       "releases": 63,
       "active_assets": 238,
       "removed_assets": 303,
@@ -148,6 +164,7 @@
     },
     {
       "name": "rurl",
+      "status": "active",
       "releases": 1,
       "active_assets": 6,
       "removed_assets": 0,
@@ -157,6 +174,7 @@
     },
     {
       "name": "statsfactory",
+      "status": "active",
       "releases": 4,
       "active_assets": 14,
       "removed_assets": 2,
@@ -166,15 +184,17 @@
     },
     {
       "name": "tinct",
+      "status": "active",
       "releases": 36,
       "active_assets": 1363,
       "removed_assets": 2355,
-      "total_downloads": 752383,
+      "total_downloads": 752838,
       "latest_release_tag": "0.4.3-preview.1786806527+bad3b40",
       "latest_release_published_at": "2026-08-15T15:15:22Z"
     },
     {
       "name": "tvarr",
+      "status": "active",
       "releases": 18,
       "active_assets": 52,
       "removed_assets": 20,
@@ -184,6 +204,7 @@
     },
     {
       "name": "wait-for",
+      "status": "active",
       "releases": 2,
       "active_assets": 14,
       "removed_assets": 0,

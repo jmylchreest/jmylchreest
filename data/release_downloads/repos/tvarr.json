@@ -2,9 +2,11 @@
   "_meta": {
     "owner": "jmylchreest",
     "repo": "tvarr",
-    "schema_version": 2,
-    "last_updated": "2026-06-21T23:30:51Z",
+    "schema_version": 3,
+    "last_updated": "2026-08-16T08:23:57Z",
+    "repo_status": "active",
     "releases": 18,
+    "removed_releases": 5,
     "active_assets": 52,
     "removed_assets": 20,
     "total_downloads": 79
@@ -18,6 +20,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 330374531,
@@ -77,6 +81,7 @@
       "created_at": "2025-12-19T00:06:31Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 330408296,
@@ -132,6 +137,7 @@
       "created_at": "2026-01-05T14:43:44Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 336578262,
@@ -187,6 +193,7 @@
       "created_at": "2026-02-13T00:33:23Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 355080144,
@@ -242,6 +249,7 @@
       "created_at": "2026-02-15T22:41:57Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 356426435,
@@ -297,6 +305,7 @@
       "created_at": "2026-02-15T23:10:54Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 356437137,
@@ -352,6 +361,7 @@
       "created_at": "2026-02-16T20:15:21Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 356912443,
@@ -407,6 +417,7 @@
       "created_at": "2026-02-16T21:29:06Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 356939174,
@@ -462,6 +473,7 @@
       "created_at": "2026-02-17T22:39:18Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 357577178,
@@ -517,6 +529,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 383761281,
@@ -576,6 +590,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 383762456,
@@ -635,6 +651,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 384835945,
@@ -694,6 +712,7 @@
       "created_at": "2026-03-31T09:58:44Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 385442344,
@@ -749,6 +768,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 453896297,
@@ -808,6 +829,7 @@
       "created_at": "2026-06-21T19:26:02Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 453908724,
@@ -863,6 +885,7 @@
       "created_at": "2026-06-21T19:37:47Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 453915385,
@@ -918,6 +941,7 @@
       "created_at": "2026-06-21T21:48:07Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 453980200,
@@ -973,6 +997,7 @@
       "created_at": "2026-06-21T22:59:47Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 454012117,

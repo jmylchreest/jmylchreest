@@ -2,9 +2,11 @@
   "_meta": {
     "owner": "jmylchreest",
     "repo": "refyne-sdk-ts",
-    "schema_version": 2,
-    "last_updated": "2026-08-14T11:49:57Z",
+    "schema_version": 3,
+    "last_updated": "2026-08-16T08:23:57Z",
+    "repo_status": "active",
     "releases": 3,
+    "removed_releases": 1,
     "active_assets": 12,
     "removed_assets": 6,
     "total_downloads": 28
@@ -18,6 +20,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 347752970,
@@ -101,6 +105,7 @@
       "created_at": "2026-01-29T16:29:01Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 347753315,
@@ -178,6 +183,7 @@
       "created_at": "2026-01-31T20:09:48Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 348769592,

@@ -2,9 +2,11 @@
   "_meta": {
     "owner": "jmylchreest",
     "repo": "histui",
-    "schema_version": 2,
-    "last_updated": "2026-08-15T14:18:48Z",
+    "schema_version": 3,
+    "last_updated": "2026-08-16T08:23:57Z",
+    "repo_status": "active",
     "releases": 28,
+    "removed_releases": 8,
     "active_assets": 183,
     "removed_assets": 72,
     "total_downloads": 1063
@@ -18,6 +20,7 @@
       "created_at": "2025-12-28T23:47:07Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 333893415,
@@ -128,6 +131,7 @@
       "created_at": "2025-12-30T23:23:08Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 334652252,
@@ -238,6 +242,7 @@
       "created_at": "2025-12-31T00:30:28Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 334670659,
@@ -348,6 +353,7 @@
       "created_at": "2025-12-27T00:35:21Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 334691724,
@@ -392,6 +398,7 @@
       "created_at": "2025-12-31T13:14:09Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 334866055,
@@ -502,6 +509,7 @@
       "created_at": "2026-01-01T23:39:43Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 335333385,
@@ -612,6 +620,7 @@
       "created_at": "2026-01-02T19:50:45Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 335615073,
@@ -722,6 +731,7 @@
       "created_at": "2026-01-03T15:10:52Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 335868291,
@@ -832,6 +842,7 @@
       "created_at": "2026-01-16T22:22:55Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 342014810,
@@ -942,6 +953,7 @@
       "created_at": "2026-02-17T21:03:05Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 357550024,
@@ -1052,6 +1064,7 @@
       "created_at": "2026-03-19T13:06:16Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 377198761,
@@ -1162,6 +1175,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 380041345,
@@ -1281,6 +1296,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 380089181,
@@ -1400,6 +1417,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 394697212,
@@ -1519,6 +1538,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 394895895,
@@ -1638,6 +1659,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 410419283,
@@ -1757,6 +1780,7 @@
       "created_at": "2026-05-02T09:32:33Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 410462370,
@@ -1867,6 +1891,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 447319433,
@@ -1986,6 +2012,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 453350514,
@@ -2105,6 +2133,7 @@
       "created_at": "2026-06-21T00:38:46Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 453374072,
@@ -2215,6 +2244,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 465691436,
@@ -2334,6 +2365,7 @@
       "created_at": "2026-07-03T23:09:08Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 465872672,
@@ -2444,6 +2476,7 @@
       "created_at": "2026-07-03T23:10:40Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 465874510,
@@ -2554,6 +2587,7 @@
       "created_at": "2026-07-04T09:59:53Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 466253669,
@@ -2664,6 +2698,7 @@
       "created_at": "2026-07-11T09:05:47Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 473391522,
@@ -2774,6 +2809,7 @@
       "created_at": "2026-07-11T09:05:47Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 473437956,
@@ -2917,6 +2953,7 @@
       "created_at": "2026-07-11T11:54:42Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 473556395,
@@ -3060,6 +3097,7 @@
       "created_at": "2026-08-12T21:50:36Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 512147000,

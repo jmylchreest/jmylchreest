@@ -2,9 +2,11 @@
   "_meta": {
     "owner": "jmylchreest",
     "repo": "rosec",
-    "schema_version": 2,
-    "last_updated": "2026-08-16T03:48:10Z",
+    "schema_version": 3,
+    "last_updated": "2026-08-16T08:23:57Z",
+    "repo_status": "active",
     "releases": 63,
+    "removed_releases": 34,
     "active_assets": 238,
     "removed_assets": 303,
     "total_downloads": 756
@@ -18,6 +20,7 @@
       "created_at": "2026-03-02T23:57:11Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 365672781,
@@ -95,6 +98,7 @@
       "created_at": "2026-03-04T09:07:31Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 366651971,
@@ -183,6 +187,7 @@
       "created_at": "2026-03-05T17:29:12Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 367683665,
@@ -282,6 +287,7 @@
       "created_at": "2026-03-05T19:01:56Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 367720529,
@@ -381,6 +387,7 @@
       "created_at": "2026-03-05T21:08:45Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 367780549,
@@ -480,6 +487,7 @@
       "created_at": "2026-03-05T23:06:49Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 367839150,
@@ -579,6 +587,7 @@
       "created_at": "2026-03-06T23:41:49Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 368598840,
@@ -678,6 +687,7 @@
       "created_at": "2026-03-07T00:41:00Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 368622622,
@@ -777,6 +787,7 @@
       "created_at": "2026-03-07T00:53:59Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 368627479,
@@ -876,6 +887,7 @@
       "created_at": "2026-03-07T21:59:07Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 369105791,
@@ -975,6 +987,7 @@
       "created_at": "2026-03-08T19:20:51Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 369594434,
@@ -1074,6 +1087,7 @@
       "created_at": "2026-03-15T17:21:31Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 374413272,
@@ -1173,6 +1187,7 @@
       "created_at": "2026-03-16T23:26:25Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 375329985,
@@ -1272,6 +1287,7 @@
       "created_at": "2026-03-17T21:02:19Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 375991847,
@@ -1371,6 +1387,7 @@
       "created_at": "2026-03-18T09:15:35Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 376324741,
@@ -1470,6 +1487,7 @@
       "created_at": "2026-03-20T09:56:57Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 377840096,
@@ -1569,6 +1587,7 @@
       "created_at": "2026-03-28T23:41:16Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 383763260,
@@ -1668,6 +1687,7 @@
       "created_at": "2026-03-30T20:14:11Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 385014237,
@@ -1767,6 +1787,7 @@
       "created_at": "2026-05-01T23:18:51Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 389476056,
@@ -1866,6 +1887,7 @@
       "created_at": "2026-05-01T23:18:51Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 389529555,
@@ -1965,6 +1987,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 410752584,
@@ -2084,6 +2108,7 @@
       "created_at": "2026-05-02T21:39:43Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 410755476,
@@ -2194,6 +2219,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 412801459,
@@ -2313,6 +2340,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 413913706,
@@ -2432,6 +2461,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 414792261,
@@ -2551,6 +2582,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 415933146,
@@ -2670,6 +2703,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 421932757,
@@ -2789,6 +2824,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 421953121,
@@ -2908,6 +2945,7 @@
       "created_at": "2026-05-19T20:27:17Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 424506479,
@@ -3018,6 +3056,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 428442305,
@@ -3137,6 +3177,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 428507891,
@@ -3256,6 +3298,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 428535061,
@@ -3375,6 +3419,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 428822414,
@@ -3494,6 +3540,7 @@
       "created_at": "2026-05-25T23:37:39Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 429736537,
@@ -3604,6 +3651,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 429740627,
@@ -3723,6 +3772,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 430963612,
@@ -3842,6 +3893,7 @@
       "created_at": "2026-05-27T10:34:31Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 431018177,
@@ -3952,6 +4004,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 453170079,
@@ -4071,6 +4125,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 453877005,
@@ -4190,6 +4246,7 @@
       "created_at": "2026-06-21T18:36:00Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 453883126,
@@ -4300,6 +4357,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 461616410,
@@ -4419,6 +4478,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 465619049,
@@ -4538,6 +4599,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 465640607,
@@ -4657,6 +4720,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 465865203,
@@ -4776,6 +4841,7 @@
       "created_at": "2026-07-03T23:30:46Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 465868211,
@@ -4886,6 +4952,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 468328822,
@@ -5005,6 +5073,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 468378299,
@@ -5124,6 +5194,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 468904741,
@@ -5243,6 +5315,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 469035281,
@@ -5362,6 +5436,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 469659431,
@@ -5481,6 +5557,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 470370002,
@@ -5600,6 +5678,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 470445844,
@@ -5719,6 +5799,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 470529997,
@@ -5838,6 +5920,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 471659401,
@@ -5957,6 +6041,7 @@
       "created_at": "2026-07-09T19:19:06Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 471668771,
@@ -6067,6 +6152,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 476522118,
@@ -6186,6 +6273,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 487159489,
@@ -6269,6 +6358,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 487160178,
@@ -6388,6 +6479,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 499290536,
@@ -6507,6 +6600,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 499324158,
@@ -6626,6 +6721,8 @@
       "created_at": null,
       "prerelease": false,
       "draft": false,
+      "status": "removed",
+      "removed_at": "2026-08-16T08:23:57Z",
       "assets": [
         {
           "id": 507911520,
@@ -6745,6 +6842,7 @@
       "created_at": "2026-08-10T14:14:55Z",
       "prerelease": true,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 508845252,
@@ -6855,6 +6953,7 @@
       "created_at": "2026-08-10T15:41:56Z",
       "prerelease": false,
       "draft": false,
+      "status": "active",
       "assets": [
         {
           "id": 508937329,
