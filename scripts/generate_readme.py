@@ -2,6 +2,7 @@
 """Generate a GitHub profile README from live repo data."""
 
 import fnmatch
+import json
 import os
 import requests
 from datetime import datetime, timedelta, timezone
@@ -12,7 +13,9 @@ from urllib3.util.retry import Retry
 USERNAME = "jmylchreest"
 STARS_THRESHOLD = 4
 RECENT_DAYS = 7
-FEATURED_FILE = Path(__file__).resolve().parent.parent / ".featured"
+ROOT = Path(__file__).resolve().parent.parent
+FEATURED_FILE = ROOT / ".featured"
+ARCHIVE_DIR = ROOT / "data" / "release_downloads" / "repos"
 
 API = "https://api.github.com"
 HEADERS = {
@@ -173,6 +176,50 @@ def sum_asset_downloads(assets, repo_name=None):
     )
 
 
+_archive_cache = {}
+
+
+def load_archive(repo_name):
+    """Parsed archive for a repo, or None if we have no usable file.
+
+    collect_download_stats.py carries forward assets and releases that have since
+    been deleted upstream, so these figures survive release pruning where the live
+    API sum does not. It runs before this script in CI, so the file is current.
+    """
+    if repo_name not in _archive_cache:
+        path = ARCHIVE_DIR / f"{repo_name}.json"
+        try:
+            _archive_cache[repo_name] = json.loads(path.read_text())
+        except (OSError, ValueError):
+            _archive_cache[repo_name] = None
+    return _archive_cache[repo_name]
+
+
+def archive_total_downloads(repo_name):
+    """Lifetime countable downloads across every release we have ever seen."""
+    data = load_archive(repo_name)
+    if data is None:
+        return None
+    return sum(
+        sum_asset_downloads(rel.get("assets"), repo_name)
+        for rel in data.get("releases", [])
+    )
+
+
+def archive_release_downloads(repo_name, tag):
+    """Countable downloads for `tag`, including assets that were replaced and
+    earlier releases published under the same tag. None if the tag isn't archived."""
+    if not tag:
+        return None
+    data = load_archive(repo_name)
+    if data is None:
+        return None
+    matched = [r for r in data.get("releases", []) if r.get("tag_name") == tag]
+    if not matched:
+        return None
+    return sum(sum_asset_downloads(r.get("assets"), repo_name) for r in matched)
+
+
 def format_count(n):
     """Compact human count: 1234 -> 1.2k, 1234567 -> 1.2M."""
     if n is None:
@@ -224,6 +271,18 @@ def fetch_repo_meta(owner, name):
         if len(batch) < 100:
             break
         page += 1
+
+    # Prefer the local archive: it retains downloads from releases and assets that
+    # have been deleted upstream. max() guards against a missing or stale archive.
+    archived = archive_total_downloads(name)
+    if archived is not None:
+        meta["downloads_total"] = max(meta["downloads_total"], archived)
+        if archived:
+            meta["has_releases"] = True
+
+    archived_latest = archive_release_downloads(name, meta["release"])
+    if archived_latest is not None:
+        meta["downloads_latest"] = max(meta["downloads_latest"], archived_latest)
 
     # Open issues (GitHub counts PRs as issues, so we need to subtract PRs)
     resp = SESSION.get(

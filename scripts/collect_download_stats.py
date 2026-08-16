@@ -30,7 +30,7 @@ USERNAME = "jmylchreest"
 DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "release_downloads"
 REPOS_DIR = DATA_DIR / "repos"
 MANIFEST_FILE = DATA_DIR / "manifest.json"
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3
 
 API = "https://api.github.com"
 HEADERS = {
@@ -146,25 +146,29 @@ def release_shell(rel):
         "created_at": rel.get("created_at"),
         "prerelease": rel.get("prerelease", False),
         "draft": rel.get("draft", False),
+        "status": "active",
         "assets": [],
     }
 
 
 def load_repo_file(repo_name):
-    """Return prior file contents (or empty shell) and a (release_id, asset_id) -> asset map."""
+    """Return prior file contents, a (release_id, asset_id) -> asset map, and a
+    release_id -> release-metadata map (assets stripped)."""
     path = REPOS_DIR / f"{repo_name}.json"
     if not path.exists():
-        return None, {}
+        return None, {}, {}
     with path.open() as f:
         data = json.load(f)
     prior_assets = {}
+    prior_releases = {}
     for rel in data.get("releases", []):
+        prior_releases[rel["id"]] = {k: v for k, v in rel.items() if k != "assets"}
         for a in rel.get("assets", []):
             prior_assets[(rel["id"], a["id"])] = a
-    return data, prior_assets
+    return data, prior_assets, prior_releases
 
 
-def build_repo_payload(owner, repo_name, releases_api, prior_assets, ts):
+def build_repo_payload(owner, repo_name, releases_api, prior_assets, prior_releases, ts):
     """Reconcile API releases with prior state; carry-forward removed assets."""
     seen_keys = set()
     new_releases = {}
@@ -187,18 +191,25 @@ def build_repo_payload(owner, repo_name, releases_api, prior_assets, ts):
             continue
         bucket = new_releases.get(rid)
         if bucket is None:
-            # The whole release disappeared — reconstruct shell from prior asset's release fields
-            # by reading the prior release entry (we lost it, so fall back to a minimal record).
+            # The whole release disappeared upstream. Reuse the metadata we recorded
+            # last time so the tag survives — otherwise these downloads become
+            # unattributable and drop out of any per-version rollup.
+            prior_rel = prior_releases.get(rid) or {}
             bucket = new_releases.setdefault(rid, {
                 "id": rid,
-                "tag_name": None,
-                "name": None,
-                "published_at": None,
-                "created_at": None,
-                "prerelease": False,
-                "draft": False,
+                "tag_name": prior_rel.get("tag_name"),
+                "name": prior_rel.get("name"),
+                "published_at": prior_rel.get("published_at"),
+                "created_at": prior_rel.get("created_at"),
+                "prerelease": prior_rel.get("prerelease", False),
+                "draft": prior_rel.get("draft", False),
+                "status": "removed",
+                "removed_at": prior_rel.get("removed_at", ts),
                 "assets": [],
             })
+            # Preserve provenance for tags recovered by backfill_release_tags.py.
+            if prior_rel.get("tag_source"):
+                bucket["tag_source"] = prior_rel["tag_source"]
         carried = dict(prior)
         if carried.get("status") != "removed":
             carried["status"] = "removed"
@@ -215,6 +226,7 @@ def build_repo_payload(owner, repo_name, releases_api, prior_assets, ts):
     active = sum(1 for r in sorted_releases for a in r["assets"] if a["status"] == "active")
     removed = sum(1 for r in sorted_releases for a in r["assets"] if a["status"] == "removed")
     downloads = sum(a["download_count"] for r in sorted_releases for a in r["assets"])
+    removed_releases = sum(1 for r in sorted_releases if r.get("status") == "removed")
 
     return {
         "_meta": {
@@ -222,7 +234,9 @@ def build_repo_payload(owner, repo_name, releases_api, prior_assets, ts):
             "repo": repo_name,
             "schema_version": SCHEMA_VERSION,
             "last_updated": ts,
+            "repo_status": "active",
             "releases": len(sorted_releases),
+            "removed_releases": removed_releases,
             "active_assets": active,
             "removed_assets": removed,
             "total_downloads": downloads,
@@ -232,10 +246,31 @@ def build_repo_payload(owner, repo_name, releases_api, prior_assets, ts):
 
 
 def latest_release(payload):
-    candidates = [r for r in payload["releases"] if not r.get("draft")]
+    """Newest release that still exists upstream. Removed releases keep their tag
+    for accounting, but must not be reported as the current release."""
+    candidates = [
+        r for r in payload.get("releases", [])
+        if not r.get("draft") and r.get("status", "active") != "removed"
+    ]
     if not candidates:
         return None
     return max(candidates, key=lambda r: r.get("published_at") or "")
+
+
+def summarise(repo_name, payload):
+    """Manifest row for a repo, from its archive payload."""
+    meta = payload.get("_meta", {})
+    latest = latest_release(payload)
+    return {
+        "name": repo_name,
+        "status": meta.get("repo_status", "active"),
+        "releases": meta.get("releases", 0),
+        "active_assets": meta.get("active_assets", 0),
+        "removed_assets": meta.get("removed_assets", 0),
+        "total_downloads": meta.get("total_downloads", 0),
+        "latest_release_tag": (latest or {}).get("tag_name"),
+        "latest_release_published_at": (latest or {}).get("published_at"),
+    }
 
 
 def write_if_changed(path, payload):
@@ -308,13 +343,13 @@ def main():
         name = repo["name"]
         seen_repo_files.add(f"{name}.json")
 
-        prior_payload, prior_assets = load_repo_file(name)
+        prior_payload, prior_assets, prior_releases = load_repo_file(name)
         # Skip writing files for repos that have no releases now and never did.
         releases_api = fetch_releases(owner, name)
         if not releases_api and not prior_assets:
             continue
 
-        payload = build_repo_payload(owner, name, releases_api, prior_assets, ts)
+        payload = build_repo_payload(owner, name, releases_api, prior_assets, prior_releases, ts)
         path = REPOS_DIR / f"{name}.json"
         if write_if_changed(path, payload):
             changed += 1
@@ -327,30 +362,37 @@ def main():
                 total = sum(version_deltas.values())
                 print(f"  statsfactory: {name}: pushed {total} new downloads across {len(version_deltas)} version(s)")
 
-        latest = latest_release(payload)
-        repo_summaries.append({
-            "name": name,
-            "releases": payload["_meta"]["releases"],
-            "active_assets": payload["_meta"]["active_assets"],
-            "removed_assets": payload["_meta"]["removed_assets"],
-            "total_downloads": payload["_meta"]["total_downloads"],
-            "latest_release_tag": (latest or {}).get("tag_name"),
-            "latest_release_published_at": (latest or {}).get("published_at"),
-        })
+        repo_summaries.append(summarise(name, payload))
 
-    # Drop per-repo files for repos that no longer exist on the user's account.
-    for f in REPOS_DIR.glob("*.json"):
-        if f.name not in seen_repo_files:
-            print(f"Removing stale {f.name}")
-            f.unlink()
+    # Repos that vanished from the account (deleted, renamed, archived out of view,
+    # or flipped private) keep their archive — dropping the file would silently
+    # erase every download it ever recorded.
+    for f in sorted(REPOS_DIR.glob("*.json")):
+        if f.name in seen_repo_files:
+            continue
+        try:
+            payload = json.loads(f.read_text())
+        except ValueError:
+            print(f"Skipping unreadable {f.name}", file=sys.stderr)
+            continue
+        meta = payload.setdefault("_meta", {})
+        if meta.get("repo_status") != "absent":
+            meta["repo_status"] = "absent"
+            meta["absent_since"] = ts
+            print(f"{f.stem} no longer visible — retaining {meta.get('total_downloads', 0)} archived downloads")
+        if write_if_changed(f, payload):
+            changed += 1
+        repo_summaries.append(summarise(f.stem, payload))
 
     repo_summaries.sort(key=lambda r: r["name"])
+    absent = sum(1 for r in repo_summaries if r["status"] == "absent")
     manifest = {
         "_meta": {
             "owner": USERNAME,
             "schema_version": SCHEMA_VERSION,
             "last_updated": ts,
             "total_repos": len(repo_summaries),
+            "absent_repos": absent,
             "total_releases": sum(r["releases"] for r in repo_summaries),
             "total_assets": sum(r["active_assets"] + r["removed_assets"] for r in repo_summaries),
             "active_assets": sum(r["active_assets"] for r in repo_summaries),
@@ -361,7 +403,10 @@ def main():
     }
     write_if_changed(MANIFEST_FILE, manifest)
 
-    print(f"Updated {changed} repo file(s); manifest covers {len(repo_summaries)} repos.")
+    print(
+        f"Updated {changed} repo file(s); manifest covers {len(repo_summaries)} repos "
+        f"({absent} absent)."
+    )
 
 
 if __name__ == "__main__":
