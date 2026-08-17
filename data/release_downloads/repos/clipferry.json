@@ -3,12 +3,12 @@
     "owner": "jmylchreest",
     "repo": "clipferry",
     "schema_version": 3,
-    "last_updated": "2026-08-16T08:23:57Z",
+    "last_updated": "2026-08-17T13:36:13Z",
     "repo_status": "active",
-    "releases": 13,
-    "removed_releases": 10,
-    "active_assets": 2,
-    "removed_assets": 20,
+    "releases": 11,
+    "removed_releases": 11,
+    "active_assets": 0,
+    "removed_assets": 22,
     "total_downloads": 2
   },
   "releases": [
@@ -235,17 +235,6 @@
       ]
     },
     {
-      "id": 349045318,
-      "tag_name": "v0.0.1",
-      "name": "v0.0.1",
-      "published_at": "2026-07-04T21:59:52Z",
-      "created_at": "2026-07-04T21:59:46Z",
-      "prerelease": false,
-      "draft": false,
-      "status": "active",
-      "assets": []
-    },
-    {
       "id": 349045888,
       "tag_name": null,
       "name": null,
@@ -357,17 +346,6 @@
       ]
     },
     {
-      "id": 352472055,
-      "tag_name": "v0.0.2",
-      "name": "v0.0.2",
-      "published_at": "2026-07-11T08:53:23Z",
-      "created_at": "2026-07-11T08:53:16Z",
-      "prerelease": false,
-      "draft": false,
-      "status": "active",
-      "assets": []
-    },
-    {
       "id": 352472135,
       "tag_name": null,
       "name": null,
@@ -412,7 +390,8 @@
       "created_at": "2026-07-31T21:03:34Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 497173069,
@@ -423,7 +402,8 @@
           "updated_at": "2026-07-31T21:04:20Z",
           "download_count": 0,
           "first_seen": "2026-07-31T22:02:07Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 497173070,
@@ -434,7 +414,8 @@
           "updated_at": "2026-07-31T21:04:20Z",
           "download_count": 0,
           "first_seen": "2026-07-31T22:02:07Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     }

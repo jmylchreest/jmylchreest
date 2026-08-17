@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-08-17T12:37:23Z",
-    "total_repos": 20,
+    "last_updated": "2026-08-17T13:36:13Z",
+    "total_repos": 18,
     "absent_repos": 0,
-    "total_releases": 475,
+    "total_releases": 469,
     "total_assets": 17780,
-    "active_assets": 9208,
-    "removed_assets": 8572,
+    "active_assets": 7,
+    "removed_assets": 17773,
     "total_downloads": 783773
   },
   "repos": [
@@ -16,51 +16,51 @@
       "name": "aide",
       "status": "active",
       "releases": 112,
-      "active_assets": 6201,
-      "removed_assets": 5334,
+      "active_assets": 0,
+      "removed_assets": 11535,
       "total_downloads": 8174,
-      "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-08-15T23:50:19Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "awob",
       "status": "active",
       "releases": 9,
-      "active_assets": 88,
-      "removed_assets": 0,
+      "active_assets": 0,
+      "removed_assets": 88,
       "total_downloads": 190,
-      "latest_release_tag": "v0.1.7",
-      "latest_release_published_at": "2026-07-11T11:07:47Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "clipferry",
       "status": "active",
-      "releases": 13,
-      "active_assets": 2,
-      "removed_assets": 20,
+      "releases": 11,
+      "active_assets": 0,
+      "removed_assets": 22,
       "total_downloads": 2,
-      "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-07-31T21:04:21Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "colophon",
       "status": "active",
       "releases": 76,
-      "active_assets": 240,
-      "removed_assets": 216,
+      "active_assets": 0,
+      "removed_assets": 456,
       "total_downloads": 12,
-      "latest_release_tag": "v0.0.35",
-      "latest_release_published_at": "2026-08-01T11:20:55Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "histui",
       "status": "active",
       "releases": 28,
-      "active_assets": 183,
-      "removed_assets": 72,
+      "active_assets": 0,
+      "removed_assets": 255,
       "total_downloads": 1063,
-      "latest_release_tag": "v0.0.15-dev.14",
-      "latest_release_published_at": "2026-08-12T22:27:42Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "igmp",
@@ -76,141 +76,121 @@
       "name": "kagimcp-zed",
       "status": "active",
       "releases": 10,
-      "active_assets": 62,
-      "removed_assets": 0,
+      "active_assets": 0,
+      "removed_assets": 62,
       "total_downloads": 2712,
-      "latest_release_tag": "v0.0.31",
-      "latest_release_published_at": "2026-02-09T23:08:18Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "keylightd",
       "status": "active",
       "releases": 50,
-      "active_assets": 526,
-      "removed_assets": 36,
-      "total_downloads": 1074,
-      "latest_release_tag": "v0.1.9",
-      "latest_release_published_at": "2026-08-14T21:22:16Z"
-    },
-    {
-      "name": "n3l",
-      "status": "active",
-      "releases": 2,
       "active_assets": 0,
-      "removed_assets": 0,
-      "total_downloads": 0,
-      "latest_release_tag": "0.0.2",
-      "latest_release_published_at": "2016-08-18T15:40:34Z"
+      "removed_assets": 562,
+      "total_downloads": 1074,
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "refind-btrfs-snapshots",
       "status": "active",
       "releases": 28,
-      "active_assets": 114,
-      "removed_assets": 202,
+      "active_assets": 0,
+      "removed_assets": 316,
       "total_downloads": 1649,
-      "latest_release_tag": "v0.1.1",
-      "latest_release_published_at": "2026-06-21T01:00:26Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "refyne",
       "status": "active",
       "releases": 14,
-      "active_assets": 78,
-      "removed_assets": 6,
-      "total_downloads": 150,
-      "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-03-10T19:28:40Z"
-    },
-    {
-      "name": "refyne-sdk-go",
-      "status": "active",
-      "releases": 2,
       "active_assets": 0,
-      "removed_assets": 0,
-      "total_downloads": 0,
-      "latest_release_tag": "v0.1.12",
-      "latest_release_published_at": "2026-01-31T20:18:16Z"
+      "removed_assets": 84,
+      "total_downloads": 150,
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "refyne-sdk-python",
       "status": "active",
       "releases": 2,
-      "active_assets": 8,
-      "removed_assets": 0,
+      "active_assets": 0,
+      "removed_assets": 8,
       "total_downloads": 21,
-      "latest_release_tag": "v0.1.47",
-      "latest_release_published_at": "2026-01-31T20:19:36Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "refyne-sdk-ts",
       "status": "active",
       "releases": 3,
-      "active_assets": 12,
-      "removed_assets": 6,
+      "active_assets": 0,
+      "removed_assets": 18,
       "total_downloads": 28,
-      "latest_release_tag": "v0.1.13",
-      "latest_release_published_at": "2026-01-31T20:10:42Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "rosec",
       "status": "active",
       "releases": 63,
-      "active_assets": 238,
-      "removed_assets": 303,
+      "active_assets": 0,
+      "removed_assets": 541,
       "total_downloads": 764,
-      "latest_release_tag": "v0.0.34",
-      "latest_release_published_at": "2026-08-10T15:48:13Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "rurl",
       "status": "active",
       "releases": 1,
-      "active_assets": 6,
-      "removed_assets": 0,
+      "active_assets": 0,
+      "removed_assets": 6,
       "total_downloads": 0,
-      "latest_release_tag": "v0.0.1",
-      "latest_release_published_at": "2025-05-05T18:06:47Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "statsfactory",
       "status": "active",
       "releases": 4,
-      "active_assets": 14,
-      "removed_assets": 2,
+      "active_assets": 0,
+      "removed_assets": 16,
       "total_downloads": 0,
-      "latest_release_tag": "v0.0.5",
-      "latest_release_published_at": "2026-06-09T23:02:43Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "tinct",
       "status": "active",
       "releases": 36,
-      "active_assets": 1363,
-      "removed_assets": 2355,
+      "active_assets": 0,
+      "removed_assets": 3718,
       "total_downloads": 767719,
-      "latest_release_tag": "0.4.3-preview.1786806527+bad3b40",
-      "latest_release_published_at": "2026-08-15T15:15:22Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "tvarr",
       "status": "active",
       "releases": 18,
-      "active_assets": 52,
-      "removed_assets": 20,
+      "active_assets": 0,
+      "removed_assets": 72,
       "total_downloads": 79,
-      "latest_release_tag": "v0.0.27",
-      "latest_release_published_at": "2026-06-21T23:02:52Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "wait-for",
       "status": "active",
       "releases": 2,
-      "active_assets": 14,
-      "removed_assets": 0,
+      "active_assets": 0,
+      "removed_assets": 14,
       "total_downloads": 48,
-      "latest_release_tag": "v0.0.2",
-      "latest_release_published_at": "2024-07-12T22:08:57Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     }
   ]
 }

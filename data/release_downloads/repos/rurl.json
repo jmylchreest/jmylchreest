@@ -3,12 +3,12 @@
     "owner": "jmylchreest",
     "repo": "rurl",
     "schema_version": 3,
-    "last_updated": "2026-08-16T08:23:57Z",
+    "last_updated": "2026-08-17T13:36:13Z",
     "repo_status": "active",
     "releases": 1,
-    "removed_releases": 0,
-    "active_assets": 6,
-    "removed_assets": 0,
+    "removed_releases": 1,
+    "active_assets": 0,
+    "removed_assets": 6,
     "total_downloads": 0
   },
   "releases": [
@@ -20,7 +20,8 @@
       "created_at": "2025-05-05T17:43:17Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 252068281,
@@ -31,7 +32,8 @@
           "updated_at": "2025-05-05T18:08:30Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 252068282,
@@ -42,7 +44,8 @@
           "updated_at": "2025-05-05T18:08:30Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 252068283,
@@ -53,7 +56,8 @@
           "updated_at": "2025-05-05T18:08:30Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 252068284,
@@ -64,7 +68,8 @@
           "updated_at": "2025-05-05T18:08:30Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 252068285,
@@ -75,7 +80,8 @@
           "updated_at": "2025-05-05T18:08:30Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 252068286,
@@ -86,7 +92,8 @@
           "updated_at": "2025-05-05T18:08:31Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     }

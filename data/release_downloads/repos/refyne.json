@@ -3,12 +3,12 @@
     "owner": "jmylchreest",
     "repo": "refyne",
     "schema_version": 3,
-    "last_updated": "2026-08-16T08:23:57Z",
+    "last_updated": "2026-08-17T13:36:13Z",
     "repo_status": "active",
     "releases": 14,
-    "removed_releases": 1,
-    "active_assets": 78,
-    "removed_assets": 6,
+    "removed_releases": 14,
+    "active_assets": 0,
+    "removed_assets": 84,
     "total_downloads": 150
   },
   "releases": [
@@ -105,7 +105,8 @@
       "created_at": "2026-01-19T23:35:31Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 343016780,
@@ -116,7 +117,8 @@
           "updated_at": "2026-01-20T00:12:29Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 343016781,
@@ -127,7 +129,8 @@
           "updated_at": "2026-01-20T00:12:29Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 343016782,
@@ -138,7 +141,8 @@
           "updated_at": "2026-01-20T00:12:27Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 343016783,
@@ -149,7 +153,8 @@
           "updated_at": "2026-01-20T00:12:28Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 343016785,
@@ -160,7 +165,8 @@
           "updated_at": "2026-01-20T00:12:29Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 343016786,
@@ -171,7 +177,8 @@
           "updated_at": "2026-01-20T00:12:29Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -183,7 +190,8 @@
       "created_at": "2026-01-23T07:45:36Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 344683074,
@@ -194,7 +202,8 @@
           "updated_at": "2026-01-23T07:47:31Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 344683075,
@@ -205,7 +214,8 @@
           "updated_at": "2026-01-23T07:47:31Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 344683076,
@@ -216,7 +226,8 @@
           "updated_at": "2026-01-23T07:47:31Z",
           "download_count": 4,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 344683077,
@@ -227,7 +238,8 @@
           "updated_at": "2026-01-23T07:47:31Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 344683078,
@@ -238,7 +250,8 @@
           "updated_at": "2026-01-23T07:47:31Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 344683079,
@@ -249,7 +262,8 @@
           "updated_at": "2026-01-23T07:47:29Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -261,7 +275,8 @@
       "created_at": "2026-01-24T15:03:41Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 345273987,
@@ -272,7 +287,8 @@
           "updated_at": "2026-01-24T15:05:43Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345273988,
@@ -283,7 +299,8 @@
           "updated_at": "2026-01-24T15:05:43Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345273989,
@@ -294,7 +311,8 @@
           "updated_at": "2026-01-24T15:05:43Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345273990,
@@ -305,7 +323,8 @@
           "updated_at": "2026-01-24T15:05:43Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345273991,
@@ -316,7 +335,8 @@
           "updated_at": "2026-01-24T15:05:43Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345273992,
@@ -327,7 +347,8 @@
           "updated_at": "2026-01-24T15:05:41Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -339,7 +360,8 @@
       "created_at": "2026-01-25T18:30:13Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 345720021,
@@ -350,7 +372,8 @@
           "updated_at": "2026-01-25T18:32:36Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345720022,
@@ -361,7 +384,8 @@
           "updated_at": "2026-01-25T18:32:35Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345720023,
@@ -372,7 +396,8 @@
           "updated_at": "2026-01-25T18:32:37Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345720024,
@@ -383,7 +408,8 @@
           "updated_at": "2026-01-25T18:32:36Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345720025,
@@ -394,7 +420,8 @@
           "updated_at": "2026-01-25T18:32:37Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345720026,
@@ -405,7 +432,8 @@
           "updated_at": "2026-01-25T18:32:37Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -417,7 +445,8 @@
       "created_at": "2026-01-27T21:54:52Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 346818356,
@@ -428,7 +457,8 @@
           "updated_at": "2026-01-27T21:56:35Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346818357,
@@ -439,7 +469,8 @@
           "updated_at": "2026-01-27T21:56:35Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346818358,
@@ -450,7 +481,8 @@
           "updated_at": "2026-01-27T21:56:35Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346818360,
@@ -461,7 +493,8 @@
           "updated_at": "2026-01-27T21:56:34Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346818361,
@@ -472,7 +505,8 @@
           "updated_at": "2026-01-27T21:56:35Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346818362,
@@ -483,7 +517,8 @@
           "updated_at": "2026-01-27T21:56:35Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -495,7 +530,8 @@
       "created_at": "2026-01-28T01:22:47Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 346914966,
@@ -506,7 +542,8 @@
           "updated_at": "2026-01-28T01:31:04Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346914967,
@@ -517,7 +554,8 @@
           "updated_at": "2026-01-28T01:31:06Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346914968,
@@ -528,7 +566,8 @@
           "updated_at": "2026-01-28T01:31:06Z",
           "download_count": 4,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346914969,
@@ -539,7 +578,8 @@
           "updated_at": "2026-01-28T01:31:06Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346914970,
@@ -550,7 +590,8 @@
           "updated_at": "2026-01-28T01:31:06Z",
           "download_count": 4,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346914971,
@@ -561,7 +602,8 @@
           "updated_at": "2026-01-28T01:31:06Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -573,7 +615,8 @@
       "created_at": "2026-01-28T01:35:36Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 346917560,
@@ -584,7 +627,8 @@
           "updated_at": "2026-01-28T01:37:18Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346917561,
@@ -595,7 +639,8 @@
           "updated_at": "2026-01-28T01:37:18Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346917562,
@@ -606,7 +651,8 @@
           "updated_at": "2026-01-28T01:37:19Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346917563,
@@ -617,7 +663,8 @@
           "updated_at": "2026-01-28T01:37:17Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346917564,
@@ -628,7 +675,8 @@
           "updated_at": "2026-01-28T01:37:19Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 346917565,
@@ -639,7 +687,8 @@
           "updated_at": "2026-01-28T01:37:19Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -651,7 +700,8 @@
       "created_at": "2026-01-31T01:07:51Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 348458358,
@@ -662,7 +712,8 @@
           "updated_at": "2026-01-31T01:09:34Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348458359,
@@ -673,7 +724,8 @@
           "updated_at": "2026-01-31T01:09:33Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348458360,
@@ -684,7 +736,8 @@
           "updated_at": "2026-01-31T01:09:34Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348458361,
@@ -695,7 +748,8 @@
           "updated_at": "2026-01-31T01:09:34Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348458362,
@@ -706,7 +760,8 @@
           "updated_at": "2026-01-31T01:09:34Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348458363,
@@ -717,7 +772,8 @@
           "updated_at": "2026-01-31T01:09:34Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -729,7 +785,8 @@
       "created_at": "2026-01-31T12:21:32Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 348637575,
@@ -740,7 +797,8 @@
           "updated_at": "2026-01-31T12:23:29Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348637578,
@@ -751,7 +809,8 @@
           "updated_at": "2026-01-31T12:23:30Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348637580,
@@ -762,7 +821,8 @@
           "updated_at": "2026-01-31T12:23:30Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348637581,
@@ -773,7 +833,8 @@
           "updated_at": "2026-01-31T12:23:32Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348637582,
@@ -784,7 +845,8 @@
           "updated_at": "2026-01-31T12:23:31Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348637583,
@@ -795,7 +857,8 @@
           "updated_at": "2026-01-31T12:23:32Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -807,7 +870,8 @@
       "created_at": "2026-01-31T14:22:37Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 348665731,
@@ -818,7 +882,8 @@
           "updated_at": "2026-01-31T14:25:09Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348665732,
@@ -829,7 +894,8 @@
           "updated_at": "2026-01-31T14:25:09Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348665733,
@@ -840,7 +906,8 @@
           "updated_at": "2026-01-31T14:25:10Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348665734,
@@ -851,7 +918,8 @@
           "updated_at": "2026-01-31T14:25:08Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348665735,
@@ -862,7 +930,8 @@
           "updated_at": "2026-01-31T14:25:09Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348665736,
@@ -873,7 +942,8 @@
           "updated_at": "2026-01-31T14:25:09Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -885,7 +955,8 @@
       "created_at": "2026-02-01T07:47:12Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 349005740,
@@ -896,7 +967,8 @@
           "updated_at": "2026-02-01T07:49:13Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349005741,
@@ -907,7 +979,8 @@
           "updated_at": "2026-02-01T07:49:13Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349005742,
@@ -918,7 +991,8 @@
           "updated_at": "2026-02-01T07:49:13Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349005743,
@@ -929,7 +1003,8 @@
           "updated_at": "2026-02-01T07:49:13Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349005744,
@@ -940,7 +1015,8 @@
           "updated_at": "2026-02-01T07:49:12Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349005745,
@@ -951,7 +1027,8 @@
           "updated_at": "2026-02-01T07:49:13Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -963,7 +1040,8 @@
       "created_at": "2026-02-01T11:36:35Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 349059297,
@@ -974,7 +1052,8 @@
           "updated_at": "2026-02-01T11:38:21Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349059298,
@@ -985,7 +1064,8 @@
           "updated_at": "2026-02-01T11:38:21Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349059299,
@@ -996,7 +1076,8 @@
           "updated_at": "2026-02-01T11:38:21Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349059300,
@@ -1007,7 +1088,8 @@
           "updated_at": "2026-02-01T11:38:20Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349059301,
@@ -1018,7 +1100,8 @@
           "updated_at": "2026-02-01T11:38:21Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 349059302,
@@ -1029,7 +1112,8 @@
           "updated_at": "2026-02-01T11:38:22Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -1041,7 +1125,8 @@
       "created_at": "2026-03-10T19:26:04Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 371018625,
@@ -1052,7 +1137,8 @@
           "updated_at": "2026-03-10T19:28:38Z",
           "download_count": 0,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 371018626,
@@ -1063,7 +1149,8 @@
           "updated_at": "2026-03-10T19:28:39Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 371018627,
@@ -1074,7 +1161,8 @@
           "updated_at": "2026-03-10T19:28:39Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 371018628,
@@ -1085,7 +1173,8 @@
           "updated_at": "2026-03-10T19:28:39Z",
           "download_count": 5,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 371018629,
@@ -1096,7 +1185,8 @@
           "updated_at": "2026-03-10T19:28:39Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 371018630,
@@ -1107,7 +1197,8 @@
           "updated_at": "2026-03-10T19:28:39Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     }

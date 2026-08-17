@@ -3,12 +3,12 @@
     "owner": "jmylchreest",
     "repo": "refyne-sdk-python",
     "schema_version": 3,
-    "last_updated": "2026-08-16T08:23:57Z",
+    "last_updated": "2026-08-17T13:36:13Z",
     "repo_status": "active",
     "releases": 2,
-    "removed_releases": 0,
-    "active_assets": 8,
-    "removed_assets": 0,
+    "removed_releases": 2,
+    "active_assets": 0,
+    "removed_assets": 8,
     "total_downloads": 21
   },
   "releases": [
@@ -20,7 +20,8 @@
       "created_at": "2026-01-25T19:44:28Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 345739221,
@@ -31,7 +32,8 @@
           "updated_at": "2026-01-25T19:47:04Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345739222,
@@ -42,7 +44,8 @@
           "updated_at": "2026-01-25T19:47:04Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345739223,
@@ -53,7 +56,8 @@
           "updated_at": "2026-01-25T19:47:05Z",
           "download_count": 5,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 345739224,
@@ -64,7 +68,8 @@
           "updated_at": "2026-01-25T19:47:05Z",
           "download_count": 4,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     },
@@ -76,7 +81,8 @@
       "created_at": "2026-01-31T20:19:03Z",
       "prerelease": false,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T13:36:13Z",
       "assets": [
         {
           "id": 348773692,
@@ -87,7 +93,8 @@
           "updated_at": "2026-01-31T20:19:36Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348773693,
@@ -98,7 +105,8 @@
           "updated_at": "2026-01-31T20:19:36Z",
           "download_count": 2,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348773694,
@@ -109,7 +117,8 @@
           "updated_at": "2026-01-31T20:19:36Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         },
         {
           "id": 348773695,
@@ -120,7 +129,8 @@
           "updated_at": "2026-01-31T20:19:36Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T13:36:13Z"
         }
       ]
     }
