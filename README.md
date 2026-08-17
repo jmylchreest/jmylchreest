@@ -13,7 +13,7 @@
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
 - **[awob](https://github.com/jmylchreest/awob)** (★4, Rust)<br>
-  <sub>[release: `v0.1.7`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 48 / 190](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 3](https://github.com/jmylchreest/awob/pulls)</sub>
+  <sub>[release: `v0.1.7`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 48 / 190](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 0](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
@@ -31,7 +31,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
-  <sub>[release: `v0.4.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 4.8k / 768.7k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 4.9k / 769.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -41,7 +41,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 19 / 700](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 20 / 701](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
