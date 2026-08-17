@@ -41,7 +41,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 18 / 699](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 19 / 700](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
@@ -64,7 +64,7 @@
 ### Recently Active
 
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 1](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+  <sub>[issues: 0](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 0](https://github.com/jmylchreest/lobslaw/pulls)</sub>
 
   an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
