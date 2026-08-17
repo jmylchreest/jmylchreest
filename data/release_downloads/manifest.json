@@ -2,13 +2,13 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-08-17T13:36:13Z",
+    "last_updated": "2026-08-17T14:23:54Z",
     "total_repos": 18,
     "absent_repos": 0,
-    "total_releases": 469,
+    "total_releases": 468,
     "total_assets": 17780,
-    "active_assets": 7,
-    "removed_assets": 17773,
+    "active_assets": 0,
+    "removed_assets": 17780,
     "total_downloads": 783773
   },
   "repos": [
@@ -65,12 +65,12 @@
     {
       "name": "igmp",
       "status": "active",
-      "releases": 2,
-      "active_assets": 7,
-      "removed_assets": 0,
+      "releases": 1,
+      "active_assets": 0,
+      "removed_assets": 7,
       "total_downloads": 88,
-      "latest_release_tag": "0.0.2",
-      "latest_release_published_at": "2017-03-06T16:18:51Z"
+      "latest_release_tag": null,
+      "latest_release_published_at": null
     },
     {
       "name": "kagimcp-zed",

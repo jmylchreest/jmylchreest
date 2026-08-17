@@ -3,26 +3,15 @@
     "owner": "jmylchreest",
     "repo": "igmp",
     "schema_version": 3,
-    "last_updated": "2026-08-16T08:23:57Z",
+    "last_updated": "2026-08-17T14:23:54Z",
     "repo_status": "active",
-    "releases": 2,
-    "removed_releases": 0,
-    "active_assets": 7,
-    "removed_assets": 0,
+    "releases": 1,
+    "removed_releases": 1,
+    "active_assets": 0,
+    "removed_assets": 7,
     "total_downloads": 88
   },
   "releases": [
-    {
-      "id": 2973300,
-      "tag_name": "0.0.1",
-      "name": "",
-      "published_at": "2016-04-07T15:23:57Z",
-      "created_at": "2016-04-07T14:57:42Z",
-      "prerelease": true,
-      "draft": false,
-      "status": "active",
-      "assets": []
-    },
     {
       "id": 5653165,
       "tag_name": "0.0.2",
@@ -31,7 +20,8 @@
       "created_at": "2017-03-06T16:13:30Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-08-17T14:23:54Z",
       "assets": [
         {
           "id": 3332496,
@@ -42,7 +32,8 @@
           "updated_at": "2017-03-06T16:18:29Z",
           "download_count": 12,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T14:23:54Z"
         },
         {
           "id": 3332497,
@@ -53,7 +44,8 @@
           "updated_at": "2017-03-06T16:18:32Z",
           "download_count": 7,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T14:23:54Z"
         },
         {
           "id": 3332498,
@@ -64,7 +56,8 @@
           "updated_at": "2017-03-06T16:18:30Z",
           "download_count": 9,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T14:23:54Z"
         },
         {
           "id": 3332499,
@@ -75,7 +68,8 @@
           "updated_at": "2017-03-06T16:18:33Z",
           "download_count": 6,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T14:23:54Z"
         },
         {
           "id": 3332500,
@@ -86,7 +80,8 @@
           "updated_at": "2017-03-06T16:18:34Z",
           "download_count": 6,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T14:23:54Z"
         },
         {
           "id": 3332501,
@@ -97,7 +92,8 @@
           "updated_at": "2017-03-06T16:18:44Z",
           "download_count": 7,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T14:23:54Z"
         },
         {
           "id": 3332502,
@@ -108,7 +104,8 @@
           "updated_at": "2017-03-06T16:18:36Z",
           "download_count": 41,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-08-17T14:23:54Z"
         }
       ]
     }
