@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-08-20T12:41:31Z",
-    "total_repos": 20,
+    "last_updated": "2026-08-20T13:42:51Z",
+    "total_repos": 21,
     "absent_repos": 0,
-    "total_releases": 475,
-    "total_assets": 17780,
-    "active_assets": 9208,
+    "total_releases": 476,
+    "total_assets": 17788,
+    "active_assets": 9216,
     "removed_assets": 8572,
-    "total_downloads": 820699
+    "total_downloads": 821188
   },
   "repos": [
     {
@@ -91,6 +91,16 @@
       "total_downloads": 1079,
       "latest_release_tag": "v0.1.9",
       "latest_release_published_at": "2026-08-14T21:22:16Z"
+    },
+    {
+      "name": "lobslaw",
+      "status": "active",
+      "releases": 1,
+      "active_assets": 8,
+      "removed_assets": 0,
+      "total_downloads": 10,
+      "latest_release_tag": "models-all-MiniLM-L6-v2",
+      "latest_release_published_at": "2026-08-20T12:54:00Z"
     },
     {
       "name": "n3l",
@@ -188,7 +198,7 @@
       "releases": 36,
       "active_assets": 1363,
       "removed_assets": 2355,
-      "total_downloads": 804576,
+      "total_downloads": 805055,
       "latest_release_tag": "0.4.3-preview.1786806527+bad3b40",
       "latest_release_published_at": "2026-08-15T15:15:22Z"
     },

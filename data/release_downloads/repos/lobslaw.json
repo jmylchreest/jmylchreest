@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "lobslaw",
+    "schema_version": 3,
+    "last_updated": "2026-08-20T13:42:51Z",
+    "repo_status": "active",
+    "releases": 1,
+    "removed_releases": 0,
+    "active_assets": 8,
+    "removed_assets": 0,
+    "total_downloads": 10
+  },
+  "releases": [
+    {
+      "id": 373733334,
+      "tag_name": "models-all-MiniLM-L6-v2",
+      "name": "Model mirror: all-MiniLM-L6-v2",
+      "published_at": "2026-08-20T12:54:00Z",
+      "created_at": "2026-08-19T21:47:43Z",
+      "prerelease": false,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 522249522,
+          "name": "model.safetensors",
+          "size": 90868376,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-08-20T12:53:51Z",
+          "updated_at": "2026-08-20T12:54:00Z",
+          "download_count": 2,
+          "first_seen": "2026-08-20T13:42:51Z",
+          "status": "active"
+        },
+        {
+          "id": 522249523,
+          "name": "tokenizer.json",
+          "size": 466247,
+          "content_type": "application/json",
+          "created_at": "2026-08-20T12:53:51Z",
+          "updated_at": "2026-08-20T12:53:51Z",
+          "download_count": 2,
+          "first_seen": "2026-08-20T13:42:51Z",
+          "status": "active"
+        },
+        {
+          "id": 522249524,
+          "name": "config.json",
+          "size": 612,
+          "content_type": "application/json",
+          "created_at": "2026-08-20T12:53:51Z",
+          "updated_at": "2026-08-20T12:53:51Z",
+          "download_count": 2,
+          "first_seen": "2026-08-20T13:42:51Z",
+          "status": "active"
+        },
+        {
+          "id": 522249525,
+          "name": "tokenizer_config.json",
+          "size": 350,
+          "content_type": "application/json",
+          "created_at": "2026-08-20T12:53:51Z",
+          "updated_at": "2026-08-20T12:53:51Z",
+          "download_count": 2,
+          "first_seen": "2026-08-20T13:42:51Z",
+          "status": "active"
+        },
+        {
+          "id": 522249526,
+          "name": "1_Pooling.config.json",
+          "size": 190,
+          "content_type": "application/json",
+          "created_at": "2026-08-20T12:53:51Z",
+          "updated_at": "2026-08-20T12:53:51Z",
+          "download_count": 2,
+          "first_seen": "2026-08-20T13:42:51Z",
+          "status": "active"
+        },
+        {
+          "id": 522249537,
+          "name": "NOTICE",
+          "size": 1022,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-08-20T12:53:51Z",
+          "updated_at": "2026-08-20T12:53:52Z",
+          "download_count": 0,
+          "first_seen": "2026-08-20T13:42:51Z",
+          "status": "active"
+        },
+        {
+          "id": 522249538,
+          "name": "LICENSE",
+          "size": 11358,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-08-20T12:53:51Z",
+          "updated_at": "2026-08-20T12:53:52Z",
+          "download_count": 0,
+          "first_seen": "2026-08-20T13:42:51Z",
+          "status": "active"
+        },
+        {
+          "id": 522249539,
+          "name": "SHA256SUMS",
+          "size": 419,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-08-20T12:53:51Z",
+          "updated_at": "2026-08-20T12:53:52Z",
+          "download_count": 0,
+          "first_seen": "2026-08-20T13:42:51Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}
