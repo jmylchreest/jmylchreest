@@ -2,25 +2,25 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-08-20T23:21:39Z",
+    "last_updated": "2026-08-21T01:07:20Z",
     "total_repos": 21,
     "absent_repos": 0,
-    "total_releases": 476,
-    "total_assets": 17788,
+    "total_releases": 477,
+    "total_assets": 17946,
     "active_assets": 9216,
-    "removed_assets": 8572,
-    "total_downloads": 826889
+    "removed_assets": 8730,
+    "total_downloads": 827550
   },
   "repos": [
     {
       "name": "aide",
       "status": "active",
-      "releases": 112,
+      "releases": 113,
       "active_assets": 6201,
-      "removed_assets": 5334,
+      "removed_assets": 5492,
       "total_downloads": 8204,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-08-15T23:50:19Z"
+      "latest_release_published_at": "2026-08-21T00:21:35Z"
     },
     {
       "name": "awob",
@@ -118,7 +118,7 @@
       "releases": 28,
       "active_assets": 114,
       "removed_assets": 202,
-      "total_downloads": 1675,
+      "total_downloads": 1678,
       "latest_release_tag": "v0.1.1",
       "latest_release_published_at": "2026-06-21T01:00:26Z"
     },
@@ -198,7 +198,7 @@
       "releases": 36,
       "active_assets": 1363,
       "removed_assets": 2355,
-      "total_downloads": 810705,
+      "total_downloads": 811363,
       "latest_release_tag": "0.4.3-preview.1786806527+bad3b40",
       "latest_release_published_at": "2026-08-15T15:15:22Z"
     },
