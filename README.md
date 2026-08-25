@@ -31,7 +31,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
-  <sub>[release: `v0.4.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 17.6k / 861.6k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.4.2`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 17.7k / 862.2k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -40,15 +40,15 @@
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
+- **[tvarr](https://github.com/jmylchreest/tvarr)** (★14, Go)<br>
+  <sub>[release: `v0.0.27`](https://github.com/jmylchreest/tvarr/releases/latest) · [downloads: 0 / 35](https://github.com/jmylchreest/tvarr/releases) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 4](https://github.com/jmylchreest/tvarr/pulls)</sub>
+
+  An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
+
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
   <sub>[release: `v0.1.9`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 31 / 712](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
-
-- **[tvarr](https://github.com/jmylchreest/tvarr)** (★13, Go)<br>
-  <sub>[release: `v0.0.27`](https://github.com/jmylchreest/tvarr/releases/latest) · [downloads: 0 / 35](https://github.com/jmylchreest/tvarr/releases) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 4](https://github.com/jmylchreest/tvarr/pulls)</sub>
-
-  An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[kagimcp-zed](https://github.com/jmylchreest/kagimcp-zed)** (★6, Rust)<br>
   <sub>[release: `v0.0.31`](https://github.com/jmylchreest/kagimcp-zed/releases/latest) · [downloads: 1.1k / 2.7k](https://github.com/jmylchreest/kagimcp-zed/releases) · [issues: 0](https://github.com/jmylchreest/kagimcp-zed/issues) · [PRs: 0](https://github.com/jmylchreest/kagimcp-zed/pulls)</sub>
