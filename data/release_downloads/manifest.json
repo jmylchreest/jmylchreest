@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-08-27T02:53:05Z",
+    "last_updated": "2026-08-27T13:44:32Z",
     "total_repos": 21,
     "absent_repos": 0,
-    "total_releases": 479,
-    "total_assets": 18262,
-    "active_assets": 9374,
-    "removed_assets": 8888,
-    "total_downloads": 898494
+    "total_releases": 484,
+    "total_assets": 18817,
+    "active_assets": 9707,
+    "removed_assets": 9110,
+    "total_downloads": 902084
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 115,
       "active_assets": 6359,
       "removed_assets": 5650,
-      "total_downloads": 8281,
+      "total_downloads": 8289,
       "latest_release_tag": "v0.1.16",
       "latest_release_published_at": "2026-08-26T13:07:01Z"
     },
@@ -28,7 +28,7 @@
       "releases": 9,
       "active_assets": 88,
       "removed_assets": 0,
-      "total_downloads": 193,
+      "total_downloads": 197,
       "latest_release_tag": "v0.1.7",
       "latest_release_published_at": "2026-07-11T11:07:47Z"
     },
@@ -88,7 +88,7 @@
       "releases": 50,
       "active_assets": 526,
       "removed_assets": 36,
-      "total_downloads": 1095,
+      "total_downloads": 1097,
       "latest_release_tag": "v0.1.9",
       "latest_release_published_at": "2026-08-14T21:22:16Z"
     },
@@ -168,7 +168,7 @@
       "releases": 63,
       "active_assets": 238,
       "removed_assets": 303,
-      "total_downloads": 798,
+      "total_downloads": 800,
       "latest_release_tag": "v0.0.34",
       "latest_release_published_at": "2026-08-10T15:48:13Z"
     },
@@ -195,12 +195,12 @@
     {
       "name": "tinct",
       "status": "active",
-      "releases": 36,
-      "active_assets": 1363,
-      "removed_assets": 2355,
-      "total_downloads": 882103,
-      "latest_release_tag": "0.4.3-preview.1786806527+bad3b40",
-      "latest_release_published_at": "2026-08-15T15:15:22Z"
+      "releases": 41,
+      "active_assets": 1696,
+      "removed_assets": 2577,
+      "total_downloads": 885677,
+      "latest_release_tag": "0.4.3-preview.1787835565+805022c",
+      "latest_release_published_at": "2026-08-27T13:06:25Z"
     },
     {
       "name": "tvarr",
