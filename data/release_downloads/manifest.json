@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-08-27T13:44:32Z",
+    "last_updated": "2026-08-27T23:33:48Z",
     "total_repos": 21,
     "absent_repos": 0,
-    "total_releases": 484,
-    "total_assets": 18817,
-    "active_assets": 9707,
+    "total_releases": 492,
+    "total_assets": 19705,
+    "active_assets": 10595,
     "removed_assets": 9110,
-    "total_downloads": 902084
+    "total_downloads": 907177
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 115,
       "active_assets": 6359,
       "removed_assets": 5650,
-      "total_downloads": 8289,
+      "total_downloads": 8295,
       "latest_release_tag": "v0.1.16",
       "latest_release_published_at": "2026-08-26T13:07:01Z"
     },
@@ -58,7 +58,7 @@
       "releases": 28,
       "active_assets": 183,
       "removed_assets": 72,
-      "total_downloads": 1124,
+      "total_downloads": 1133,
       "latest_release_tag": "v0.0.15-dev.14",
       "latest_release_published_at": "2026-08-12T22:27:42Z"
     },
@@ -78,7 +78,7 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2720,
+      "total_downloads": 2723,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
@@ -98,7 +98,7 @@
       "releases": 1,
       "active_assets": 8,
       "removed_assets": 0,
-      "total_downloads": 49,
+      "total_downloads": 52,
       "latest_release_tag": "models-all-MiniLM-L6-v2",
       "latest_release_published_at": "2026-08-20T12:54:00Z"
     },
@@ -195,12 +195,12 @@
     {
       "name": "tinct",
       "status": "active",
-      "releases": 41,
-      "active_assets": 1696,
+      "releases": 49,
+      "active_assets": 2584,
       "removed_assets": 2577,
-      "total_downloads": 885677,
-      "latest_release_tag": "0.4.3-preview.1787835565+805022c",
-      "latest_release_published_at": "2026-08-27T13:06:25Z"
+      "total_downloads": 890749,
+      "latest_release_tag": "0.4.3-preview.1787854074+8e6ed6e",
+      "latest_release_published_at": "2026-08-27T18:15:00Z"
     },
     {
       "name": "tvarr",
