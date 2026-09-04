@@ -31,7 +31,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
-  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 3.4k / 914.8k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 1](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 3.5k / 915.5k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 1](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -46,7 +46,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 44 / 725](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 2](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 45 / 726](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 2](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
@@ -72,11 +72,6 @@
   <sub>[release: `v0.0.2`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 1](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 7](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
-
-- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
-
-  Main plugin repository for tinct
 
 
 ---
