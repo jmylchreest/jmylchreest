@@ -2,25 +2,25 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-09-07T00:39:56Z",
+    "last_updated": "2026-09-07T05:39:46Z",
     "total_repos": 21,
     "absent_repos": 0,
-    "total_releases": 504,
-    "total_assets": 20915,
-    "active_assets": 10756,
-    "removed_assets": 10159,
-    "total_downloads": 945115
+    "total_releases": 506,
+    "total_assets": 21077,
+    "active_assets": 10914,
+    "removed_assets": 10163,
+    "total_downloads": 945691
   },
   "repos": [
     {
       "name": "aide",
       "status": "active",
-      "releases": 121,
-      "active_assets": 6359,
+      "releases": 122,
+      "active_assets": 6517,
       "removed_assets": 6598,
-      "total_downloads": 9179,
-      "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-09-07T00:32:51Z"
+      "total_downloads": 9182,
+      "latest_release_tag": "v0.1.17",
+      "latest_release_published_at": "2026-09-07T00:45:07Z"
     },
     {
       "name": "awob",
@@ -198,19 +198,19 @@
       "releases": 51,
       "active_assets": 2745,
       "removed_assets": 2662,
-      "total_downloads": 927621,
+      "total_downloads": 928190,
       "latest_release_tag": "v0.5.0",
       "latest_release_published_at": "2026-08-28T01:09:21Z"
     },
     {
       "name": "tvarr",
       "status": "active",
-      "releases": 22,
+      "releases": 23,
       "active_assets": 52,
-      "removed_assets": 36,
-      "total_downloads": 95,
-      "latest_release_tag": "v0.0.28-dev.5-94fa82c",
-      "latest_release_published_at": "2026-09-06T23:29:48Z"
+      "removed_assets": 40,
+      "total_downloads": 99,
+      "latest_release_tag": "v0.0.28-dev.6-148b123",
+      "latest_release_published_at": "2026-09-07T00:46:06Z"
     },
     {
       "name": "wait-for",
