@@ -8,7 +8,7 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★43, Rust)<br>
-  <sub>[release: `v0.0.34`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 83 / 846](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.34`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 83 / 847](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -56,7 +56,7 @@
   Kagi Search MCP (and Zed extension)
 
 - **[xembsni](https://github.com/jmylchreest/xembsni)** (★4, Rust)<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/xembsni/issues) · [PRs: 0](https://github.com/jmylchreest/xembsni/pulls)</sub>
+  <sub>[issues: 1](https://github.com/jmylchreest/xembsni/issues) · [PRs: 0](https://github.com/jmylchreest/xembsni/pulls)</sub>
 
   XEmbed → StatusNotifierItem tray bridge for Wayland: shows legacy X11 & Wine/Proton system-tray icons (Battle.net, etc.) in waybar and other SNI hosts on niri, Hyprland and sway.
 
@@ -69,7 +69,7 @@
 ### Recently Active
 
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
-  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 64 / 64](https://github.com/jmylchreest/lobslaw/releases) · [issues: 0](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 0](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 64 / 64](https://github.com/jmylchreest/lobslaw/releases) · [issues: 22](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 5](https://github.com/jmylchreest/lobslaw/pulls)</sub>
 
   an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
