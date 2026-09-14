@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "awob",
     "schema_version": 3,
-    "last_updated": "2026-09-12T18:56:03Z",
+    "last_updated": "2026-09-14T17:39:19Z",
     "repo_status": "active",
-    "releases": 9,
+    "releases": 10,
     "removed_releases": 0,
-    "active_assets": 88,
+    "active_assets": 99,
     "removed_assets": 0,
-    "total_downloads": 230
+    "total_downloads": 241
   },
   "releases": [
     {
@@ -1084,6 +1084,139 @@
           "updated_at": "2026-07-11T11:07:46Z",
           "download_count": 4,
           "first_seen": "2026-07-11T13:12:44Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 388419261,
+      "tag_name": "v0.1.8",
+      "name": "v0.1.8",
+      "published_at": "2026-09-14T13:28:58Z",
+      "created_at": "2026-09-14T13:23:55Z",
+      "prerelease": false,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 563455064,
+          "name": "awob-0.1.8.awob-listener-keyboard-backlight-bin.PKGBUILD",
+          "size": 1130,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455065,
+          "name": "awob-0.1.8-x86_64-unknown-linux-gnu.tar.gz.sha256",
+          "size": 109,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 1,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455067,
+          "name": "awob-0.1.8-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 6096887,
+          "content_type": "application/gzip",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 10,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455068,
+          "name": "awob-0.1.8.awob-listener-power-profile-bin.PKGBUILD",
+          "size": 1494,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455069,
+          "name": "awob-0.1.8.awob-listener-pipewire-bin.PKGBUILD",
+          "size": 1183,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455070,
+          "name": "awob-0.1.8.awob-listener-wob-bin.PKGBUILD",
+          "size": 1122,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455071,
+          "name": "awob-0.1.8.awob-listener-battery-bin.PKGBUILD",
+          "size": 1253,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455072,
+          "name": "awob-0.1.8.awob-git.PKGBUILD",
+          "size": 3206,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455073,
+          "name": "awob-0.1.8.awob-listeners-all.PKGBUILD",
+          "size": 931,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455074,
+          "name": "awob-0.1.8.awob-listener-backlight-bin.PKGBUILD",
+          "size": 1139,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
+          "status": "active"
+        },
+        {
+          "id": 563455077,
+          "name": "awob-0.1.8.awob-bin.PKGBUILD",
+          "size": 2166,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-14T13:28:57Z",
+          "updated_at": "2026-09-14T13:28:58Z",
+          "download_count": 0,
+          "first_seen": "2026-09-14T17:39:19Z",
           "status": "active"
         }
       ]

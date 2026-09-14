@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★17, Go)<br>
-  <sub>[release: `v0.1.17`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 12 / 1.5k](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 3](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.17`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 13 / 1.5k](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 3](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
@@ -13,7 +13,7 @@
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
 - **[awob](https://github.com/jmylchreest/awob)** (★4, Rust)<br>
-  <sub>[release: `v0.1.7`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 70 / 230](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 8](https://github.com/jmylchreest/awob/pulls)</sub>
+  <sub>[release: `v0.1.8`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 10 / 240](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 0](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
@@ -26,12 +26,12 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★25, Go)<br>
-  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 527 / 1.8k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 1](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.1.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 536 / 1.8k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 1](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
-  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 9.3k / 954.6k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 3](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 9.4k / 955.3k](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 3](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
