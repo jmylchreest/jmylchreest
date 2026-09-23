@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-09-23T18:48:40Z",
+    "last_updated": "2026-09-23T22:01:39Z",
     "total_repos": 21,
     "absent_repos": 0,
-    "total_releases": 515,
-    "total_assets": 21727,
-    "active_assets": 10925,
-    "removed_assets": 10802,
-    "total_downloads": 1005789
+    "total_releases": 520,
+    "total_assets": 21789,
+    "active_assets": 10962,
+    "removed_assets": 10827,
+    "total_downloads": 1006337
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 126,
       "active_assets": 6517,
       "removed_assets": 7227,
-      "total_downloads": 9717,
+      "total_downloads": 9718,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-09-17T22:42:50Z"
     },
@@ -35,12 +35,12 @@
     {
       "name": "clipferry",
       "status": "active",
-      "releases": 15,
+      "releases": 16,
       "active_assets": 2,
-      "removed_assets": 22,
+      "removed_assets": 24,
       "total_downloads": 6,
-      "latest_release_tag": "v0.0.3",
-      "latest_release_published_at": "2026-09-15T17:29:38Z"
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-09-23T21:57:52Z"
     },
     {
       "name": "colophon",
@@ -98,7 +98,7 @@
       "releases": 1,
       "active_assets": 8,
       "removed_assets": 0,
-      "total_downloads": 84,
+      "total_downloads": 89,
       "latest_release_tag": "models-all-MiniLM-L6-v2",
       "latest_release_published_at": "2026-08-20T12:54:00Z"
     },
@@ -115,12 +115,12 @@
     {
       "name": "refind-btrfs-snapshots",
       "status": "active",
-      "releases": 28,
-      "active_assets": 114,
-      "removed_assets": 202,
-      "total_downloads": 1844,
-      "latest_release_tag": "v0.1.1",
-      "latest_release_published_at": "2026-06-21T01:00:26Z"
+      "releases": 32,
+      "active_assets": 151,
+      "removed_assets": 225,
+      "total_downloads": 1847,
+      "latest_release_tag": "v0.2.1-dev.1",
+      "latest_release_published_at": "2026-09-23T21:45:51Z"
     },
     {
       "name": "refyne",
@@ -198,7 +198,7 @@
       "releases": 51,
       "active_assets": 2745,
       "removed_assets": 2662,
-      "total_downloads": 987348,
+      "total_downloads": 987887,
       "latest_release_tag": "v0.5.0",
       "latest_release_published_at": "2026-08-28T01:09:21Z"
     },
