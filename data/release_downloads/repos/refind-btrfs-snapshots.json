@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "refind-btrfs-snapshots",
     "schema_version": 3,
-    "last_updated": "2026-09-24T18:09:39Z",
+    "last_updated": "2026-09-24T21:56:41Z",
     "repo_status": "active",
     "releases": 33,
     "removed_releases": 16,
     "active_assets": 151,
     "removed_assets": 248,
-    "total_downloads": 1923
+    "total_downloads": 1932
   },
   "releases": [
     {
@@ -4402,7 +4402,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-09-23T21:38:58Z",
           "updated_at": "2026-09-23T21:38:58Z",
-          "download_count": 18,
+          "download_count": 21,
           "first_seen": "2026-09-23T22:01:39Z",
           "status": "active"
         },
@@ -4424,7 +4424,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-09-23T21:38:58Z",
           "updated_at": "2026-09-23T21:38:58Z",
-          "download_count": 18,
+          "download_count": 21,
           "first_seen": "2026-09-23T22:01:39Z",
           "status": "active"
         },
@@ -4435,7 +4435,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-09-23T21:38:58Z",
           "updated_at": "2026-09-23T21:38:58Z",
-          "download_count": 18,
+          "download_count": 21,
           "first_seen": "2026-09-23T22:01:39Z",
           "status": "active"
         },
