@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "refind-btrfs-snapshots",
     "schema_version": 3,
-    "last_updated": "2026-09-23T22:01:39Z",
+    "last_updated": "2026-09-24T01:02:38Z",
     "repo_status": "active",
-    "releases": 32,
-    "removed_releases": 15,
+    "releases": 33,
+    "removed_releases": 16,
     "active_assets": 151,
-    "removed_assets": 225,
-    "total_downloads": 1847
+    "removed_assets": 248,
+    "total_downloads": 1882
   },
   "releases": [
     {
@@ -4402,7 +4402,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-09-23T21:38:58Z",
           "updated_at": "2026-09-23T21:38:58Z",
-          "download_count": 1,
+          "download_count": 5,
           "first_seen": "2026-09-23T22:01:39Z",
           "status": "active"
         },
@@ -4413,7 +4413,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-09-23T21:38:58Z",
           "updated_at": "2026-09-23T21:38:58Z",
-          "download_count": 0,
+          "download_count": 2,
           "first_seen": "2026-09-23T22:01:39Z",
           "status": "active"
         },
@@ -4424,7 +4424,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-09-23T21:38:58Z",
           "updated_at": "2026-09-23T21:38:58Z",
-          "download_count": 1,
+          "download_count": 4,
           "first_seen": "2026-09-23T22:01:39Z",
           "status": "active"
         },
@@ -4435,7 +4435,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-09-23T21:38:58Z",
           "updated_at": "2026-09-23T21:38:58Z",
-          "download_count": 1,
+          "download_count": 4,
           "first_seen": "2026-09-23T22:01:39Z",
           "status": "active"
         },
@@ -4515,7 +4515,8 @@
       "created_at": "2026-09-23T21:41:07Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-09-24T01:02:38Z",
       "assets": [
         {
           "id": 584637218,
@@ -4526,7 +4527,8 @@
           "updated_at": "2026-09-23T21:45:48Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637219,
@@ -4537,7 +4539,8 @@
           "updated_at": "2026-09-23T21:45:48Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637220,
@@ -4548,7 +4551,8 @@
           "updated_at": "2026-09-23T21:45:48Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637221,
@@ -4559,7 +4563,8 @@
           "updated_at": "2026-09-23T21:45:48Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637222,
@@ -4570,7 +4575,8 @@
           "updated_at": "2026-09-23T21:45:48Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637232,
@@ -4581,7 +4587,8 @@
           "updated_at": "2026-09-23T21:45:49Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637234,
@@ -4592,7 +4599,8 @@
           "updated_at": "2026-09-23T21:45:49Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637235,
@@ -4603,7 +4611,8 @@
           "updated_at": "2026-09-23T21:45:49Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637239,
@@ -4614,7 +4623,8 @@
           "updated_at": "2026-09-23T21:45:49Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637240,
@@ -4625,7 +4635,8 @@
           "updated_at": "2026-09-23T21:45:49Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637244,
@@ -4636,7 +4647,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637249,
@@ -4647,7 +4659,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637251,
@@ -4658,7 +4671,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637252,
@@ -4669,7 +4683,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637254,
@@ -4680,7 +4695,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637256,
@@ -4691,7 +4707,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637257,
@@ -4702,7 +4719,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637260,
@@ -4713,7 +4731,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637263,
@@ -4724,7 +4743,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637264,
@@ -4735,7 +4755,8 @@
           "updated_at": "2026-09-23T21:45:50Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637265,
@@ -4746,7 +4767,8 @@
           "updated_at": "2026-09-23T21:45:51Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637268,
@@ -4757,7 +4779,8 @@
           "updated_at": "2026-09-23T21:45:51Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 584637269,
@@ -4768,6 +4791,272 @@
           "updated_at": "2026-09-23T21:45:51Z",
           "download_count": 0,
           "first_seen": "2026-09-23T22:01:39Z",
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
+        }
+      ]
+    },
+    {
+      "id": 395104815,
+      "tag_name": "v0.2.1-dev.2",
+      "name": "Snapshot 0.2.1-dev.2+dade0f4",
+      "published_at": "2026-09-23T22:14:41Z",
+      "created_at": "2026-09-23T22:12:05Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 584676073,
+          "name": "bls-btrfs-snapshots_0.2.1-dev.2+dade0f4_linux_arm64.tar.gz",
+          "size": 1645934,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:37Z",
+          "updated_at": "2026-09-23T22:14:38Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676074,
+          "name": "checksums.txt",
+          "size": 2345,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-09-23T22:14:37Z",
+          "updated_at": "2026-09-23T22:14:37Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676075,
+          "name": "bls-btrfs-snapshots-linux-amd64",
+          "size": 4346018,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:37Z",
+          "updated_at": "2026-09-23T22:14:38Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676076,
+          "name": "bls-btrfs-snapshots-linux-arm64",
+          "size": 4128930,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:37Z",
+          "updated_at": "2026-09-23T22:14:38Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676078,
+          "name": "bls-btrfs-snapshots_0.2.1-dev.2+dade0f4_linux_amd64.tar.gz",
+          "size": 1833367,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:37Z",
+          "updated_at": "2026-09-23T22:14:38Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676086,
+          "name": "kernel-spy-linux-amd64",
+          "size": 2957474,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:38Z",
+          "updated_at": "2026-09-23T22:14:38Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676088,
+          "name": "kernel-spy-linux-arm64",
+          "size": 2883746,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:38Z",
+          "updated_at": "2026-09-23T22:14:39Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676089,
+          "name": "kernel-spy_0.2.1-dev.2+dade0f4_linux_amd64.tar.gz",
+          "size": 1257837,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:38Z",
+          "updated_at": "2026-09-23T22:14:38Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676090,
+          "name": "kernel-spy_0.2.1-dev.2+dade0f4_linux_arm64.tar.gz",
+          "size": 1139404,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:38Z",
+          "updated_at": "2026-09-23T22:14:38Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676093,
+          "name": "peseal-linux-amd64",
+          "size": 7962786,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:38Z",
+          "updated_at": "2026-09-23T22:14:39Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676101,
+          "name": "peseal-linux-arm64",
+          "size": 7405730,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:39Z",
+          "updated_at": "2026-09-23T22:14:39Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676102,
+          "name": "peseal_0.2.1-dev.2+dade0f4_linux_amd64.tar.gz",
+          "size": 3283187,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:39Z",
+          "updated_at": "2026-09-23T22:14:40Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676103,
+          "name": "peseal_0.2.1-dev.2+dade0f4_linux_arm64.tar.gz",
+          "size": 2946456,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:39Z",
+          "updated_at": "2026-09-23T22:14:39Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676104,
+          "name": "refind-btrfs-snapshots-linux-amd64",
+          "size": 4620450,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:39Z",
+          "updated_at": "2026-09-23T22:14:40Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676118,
+          "name": "refind-btrfs-snapshots-linux-arm64",
+          "size": 4391074,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:40Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676125,
+          "name": "refind-btrfs-snapshots.path",
+          "size": 631,
+          "content_type": "text/x-systemd-unit; charset=utf-8",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:40Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676129,
+          "name": "refind-btrfs-snapshots.service",
+          "size": 814,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:40Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676132,
+          "name": "refind-btrfs-snapshots_0.2.1-dev.2+dade0f4_linux_amd64.tar.gz",
+          "size": 1950933,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:40Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676138,
+          "name": "uki-btrfs-snapshots-linux-amd64",
+          "size": 4276386,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:41Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676139,
+          "name": "refind-btrfs-snapshots_0.2.1-dev.2+dade0f4_linux_arm64.tar.gz",
+          "size": 1749191,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:41Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676198,
+          "name": "uki-btrfs-snapshots-linux-arm64",
+          "size": 4128930,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:41Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676203,
+          "name": "uki-btrfs-snapshots_0.2.1-dev.2+dade0f4_linux_amd64.tar.gz",
+          "size": 1805514,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:41Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584676262,
+          "name": "uki-btrfs-snapshots_0.2.1-dev.2+dade0f4_linux_arm64.tar.gz",
+          "size": 1621589,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:14:40Z",
+          "updated_at": "2026-09-23T22:14:41Z",
+          "download_count": 1,
+          "first_seen": "2026-09-24T01:02:38Z",
           "status": "active"
         }
       ]

@@ -3,12 +3,12 @@
     "owner": "jmylchreest",
     "repo": "keylightd",
     "schema_version": 3,
-    "last_updated": "2026-09-23T03:15:47Z",
+    "last_updated": "2026-09-24T01:02:38Z",
     "repo_status": "active",
-    "releases": 50,
-    "removed_releases": 2,
+    "releases": 51,
+    "removed_releases": 3,
     "active_assets": 526,
-    "removed_assets": 36,
+    "removed_assets": 54,
     "total_downloads": 1145
   },
   "releases": [
@@ -4530,7 +4530,8 @@
       "created_at": "2026-04-01T10:07:12Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-09-24T01:02:38Z",
       "assets": [
         {
           "id": 386190511,
@@ -4541,7 +4542,8 @@
           "updated_at": "2026-04-01T10:13:40Z",
           "download_count": 4,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190512,
@@ -4552,7 +4554,8 @@
           "updated_at": "2026-04-01T10:13:40Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190513,
@@ -4563,7 +4566,8 @@
           "updated_at": "2026-04-01T10:13:40Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190514,
@@ -4574,7 +4578,8 @@
           "updated_at": "2026-04-01T10:13:40Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190515,
@@ -4585,7 +4590,8 @@
           "updated_at": "2026-04-01T10:13:40Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190518,
@@ -4596,7 +4602,8 @@
           "updated_at": "2026-04-01T10:13:41Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190519,
@@ -4607,7 +4614,8 @@
           "updated_at": "2026-04-01T10:13:40Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190520,
@@ -4618,7 +4626,8 @@
           "updated_at": "2026-04-01T10:13:41Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190523,
@@ -4629,7 +4638,8 @@
           "updated_at": "2026-04-01T10:13:41Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190524,
@@ -4640,7 +4650,8 @@
           "updated_at": "2026-04-01T10:13:41Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190527,
@@ -4651,7 +4662,8 @@
           "updated_at": "2026-04-01T10:13:42Z",
           "download_count": 6,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190529,
@@ -4662,7 +4674,8 @@
           "updated_at": "2026-04-01T10:13:41Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190530,
@@ -4673,7 +4686,8 @@
           "updated_at": "2026-04-01T10:13:42Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190531,
@@ -4684,7 +4698,8 @@
           "updated_at": "2026-04-01T10:13:41Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190532,
@@ -4695,7 +4710,8 @@
           "updated_at": "2026-04-01T10:13:42Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190533,
@@ -4706,7 +4722,8 @@
           "updated_at": "2026-04-01T10:13:42Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190539,
@@ -4717,7 +4734,8 @@
           "updated_at": "2026-04-01T10:13:42Z",
           "download_count": 3,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         },
         {
           "id": 386190540,
@@ -4728,7 +4746,8 @@
           "updated_at": "2026-04-01T10:13:42Z",
           "download_count": 1,
           "first_seen": "2026-05-04T15:33:49Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-09-24T01:02:38Z"
         }
       ]
     },
@@ -6828,6 +6847,216 @@
           "updated_at": "2026-08-14T21:22:15Z",
           "download_count": 5,
           "first_seen": "2026-08-14T22:18:59Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 395109627,
+      "tag_name": "v0.1.10-dev.2",
+      "name": "Snapshot 0.1.10-dev.2+db5c898",
+      "published_at": "2026-09-23T22:23:10Z",
+      "created_at": "2026-09-23T22:17:20Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 584686097,
+          "name": "keylightd-tray_0.1.10-dev.2+db5c898_linux_amd64_sbom.spdx.json",
+          "size": 51739,
+          "content_type": "application/json",
+          "created_at": "2026-09-23T22:23:06Z",
+          "updated_at": "2026-09-23T22:23:07Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686098,
+          "name": "keylightd-tray_0.1.10-dev.2+db5c898_darwin_universal_sbom.spdx.json",
+          "size": 99701,
+          "content_type": "application/json",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:07Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686099,
+          "name": "keylightd-tray_0.1.10-dev.2+db5c898_darwin_universal.tar.gz",
+          "size": 11561955,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:07Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686101,
+          "name": "keylightd-control@jmylchreest.github.io.shell-extension.zip",
+          "size": 63791,
+          "content_type": "application/zip",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:07Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686102,
+          "name": "keylightd-tray_0.1.10-dev.2+db5c898_linux_amd64.tar.gz",
+          "size": 5974534,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:07Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686114,
+          "name": "keylightd-tray_0.1.10-dev.2+db5c898_linux_arm64.tar.gz",
+          "size": 5360185,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:07Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686117,
+          "name": "keylightd-tray_0.1.10-dev.2+db5c898_linux_arm64_sbom.spdx.json",
+          "size": 51739,
+          "content_type": "application/json",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:07Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686121,
+          "name": "keylightd-tray_0.1.10-dev.2+db5c898_windows_amd64.zip",
+          "size": 6520554,
+          "content_type": "application/zip",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:08Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686129,
+          "name": "keylightd-tray_0.1.10-dev.2+db5c898_windows_arm64.zip",
+          "size": 5821698,
+          "content_type": "application/zip",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:08Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686136,
+          "name": "keylightd_0.1.10-dev.2+db5c898_checksums.txt",
+          "size": 2090,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-09-23T22:23:07Z",
+          "updated_at": "2026-09-23T22:23:08Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686143,
+          "name": "keylightd_0.1.10-dev.2+db5c898_darwin_amd64.tar.gz",
+          "size": 8054045,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:23:08Z",
+          "updated_at": "2026-09-23T22:23:09Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686149,
+          "name": "keylightd_0.1.10-dev.2+db5c898_darwin_amd64_sbom.spdx.json",
+          "size": 93947,
+          "content_type": "application/json",
+          "created_at": "2026-09-23T22:23:08Z",
+          "updated_at": "2026-09-23T22:23:08Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686150,
+          "name": "keylightd_0.1.10-dev.2+db5c898_darwin_arm64.tar.gz",
+          "size": 7349063,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:23:08Z",
+          "updated_at": "2026-09-23T22:23:08Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686152,
+          "name": "keylightd_0.1.10-dev.2+db5c898_darwin_arm64_sbom.spdx.json",
+          "size": 92426,
+          "content_type": "application/json",
+          "created_at": "2026-09-23T22:23:08Z",
+          "updated_at": "2026-09-23T22:23:08Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686154,
+          "name": "keylightd_0.1.10-dev.2+db5c898_linux_amd64.tar.gz",
+          "size": 7945676,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:23:08Z",
+          "updated_at": "2026-09-23T22:23:08Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686159,
+          "name": "keylightd_0.1.10-dev.2+db5c898_linux_amd64_sbom.spdx.json",
+          "size": 93881,
+          "content_type": "application/json",
+          "created_at": "2026-09-23T22:23:08Z",
+          "updated_at": "2026-09-23T22:23:08Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686163,
+          "name": "keylightd_0.1.10-dev.2+db5c898_linux_arm64.tar.gz",
+          "size": 7095506,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-09-23T22:23:08Z",
+          "updated_at": "2026-09-23T22:23:09Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
+          "status": "active"
+        },
+        {
+          "id": 584686169,
+          "name": "keylightd_0.1.10-dev.2+db5c898_linux_arm64_sbom.spdx.json",
+          "size": 92361,
+          "content_type": "application/json",
+          "created_at": "2026-09-23T22:23:08Z",
+          "updated_at": "2026-09-23T22:23:09Z",
+          "download_count": 0,
+          "first_seen": "2026-09-24T01:02:38Z",
           "status": "active"
         }
       ]
