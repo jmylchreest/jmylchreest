@@ -69,7 +69,7 @@
 ### Recently Active
 
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
-  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 93 / 93](https://github.com/jmylchreest/lobslaw/releases) · [issues: 33](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 10](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 93 / 93](https://github.com/jmylchreest/lobslaw/releases) · [issues: 33](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 11](https://github.com/jmylchreest/lobslaw/pulls)</sub>
 
   an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
