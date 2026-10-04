@@ -46,7 +46,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 12 / 760](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 3](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 14 / 762](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 3](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
@@ -69,7 +69,7 @@
 ### Recently Active
 
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
-  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 99 / 99](https://github.com/jmylchreest/lobslaw/releases) · [issues: 29](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 8](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 99 / 99](https://github.com/jmylchreest/lobslaw/releases) · [issues: 30](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 10](https://github.com/jmylchreest/lobslaw/pulls)</sub>
 
   an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
