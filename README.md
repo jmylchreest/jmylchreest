@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★18, Go)<br>
-  <sub>[release: `v0.1.17`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 26 / 1.6k](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 1](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.17`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 26 / 1.6k](https://github.com/jmylchreest/aide/releases) · [issues: 1](https://github.com/jmylchreest/aide/issues) · [PRs: 3](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
@@ -36,7 +36,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★22, Go)<br>
-  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 19.3k / 1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 2](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 19.4k / 1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 2](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -69,7 +69,7 @@
 ### Recently Active
 
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
-  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 99 / 99](https://github.com/jmylchreest/lobslaw/releases) · [issues: 30](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 5](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 99 / 99](https://github.com/jmylchreest/lobslaw/releases) · [issues: 30](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 6](https://github.com/jmylchreest/lobslaw/pulls)</sub>
 
   an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
@@ -83,8 +83,8 @@
 
   Parametric OpenSCAD models and the libraries I wrote to support them
 
-- **[clipferry](https://github.com/jmylchreest/clipferry)** (★2, Rust)<br>
-  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 3](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 0](https://github.com/jmylchreest/clipferry/pulls)</sub>
+- **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
+  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 4](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 0](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
 
