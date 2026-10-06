@@ -36,7 +36,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★22, Go)<br>
-  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 19.6k / 1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 2](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 19.7k / 1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 2](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -84,7 +84,7 @@
   Parametric OpenSCAD models and the libraries I wrote to support them
 
 - **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
-  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 4](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 0](https://github.com/jmylchreest/clipferry/pulls)</sub>
+  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 5](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 0](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
 
