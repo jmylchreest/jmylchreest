@@ -2,13 +2,13 @@
 
 ### Featured
 
-- **[aide](https://github.com/jmylchreest/aide)** (★18, Go)<br>
-  <sub>[release: `v0.1.17`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 35 / 1.6k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+- **[aide](https://github.com/jmylchreest/aide)** (★19, Go)<br>
+  <sub>[release: `v0.1.17`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 36 / 1.6k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★44, Rust)<br>
-  <sub>[release: `v0.0.35`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 36 / 973](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.35`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 39 / 976](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   A secrets daemon implementing the freedesktop.org Secret Service API with modular backend providers
 
@@ -18,7 +18,7 @@
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
 - **[colophon](https://github.com/jmylchreest/colophon)** (Go)<br>
-  <sub>[release: `v0.0.35`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 1 / 12](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 1](https://github.com/jmylchreest/colophon/pulls)</sub>
+  <sub>[release: `v0.0.36`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 1 / 13](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 0](https://github.com/jmylchreest/colophon/pulls)</sub>
 
   A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
@@ -31,7 +31,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★22, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 470 / 1.3k](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 2](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 477 / 1.3k](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 2](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
@@ -50,7 +50,7 @@
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
-- **[xembsni](https://github.com/jmylchreest/xembsni)** (★6, Rust)<br>
+- **[xembsni](https://github.com/jmylchreest/xembsni)** (★7, Rust)<br>
   <sub>[issues: 1](https://github.com/jmylchreest/xembsni/issues) · [PRs: 0](https://github.com/jmylchreest/xembsni/pulls)</sub>
 
   XEmbed → StatusNotifierItem tray bridge for Wayland: shows legacy X11 & Wine/Proton system-tray icons (Battle.net, etc.) in waybar and other SNI hosts on niri, Hyprland and sway.
@@ -67,6 +67,11 @@
 
 
 ### Recently Active
+
+- **[aide-blueprints](https://github.com/jmylchreest/aide-blueprints)**<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/aide-blueprints/issues) · [PRs: 0](https://github.com/jmylchreest/aide-blueprints/pulls)</sub>
+
+  Personal aide blueprints for clear, natural technical writing
 
 - **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
   <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 7](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 6](https://github.com/jmylchreest/clipferry/pulls)</sub>

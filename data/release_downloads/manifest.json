@@ -2,25 +2,25 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-10-10T15:40:53Z",
+    "last_updated": "2026-10-10T19:43:26Z",
     "total_repos": 21,
     "absent_repos": 0,
-    "total_releases": 539,
-    "total_assets": 22627,
-    "active_assets": 9695,
-    "removed_assets": 12932,
-    "total_downloads": 1057308
+    "total_releases": 541,
+    "total_assets": 22791,
+    "active_assets": 9701,
+    "removed_assets": 13090,
+    "total_downloads": 1057334
   },
   "repos": [
     {
       "name": "aide",
       "status": "active",
-      "releases": 128,
+      "releases": 129,
       "active_assets": 6517,
-      "removed_assets": 7543,
-      "total_downloads": 9983,
+      "removed_assets": 7701,
+      "total_downloads": 9996,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-10-06T04:21:21Z"
+      "latest_release_published_at": "2026-10-10T19:15:39Z"
     },
     {
       "name": "awob",
@@ -45,12 +45,12 @@
     {
       "name": "colophon",
       "status": "active",
-      "releases": 78,
-      "active_assets": 240,
+      "releases": 79,
+      "active_assets": 246,
       "removed_assets": 228,
-      "total_downloads": 14,
-      "latest_release_tag": "v0.0.36-dev.4",
-      "latest_release_published_at": "2026-09-23T22:14:05Z"
+      "total_downloads": 16,
+      "latest_release_tag": "v0.0.36",
+      "latest_release_published_at": "2026-10-10T19:15:03Z"
     },
     {
       "name": "histui",
@@ -58,7 +58,7 @@
       "releases": 29,
       "active_assets": 186,
       "removed_assets": 81,
-      "total_downloads": 1328,
+      "total_downloads": 1335,
       "latest_release_tag": "v0.0.15-dev.26",
       "latest_release_published_at": "2026-09-23T23:24:34Z"
     },
@@ -78,7 +78,7 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2808,
+      "total_downloads": 2809,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
@@ -168,7 +168,7 @@
       "releases": 64,
       "active_assets": 247,
       "removed_assets": 303,
-      "total_downloads": 982,
+      "total_downloads": 985,
       "latest_release_tag": "v0.0.35",
       "latest_release_published_at": "2026-10-08T12:06:26Z"
     },
