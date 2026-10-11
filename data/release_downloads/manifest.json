@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-10-11T03:55:19Z",
+    "last_updated": "2026-10-11T10:35:50Z",
     "total_repos": 21,
     "absent_repos": 0,
-    "total_releases": 544,
-    "total_assets": 22971,
+    "total_releases": 545,
+    "total_assets": 22982,
     "active_assets": 9872,
-    "removed_assets": 13099,
-    "total_downloads": 1058565
+    "removed_assets": 13110,
+    "total_downloads": 1059183
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 130,
       "active_assets": 6675,
       "removed_assets": 7701,
-      "total_downloads": 10016,
+      "total_downloads": 10024,
       "latest_release_tag": "v0.1.18",
       "latest_release_published_at": "2026-10-10T20:00:44Z"
     },
@@ -78,7 +78,7 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2809,
+      "total_downloads": 2810,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
@@ -88,7 +88,7 @@
       "releases": 54,
       "active_assets": 544,
       "removed_assets": 90,
-      "total_downloads": 1222,
+      "total_downloads": 1226,
       "latest_release_tag": "v0.2.0",
       "latest_release_published_at": "2026-10-04T10:03:20Z"
     },
@@ -165,12 +165,12 @@
     {
       "name": "rosec",
       "status": "active",
-      "releases": 66,
+      "releases": 67,
       "active_assets": 260,
-      "removed_assets": 312,
-      "total_downloads": 1005,
-      "latest_release_tag": "v0.0.36",
-      "latest_release_published_at": "2026-10-11T00:04:13Z"
+      "removed_assets": 323,
+      "total_downloads": 1022,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-10-11T08:48:00Z"
     },
     {
       "name": "rurl",
@@ -198,7 +198,7 @@
       "releases": 54,
       "active_assets": 1437,
       "removed_assets": 4339,
-      "total_downloads": 1039210,
+      "total_downloads": 1039798,
       "latest_release_tag": "0.5.1-preview.1790201252+db5adbd",
       "latest_release_published_at": "2026-09-23T22:11:51Z"
     },
