@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★19, Go)<br>
-  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 4 / 1.6k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 5 / 1.6k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★44, Rust)<br>
-  <sub>[release: `v0.0.36`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 30 / 1k](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 2](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.36`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 34 / 1k](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 2](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   Linux secrets daemon with Secret Service, SSH agent, TOTP, and passkeys. Providers: local vaults, Bitwarden, Proton Pass, KeePassXC, and GNOME Keyring.
 
@@ -26,7 +26,7 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★27, Go)<br>
-  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 244 / 2.1k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 247 / 2.1k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
@@ -36,7 +36,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★22, Go)<br>
-  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 21.7k / 1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 2](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 21.8k / 1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 2](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -68,20 +68,28 @@
 
 ### Recently Active
 
+- **[go-decluttarr](https://github.com/jmylchreest/go-decluttarr)** (★1, Go)<br>
+  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/go-decluttarr/releases/latest) · [issues: 0](https://github.com/jmylchreest/go-decluttarr/issues) · [PRs: 0](https://github.com/jmylchreest/go-decluttarr/pulls)</sub>
+
+  Inspired by decluttarr, but designed to support configurable timeouts/graceful failures
+
+- **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
+  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 99 / 99](https://github.com/jmylchreest/lobslaw/releases) · [issues: 29](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 2](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+
+  an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
+
+- **[slog-logfilter](https://github.com/jmylchreest/slog-logfilter)** (Go)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/slog-logfilter/issues) · [PRs: 0](https://github.com/jmylchreest/slog-logfilter/pulls)</sub>
+
 - **[aide-blueprints](https://github.com/jmylchreest/aide-blueprints)**<br>
   <sub>[issues: 0](https://github.com/jmylchreest/aide-blueprints/issues) · [PRs: 0](https://github.com/jmylchreest/aide-blueprints/pulls)</sub>
 
   Personal aide blueprints for clear, natural technical writing
 
 - **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
-  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 8](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 6](https://github.com/jmylchreest/clipferry/pulls)</sub>
+  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 8](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 0](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
-
-- **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
-  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 99 / 99](https://github.com/jmylchreest/lobslaw/releases) · [issues: 29](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 2](https://github.com/jmylchreest/lobslaw/pulls)</sub>
-
-  an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
 
 ---
