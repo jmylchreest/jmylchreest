@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "rosec",
     "schema_version": 3,
-    "last_updated": "2026-10-11T10:35:50Z",
+    "last_updated": "2026-10-11T16:32:15Z",
     "repo_status": "active",
-    "releases": 67,
-    "removed_releases": 36,
+    "releases": 68,
+    "removed_releases": 37,
     "active_assets": 260,
-    "removed_assets": 323,
-    "total_downloads": 1022
+    "removed_assets": 334,
+    "total_downloads": 1025
   },
   "releases": [
     {
@@ -7083,7 +7083,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-10-08T12:06:23Z",
           "updated_at": "2026-10-08T12:06:24Z",
-          "download_count": 4,
+          "download_count": 5,
           "first_seen": "2026-10-08T17:15:24Z",
           "status": "active"
         },
@@ -7094,7 +7094,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-10-08T12:06:23Z",
           "updated_at": "2026-10-08T12:06:24Z",
-          "download_count": 3,
+          "download_count": 4,
           "first_seen": "2026-10-08T17:15:24Z",
           "status": "active"
         },
@@ -7372,7 +7372,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-10-11T00:04:10Z",
           "updated_at": "2026-10-11T00:04:11Z",
-          "download_count": 8,
+          "download_count": 9,
           "first_seen": "2026-10-11T03:55:19Z",
           "status": "active"
         },
@@ -7463,7 +7463,8 @@
       "created_at": "2026-10-11T08:34:20Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-10-11T16:32:15Z",
       "assets": [
         {
           "id": 630252422,
@@ -7474,7 +7475,8 @@
           "updated_at": "2026-10-11T08:48:02Z",
           "download_count": 0,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252424,
@@ -7485,7 +7487,8 @@
           "updated_at": "2026-10-11T08:48:02Z",
           "download_count": 0,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252425,
@@ -7496,7 +7499,8 @@
           "updated_at": "2026-10-11T08:48:04Z",
           "download_count": 1,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252427,
@@ -7507,7 +7511,8 @@
           "updated_at": "2026-10-11T08:48:02Z",
           "download_count": 1,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252428,
@@ -7518,7 +7523,8 @@
           "updated_at": "2026-10-11T08:48:04Z",
           "download_count": 1,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252429,
@@ -7529,7 +7535,8 @@
           "updated_at": "2026-10-11T08:48:05Z",
           "download_count": 0,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252430,
@@ -7540,7 +7547,8 @@
           "updated_at": "2026-10-11T08:48:02Z",
           "download_count": 0,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252432,
@@ -7551,7 +7559,8 @@
           "updated_at": "2026-10-11T08:48:02Z",
           "download_count": 1,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252433,
@@ -7562,7 +7571,8 @@
           "updated_at": "2026-10-11T08:48:04Z",
           "download_count": 0,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252435,
@@ -7573,7 +7583,8 @@
           "updated_at": "2026-10-11T08:48:02Z",
           "download_count": 0,
           "first_seen": "2026-10-11T10:35:50Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
         },
         {
           "id": 630252437,
@@ -7584,6 +7595,140 @@
           "updated_at": "2026-10-11T08:48:04Z",
           "download_count": 1,
           "first_seen": "2026-10-11T10:35:50Z",
+          "status": "removed",
+          "removed_at": "2026-10-11T16:32:15Z"
+        }
+      ]
+    },
+    {
+      "id": 409719659,
+      "tag_name": "snapshot",
+      "name": "Development Snapshot",
+      "published_at": "2026-10-11T14:31:57Z",
+      "created_at": "2026-10-11T14:10:04Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 630960622,
+          "name": "rosec-provider-gnome-keyring-0.0.0-dev.0+26afab2.wasm.tar.gz",
+          "size": 155271,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:31:58Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960623,
+          "name": "rosec-provider-protonpass-0.0.0-dev.0+26afab2.wasm.tar.gz",
+          "size": 385608,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:31:58Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960624,
+          "name": "rosec-0.0.0-dev.0+26afab2-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 37476714,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:32:00Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960625,
+          "name": "rosec-provider-keepassxc-file-0.0.0-dev.0+26afab2.wasm.tar.gz",
+          "size": 573694,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:31:58Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960626,
+          "name": "rosec-0.0.0-dev.0+26afab2-aarch64-unknown-linux-musl.tar.gz",
+          "size": 36733358,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:32:00Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960627,
+          "name": "rosec-0.0.0-dev.0+26afab2-x86_64-unknown-linux-musl.tar.gz",
+          "size": 39082536,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:32:01Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960629,
+          "name": "rosec-provider-bitwarden-sm-0.0.0-dev.0+26afab2.wasm.tar.gz",
+          "size": 159485,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:31:58Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960630,
+          "name": "rosec-0.0.0-dev.0+26afab2-aarch64-unknown-linux-gnu.tar.gz",
+          "size": 36384685,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:32:00Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960631,
+          "name": "checksums.txt",
+          "size": 1257,
+          "content_type": "text/plain",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:31:58Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960632,
+          "name": "rosec-provider-protonpass-0.0.0-dev.0+26afab2.source.tar.gz",
+          "size": 67745375,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:32:02Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
+          "status": "active"
+        },
+        {
+          "id": 630960636,
+          "name": "rosec-provider-bitwarden-pm-0.0.0-dev.0+26afab2.wasm.tar.gz",
+          "size": 337184,
+          "content_type": "application/gzip",
+          "created_at": "2026-10-11T14:31:58Z",
+          "updated_at": "2026-10-11T14:31:58Z",
+          "download_count": 0,
+          "first_seen": "2026-10-11T16:32:15Z",
           "status": "active"
         }
       ]
