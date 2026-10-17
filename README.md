@@ -31,12 +31,12 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★22, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 512 / 1.3k](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 4](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 512 / 1.3k](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 5](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★22, Go)<br>
-  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 24.3k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 8](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 24.4k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 8](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -46,7 +46,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 41 / 793](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 4](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 41 / 793](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 6](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
@@ -85,11 +85,6 @@
 
 - **[slog-logfilter](https://github.com/jmylchreest/slog-logfilter)** (Go)<br>
   <sub>[issues: 0](https://github.com/jmylchreest/slog-logfilter/issues) · [PRs: 0](https://github.com/jmylchreest/slog-logfilter/pulls)</sub>
-
-- **[aide-blueprints](https://github.com/jmylchreest/aide-blueprints)**<br>
-  <sub>[issues: 0](https://github.com/jmylchreest/aide-blueprints/issues) · [PRs: 0](https://github.com/jmylchreest/aide-blueprints/pulls)</sub>
-
-  Personal aide blueprints for clear, natural technical writing
 
 
 ---
