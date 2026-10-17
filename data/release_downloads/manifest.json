@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-10-17T20:05:03Z",
+    "last_updated": "2026-10-17T22:52:04Z",
     "total_repos": 22,
     "absent_repos": 0,
-    "total_releases": 560,
-    "total_assets": 24234,
-    "active_assets": 11102,
+    "total_releases": 564,
+    "total_assets": 24726,
+    "active_assets": 11594,
     "removed_assets": 13132,
-    "total_downloads": 1084556
+    "total_downloads": 1087517
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 130,
       "active_assets": 6675,
       "removed_assets": 7701,
-      "total_downloads": 10347,
+      "total_downloads": 10352,
       "latest_release_tag": "v0.1.18",
       "latest_release_published_at": "2026-10-10T20:00:44Z"
     },
@@ -205,12 +205,12 @@
     {
       "name": "tinct",
       "status": "active",
-      "releases": 64,
-      "active_assets": 2667,
+      "releases": 68,
+      "active_assets": 3159,
       "removed_assets": 4339,
-      "total_downloads": 1064700,
-      "latest_release_tag": "0.5.1-preview.1792265871+bc09873",
-      "latest_release_published_at": "2026-10-17T19:43:45Z"
+      "total_downloads": 1067656,
+      "latest_release_tag": "0.5.1-preview.1792275147+8783b02",
+      "latest_release_published_at": "2026-10-17T22:20:25Z"
     },
     {
       "name": "tvarr",
