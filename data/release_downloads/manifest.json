@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-10-17T17:45:45Z",
+    "last_updated": "2026-10-17T20:05:03Z",
     "total_repos": 22,
     "absent_repos": 0,
-    "total_releases": 550,
-    "total_assets": 23004,
-    "active_assets": 9872,
+    "total_releases": 560,
+    "total_assets": 24234,
+    "active_assets": 11102,
     "removed_assets": 13132,
-    "total_downloads": 1078855
+    "total_downloads": 1084556
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 130,
       "active_assets": 6675,
       "removed_assets": 7701,
-      "total_downloads": 10343,
+      "total_downloads": 10347,
       "latest_release_tag": "v0.1.18",
       "latest_release_published_at": "2026-10-10T20:00:44Z"
     },
@@ -128,7 +128,7 @@
       "releases": 33,
       "active_assets": 151,
       "removed_assets": 248,
-      "total_downloads": 2137,
+      "total_downloads": 2140,
       "latest_release_tag": "v0.2.1-dev.2",
       "latest_release_published_at": "2026-09-23T22:14:41Z"
     },
@@ -178,7 +178,7 @@
       "releases": 69,
       "active_assets": 260,
       "removed_assets": 345,
-      "total_downloads": 1075,
+      "total_downloads": 1078,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-10-12T10:50:04Z"
     },
@@ -205,12 +205,12 @@
     {
       "name": "tinct",
       "status": "active",
-      "releases": 54,
-      "active_assets": 1437,
+      "releases": 64,
+      "active_assets": 2667,
       "removed_assets": 4339,
-      "total_downloads": 1059009,
-      "latest_release_tag": "0.5.1-preview.1790201252+db5adbd",
-      "latest_release_published_at": "2026-09-23T22:11:51Z"
+      "total_downloads": 1064700,
+      "latest_release_tag": "0.5.1-preview.1792265871+bc09873",
+      "latest_release_published_at": "2026-10-17T19:43:45Z"
     },
     {
       "name": "tvarr",
