@@ -26,7 +26,7 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★27, Go)<br>
-  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 261 / 2.1k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 264 / 2.1k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
@@ -36,7 +36,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★22, Go)<br>
-  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 24k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 2](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 24.1k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 2](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -68,6 +68,11 @@
 
 ### Recently Active
 
+- **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
+  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 9](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 7](https://github.com/jmylchreest/clipferry/pulls)</sub>
+
+  Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
+
 - **[go-decluttarr](https://github.com/jmylchreest/go-decluttarr)** (★1, Go)<br>
   <sub>[release: `v0.2.2`](https://github.com/jmylchreest/go-decluttarr/releases/latest) · [issues: 0](https://github.com/jmylchreest/go-decluttarr/issues) · [PRs: 0](https://github.com/jmylchreest/go-decluttarr/pulls)</sub>
 
@@ -85,11 +90,6 @@
   <sub>[issues: 0](https://github.com/jmylchreest/aide-blueprints/issues) · [PRs: 0](https://github.com/jmylchreest/aide-blueprints/pulls)</sub>
 
   Personal aide blueprints for clear, natural technical writing
-
-- **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
-  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 9](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 0](https://github.com/jmylchreest/clipferry/pulls)</sub>
-
-  Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
 
 
 ---
