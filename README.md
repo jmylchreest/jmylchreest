@@ -31,12 +31,12 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★22, Go)<br>
-  <sub>[release: `v0.5.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 26k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.6.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 52 / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★22, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 512 / 1.3k](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 6](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 512 / 1.3k](https://github.com/jmylchreest/histui/releases) · [issues: 0](https://github.com/jmylchreest/histui/issues) · [PRs: 7](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
@@ -68,6 +68,11 @@
 
 ### Recently Active
 
+- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
+
+  Main plugin repository for tinct
+
 - **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
   <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 9](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 7](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
@@ -79,7 +84,7 @@
   Inspired by decluttarr, but designed to support configurable timeouts/graceful failures
 
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
-  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 99 / 99](https://github.com/jmylchreest/lobslaw/releases) · [issues: 29](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 2](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 99 / 99](https://github.com/jmylchreest/lobslaw/releases) · [issues: 0](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 0](https://github.com/jmylchreest/lobslaw/pulls)</sub>
 
   an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
