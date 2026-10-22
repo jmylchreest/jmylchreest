@@ -46,11 +46,11 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 41 / 794](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 6](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 42 / 796](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 6](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
-- **[xembsni](https://github.com/jmylchreest/xembsni)** (★8, Rust)<br>
+- **[xembsni](https://github.com/jmylchreest/xembsni)** (★9, Rust)<br>
   <sub>[issues: 1](https://github.com/jmylchreest/xembsni/issues) · [PRs: 1](https://github.com/jmylchreest/xembsni/pulls)</sub>
 
   XEmbed → StatusNotifierItem tray bridge for Wayland: shows legacy X11 & Wine/Proton system-tray icons (Battle.net, etc.) in waybar and other SNI hosts on niri, Hyprland and sway.
