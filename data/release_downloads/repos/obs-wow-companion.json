@@ -1,0 +1,127 @@
+{
+  "_meta": {
+    "owner": "jmylchreest",
+    "repo": "obs-wow-companion",
+    "schema_version": 3,
+    "last_updated": "2026-10-27T19:13:37Z",
+    "repo_status": "active",
+    "releases": 1,
+    "removed_releases": 0,
+    "active_assets": 9,
+    "removed_assets": 0,
+    "total_downloads": 3
+  },
+  "releases": [
+    {
+      "id": 425798451,
+      "tag_name": "v0.1.0-dev.1",
+      "name": "v0.1.0-dev.1",
+      "published_at": "2026-10-27T17:50:02Z",
+      "created_at": "2026-10-27T17:38:16Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 682388899,
+          "name": "owc-app-x86_64-pc-windows-msvc.zip.sha256",
+          "size": 102,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-10-27T17:50:00Z",
+          "updated_at": "2026-10-27T17:50:00Z",
+          "download_count": 0,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        },
+        {
+          "id": 682388901,
+          "name": "owc-app-x86_64-pc-windows-msvc.zip",
+          "size": 7715707,
+          "content_type": "application/zip",
+          "created_at": "2026-10-27T17:50:00Z",
+          "updated_at": "2026-10-27T17:50:01Z",
+          "download_count": 1,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        },
+        {
+          "id": 682388902,
+          "name": "owc-app-installer.ps1",
+          "size": 22683,
+          "content_type": "application/x-powershell",
+          "created_at": "2026-10-27T17:50:00Z",
+          "updated_at": "2026-10-27T17:50:00Z",
+          "download_count": 0,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        },
+        {
+          "id": 682388905,
+          "name": "owc-app-x86_64-unknown-linux-gnu.tar.xz",
+          "size": 6265904,
+          "content_type": "application/x-xz",
+          "created_at": "2026-10-27T17:50:00Z",
+          "updated_at": "2026-10-27T17:50:01Z",
+          "download_count": 1,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        },
+        {
+          "id": 682388906,
+          "name": "owc-app-installer.sh",
+          "size": 51198,
+          "content_type": "application/x-shellscript",
+          "created_at": "2026-10-27T17:50:00Z",
+          "updated_at": "2026-10-27T17:50:00Z",
+          "download_count": 0,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        },
+        {
+          "id": 682388920,
+          "name": "owc-app-x86_64-unknown-linux-gnu.tar.xz.sha256",
+          "size": 107,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-10-27T17:50:01Z",
+          "updated_at": "2026-10-27T17:50:01Z",
+          "download_count": 0,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        },
+        {
+          "id": 682388924,
+          "name": "source.tar.gz.sha256",
+          "size": 81,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-10-27T17:50:01Z",
+          "updated_at": "2026-10-27T17:50:01Z",
+          "download_count": 0,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        },
+        {
+          "id": 682388927,
+          "name": "source.tar.gz",
+          "size": 3283459,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-10-27T17:50:01Z",
+          "updated_at": "2026-10-27T17:50:01Z",
+          "download_count": 0,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        },
+        {
+          "id": 682388948,
+          "name": "SHA256SUMS",
+          "size": 770,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-10-27T17:50:01Z",
+          "updated_at": "2026-10-27T17:50:01Z",
+          "download_count": 1,
+          "first_seen": "2026-10-27T19:13:37Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

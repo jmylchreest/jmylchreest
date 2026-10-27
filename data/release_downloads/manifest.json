@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-10-27T13:55:55Z",
-    "total_repos": 22,
+    "last_updated": "2026-10-27T19:13:37Z",
+    "total_repos": 23,
     "absent_repos": 0,
-    "total_releases": 567,
-    "total_assets": 24983,
-    "active_assets": 11755,
+    "total_releases": 568,
+    "total_assets": 24992,
+    "active_assets": 11764,
     "removed_assets": 13228,
-    "total_downloads": 1123880
+    "total_downloads": 1124658
   },
   "repos": [
     {
@@ -68,7 +68,7 @@
       "releases": 29,
       "active_assets": 186,
       "removed_assets": 81,
-      "total_downloads": 1426,
+      "total_downloads": 1428,
       "latest_release_tag": "v0.0.15-dev.26",
       "latest_release_published_at": "2026-09-23T23:24:34Z"
     },
@@ -123,12 +123,22 @@
       "latest_release_published_at": "2016-08-18T15:40:34Z"
     },
     {
+      "name": "obs-wow-companion",
+      "status": "active",
+      "releases": 1,
+      "active_assets": 9,
+      "removed_assets": 0,
+      "total_downloads": 3,
+      "latest_release_tag": "v0.1.0-dev.1",
+      "latest_release_published_at": "2026-10-27T17:50:02Z"
+    },
+    {
       "name": "refind-btrfs-snapshots",
       "status": "active",
       "releases": 33,
       "active_assets": 151,
       "removed_assets": 248,
-      "total_downloads": 2193,
+      "total_downloads": 2196,
       "latest_release_tag": "v0.2.1-dev.2",
       "latest_release_published_at": "2026-09-23T22:14:41Z"
     },
@@ -138,7 +148,7 @@
       "releases": 14,
       "active_assets": 78,
       "removed_assets": 6,
-      "total_downloads": 159,
+      "total_downloads": 160,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-03-10T19:28:40Z"
     },
@@ -178,7 +188,7 @@
       "releases": 70,
       "active_assets": 260,
       "removed_assets": 356,
-      "total_downloads": 1157,
+      "total_downloads": 1160,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-10-24T17:57:48Z"
     },
@@ -208,7 +218,7 @@
       "releases": 70,
       "active_assets": 3320,
       "removed_assets": 4424,
-      "total_downloads": 1103457,
+      "total_downloads": 1104223,
       "latest_release_tag": "v0.6.0",
       "latest_release_published_at": "2026-10-18T14:06:04Z"
     },
