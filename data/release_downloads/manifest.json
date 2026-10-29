@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-10-28T21:33:10Z",
+    "last_updated": "2026-10-29T01:31:03Z",
     "total_repos": 23,
     "absent_repos": 0,
-    "total_releases": 568,
-    "total_assets": 24992,
-    "active_assets": 11764,
-    "removed_assets": 13228,
-    "total_downloads": 1128390
+    "total_releases": 570,
+    "total_assets": 25028,
+    "active_assets": 11782,
+    "removed_assets": 13246,
+    "total_downloads": 1129340
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 130,
       "active_assets": 6675,
       "removed_assets": 7701,
-      "total_downloads": 10728,
+      "total_downloads": 10730,
       "latest_release_tag": "v0.1.18",
       "latest_release_published_at": "2026-10-10T20:00:44Z"
     },
@@ -95,12 +95,12 @@
     {
       "name": "keylightd",
       "status": "active",
-      "releases": 54,
-      "active_assets": 544,
-      "removed_assets": 90,
-      "total_downloads": 1269,
-      "latest_release_tag": "v0.2.0",
-      "latest_release_published_at": "2026-10-04T10:03:20Z"
+      "releases": 56,
+      "active_assets": 562,
+      "removed_assets": 108,
+      "total_downloads": 1448,
+      "latest_release_tag": "v0.2.1",
+      "latest_release_published_at": "2026-10-28T23:59:23Z"
     },
     {
       "name": "lobslaw",
@@ -218,7 +218,7 @@
       "releases": 70,
       "active_assets": 3320,
       "removed_assets": 4424,
-      "total_downloads": 1107853,
+      "total_downloads": 1108622,
       "latest_release_tag": "v0.6.0",
       "latest_release_published_at": "2026-10-18T14:06:04Z"
     },
