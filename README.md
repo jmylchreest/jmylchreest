@@ -8,7 +8,7 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★47, Rust)<br>
-  <sub>[release: `v0.0.36`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 126 / 1.2k](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 7](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.36`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 126 / 1.2k](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 6](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   Linux secrets daemon with Secret Service, SSH agent, TOTP, and passkeys. Providers: local vaults, Bitwarden, Proton Pass, KeePassXC, and GNOME Keyring.
 
@@ -36,7 +36,7 @@
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★22, Go)<br>
-  <sub>[release: `v0.6.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 5.6k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 3](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.6.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 5.7k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 3](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
