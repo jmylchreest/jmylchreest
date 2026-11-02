@@ -3,12 +3,12 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★19, Go)<br>
-  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 32 / 1.7k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 34 / 1.7k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★47, Rust)<br>
-  <sub>[release: `v0.0.38`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 66 / 1.5k](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 4](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.38`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 68 / 1.6k](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 4](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   Linux secrets daemon with Secret Service, SSH agent, TOTP, and passkeys. Providers: local vaults, Bitwarden, Proton Pass, KeePassXC, and GNOME Keyring.
 
@@ -26,7 +26,7 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★27, Go)<br>
-  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 355 / 2.2k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 361 / 2.2k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
@@ -35,8 +35,8 @@
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
-- **[tinct](https://github.com/jmylchreest/tinct)** (★22, Go)<br>
-  <sub>[release: `v0.6.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 7k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 3](https://github.com/jmylchreest/tinct/pulls)</sub>
+- **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
+  <sub>[release: `v0.6.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 7.1k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 3](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -46,11 +46,11 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 46 / 1.5k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 12](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 47 / 1.5k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 12](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
-- **[xembsni](https://github.com/jmylchreest/xembsni)** (★11, Rust)<br>
+- **[xembsni](https://github.com/jmylchreest/xembsni)** (★12, Rust)<br>
   <sub>[issues: 1](https://github.com/jmylchreest/xembsni/issues) · [PRs: 1](https://github.com/jmylchreest/xembsni/pulls)</sub>
 
   XEmbed → StatusNotifierItem tray bridge for Wayland: shows legacy X11 & Wine/Proton system-tray icons (Battle.net, etc.) in waybar and other SNI hosts on niri, Hyprland and sway.
@@ -68,6 +68,11 @@
 
 ### Recently Active
 
+- **[obs-wow-companion](https://github.com/jmylchreest/obs-wow-companion)** (Rust)<br>
+  <sub>[downloads: 0 / 3](https://github.com/jmylchreest/obs-wow-companion/releases) · [issues: 0](https://github.com/jmylchreest/obs-wow-companion/issues) · [PRs: 1](https://github.com/jmylchreest/obs-wow-companion/pulls)</sub>
+
+  Record WoW encounters with OBS. Review deaths, boss markers and clips on Windows and Linux.
+
 - **[aide-blueprints](https://github.com/jmylchreest/aide-blueprints)**<br>
   <sub>[issues: 0](https://github.com/jmylchreest/aide-blueprints/issues) · [PRs: 0](https://github.com/jmylchreest/aide-blueprints/pulls)</sub>
 
@@ -77,11 +82,6 @@
   <sub>[issues: 0](https://github.com/jmylchreest/homebrew-keylightd/issues) · [PRs: 0](https://github.com/jmylchreest/homebrew-keylightd/pulls)</sub>
 
   brew tap for keylightd
-
-- **[obs-wow-companion](https://github.com/jmylchreest/obs-wow-companion)** (Rust)<br>
-  <sub>[downloads: 0 / 3](https://github.com/jmylchreest/obs-wow-companion/releases) · [issues: 0](https://github.com/jmylchreest/obs-wow-companion/issues) · [PRs: 0](https://github.com/jmylchreest/obs-wow-companion/pulls)</sub>
-
-  Record WoW encounters with OBS. Review deaths, boss markers and clips on Windows and Linux.
 
 
 ---
