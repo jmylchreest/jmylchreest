@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "histui",
     "schema_version": 3,
-    "last_updated": "2026-11-04T10:26:29Z",
+    "last_updated": "2026-11-04T18:26:15Z",
     "repo_status": "active",
-    "releases": 30,
-    "removed_releases": 10,
-    "active_assets": 189,
-    "removed_assets": 90,
-    "total_downloads": 1608
+    "releases": 34,
+    "removed_releases": 14,
+    "active_assets": 192,
+    "removed_assets": 135,
+    "total_downloads": 1643
   },
   "releases": [
     {
@@ -1128,7 +1128,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-03-19T13:43:14Z",
           "updated_at": "2026-03-19T13:43:16Z",
-          "download_count": 18,
+          "download_count": 19,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -2718,7 +2718,8 @@
       "created_at": "2026-07-11T09:05:47Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-11-04T18:26:15Z",
       "assets": [
         {
           "id": 473391522,
@@ -2729,7 +2730,8 @@
           "updated_at": "2026-07-11T09:42:22Z",
           "download_count": 3,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473391523,
@@ -2740,7 +2742,8 @@
           "updated_at": "2026-07-11T09:42:19Z",
           "download_count": 1,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473391524,
@@ -2751,7 +2754,8 @@
           "updated_at": "2026-07-11T09:42:21Z",
           "download_count": 1,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473391525,
@@ -2762,7 +2766,8 @@
           "updated_at": "2026-07-11T09:42:21Z",
           "download_count": 1,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473391526,
@@ -2773,7 +2778,8 @@
           "updated_at": "2026-07-11T09:42:22Z",
           "download_count": 3,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473391528,
@@ -2784,7 +2790,8 @@
           "updated_at": "2026-07-11T09:42:23Z",
           "download_count": 3,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473391572,
@@ -2795,7 +2802,8 @@
           "updated_at": "2026-07-11T09:42:24Z",
           "download_count": 3,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473391574,
@@ -2806,7 +2814,8 @@
           "updated_at": "2026-07-11T09:42:22Z",
           "download_count": 2,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473391575,
@@ -2817,7 +2826,8 @@
           "updated_at": "2026-07-11T09:42:22Z",
           "download_count": 2,
           "first_seen": "2026-07-11T11:02:17Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         }
       ]
     },
@@ -2829,7 +2839,8 @@
       "created_at": "2026-07-11T09:05:47Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-11-04T18:26:15Z",
       "assets": [
         {
           "id": 473437956,
@@ -2840,7 +2851,8 @@
           "updated_at": "2026-07-11T11:15:00Z",
           "download_count": 4,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437957,
@@ -2851,7 +2863,8 @@
           "updated_at": "2026-07-11T11:15:00Z",
           "download_count": 4,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437958,
@@ -2862,7 +2875,8 @@
           "updated_at": "2026-07-11T11:15:00Z",
           "download_count": 4,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437959,
@@ -2873,7 +2887,8 @@
           "updated_at": "2026-07-11T11:15:00Z",
           "download_count": 2,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437960,
@@ -2884,7 +2899,8 @@
           "updated_at": "2026-07-11T11:15:00Z",
           "download_count": 4,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437963,
@@ -2895,7 +2911,8 @@
           "updated_at": "2026-07-11T11:15:00Z",
           "download_count": 4,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437964,
@@ -2906,7 +2923,8 @@
           "updated_at": "2026-07-11T11:15:01Z",
           "download_count": 2,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437967,
@@ -2917,7 +2935,8 @@
           "updated_at": "2026-07-11T11:15:01Z",
           "download_count": 1,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437968,
@@ -2928,7 +2947,8 @@
           "updated_at": "2026-07-11T11:15:02Z",
           "download_count": 4,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437972,
@@ -2939,7 +2959,8 @@
           "updated_at": "2026-07-11T11:15:02Z",
           "download_count": 4,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437975,
@@ -2950,7 +2971,8 @@
           "updated_at": "2026-07-11T11:15:01Z",
           "download_count": 3,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 473437980,
@@ -2961,7 +2983,8 @@
           "updated_at": "2026-07-11T11:15:01Z",
           "download_count": 3,
           "first_seen": "2026-07-11T13:12:44Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         }
       ]
     },
@@ -3004,7 +3027,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-07-11T14:30:59Z",
           "updated_at": "2026-07-11T14:31:00Z",
-          "download_count": 89,
+          "download_count": 90,
           "first_seen": "2026-07-11T14:50:08Z",
           "status": "active"
         },
@@ -3015,7 +3038,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-07-11T14:30:59Z",
           "updated_at": "2026-07-11T14:30:59Z",
-          "download_count": 80,
+          "download_count": 81,
           "first_seen": "2026-07-11T14:50:08Z",
           "status": "active"
         },
@@ -3026,7 +3049,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-07-11T14:30:59Z",
           "updated_at": "2026-07-11T14:30:59Z",
-          "download_count": 77,
+          "download_count": 78,
           "first_seen": "2026-07-11T14:50:08Z",
           "status": "active"
         },
@@ -3037,7 +3060,7 @@
           "content_type": "application/x-fishscript",
           "created_at": "2026-07-11T14:30:59Z",
           "updated_at": "2026-07-11T14:30:59Z",
-          "download_count": 79,
+          "download_count": 80,
           "first_seen": "2026-07-11T14:50:08Z",
           "status": "active"
         },
@@ -3070,7 +3093,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-07-11T14:31:00Z",
           "updated_at": "2026-07-11T14:31:01Z",
-          "download_count": 87,
+          "download_count": 88,
           "first_seen": "2026-07-11T14:50:08Z",
           "status": "active"
         },
@@ -3092,7 +3115,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-07-11T14:31:00Z",
           "updated_at": "2026-07-11T14:31:00Z",
-          "download_count": 77,
+          "download_count": 78,
           "first_seen": "2026-07-11T14:50:08Z",
           "status": "active"
         },
@@ -3103,7 +3126,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-07-11T14:31:00Z",
           "updated_at": "2026-07-11T14:31:00Z",
-          "download_count": 78,
+          "download_count": 79,
           "first_seen": "2026-07-11T14:50:08Z",
           "status": "active"
         }
@@ -3117,7 +3140,8 @@
       "created_at": "2026-08-12T21:50:36Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-11-04T18:26:15Z",
       "assets": [
         {
           "id": 512147000,
@@ -3128,7 +3152,8 @@
           "updated_at": "2026-08-12T22:27:40Z",
           "download_count": 4,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147001,
@@ -3139,7 +3164,8 @@
           "updated_at": "2026-08-12T22:27:38Z",
           "download_count": 1,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147002,
@@ -3150,7 +3176,8 @@
           "updated_at": "2026-08-12T22:27:38Z",
           "download_count": 3,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147003,
@@ -3161,7 +3188,8 @@
           "updated_at": "2026-08-12T22:27:38Z",
           "download_count": 3,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147004,
@@ -3172,7 +3200,8 @@
           "updated_at": "2026-08-12T22:27:39Z",
           "download_count": 4,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147010,
@@ -3183,7 +3212,8 @@
           "updated_at": "2026-08-12T22:27:38Z",
           "download_count": 3,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147012,
@@ -3194,7 +3224,8 @@
           "updated_at": "2026-08-12T22:27:39Z",
           "download_count": 1,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147013,
@@ -3205,7 +3236,8 @@
           "updated_at": "2026-08-12T22:27:39Z",
           "download_count": 1,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147021,
@@ -3216,7 +3248,8 @@
           "updated_at": "2026-08-12T22:27:41Z",
           "download_count": 4,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147038,
@@ -3227,7 +3260,8 @@
           "updated_at": "2026-08-12T22:27:41Z",
           "download_count": 4,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147044,
@@ -3238,7 +3272,8 @@
           "updated_at": "2026-08-12T22:27:40Z",
           "download_count": 4,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 512147046,
@@ -3249,7 +3284,8 @@
           "updated_at": "2026-08-12T22:27:40Z",
           "download_count": 4,
           "first_seen": "2026-08-12T22:36:32Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         }
       ]
     },
@@ -3261,7 +3297,8 @@
       "created_at": "2026-09-23T22:45:30Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-11-04T18:26:15Z",
       "assets": [
         {
           "id": 584754996,
@@ -3272,7 +3309,8 @@
           "updated_at": "2026-09-23T23:24:32Z",
           "download_count": 1,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584754997,
@@ -3283,7 +3321,8 @@
           "updated_at": "2026-09-23T23:24:31Z",
           "download_count": 1,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584754998,
@@ -3294,7 +3333,8 @@
           "updated_at": "2026-09-23T23:24:32Z",
           "download_count": 2,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584754999,
@@ -3305,7 +3345,8 @@
           "updated_at": "2026-09-23T23:24:31Z",
           "download_count": 0,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584755000,
@@ -3316,7 +3357,8 @@
           "updated_at": "2026-09-23T23:24:31Z",
           "download_count": 1,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584755009,
@@ -3327,7 +3369,8 @@
           "updated_at": "2026-09-23T23:24:31Z",
           "download_count": 0,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584755011,
@@ -3338,7 +3381,8 @@
           "updated_at": "2026-09-23T23:24:32Z",
           "download_count": 1,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584755014,
@@ -3349,7 +3393,8 @@
           "updated_at": "2026-09-23T23:24:32Z",
           "download_count": 1,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584755024,
@@ -3360,7 +3405,8 @@
           "updated_at": "2026-09-23T23:24:34Z",
           "download_count": 1,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584755026,
@@ -3371,7 +3417,8 @@
           "updated_at": "2026-09-23T23:24:34Z",
           "download_count": 1,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584755027,
@@ -3382,7 +3429,8 @@
           "updated_at": "2026-09-23T23:24:32Z",
           "download_count": 0,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         },
         {
           "id": 584755034,
@@ -3393,7 +3441,8 @@
           "updated_at": "2026-09-23T23:24:33Z",
           "download_count": 0,
           "first_seen": "2026-09-24T01:02:38Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-04T18:26:15Z"
         }
       ]
     },
@@ -3537,6 +3586,582 @@
           "updated_at": "2026-11-04T01:58:54Z",
           "download_count": 1,
           "first_seen": "2026-11-04T02:53:47Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 433903101,
+      "tag_name": "v0.0.15-dev.32",
+      "name": "Snapshot 0.0.15-dev.32+59a9b6a",
+      "published_at": "2026-11-04T12:40:09Z",
+      "created_at": "2026-11-04T12:35:35Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 709462398,
+          "name": "histui.bash",
+          "size": 16153,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T12:40:06Z",
+          "updated_at": "2026-11-04T12:40:06Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462399,
+          "name": "_histui",
+          "size": 7748,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T12:40:06Z",
+          "updated_at": "2026-11-04T12:40:06Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462407,
+          "name": "checksums.txt",
+          "size": 972,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-11-04T12:40:06Z",
+          "updated_at": "2026-11-04T12:40:06Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462409,
+          "name": "histui-linux-amd64",
+          "size": 20685063,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T12:40:06Z",
+          "updated_at": "2026-11-04T12:40:07Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462410,
+          "name": "histui-linux-arm64",
+          "size": 19726599,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T12:40:06Z",
+          "updated_at": "2026-11-04T12:40:07Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462440,
+          "name": "histui.fish",
+          "size": 9693,
+          "content_type": "application/x-fishscript",
+          "created_at": "2026-11-04T12:40:06Z",
+          "updated_at": "2026-11-04T12:40:06Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462441,
+          "name": "histui_0.0.15-dev.32+59a9b6a_linux_amd64.tar.gz",
+          "size": 18549233,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-04T12:40:06Z",
+          "updated_at": "2026-11-04T12:40:07Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462462,
+          "name": "histui_0.0.15-dev.32+59a9b6a_linux_arm64.tar.gz",
+          "size": 17328304,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-04T12:40:07Z",
+          "updated_at": "2026-11-04T12:40:08Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462464,
+          "name": "histuid-linux-amd64",
+          "size": 25891079,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T12:40:07Z",
+          "updated_at": "2026-11-04T12:40:08Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462484,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-11-04T12:40:07Z",
+          "updated_at": "2026-11-04T12:40:07Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462488,
+          "name": "histuid-linux-arm64",
+          "size": 24969479,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T12:40:07Z",
+          "updated_at": "2026-11-04T12:40:08Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709462507,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-11-04T12:40:08Z",
+          "updated_at": "2026-11-04T12:40:08Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 434033634,
+      "tag_name": "v0.0.15-dev.33",
+      "name": "Snapshot 0.0.15-dev.33+ade0a13",
+      "published_at": "2026-11-04T14:28:50Z",
+      "created_at": "2026-11-04T14:24:26Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 709797228,
+          "name": "histui-linux-amd64",
+          "size": 20685063,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T14:28:44Z",
+          "updated_at": "2026-11-04T14:28:45Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797232,
+          "name": "histui.bash",
+          "size": 16153,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T14:28:44Z",
+          "updated_at": "2026-11-04T14:28:44Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797235,
+          "name": "_histui",
+          "size": 7748,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T14:28:44Z",
+          "updated_at": "2026-11-04T14:28:44Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797237,
+          "name": "histui-linux-arm64",
+          "size": 19726599,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T14:28:44Z",
+          "updated_at": "2026-11-04T14:28:45Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797238,
+          "name": "checksums.txt",
+          "size": 972,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-11-04T14:28:44Z",
+          "updated_at": "2026-11-04T14:28:44Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797263,
+          "name": "histui_0.0.15-dev.33+ade0a13_linux_amd64.tar.gz",
+          "size": 18549246,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-04T14:28:45Z",
+          "updated_at": "2026-11-04T14:28:46Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797266,
+          "name": "histui.fish",
+          "size": 9693,
+          "content_type": "application/x-fishscript",
+          "created_at": "2026-11-04T14:28:45Z",
+          "updated_at": "2026-11-04T14:28:45Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797272,
+          "name": "histui_0.0.15-dev.33+ade0a13_linux_arm64.tar.gz",
+          "size": 17328565,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-04T14:28:45Z",
+          "updated_at": "2026-11-04T14:28:46Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797311,
+          "name": "histuid-linux-amd64",
+          "size": 25891079,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T14:28:45Z",
+          "updated_at": "2026-11-04T14:28:49Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797326,
+          "name": "histuid-linux-arm64",
+          "size": 24969479,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T14:28:46Z",
+          "updated_at": "2026-11-04T14:28:47Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797341,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-11-04T14:28:46Z",
+          "updated_at": "2026-11-04T14:28:46Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 709797343,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-11-04T14:28:46Z",
+          "updated_at": "2026-11-04T14:28:46Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 434231289,
+      "tag_name": "v0.0.15-dev.34",
+      "name": "Snapshot 0.0.15-dev.34+ac1e5c2",
+      "published_at": "2026-11-04T17:25:13Z",
+      "created_at": "2026-11-04T17:21:42Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 710309771,
+          "name": "_histui",
+          "size": 7748,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:25:10Z",
+          "updated_at": "2026-11-04T17:25:10Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309772,
+          "name": "histui-linux-amd64",
+          "size": 20685063,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:25:10Z",
+          "updated_at": "2026-11-04T17:25:11Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309773,
+          "name": "histui.bash",
+          "size": 16153,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:25:10Z",
+          "updated_at": "2026-11-04T17:25:10Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309774,
+          "name": "histui-linux-arm64",
+          "size": 19726599,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:25:10Z",
+          "updated_at": "2026-11-04T17:25:11Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309778,
+          "name": "checksums.txt",
+          "size": 972,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-11-04T17:25:10Z",
+          "updated_at": "2026-11-04T17:25:10Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309795,
+          "name": "histui.fish",
+          "size": 9693,
+          "content_type": "application/x-fishscript",
+          "created_at": "2026-11-04T17:25:10Z",
+          "updated_at": "2026-11-04T17:25:10Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309798,
+          "name": "histui_0.0.15-dev.34+ac1e5c2_linux_arm64.tar.gz",
+          "size": 17328130,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-04T17:25:10Z",
+          "updated_at": "2026-11-04T17:25:11Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309799,
+          "name": "histui_0.0.15-dev.34+ac1e5c2_linux_amd64.tar.gz",
+          "size": 18549159,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-04T17:25:10Z",
+          "updated_at": "2026-11-04T17:25:11Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309815,
+          "name": "histuid-linux-amd64",
+          "size": 25891079,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:25:11Z",
+          "updated_at": "2026-11-04T17:25:12Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309819,
+          "name": "histuid-linux-arm64",
+          "size": 24969479,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:25:11Z",
+          "updated_at": "2026-11-04T17:25:12Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309827,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-11-04T17:25:11Z",
+          "updated_at": "2026-11-04T17:25:11Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710309841,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-11-04T17:25:12Z",
+          "updated_at": "2026-11-04T17:25:12Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 434257661,
+      "tag_name": "v0.0.15-dev.35",
+      "name": "Snapshot 0.0.15-dev.35+afacbc8",
+      "published_at": "2026-11-04T17:55:26Z",
+      "created_at": "2026-11-04T17:49:50Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 710389373,
+          "name": "histui.bash",
+          "size": 16153,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:55:22Z",
+          "updated_at": "2026-11-04T17:55:22Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389374,
+          "name": "histui-linux-amd64",
+          "size": 20685063,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:55:22Z",
+          "updated_at": "2026-11-04T17:55:23Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389377,
+          "name": "checksums.txt",
+          "size": 972,
+          "content_type": "text/plain; charset=utf-8",
+          "created_at": "2026-11-04T17:55:22Z",
+          "updated_at": "2026-11-04T17:55:22Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389378,
+          "name": "histui-linux-arm64",
+          "size": 19726599,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:55:22Z",
+          "updated_at": "2026-11-04T17:55:23Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389395,
+          "name": "_histui",
+          "size": 7748,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:55:22Z",
+          "updated_at": "2026-11-04T17:55:23Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389413,
+          "name": "histui.fish",
+          "size": 9693,
+          "content_type": "application/x-fishscript",
+          "created_at": "2026-11-04T17:55:23Z",
+          "updated_at": "2026-11-04T17:55:23Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389420,
+          "name": "histui_0.0.15-dev.35+afacbc8_linux_amd64.tar.gz",
+          "size": 18549277,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-04T17:55:23Z",
+          "updated_at": "2026-11-04T17:55:24Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389433,
+          "name": "histui_0.0.15-dev.35+afacbc8_linux_arm64.tar.gz",
+          "size": 17329077,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-04T17:55:23Z",
+          "updated_at": "2026-11-04T17:55:25Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389435,
+          "name": "histuid-linux-amd64",
+          "size": 25891079,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:55:23Z",
+          "updated_at": "2026-11-04T17:55:25Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389450,
+          "name": "histuid-linux-arm64",
+          "size": 24969479,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-04T17:55:24Z",
+          "updated_at": "2026-11-04T17:55:25Z",
+          "download_count": 1,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389454,
+          "name": "histuid-monitor.service",
+          "size": 387,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-11-04T17:55:24Z",
+          "updated_at": "2026-11-04T17:55:24Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
+          "status": "active"
+        },
+        {
+          "id": 710389479,
+          "name": "histuid.service",
+          "size": 289,
+          "content_type": "text/x-dbus-service; charset=utf-8",
+          "created_at": "2026-11-04T17:55:25Z",
+          "updated_at": "2026-11-04T17:55:25Z",
+          "download_count": 0,
+          "first_seen": "2026-11-04T18:26:15Z",
           "status": "active"
         }
       ]
