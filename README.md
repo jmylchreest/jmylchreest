@@ -3,22 +3,22 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★19, Go)<br>
-  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 49 / 1.8k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 90 / 1.8k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 0](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★47, Rust)<br>
-  <sub>[release: `v0.0.38`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 96 / 1.7k](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 5](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.38`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 163 / 1.7k](https://github.com/jmylchreest/rosec/releases) · [issues: 4](https://github.com/jmylchreest/rosec/issues) · [PRs: 5](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   Linux secrets daemon with Secret Service, SSH agent, TOTP, and passkeys. Providers: local vaults, Bitwarden, Proton Pass, KeePassXC, and GNOME Keyring.
 
 - **[awob](https://github.com/jmylchreest/awob)** (★4, Rust)<br>
-  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 41 / 294](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 4](https://github.com/jmylchreest/awob/pulls)</sub>
+  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 55 / 308](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 4](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
 - **[colophon](https://github.com/jmylchreest/colophon)** (★1, Go)<br>
-  <sub>[release: `v0.0.36`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 2 / 36](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 1](https://github.com/jmylchreest/colophon/pulls)</sub>
+  <sub>[release: `v0.0.36`](https://github.com/jmylchreest/colophon/releases/latest) · [downloads: 2 / 37](https://github.com/jmylchreest/colophon/releases) · [issues: 0](https://github.com/jmylchreest/colophon/issues) · [PRs: 1](https://github.com/jmylchreest/colophon/pulls)</sub>
 
   A static site generator for bloggers — a simple CLI, your words on any host, federated with feeds + IndieWeb. Write it once, own it forever.
 
@@ -26,17 +26,17 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★27, Go)<br>
-  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 386 / 2.3k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.2.0`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 405 / 2.3k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★24, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 605 / 1.6k](https://github.com/jmylchreest/histui/releases) · [issues: 2](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 688 / 1.7k](https://github.com/jmylchreest/histui/releases) · [issues: 2](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
-  <sub>[release: `v0.6.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 8.5k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 3](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.6.0`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 8.6k / 1.1M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 3](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
@@ -46,7 +46,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 51 / 1.6k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 12](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 62 / 1.6k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 12](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
