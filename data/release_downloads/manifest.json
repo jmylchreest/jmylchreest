@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-11-11T10:17:19Z",
+    "last_updated": "2026-11-11T22:52:57Z",
     "total_repos": 23,
     "absent_repos": 0,
-    "total_releases": 580,
-    "total_assets": 25143,
-    "active_assets": 11810,
-    "removed_assets": 13333,
-    "total_downloads": 1167804
+    "total_releases": 585,
+    "total_assets": 25289,
+    "active_assets": 9976,
+    "removed_assets": 15313,
+    "total_downloads": 1171213
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 130,
       "active_assets": 6675,
       "removed_assets": 7701,
-      "total_downloads": 12337,
+      "total_downloads": 12356,
       "latest_release_tag": "v0.1.18",
       "latest_release_published_at": "2026-10-10T20:00:44Z"
     },
@@ -35,22 +35,22 @@
     {
       "name": "clipferry",
       "status": "active",
-      "releases": 17,
+      "releases": 18,
       "active_assets": 2,
-      "removed_assets": 26,
-      "total_downloads": 22,
+      "removed_assets": 28,
+      "total_downloads": 24,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-09-23T22:23:51Z"
+      "latest_release_published_at": "2026-11-11T10:34:50Z"
     },
     {
       "name": "colophon",
       "status": "active",
-      "releases": 79,
+      "releases": 80,
       "active_assets": 246,
-      "removed_assets": 228,
-      "total_downloads": 55,
-      "latest_release_tag": "v0.0.36",
-      "latest_release_published_at": "2026-10-10T19:15:03Z"
+      "removed_assets": 234,
+      "total_downloads": 301,
+      "latest_release_tag": "v0.0.37-dev.1",
+      "latest_release_published_at": "2026-11-11T10:34:09Z"
     },
     {
       "name": "go-decluttarr",
@@ -68,7 +68,7 @@
       "releases": 34,
       "active_assets": 192,
       "removed_assets": 135,
-      "total_downloads": 1757,
+      "total_downloads": 1765,
       "latest_release_tag": "v0.0.15-dev.35",
       "latest_release_published_at": "2026-11-04T17:55:26Z"
     },
@@ -88,7 +88,7 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2900,
+      "total_downloads": 2904,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
@@ -98,7 +98,7 @@
       "releases": 56,
       "active_assets": 562,
       "removed_assets": 108,
-      "total_downloads": 2425,
+      "total_downloads": 2429,
       "latest_release_tag": "v0.2.1",
       "latest_release_published_at": "2026-10-28T23:59:23Z"
     },
@@ -108,7 +108,7 @@
       "releases": 1,
       "active_assets": 8,
       "removed_assets": 0,
-      "total_downloads": 100,
+      "total_downloads": 110,
       "latest_release_tag": "models-all-MiniLM-L6-v2",
       "latest_release_published_at": "2026-08-20T12:54:00Z"
     },
@@ -185,12 +185,12 @@
     {
       "name": "rosec",
       "status": "active",
-      "releases": 75,
-      "active_assets": 282,
+      "releases": 76,
+      "active_assets": 293,
       "removed_assets": 389,
-      "total_downloads": 1870,
-      "latest_release_tag": "v0.0.38",
-      "latest_release_published_at": "2026-10-31T09:08:59Z"
+      "total_downloads": 1910,
+      "latest_release_tag": "v0.0.39",
+      "latest_release_published_at": "2026-11-11T13:05:55Z"
     },
     {
       "name": "rurl",
@@ -215,22 +215,22 @@
     {
       "name": "tinct",
       "status": "active",
-      "releases": 70,
-      "active_assets": 3320,
-      "removed_assets": 4424,
-      "total_downloads": 1143192,
-      "latest_release_tag": "v0.6.0",
-      "latest_release_published_at": "2026-10-18T14:06:04Z"
+      "releases": 71,
+      "active_assets": 1475,
+      "removed_assets": 6392,
+      "total_downloads": 1146216,
+      "latest_release_tag": "0.6.1-preview.1794393047+044166b",
+      "latest_release_published_at": "2026-11-11T10:40:08Z"
     },
     {
       "name": "tvarr",
       "status": "active",
-      "releases": 28,
+      "releases": 29,
       "active_assets": 52,
-      "removed_assets": 60,
-      "total_downloads": 124,
-      "latest_release_tag": "v0.0.30-dev.3-b0f4205",
-      "latest_release_published_at": "2026-09-23T22:47:37Z"
+      "removed_assets": 64,
+      "total_downloads": 176,
+      "latest_release_tag": "v0.0.30-dev.5-97d56d3",
+      "latest_release_published_at": "2026-11-11T10:47:25Z"
     },
     {
       "name": "wait-for",

@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "rosec",
     "schema_version": 3,
-    "last_updated": "2026-11-11T10:17:19Z",
+    "last_updated": "2026-11-11T22:52:57Z",
     "repo_status": "active",
-    "releases": 75,
+    "releases": 76,
     "removed_releases": 42,
-    "active_assets": 282,
+    "active_assets": 293,
     "removed_assets": 389,
-    "total_downloads": 1870
+    "total_downloads": 1910
   },
   "releases": [
     {
@@ -7449,7 +7449,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-10-11T00:04:10Z",
           "updated_at": "2026-10-11T00:04:12Z",
-          "download_count": 2,
+          "download_count": 3,
           "first_seen": "2026-10-11T03:55:19Z",
           "status": "active"
         }
@@ -8619,7 +8619,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-10-31T09:08:56Z",
           "updated_at": "2026-10-31T09:08:56Z",
-          "download_count": 4,
+          "download_count": 5,
           "first_seen": "2026-10-31T15:00:04Z",
           "status": "active"
         },
@@ -8720,6 +8720,139 @@
           "updated_at": "2026-10-31T09:08:56Z",
           "download_count": 3,
           "first_seen": "2026-10-31T15:00:04Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 441705272,
+      "tag_name": "v0.0.39",
+      "name": "rosec v0.0.39",
+      "published_at": "2026-11-11T13:05:55Z",
+      "created_at": "2026-11-11T12:48:28Z",
+      "prerelease": false,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 735563575,
+          "name": "rosec-provider-protonpass-0.0.39.source.tar.gz",
+          "size": 56300205,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:54Z",
+          "download_count": 1,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563576,
+          "name": "rosec-0.0.39-x86_64-unknown-linux-musl.tar.gz",
+          "size": 39256285,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:52Z",
+          "download_count": 1,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563577,
+          "name": "rosec-provider-bitwarden-sm-0.0.39.wasm.tar.gz",
+          "size": 157693,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:51Z",
+          "download_count": 3,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563578,
+          "name": "rosec-provider-bitwarden-pm-0.0.39.wasm.tar.gz",
+          "size": 337681,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:51Z",
+          "download_count": 6,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563579,
+          "name": "rosec-0.0.39-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 37751117,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:52Z",
+          "download_count": 11,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563581,
+          "name": "rosec-provider-keepassxc-file-0.0.39.wasm.tar.gz",
+          "size": 573612,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:51Z",
+          "download_count": 4,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563582,
+          "name": "rosec-provider-gnome-keyring-0.0.39.wasm.tar.gz",
+          "size": 155163,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:51Z",
+          "download_count": 4,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563583,
+          "name": "rosec-provider-protonpass-0.0.39.wasm.tar.gz",
+          "size": 383558,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:51Z",
+          "download_count": 3,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563584,
+          "name": "checksums.txt",
+          "size": 1127,
+          "content_type": "text/plain",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:51Z",
+          "download_count": 1,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563588,
+          "name": "rosec-0.0.39-aarch64-unknown-linux-musl.tar.gz",
+          "size": 36968491,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:53Z",
+          "download_count": 1,
+          "first_seen": "2026-11-11T22:52:57Z",
+          "status": "active"
+        },
+        {
+          "id": 735563589,
+          "name": "rosec-0.0.39-aarch64-unknown-linux-gnu.tar.gz",
+          "size": 36627333,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-11T13:05:50Z",
+          "updated_at": "2026-11-11T13:05:52Z",
+          "download_count": 3,
+          "first_seen": "2026-11-11T22:52:57Z",
           "status": "active"
         }
       ]
