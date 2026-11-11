@@ -3,7 +3,7 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★19, Go)<br>
-  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 103 / 1.9k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 1](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 103 / 1.9k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 2](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
@@ -46,7 +46,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 72 / 1.6k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 12](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 72 / 1.6k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 14](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
@@ -68,10 +68,33 @@
 
 ### Recently Active
 
+- **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
+  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 100 / 100](https://github.com/jmylchreest/lobslaw/releases) · [issues: 29](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 2](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+
+  an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
+
+- **[obs-wow-companion](https://github.com/jmylchreest/obs-wow-companion)** (Rust)<br>
+  <sub>[downloads: 0 / 3](https://github.com/jmylchreest/obs-wow-companion/releases) · [issues: 0](https://github.com/jmylchreest/obs-wow-companion/issues) · [PRs: 2](https://github.com/jmylchreest/obs-wow-companion/pulls)</sub>
+
+  Record WoW encounters with OBS. Review deaths, boss markers and clips on Windows and Linux.
+
+- **[slog-logfilter](https://github.com/jmylchreest/slog-logfilter)** (Go)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/slog-logfilter/issues) · [PRs: 0](https://github.com/jmylchreest/slog-logfilter/pulls)</sub>
+
+- **[go-decluttarr](https://github.com/jmylchreest/go-decluttarr)** (★1, Go)<br>
+  <sub>[release: `v0.2.2`](https://github.com/jmylchreest/go-decluttarr/releases/latest) · [issues: 0](https://github.com/jmylchreest/go-decluttarr/issues) · [PRs: 0](https://github.com/jmylchreest/go-decluttarr/pulls)</sub>
+
+  Inspired by decluttarr, but designed to support configurable timeouts/graceful failures
+
 - **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
-  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 14](https://github.com/jmylchreest/clipferry/releases) · [issues: 1](https://github.com/jmylchreest/clipferry/issues) · [PRs: 7](https://github.com/jmylchreest/clipferry/pulls)</sub>
+  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 14](https://github.com/jmylchreest/clipferry/releases) · [issues: 0](https://github.com/jmylchreest/clipferry/issues) · [PRs: 0](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
+
+- **[tinct-plugins](https://github.com/jmylchreest/tinct-plugins)** (★2)<br>
+  <sub>[issues: 0](https://github.com/jmylchreest/tinct-plugins/issues) · [PRs: 0](https://github.com/jmylchreest/tinct-plugins/pulls)</sub>
+
+  Main plugin repository for tinct
 
 
 ---
