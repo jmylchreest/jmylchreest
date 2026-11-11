@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    # Run every hour
-    - cron: 37 6 * * *
+    # Run every hour at minute 37 (UTC)
+    - cron: "37 * * * *"
   push:
     branches:
       - main
