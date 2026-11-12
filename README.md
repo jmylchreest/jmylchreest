@@ -3,17 +3,17 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★19, Go)<br>
-  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 104 / 1.9k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 2](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 104 / 1.9k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 1](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★47, Rust)<br>
-  <sub>[release: `v0.0.39`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 37 / 1.9k](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 6](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.39`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 38 / 1.9k](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 5](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   Linux secrets daemon with Secret Service, SSH agent, TOTP, and passkeys. Providers: local vaults, Bitwarden, Proton Pass, KeePassXC, and GNOME Keyring.
 
 - **[awob](https://github.com/jmylchreest/awob)** (★4, Rust)<br>
-  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 60 / 313](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 5](https://github.com/jmylchreest/awob/pulls)</sub>
+  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 60 / 313](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 4](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
@@ -68,15 +68,15 @@
 
 ### Recently Active
 
-- **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
-  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 15](https://github.com/jmylchreest/clipferry/releases) · [issues: 1](https://github.com/jmylchreest/clipferry/issues) · [PRs: 8](https://github.com/jmylchreest/clipferry/pulls)</sub>
-
-  Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
-
 - **[obs-wow-companion](https://github.com/jmylchreest/obs-wow-companion)** (Rust)<br>
-  <sub>[downloads: 0 / 3](https://github.com/jmylchreest/obs-wow-companion/releases) · [issues: 0](https://github.com/jmylchreest/obs-wow-companion/issues) · [PRs: 2](https://github.com/jmylchreest/obs-wow-companion/pulls)</sub>
+  <sub>[downloads: 0 / 3](https://github.com/jmylchreest/obs-wow-companion/releases) · [issues: 0](https://github.com/jmylchreest/obs-wow-companion/issues) · [PRs: 1](https://github.com/jmylchreest/obs-wow-companion/pulls)</sub>
 
   Record WoW encounters with OBS. Review deaths, boss markers and clips on Windows and Linux.
+
+- **[clipferry](https://github.com/jmylchreest/clipferry)** (★3, Rust)<br>
+  <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 16](https://github.com/jmylchreest/clipferry/releases) · [issues: 1](https://github.com/jmylchreest/clipferry/issues) · [PRs: 6](https://github.com/jmylchreest/clipferry/pulls)</sub>
+
+  Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
 
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
   <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 110 / 110](https://github.com/jmylchreest/lobslaw/releases) · [issues: 29](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 2](https://github.com/jmylchreest/lobslaw/pulls)</sub>

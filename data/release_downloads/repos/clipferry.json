@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "clipferry",
     "schema_version": 3,
-    "last_updated": "2026-11-11T22:52:57Z",
+    "last_updated": "2026-11-12T01:59:58Z",
     "repo_status": "active",
-    "releases": 18,
-    "removed_releases": 14,
+    "releases": 19,
+    "removed_releases": 15,
     "active_assets": 2,
-    "removed_assets": 28,
-    "total_downloads": 24
+    "removed_assets": 30,
+    "total_downloads": 26
   },
   "releases": [
     {
@@ -571,7 +571,8 @@
       "created_at": "2026-11-11T10:32:26Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-11-12T01:59:58Z",
       "assets": [
         {
           "id": 735115207,
@@ -582,7 +583,8 @@
           "updated_at": "2026-11-11T10:34:49Z",
           "download_count": 1,
           "first_seen": "2026-11-11T22:52:57Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-12T01:59:58Z"
         },
         {
           "id": 735115208,
@@ -593,6 +595,41 @@
           "updated_at": "2026-11-11T10:34:49Z",
           "download_count": 1,
           "first_seen": "2026-11-11T22:52:57Z",
+          "status": "removed",
+          "removed_at": "2026-11-12T01:59:58Z"
+        }
+      ]
+    },
+    {
+      "id": 442305719,
+      "tag_name": "snapshot",
+      "name": "snapshot 0.0.3-dev.34+g6768a246",
+      "published_at": "2026-11-11T23:34:41Z",
+      "created_at": "2026-11-11T23:33:40Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 737294362,
+          "name": "clipferry-0.0.3-dev.34+g6768a246-x86_64-linux.tar.gz.sha256",
+          "size": 119,
+          "content_type": "application/octet-stream",
+          "created_at": "2026-11-11T23:34:40Z",
+          "updated_at": "2026-11-11T23:34:40Z",
+          "download_count": 1,
+          "first_seen": "2026-11-12T01:59:58Z",
+          "status": "active"
+        },
+        {
+          "id": 737294363,
+          "name": "clipferry-0.0.3-dev.34+g6768a246-x86_64-linux.tar.gz",
+          "size": 471763,
+          "content_type": "application/x-gtar",
+          "created_at": "2026-11-11T23:34:40Z",
+          "updated_at": "2026-11-11T23:34:40Z",
+          "download_count": 1,
+          "first_seen": "2026-11-12T01:59:58Z",
           "status": "active"
         }
       ]
