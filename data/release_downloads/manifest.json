@@ -2,25 +2,25 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-11-12T10:15:52Z",
+    "last_updated": "2026-11-12T18:35:26Z",
     "total_repos": 23,
     "absent_repos": 0,
-    "total_releases": 586,
-    "total_assets": 25291,
+    "total_releases": 590,
+    "total_assets": 25490,
     "active_assets": 9976,
-    "removed_assets": 15315,
-    "total_downloads": 1172023
+    "removed_assets": 15514,
+    "total_downloads": 1178884
   },
   "repos": [
     {
       "name": "aide",
       "status": "active",
-      "releases": 130,
+      "releases": 131,
       "active_assets": 6675,
-      "removed_assets": 7701,
-      "total_downloads": 12371,
-      "latest_release_tag": "v0.1.18",
-      "latest_release_published_at": "2026-10-10T20:00:44Z"
+      "removed_assets": 7859,
+      "total_downloads": 19050,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-11-12T12:03:38Z"
     },
     {
       "name": "awob",
@@ -28,7 +28,7 @@
       "releases": 11,
       "active_assets": 110,
       "removed_assets": 0,
-      "total_downloads": 319,
+      "total_downloads": 320,
       "latest_release_tag": "v0.1.9",
       "latest_release_published_at": "2026-10-09T11:49:43Z"
     },
@@ -65,12 +65,12 @@
     {
       "name": "histui",
       "status": "active",
-      "releases": 34,
+      "releases": 35,
       "active_assets": 192,
-      "removed_assets": 135,
-      "total_downloads": 1765,
-      "latest_release_tag": "v0.0.15-dev.35",
-      "latest_release_published_at": "2026-11-04T17:55:26Z"
+      "removed_assets": 147,
+      "total_downloads": 1787,
+      "latest_release_tag": "v0.0.15-dev.41",
+      "latest_release_published_at": "2026-11-12T13:26:11Z"
     },
     {
       "name": "igmp",
@@ -88,19 +88,19 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2910,
+      "total_downloads": 2918,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
     {
       "name": "keylightd",
       "status": "active",
-      "releases": 56,
+      "releases": 57,
       "active_assets": 562,
-      "removed_assets": 108,
-      "total_downloads": 2429,
-      "latest_release_tag": "v0.2.1",
-      "latest_release_published_at": "2026-10-28T23:59:23Z"
+      "removed_assets": 126,
+      "total_downloads": 2563,
+      "latest_release_tag": "v0.2.2-dev.2",
+      "latest_release_published_at": "2026-11-12T13:54:19Z"
     },
     {
       "name": "lobslaw",
@@ -185,12 +185,12 @@
     {
       "name": "rosec",
       "status": "active",
-      "releases": 76,
+      "releases": 77,
       "active_assets": 293,
-      "removed_assets": 389,
-      "total_downloads": 1917,
-      "latest_release_tag": "v0.0.39",
-      "latest_release_published_at": "2026-11-11T13:05:55Z"
+      "removed_assets": 400,
+      "total_downloads": 1934,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-11-12T13:10:35Z"
     },
     {
       "name": "rurl",

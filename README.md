@@ -3,17 +3,17 @@
 ### Featured
 
 - **[aide](https://github.com/jmylchreest/aide)** (★19, Go)<br>
-  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 106 / 1.9k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 1](https://github.com/jmylchreest/aide/pulls)</sub>
+  <sub>[release: `v0.1.18`](https://github.com/jmylchreest/aide/releases/latest) · [downloads: 119 / 2.6k](https://github.com/jmylchreest/aide/releases) · [issues: 0](https://github.com/jmylchreest/aide/issues) · [PRs: 1](https://github.com/jmylchreest/aide/pulls)</sub>
 
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★47, Rust)<br>
-  <sub>[release: `v0.0.39`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 42 / 1.9k](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 2](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.39`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 46 / 1.9k](https://github.com/jmylchreest/rosec/releases) · [issues: 3](https://github.com/jmylchreest/rosec/issues) · [PRs: 2](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   Linux secrets daemon with Secret Service, SSH agent, TOTP, and passkeys. Providers: local vaults, Bitwarden, Proton Pass, KeePassXC, and GNOME Keyring.
 
 - **[awob](https://github.com/jmylchreest/awob)** (★4, Rust)<br>
-  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 60 / 313](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 4](https://github.com/jmylchreest/awob/pulls)</sub>
+  <sub>[release: `v0.1.9`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 61 / 314](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 4](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
 
@@ -31,7 +31,7 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★24, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 706 / 1.7k](https://github.com/jmylchreest/histui/releases) · [issues: 2](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 721 / 1.7k](https://github.com/jmylchreest/histui/releases) · [issues: 2](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
@@ -46,7 +46,7 @@
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 74 / 1.6k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 15](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 74 / 1.7k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 15](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
