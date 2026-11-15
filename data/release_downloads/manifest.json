@@ -2,25 +2,25 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-11-15T09:53:23Z",
+    "last_updated": "2026-11-15T17:23:55Z",
     "total_repos": 23,
     "absent_repos": 0,
-    "total_releases": 594,
-    "total_assets": 25705,
-    "active_assets": 10168,
+    "total_releases": 595,
+    "total_assets": 25863,
+    "active_assets": 10326,
     "removed_assets": 15537,
-    "total_downloads": 1184894
+    "total_downloads": 1185093
   },
   "repos": [
     {
       "name": "aide",
       "status": "active",
-      "releases": 132,
-      "active_assets": 6833,
+      "releases": 133,
+      "active_assets": 6991,
       "removed_assets": 7859,
-      "total_downloads": 19296,
-      "latest_release_tag": "v0.2.0",
-      "latest_release_published_at": "2026-11-14T19:07:08Z"
+      "total_downloads": 19472,
+      "latest_release_tag": "v0.2.1",
+      "latest_release_published_at": "2026-11-15T12:38:06Z"
     },
     {
       "name": "awob",
@@ -48,7 +48,7 @@
       "releases": 80,
       "active_assets": 246,
       "removed_assets": 234,
-      "total_downloads": 317,
+      "total_downloads": 318,
       "latest_release_tag": "v0.0.37-dev.1",
       "latest_release_published_at": "2026-11-11T10:34:09Z"
     },
@@ -98,7 +98,7 @@
       "releases": 57,
       "active_assets": 562,
       "removed_assets": 126,
-      "total_downloads": 2570,
+      "total_downloads": 2574,
       "latest_release_tag": "v0.2.2-dev.2",
       "latest_release_published_at": "2026-11-12T13:54:19Z"
     },
@@ -138,7 +138,7 @@
       "releases": 35,
       "active_assets": 174,
       "removed_assets": 271,
-      "total_downloads": 2601,
+      "total_downloads": 2616,
       "latest_release_tag": "v0.2.1",
       "latest_release_published_at": "2026-11-13T20:57:33Z"
     },
@@ -148,7 +148,7 @@
       "releases": 14,
       "active_assets": 78,
       "removed_assets": 6,
-      "total_downloads": 163,
+      "total_downloads": 164,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-03-10T19:28:40Z"
     },
@@ -188,7 +188,7 @@
       "releases": 78,
       "active_assets": 304,
       "removed_assets": 400,
-      "total_downloads": 2037,
+      "total_downloads": 2039,
       "latest_release_tag": "v0.0.40",
       "latest_release_published_at": "2026-11-13T02:04:37Z"
     },
