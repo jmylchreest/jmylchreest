@@ -2,25 +2,25 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-11-16T10:09:31Z",
+    "last_updated": "2026-11-16T20:40:11Z",
     "total_repos": 23,
     "absent_repos": 0,
-    "total_releases": 595,
-    "total_assets": 25863,
+    "total_releases": 596,
+    "total_assets": 26021,
     "active_assets": 10326,
-    "removed_assets": 15537,
-    "total_downloads": 1186581
+    "removed_assets": 15695,
+    "total_downloads": 1186882
   },
   "repos": [
     {
       "name": "aide",
       "status": "active",
-      "releases": 133,
+      "releases": 134,
       "active_assets": 6991,
-      "removed_assets": 7859,
-      "total_downloads": 19498,
-      "latest_release_tag": "v0.2.1",
-      "latest_release_published_at": "2026-11-15T12:38:06Z"
+      "removed_assets": 8017,
+      "total_downloads": 19722,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-11-16T12:13:33Z"
     },
     {
       "name": "awob",
@@ -48,7 +48,7 @@
       "releases": 80,
       "active_assets": 246,
       "removed_assets": 234,
-      "total_downloads": 329,
+      "total_downloads": 337,
       "latest_release_tag": "v0.0.37-dev.1",
       "latest_release_published_at": "2026-11-11T10:34:09Z"
     },
@@ -88,7 +88,7 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 2988,
+      "total_downloads": 2991,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
@@ -98,7 +98,7 @@
       "releases": 57,
       "active_assets": 562,
       "removed_assets": 126,
-      "total_downloads": 2576,
+      "total_downloads": 2580,
       "latest_release_tag": "v0.2.2-dev.2",
       "latest_release_published_at": "2026-11-12T13:54:19Z"
     },
@@ -108,7 +108,7 @@
       "releases": 1,
       "active_assets": 8,
       "removed_assets": 0,
-      "total_downloads": 110,
+      "total_downloads": 115,
       "latest_release_tag": "models-all-MiniLM-L6-v2",
       "latest_release_published_at": "2026-08-20T12:54:00Z"
     },
@@ -138,7 +138,7 @@
       "releases": 35,
       "active_assets": 174,
       "removed_assets": 271,
-      "total_downloads": 2631,
+      "total_downloads": 2643,
       "latest_release_tag": "v0.2.1",
       "latest_release_published_at": "2026-11-13T20:57:33Z"
     },
@@ -188,7 +188,7 @@
       "releases": 78,
       "active_assets": 304,
       "removed_assets": 400,
-      "total_downloads": 2068,
+      "total_downloads": 2076,
       "latest_release_tag": "v0.0.40",
       "latest_release_published_at": "2026-11-13T02:04:37Z"
     },
@@ -218,7 +218,7 @@
       "releases": 71,
       "active_assets": 1475,
       "removed_assets": 6392,
-      "total_downloads": 1153697,
+      "total_downloads": 1153733,
       "latest_release_tag": "0.6.1-preview.1794393047+044166b",
       "latest_release_published_at": "2026-11-11T10:40:08Z"
     },
@@ -228,7 +228,7 @@
       "releases": 29,
       "active_assets": 52,
       "removed_assets": 64,
-      "total_downloads": 183,
+      "total_downloads": 184,
       "latest_release_tag": "v0.0.30-dev.5-97d56d3",
       "latest_release_published_at": "2026-11-11T10:47:25Z"
     },
