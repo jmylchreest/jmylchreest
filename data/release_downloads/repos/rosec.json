@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "rosec",
     "schema_version": 3,
-    "last_updated": "2026-11-17T22:38:30Z",
+    "last_updated": "2026-11-18T14:32:05Z",
     "repo_status": "active",
-    "releases": 78,
-    "removed_releases": 43,
+    "releases": 79,
+    "removed_releases": 44,
     "active_assets": 304,
-    "removed_assets": 400,
-    "total_downloads": 2090
+    "removed_assets": 411,
+    "total_downloads": 2108
   },
   "releases": [
     {
@@ -8877,7 +8877,8 @@
       "created_at": "2026-11-12T07:20:10Z",
       "prerelease": true,
       "draft": false,
-      "status": "active",
+      "status": "removed",
+      "removed_at": "2026-11-18T14:32:05Z",
       "assets": [
         {
           "id": 739538340,
@@ -8888,7 +8889,8 @@
           "updated_at": "2026-11-12T13:10:37Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538341,
@@ -8899,7 +8901,8 @@
           "updated_at": "2026-11-12T13:10:39Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538342,
@@ -8910,7 +8913,8 @@
           "updated_at": "2026-11-12T13:10:40Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538343,
@@ -8921,7 +8925,8 @@
           "updated_at": "2026-11-12T13:10:37Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538344,
@@ -8932,7 +8937,8 @@
           "updated_at": "2026-11-12T13:10:37Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538347,
@@ -8943,7 +8949,8 @@
           "updated_at": "2026-11-12T13:10:37Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538348,
@@ -8954,7 +8961,8 @@
           "updated_at": "2026-11-12T13:10:40Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538350,
@@ -8965,7 +8973,8 @@
           "updated_at": "2026-11-12T13:10:37Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538351,
@@ -8976,7 +8985,8 @@
           "updated_at": "2026-11-12T13:10:39Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538352,
@@ -8987,7 +8997,8 @@
           "updated_at": "2026-11-12T13:10:39Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         },
         {
           "id": 739538354,
@@ -8998,7 +9009,8 @@
           "updated_at": "2026-11-12T13:10:37Z",
           "download_count": 1,
           "first_seen": "2026-11-12T18:35:26Z",
-          "status": "active"
+          "status": "removed",
+          "removed_at": "2026-11-18T14:32:05Z"
         }
       ]
     },
@@ -9030,7 +9042,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-11-13T02:04:34Z",
           "updated_at": "2026-11-13T02:04:34Z",
-          "download_count": 7,
+          "download_count": 8,
           "first_seen": "2026-11-13T07:14:48Z",
           "status": "active"
         },
@@ -9063,7 +9075,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-11-13T02:04:34Z",
           "updated_at": "2026-11-13T02:04:36Z",
-          "download_count": 29,
+          "download_count": 32,
           "first_seen": "2026-11-13T07:14:48Z",
           "status": "active"
         },
@@ -9074,7 +9086,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-11-13T02:04:34Z",
           "updated_at": "2026-11-13T02:04:37Z",
-          "download_count": 2,
+          "download_count": 3,
           "first_seen": "2026-11-13T07:14:48Z",
           "status": "active"
         },
@@ -9096,7 +9108,7 @@
           "content_type": "application/gzip",
           "created_at": "2026-11-13T02:04:34Z",
           "updated_at": "2026-11-13T02:04:34Z",
-          "download_count": 22,
+          "download_count": 24,
           "first_seen": "2026-11-13T07:14:48Z",
           "status": "active"
         },
@@ -9131,6 +9143,139 @@
           "updated_at": "2026-11-13T02:04:34Z",
           "download_count": 3,
           "first_seen": "2026-11-13T07:14:48Z",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": 450026832,
+      "tag_name": "snapshot",
+      "name": "Development Snapshot",
+      "published_at": "2026-11-18T13:28:22Z",
+      "created_at": "2026-11-17T22:15:38Z",
+      "prerelease": true,
+      "draft": false,
+      "status": "active",
+      "assets": [
+        {
+          "id": 763513853,
+          "name": "rosec-provider-protonpass-0.0.41-dev.1+f696938.wasm.tar.gz",
+          "size": 384359,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:24Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513855,
+          "name": "rosec-provider-gnome-keyring-0.0.41-dev.1+f696938.wasm.tar.gz",
+          "size": 156383,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:24Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513856,
+          "name": "rosec-provider-protonpass-0.0.41-dev.1+f696938.source.tar.gz",
+          "size": 56443562,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:27Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513857,
+          "name": "rosec-provider-bitwarden-sm-0.0.41-dev.1+f696938.wasm.tar.gz",
+          "size": 160158,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:24Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513858,
+          "name": "rosec-0.0.41-dev.1+f696938-aarch64-unknown-linux-gnu.tar.gz",
+          "size": 37324594,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:26Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513859,
+          "name": "rosec-0.0.41-dev.1+f696938-x86_64-unknown-linux-gnu.tar.gz",
+          "size": 38455072,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:26Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513860,
+          "name": "rosec-provider-keepassxc-file-0.0.41-dev.1+f696938.wasm.tar.gz",
+          "size": 578646,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:24Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513861,
+          "name": "rosec-0.0.41-dev.1+f696938-x86_64-unknown-linux-musl.tar.gz",
+          "size": 39961468,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:26Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513863,
+          "name": "checksums.txt",
+          "size": 1267,
+          "content_type": "text/plain",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:24Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513871,
+          "name": "rosec-provider-bitwarden-pm-0.0.41-dev.1+f696938.wasm.tar.gz",
+          "size": 345743,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:24Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
+          "status": "active"
+        },
+        {
+          "id": 763513872,
+          "name": "rosec-0.0.41-dev.1+f696938-aarch64-unknown-linux-musl.tar.gz",
+          "size": 37696836,
+          "content_type": "application/gzip",
+          "created_at": "2026-11-18T13:28:24Z",
+          "updated_at": "2026-11-18T13:28:27Z",
+          "download_count": 1,
+          "first_seen": "2026-11-18T14:32:05Z",
           "status": "active"
         }
       ]
