@@ -26,7 +26,7 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★28, Go)<br>
-  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 179 / 2.6k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 182 / 2.6k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
@@ -60,7 +60,7 @@
 
   Kagi Search MCP (and Zed extension)
 
-- **[clipferry](https://github.com/jmylchreest/clipferry)** (★4, Rust)<br>
+- **[clipferry](https://github.com/jmylchreest/clipferry)** (★5, Rust)<br>
   <sub>[release: `v0.0.3`](https://github.com/jmylchreest/clipferry/releases/latest) · [downloads: 0 / 16](https://github.com/jmylchreest/clipferry/releases) · [issues: 1](https://github.com/jmylchreest/clipferry/issues) · [PRs: 6](https://github.com/jmylchreest/clipferry/pulls)</sub>
 
   Lazy X11 ⇄ Wayland clipboard bridge for xwayland-satellite setups (niri and friends)
