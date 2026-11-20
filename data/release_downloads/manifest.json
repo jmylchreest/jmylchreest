@@ -2,25 +2,25 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-11-20T13:35:39Z",
+    "last_updated": "2026-11-20T21:31:56Z",
     "total_repos": 23,
     "absent_repos": 0,
-    "total_releases": 603,
-    "total_assets": 26728,
+    "total_releases": 605,
+    "total_assets": 26897,
     "active_assets": 10510,
-    "removed_assets": 16218,
-    "total_downloads": 1194665
+    "removed_assets": 16387,
+    "total_downloads": 1195701
   },
   "repos": [
     {
       "name": "aide",
       "status": "active",
-      "releases": 136,
+      "releases": 137,
       "active_assets": 7149,
-      "removed_assets": 8175,
-      "total_downloads": 20117,
-      "latest_release_tag": "v0.2.2",
-      "latest_release_published_at": "2026-11-19T14:55:06Z"
+      "removed_assets": 8333,
+      "total_downloads": 20280,
+      "latest_release_tag": "snapshot",
+      "latest_release_published_at": "2026-11-20T15:28:55Z"
     },
     {
       "name": "awob",
@@ -68,7 +68,7 @@
       "releases": 35,
       "active_assets": 192,
       "removed_assets": 147,
-      "total_downloads": 1800,
+      "total_downloads": 1813,
       "latest_release_tag": "v0.0.15-dev.41",
       "latest_release_published_at": "2026-11-12T13:26:11Z"
     },
@@ -88,7 +88,7 @@
       "releases": 10,
       "active_assets": 62,
       "removed_assets": 0,
-      "total_downloads": 3030,
+      "total_downloads": 3038,
       "latest_release_tag": "v0.0.31",
       "latest_release_published_at": "2026-02-09T23:08:18Z"
     },
@@ -108,7 +108,7 @@
       "releases": 1,
       "active_assets": 8,
       "removed_assets": 0,
-      "total_downloads": 125,
+      "total_downloads": 127,
       "latest_release_tag": "models-all-MiniLM-L6-v2",
       "latest_release_published_at": "2026-08-20T12:54:00Z"
     },
@@ -138,7 +138,7 @@
       "releases": 35,
       "active_assets": 174,
       "removed_assets": 271,
-      "total_downloads": 2705,
+      "total_downloads": 2712,
       "latest_release_tag": "v0.2.1",
       "latest_release_published_at": "2026-11-13T20:57:33Z"
     },
@@ -185,12 +185,12 @@
     {
       "name": "rosec",
       "status": "active",
-      "releases": 80,
+      "releases": 81,
       "active_assets": 304,
-      "removed_assets": 422,
-      "total_downloads": 2140,
+      "removed_assets": 433,
+      "total_downloads": 2151,
       "latest_release_tag": "snapshot",
-      "latest_release_published_at": "2026-11-19T13:44:43Z"
+      "latest_release_published_at": "2026-11-20T15:47:50Z"
     },
     {
       "name": "rurl",
@@ -218,7 +218,7 @@
       "releases": 74,
       "active_assets": 1501,
       "removed_assets": 6735,
-      "total_downloads": 1160928,
+      "total_downloads": 1161756,
       "latest_release_tag": "v0.6.1",
       "latest_release_published_at": "2026-11-17T21:29:04Z"
     },
@@ -228,7 +228,7 @@
       "releases": 29,
       "active_assets": 52,
       "removed_assets": 64,
-      "total_downloads": 185,
+      "total_downloads": 189,
       "latest_release_tag": "v0.0.30-dev.5-97d56d3",
       "latest_release_published_at": "2026-11-11T10:47:25Z"
     },

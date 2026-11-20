@@ -3,13 +3,13 @@
     "owner": "jmylchreest",
     "repo": "refind-btrfs-snapshots",
     "schema_version": 3,
-    "last_updated": "2026-11-20T13:35:39Z",
+    "last_updated": "2026-11-20T21:31:56Z",
     "repo_status": "active",
     "releases": 35,
     "removed_releases": 17,
     "active_assets": 174,
     "removed_assets": 271,
-    "total_downloads": 2705
+    "total_downloads": 2712
   },
   "releases": [
     {
@@ -389,7 +389,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:05Z",
-          "download_count": 189,
+          "download_count": 190,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -400,7 +400,7 @@
           "content_type": "text/x-systemd-unit; charset=utf-8",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:04Z",
-          "download_count": 181,
+          "download_count": 182,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -411,7 +411,7 @@
           "content_type": "text/plain; charset=utf-8",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:04Z",
-          "download_count": 6,
+          "download_count": 7,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -422,7 +422,7 @@
           "content_type": "text/x-dbus-service; charset=utf-8",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:04Z",
-          "download_count": 181,
+          "download_count": 182,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -433,7 +433,7 @@
           "content_type": "application/octet-stream",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:05Z",
-          "download_count": 17,
+          "download_count": 18,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -444,7 +444,7 @@
           "content_type": "application/x-gtar",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:05Z",
-          "download_count": 7,
+          "download_count": 8,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         },
@@ -455,7 +455,7 @@
           "content_type": "application/x-gtar",
           "created_at": "2026-02-15T00:57:04Z",
           "updated_at": "2026-02-15T00:57:05Z",
-          "download_count": 9,
+          "download_count": 10,
           "first_seen": "2026-05-04T15:33:49Z",
           "status": "active"
         }

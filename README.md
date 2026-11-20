@@ -31,17 +31,17 @@
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★24, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 729 / 1.7k](https://github.com/jmylchreest/histui/releases) · [issues: 2](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 731 / 1.8k](https://github.com/jmylchreest/histui/releases) · [issues: 2](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
 - **[tinct](https://github.com/jmylchreest/tinct)** (★21, Go)<br>
-  <sub>[release: `v0.6.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 713 / 1.2M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
+  <sub>[release: `v0.6.1`](https://github.com/jmylchreest/tinct/releases/latest) · [downloads: 815 / 1.2M](https://github.com/jmylchreest/tinct/releases) · [issues: 0](https://github.com/jmylchreest/tinct/issues) · [PRs: 0](https://github.com/jmylchreest/tinct/pulls)</sub>
 
   A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 
 - **[tvarr](https://github.com/jmylchreest/tvarr)** (★19, Go)<br>
-  <sub>[release: `v0.0.29`](https://github.com/jmylchreest/tvarr/releases/latest) · [downloads: 6 / 103](https://github.com/jmylchreest/tvarr/releases) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 3](https://github.com/jmylchreest/tvarr/pulls)</sub>
+  <sub>[release: `v0.0.29`](https://github.com/jmylchreest/tvarr/releases/latest) · [downloads: 6 / 105](https://github.com/jmylchreest/tvarr/releases) · [issues: 0](https://github.com/jmylchreest/tvarr/issues) · [PRs: 3](https://github.com/jmylchreest/tvarr/pulls)</sub>
 
   An IPTV relay with smart profile detection and dynamic repackaging/transcode. Similar to streammaster or threadfin.
 
@@ -74,7 +74,7 @@
 ### Recently Active
 
 - **[lobslaw](https://github.com/jmylchreest/lobslaw)** (★1, Go)<br>
-  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 125 / 125](https://github.com/jmylchreest/lobslaw/releases) · [issues: 29](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 2](https://github.com/jmylchreest/lobslaw/pulls)</sub>
+  <sub>[release: `models-all-MiniLM-L6-v2`](https://github.com/jmylchreest/lobslaw/releases/latest) · [downloads: 127 / 127](https://github.com/jmylchreest/lobslaw/releases) · [issues: 29](https://github.com/jmylchreest/lobslaw/issues) · [PRs: 2](https://github.com/jmylchreest/lobslaw/pulls)</sub>
 
   an aide experiment (and hopefully a very functional, secure, and useful AI assistant!)
 
