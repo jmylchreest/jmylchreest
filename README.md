@@ -8,11 +8,11 @@
   Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
 
 - **[rosec](https://github.com/jmylchreest/rosec)** (★48, Rust)<br>
-  <sub>[release: `v0.0.40`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 119 / 2.1k](https://github.com/jmylchreest/rosec/releases) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 0](https://github.com/jmylchreest/rosec/pulls)</sub>
+  <sub>[release: `v0.0.40`](https://github.com/jmylchreest/rosec/releases/latest) · [downloads: 121 / 2.1k](https://github.com/jmylchreest/rosec/releases) · [issues: 5](https://github.com/jmylchreest/rosec/issues) · [PRs: 1](https://github.com/jmylchreest/rosec/pulls)</sub>
 
   Linux secrets daemon with Secret Service, SSH agent, TOTP, and passkeys. Providers: local vaults, Bitwarden, Proton Pass, KeePassXC, and GNOME Keyring.
 
-- **[awob](https://github.com/jmylchreest/awob)** (★4, Rust)<br>
+- **[awob](https://github.com/jmylchreest/awob)** (★5, Rust)<br>
   <sub>[release: `v0.1.9`](https://github.com/jmylchreest/awob/releases/latest) · [downloads: 69 / 323](https://github.com/jmylchreest/awob/releases) · [issues: 0](https://github.com/jmylchreest/awob/issues) · [PRs: 4](https://github.com/jmylchreest/awob/pulls)</sub>
 
   Another Wayland Overlay Bar — drop-in replacement for wob with richer theming, typed IPC, and an event-source listener ecosystem.
@@ -26,12 +26,12 @@
 ### Notable Projects
 
 - **[refind-btrfs-snapshots](https://github.com/jmylchreest/refind-btrfs-snapshots)** (★27, Go)<br>
-  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 258 / 2.7k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
+  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/refind-btrfs-snapshots/releases/latest) · [downloads: 261 / 2.7k](https://github.com/jmylchreest/refind-btrfs-snapshots/releases) · [issues: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/issues) · [PRs: 0](https://github.com/jmylchreest/refind-btrfs-snapshots/pulls)</sub>
 
   Inspired by refind-btrfs, this version is a single static binary that supports accurate auto-detection of boot options and extends some features that were missing from other similar tools.
 
 - **[histui](https://github.com/jmylchreest/histui)** (★24, Go)<br>
-  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 761 / 1.9k](https://github.com/jmylchreest/histui/releases) · [issues: 2](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
+  <sub>[release: `v0.0.14`](https://github.com/jmylchreest/histui/releases/latest) · [downloads: 764 / 2k](https://github.com/jmylchreest/histui/releases) · [issues: 2](https://github.com/jmylchreest/histui/issues) · [PRs: 1](https://github.com/jmylchreest/histui/pulls)</sub>
 
   A highly themeable GTK4 notification daemon for Wayland with persistent history, TUI browser, and CLI tools
 
@@ -51,7 +51,7 @@
   XEmbed → StatusNotifierItem tray bridge for Wayland: shows legacy X11 & Wine/Proton system-tray icons (Battle.net, etc.) in waybar and other SNI hosts on niri, Hyprland and sway.
 
 - **[keylightd](https://github.com/jmylchreest/keylightd)** (★14, Go)<br>
-  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 89 / 1.7k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 20](https://github.com/jmylchreest/keylightd/pulls)</sub>
+  <sub>[release: `v0.2.1`](https://github.com/jmylchreest/keylightd/releases/latest) · [downloads: 89 / 1.8k](https://github.com/jmylchreest/keylightd/releases) · [issues: 1](https://github.com/jmylchreest/keylightd/issues) · [PRs: 20](https://github.com/jmylchreest/keylightd/pulls)</sub>
 
   A go based daemon to group and manage key lights, provides a client library, a RESTful API, a CLI and a gnome-extension.
 
