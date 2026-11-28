@@ -2,14 +2,14 @@
   "_meta": {
     "owner": "jmylchreest",
     "schema_version": 3,
-    "last_updated": "2026-11-27T22:19:58Z",
+    "last_updated": "2026-11-28T04:14:15Z",
     "total_repos": 23,
     "absent_repos": 0,
-    "total_releases": 610,
-    "total_assets": 27113,
-    "active_assets": 10521,
+    "total_releases": 611,
+    "total_assets": 27131,
+    "active_assets": 10539,
     "removed_assets": 16592,
-    "total_downloads": 1206436
+    "total_downloads": 1206597
   },
   "repos": [
     {
@@ -18,7 +18,7 @@
       "releases": 138,
       "active_assets": 7149,
       "removed_assets": 8491,
-      "total_downloads": 20398,
+      "total_downloads": 20399,
       "latest_release_tag": "snapshot",
       "latest_release_published_at": "2026-11-27T15:31:48Z"
     },
@@ -68,7 +68,7 @@
       "releases": 35,
       "active_assets": 192,
       "removed_assets": 147,
-      "total_downloads": 2018,
+      "total_downloads": 2025,
       "latest_release_tag": "v0.0.15-dev.41",
       "latest_release_published_at": "2026-11-12T13:26:11Z"
     },
@@ -95,12 +95,12 @@
     {
       "name": "keylightd",
       "status": "active",
-      "releases": 59,
-      "active_assets": 562,
+      "releases": 60,
+      "active_assets": 580,
       "removed_assets": 162,
-      "total_downloads": 2869,
-      "latest_release_tag": "v0.2.2-dev.29",
-      "latest_release_published_at": "2026-11-27T15:18:07Z"
+      "total_downloads": 3020,
+      "latest_release_tag": "v0.2.2",
+      "latest_release_published_at": "2026-11-28T02:52:05Z"
     },
     {
       "name": "lobslaw",
@@ -188,7 +188,7 @@
       "releases": 83,
       "active_assets": 315,
       "removed_assets": 444,
-      "total_downloads": 2226,
+      "total_downloads": 2227,
       "latest_release_tag": "v0.0.41",
       "latest_release_published_at": "2026-11-27T14:06:08Z"
     },
@@ -218,7 +218,7 @@
       "releases": 74,
       "active_assets": 1501,
       "removed_assets": 6735,
-      "total_downloads": 1171685,
+      "total_downloads": 1171686,
       "latest_release_tag": "v0.6.1",
       "latest_release_published_at": "2026-11-17T21:29:04Z"
     },
